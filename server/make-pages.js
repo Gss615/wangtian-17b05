@@ -5,7 +5,7 @@ const util = require('util');
 const readdir = util.promisify(fs.readdir);
 
 
-const templates = (title,dec,img,order,category,template)=>{
+const templates = (title,dec,img,order,category,template,table)=>{
   return `---
 id: '1'
 price: '49.40'
@@ -16,6 +16,8 @@ default_original_image: images/plant1-lg.jpg
 featured: true
 order: ${order}
 category: ${category}
+other: 
+  table: ${JSON.stringify(table)}
 seo:
   title: Nulla suscipit
   description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit'
@@ -70,7 +72,7 @@ readFile('./indetail.json').then((res,err)=>{
     if(err) return console.log(err)
     console.log(res)
     res.map((list,i)=>{
-        const content = templates(list.title,list.dec,'images/plant1-lg.jpg',i,'src/pages/category/bigplants.md','product')
+        const content = templates(list.title,list.dec,'images/plant1-lg.jpg',i,'src/pages/category/bigplants.md','product',list.table)
         console.log(i)
         writeMD(list.title,content)
     })

@@ -1,5 +1,5 @@
 import React from 'react';
-import _ from 'lodash';
+import _, { map } from 'lodash';
 import {graphql} from 'gatsby';
 
 import {Layout} from '../components/index';
@@ -22,6 +22,8 @@ export default class Product extends React.Component {
     render() {
         let primary_bg_img_opacity_pct = _.get(this.props, 'pageContext.site.siteMetadata.bg_image_primary_opacity', null) || 100;
         let primary_bg_img_opacity = primary_bg_img_opacity_pct * 0.01;
+        let singleTable = _.get(this.props,`pageContext.frontmatter.other.table.single`,null);
+        console.log(singleTable,_.get(this.props, 'pageContext.frontmatter', null))
         return (
             <Layout {...this.props}>
                 <main className="content">
@@ -69,20 +71,23 @@ export default class Product extends React.Component {
                     // 参数
                     <section className='content__row table'>
                         <h3>技术规格</h3>
-                        <table>
-                            <thead>
-                                <tr>
-                                    <td>参数1</td>
-                                    <td>参数2</td>
-                                </tr>
-                            </thead>
-                            <tbody>
-                                <tr>
-                                    <td>无效参数</td>
-                                    <td>无效参数</td>
-                                </tr>
-                            </tbody>
-                        </table>
+                        {singleTable ?
+                            <table>
+                                <thead>
+                                    <tr>
+                                        {_.head(singleTable).map(item => <td>{item}</td>)}
+                                    </tr>
+                                </thead>
+                                <tbody>
+                                    {_.slice(singleTable, 1).map(item => {
+                                        return (<tr>
+                                            {item.map(list => <td>{list}</td>)}
+                                        </tr>)
+                                    })}
+
+                                </tbody>
+                            </table>
+                            : (2)}
 
                     </section>
                     {_.get(this.props, 'pageContext.frontmatter.category', null) && ((() => {
