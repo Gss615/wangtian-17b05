@@ -66,6 +66,25 @@ export default class Product extends React.Component {
                             <BuyButton {...this.props} product_page={this.props.pageContext} />
                         </div>
                     </section>
+                    // 参数
+                    <section className='content__row table'>
+                        <h3>技术规格</h3>
+                        <table>
+                            <thead>
+                                <tr>
+                                    <td>参数1</td>
+                                    <td>参数2</td>
+                                </tr>
+                            </thead>
+                            <tbody>
+                                <tr>
+                                    <td>无效参数</td>
+                                    <td>无效参数</td>
+                                </tr>
+                            </tbody>
+                        </table>
+
+                    </section>
                     {_.get(this.props, 'pageContext.frontmatter.category', null) && ((() => {
                         let product_pages = _.filter(_.orderBy(getPages(this.props.pageContext.pages, '/products'), 'frontmatter.order'), item => _.get(item, 'frontmatter.id') != _.get(this.props, 'pageContext.frontmatter.id', null));
                         let category_page = getPageByFilePath(this.props.pageContext.pages, _.get(this.props, 'pageContext.frontmatter.category', null));
