@@ -5,90 +5,340 @@
         "table": {
             "single": [
                 [
-                    "项目",
-                    "S12704",
-                    "S12708",
-                    "S12712"
+                    {
+                        "row": null,
+                        "col": null,
+                        "text": "项目",
+                        "t": "123"
+                    },
+                    {
+                        "row": null,
+                        "col": null,
+                        "text": "S12704",
+                        "t": "123"
+                    },
+                    {
+                        "row": null,
+                        "col": null,
+                        "text": "S12708",
+                        "t": "123"
+                    },
+                    {
+                        "row": null,
+                        "col": null,
+                        "text": "S12712",
+                        "t": "123"
+                    }
                 ],
                 [
-                    "交换容量",
-                    "28.8/102.4Tbps",
-                    "52.48/204.8Tbps",
-                    "78.08/307.2Tbps"
+                    {
+                        "row": null,
+                        "col": null,
+                        "text": "交换容量",
+                        "t": "123"
+                    },
+                    {
+                        "row": null,
+                        "col": null,
+                        "text": "28.8/102.4Tbps",
+                        "t": "123"
+                    },
+                    {
+                        "row": null,
+                        "col": null,
+                        "text": "52.48/204.8Tbps",
+                        "t": "123"
+                    },
+                    {
+                        "row": null,
+                        "col": null,
+                        "text": "78.08/307.2Tbps",
+                        "t": "123"
+                    }
                 ],
                 [
-                    "包转发率",
-                    "3600/24000Mpps",
-                    "7200/48000Mpps",
-                    "10080/86400Mpps"
+                    {
+                        "row": null,
+                        "col": null,
+                        "text": "包转发率",
+                        "t": "123"
+                    },
+                    {
+                        "row": null,
+                        "col": null,
+                        "text": "3600/24000Mpps",
+                        "t": "123"
+                    },
+                    {
+                        "row": null,
+                        "col": null,
+                        "text": "7200/48000Mpps",
+                        "t": "123"
+                    },
+                    {
+                        "row": null,
+                        "col": null,
+                        "text": "10080/86400Mpps",
+                        "t": "123"
+                    }
                 ],
                 [
-                    "主控板槽位数",
-                    "2",
-                    "2",
-                    "2"
+                    {
+                        "row": null,
+                        "col": null,
+                        "text": "主控板槽位数",
+                        "t": "123"
+                    },
+                    {
+                        "row": null,
+                        "col": null,
+                        "text": "2",
+                        "t": "123"
+                    },
+                    {
+                        "row": null,
+                        "col": null,
+                        "text": "2",
+                        "t": "123"
+                    },
+                    {
+                        "row": null,
+                        "col": null,
+                        "text": "2",
+                        "t": "123"
+                    }
                 ],
                 [
-                    "交换网板槽位数",
-                    "2",
-                    "4",
-                    "4"
+                    {
+                        "row": null,
+                        "col": null,
+                        "text": "交换网板槽位数",
+                        "t": "123"
+                    },
+                    {
+                        "row": null,
+                        "col": null,
+                        "text": "2",
+                        "t": "123"
+                    },
+                    {
+                        "row": null,
+                        "col": null,
+                        "text": "4",
+                        "t": "123"
+                    },
+                    {
+                        "row": null,
+                        "col": null,
+                        "text": "4",
+                        "t": "123"
+                    }
                 ],
                 [
-                    "业务板槽位数",
-                    "4",
-                    "8",
-                    "12"
+                    {
+                        "row": null,
+                        "col": null,
+                        "text": "业务板槽位数",
+                        "t": "123"
+                    },
+                    {
+                        "row": null,
+                        "col": null,
+                        "text": "4",
+                        "t": "123"
+                    },
+                    {
+                        "row": null,
+                        "col": null,
+                        "text": "8",
+                        "t": "123"
+                    },
+                    {
+                        "row": null,
+                        "col": null,
+                        "text": "12",
+                        "t": "123"
+                    }
                 ],
                 [
-                    "风扇框",
-                    "2",
-                    "4",
-                    "5"
+                    {
+                        "row": null,
+                        "col": null,
+                        "text": "风扇框",
+                        "t": "123"
+                    },
+                    {
+                        "row": null,
+                        "col": null,
+                        "text": "2",
+                        "t": "123"
+                    },
+                    {
+                        "row": null,
+                        "col": null,
+                        "text": "4",
+                        "t": "123"
+                    },
+                    {
+                        "row": null,
+                        "col": null,
+                        "text": "5",
+                        "t": "123"
+                    }
                 ],
                 [
-                    "架构",
-                    "CLOS架构"
+                    {
+                        "row": null,
+                        "col": null,
+                        "text": "架构",
+                        "t": "123"
+                    },
+                    {
+                        "row": null,
+                        "col": "3",
+                        "text": "CLOS架构",
+                        "t": "123"
+                    }
                 ],
                 [
-                    "冗余设计",
-                    "主控、交换网板、电源、风扇框（前后及左后风道）"
+                    {
+                        "row": null,
+                        "col": null,
+                        "text": "冗余设计",
+                        "t": "123"
+                    },
+                    {
+                        "row": null,
+                        "col": "3",
+                        "text": "主控、交换网板、电源、风扇框（前后及左后风道）",
+                        "t": "123"
+                    }
                 ],
                 [
-                    "虚拟化",
-                    "支持CSS2交换网硬件集群，集群主控1+N备份，1.92Tbps集群带宽，4μs跨框时延\n支持1：N的虚拟化能力"
+                    {
+                        "row": null,
+                        "col": null,
+                        "text": "虚拟化",
+                        "t": "123"
+                    },
+                    {
+                        "row": null,
+                        "col": "3",
+                        "text": "支持CSS2交换网硬件集群，集群主控1+N备份，1.92Tbps集群带宽，4μs跨框时延\n支持1：N的虚拟化能力",
+                        "t": "123"
+                    }
                 ],
                 [
-                    "无线管理",
-                    "支持随板AC，每单板最大可管理4K AP，整机管理10K AP\n支持AP接入控制、AP域管理和AP配置模板管理\n支持射频模板管理、统一静态配置和集中动态管理\n支持WLAN基本业务、QoS、安全和用户管理"
+                    {
+                        "row": null,
+                        "col": null,
+                        "text": "无线管理",
+                        "t": "123"
+                    },
+                    {
+                        "row": null,
+                        "col": "3",
+                        "text": "支持随板AC，每单板最大可管理4K AP，整机管理10K AP\n支持AP接入控制、AP域管理和AP配置模板管理\n支持射频模板管理、统一静态配置和集中动态管理\n支持WLAN基本业务、QoS、安全和用户管理",
+                        "t": "123"
+                    }
                 ],
                 [
-                    "用户管理",
-                    "支持有线无线统一用户管理，每单板管理16K 用户\n支持PPPoE、802.1X、MAC、Portal认证方式\n支持基于流量、时长和DAA（按照目的地址）计费方式\n支持分组分域分时授权方式"
+                    {
+                        "row": null,
+                        "col": null,
+                        "text": "用户管理",
+                        "t": "123"
+                    },
+                    {
+                        "row": null,
+                        "col": "3",
+                        "text": "支持有线无线统一用户管理，每单板管理16K 用户\n支持PPPoE、802.1X、MAC、Portal认证方式\n支持基于流量、时长和DAA（按照目的地址）计费方式\n支持分组分域分时授权方式",
+                        "t": "123"
+                    }
                 ],
                 [
-                    "iPCA质量感知",
-                    "支持直接对业务报文标记以获得丢包数量和丢包率的实时统计\n支持二三层网络网络级和设备级丢包数量和丢包率统计"
+                    {
+                        "row": null,
+                        "col": null,
+                        "text": "iPCA质量感知",
+                        "t": "123"
+                    },
+                    {
+                        "row": null,
+                        "col": "3",
+                        "text": "支持直接对业务报文标记以获得丢包数量和丢包率的实时统计\n支持二三层网络网络级和设备级丢包数量和丢包率统计",
+                        "t": "123"
+                    }
                 ],
                 [
-                    "SVF2.0简化运维",
-                    "支持将多达10K个Client节点（接入交换机与AP）虚拟为一台设备管理\n支持2层AS架构\n支持与第三方厂商混合组网管理"
+                    {
+                        "row": null,
+                        "col": null,
+                        "text": "SVF2.0简化运维",
+                        "t": "123"
+                    },
+                    {
+                        "row": null,
+                        "col": "3",
+                        "text": "支持将多达10K个Client节点（接入交换机与AP）虚拟为一台设备管理\n支持2层AS架构\n支持与第三方厂商混合组网管理",
+                        "t": "123"
+                    }
                 ],
                 [
-                    "数据中心特性",
-                    "支持TRILL，FCoE（DCB），EVN，nCenter，EVB，SPB，VxLAN等数据中心特性"
+                    {
+                        "row": null,
+                        "col": null,
+                        "text": "数据中心特性",
+                        "t": "123"
+                    },
+                    {
+                        "row": null,
+                        "col": "3",
+                        "text": "支持TRILL，FCoE（DCB），EVN，nCenter，EVB，SPB，VxLAN等数据中心特性",
+                        "t": "123"
+                    }
                 ],
                 [
-                    "Open Flow\n",
-                    "支持多控制器\n支持高达九级流表\n支持高达256K流表\n支持Group table\n支持Meter\n支持Open Flow 1.3标准"
+                    {
+                        "row": null,
+                        "col": null,
+                        "text": "Open Flow\n",
+                        "t": "123"
+                    },
+                    {
+                        "row": null,
+                        "col": "3",
+                        "text": "支持多控制器\n支持高达九级流表\n支持高达256K流表\n支持Group table\n支持Meter\n支持Open Flow 1.3标准",
+                        "t": "123"
+                    }
                 ],
                 [
-                    "缓存容量",
-                    "支持每端口200ms数据缓存"
+                    {
+                        "row": null,
+                        "col": null,
+                        "text": "缓存容量",
+                        "t": "123"
+                    },
+                    {
+                        "row": null,
+                        "col": "3",
+                        "text": "支持每端口200ms数据缓存",
+                        "t": "123"
+                    }
                 ],
                 [
-                    "互通性",
-                    "VBST基于VLAN生成树协议（和PVST/PVST+/RPVST互通）\nLNP链路类型协商协议（和DTP相似功能）\nVCMP VLAN集中管理协议（和VTP相似功能）\n\n\n\n详细的互联互通认证与报告，请访问这里。"
+                    {
+                        "row": null,
+                        "col": null,
+                        "text": "互通性",
+                        "t": "123"
+                    },
+                    {
+                        "row": null,
+                        "col": "3",
+                        "text": "VBST基于VLAN生成树协议（和PVST/PVST+/RPVST互通）\nLNP链路类型协商协议（和DTP相似功能）\nVCMP VLAN集中管理协议（和VTP相似功能）\n\n\n\n详细的互联互通认证与报告，请访问这里。",
+                        "t": "123"
+                    }
                 ]
             ]
         },
@@ -100,135 +350,570 @@
         "table": {
             "全管理型交换机": [
                 [
-                    "产品型号",
-                    "S1720-10GW-2P-E\nS1720-10GW-PWR-2P-E",
-                    "S1720-10GF-2P\nS1720-10GF-PWR-2P",
-                    "S1720-28GWR-4P-E\nS1720-28GWR-PWR-4P-E\nS1720-28GWR-PWR-4TP-E\nS1720-28GWR-4X-E\nS1720-28GWR-PWR-4X-E\nS1720-52GWR-4P-E\nS1720-52GWR-PWR-4P-E\nS1720-52GWR-4X-E\nS1720-52GWR-PWR-4X-E",
-                    "S1720-28GFR-4P\nS1720-28GFR-PWR-4P\nS1720-52GFR-4P\nS1720-52GFR-PWR-4P",
-                    "S1720X-16XWR-E\nS1720X-32XWR-E"
+                    {
+                        "row": null,
+                        "col": null,
+                        "text": "产品型号",
+                        "t": "123"
+                    },
+                    {
+                        "row": null,
+                        "col": null,
+                        "text": "S1720-10GW-2P-E\nS1720-10GW-PWR-2P-E",
+                        "t": "123"
+                    },
+                    {
+                        "row": null,
+                        "col": null,
+                        "text": "S1720-10GF-2P\nS1720-10GF-PWR-2P",
+                        "t": "123"
+                    },
+                    {
+                        "row": null,
+                        "col": null,
+                        "text": "S1720-28GWR-4P-E\nS1720-28GWR-PWR-4P-E\nS1720-28GWR-PWR-4TP-E\nS1720-28GWR-4X-E\nS1720-28GWR-PWR-4X-E\nS1720-52GWR-4P-E\nS1720-52GWR-PWR-4P-E\nS1720-52GWR-4X-E\nS1720-52GWR-PWR-4X-E",
+                        "t": "123"
+                    },
+                    {
+                        "row": null,
+                        "col": null,
+                        "text": "S1720-28GFR-4P\nS1720-28GFR-PWR-4P\nS1720-52GFR-4P\nS1720-52GFR-PWR-4P",
+                        "t": "123"
+                    },
+                    {
+                        "row": null,
+                        "col": null,
+                        "text": "S1720X-16XWR-E\nS1720X-32XWR-E",
+                        "t": "123"
+                    }
                 ],
                 [
-                    "设备管理",
-                    "支持SNMP\n支持WEB网管（支持HTTPS）\n支持DHCP-client\n支持用户口令保护\n支持一键还原\n支持命令行配置"
+                    {
+                        "row": null,
+                        "col": null,
+                        "text": "设备管理",
+                        "t": "123"
+                    },
+                    {
+                        "row": null,
+                        "col": "5",
+                        "text": "支持SNMP\n支持WEB网管（支持HTTPS）\n支持DHCP-client\n支持用户口令保护\n支持一键还原\n支持命令行配置",
+                        "t": "123"
+                    }
                 ],
                 [
-                    "交换容量",
-                    "68Gbps",
-                    "68Gbps",
-                    "S1720-28GWR-P/TP系列：68Gbps\nS1720-28GWR-X系列：168Gbps\nS1720-52GWR-P系列：336Gbps\nS1720-52GWR-X：336Gbps",
-                    "S1720-28GFR-P系列：68Gbps\nS1720-52GFR-P系列：336Gbps",
-                    "680Gbps"
+                    {
+                        "row": null,
+                        "col": null,
+                        "text": "交换容量",
+                        "t": "123"
+                    },
+                    {
+                        "row": null,
+                        "col": null,
+                        "text": "68Gbps",
+                        "t": "123"
+                    },
+                    {
+                        "row": null,
+                        "col": null,
+                        "text": "68Gbps",
+                        "t": "123"
+                    },
+                    {
+                        "row": null,
+                        "col": null,
+                        "text": "S1720-28GWR-P/TP系列：68Gbps\nS1720-28GWR-X系列：168Gbps\nS1720-52GWR-P系列：336Gbps\nS1720-52GWR-X：336Gbps",
+                        "t": "123"
+                    },
+                    {
+                        "row": null,
+                        "col": null,
+                        "text": "S1720-28GFR-P系列：68Gbps\nS1720-52GFR-P系列：336Gbps",
+                        "t": "123"
+                    },
+                    {
+                        "row": null,
+                        "col": null,
+                        "text": "680Gbps",
+                        "t": "123"
+                    }
                 ],
                 [
-                    "包转发率",
-                    "15Mpps",
-                    "15Mpps",
-                    "S1720-28GWR-P/TP系列：42Mpps\nS1720-28GWR-X系列：96Mpps\nS1720-52GWR-P系列：78Mpps\nS1720-52GWR-X系列：132Mpps",
-                    "S1720-28GFR-P系列：42Mbps\nS1720-52GFR-P系列：78Mbps",
-                    "S1720X-16XWR-E：240Mpps\nS1720X-32XWR-E：252Mpps"
+                    {
+                        "row": null,
+                        "col": null,
+                        "text": "包转发率",
+                        "t": "123"
+                    },
+                    {
+                        "row": null,
+                        "col": null,
+                        "text": "15Mpps",
+                        "t": "123"
+                    },
+                    {
+                        "row": null,
+                        "col": null,
+                        "text": "15Mpps",
+                        "t": "123"
+                    },
+                    {
+                        "row": null,
+                        "col": null,
+                        "text": "S1720-28GWR-P/TP系列：42Mpps\nS1720-28GWR-X系列：96Mpps\nS1720-52GWR-P系列：78Mpps\nS1720-52GWR-X系列：132Mpps",
+                        "t": "123"
+                    },
+                    {
+                        "row": null,
+                        "col": null,
+                        "text": "S1720-28GFR-P系列：42Mbps\nS1720-52GFR-P系列：78Mbps",
+                        "t": "123"
+                    },
+                    {
+                        "row": null,
+                        "col": null,
+                        "text": "S1720X-16XWR-E：240Mpps\nS1720X-32XWR-E：252Mpps",
+                        "t": "123"
+                    }
                 ],
                 [
-                    "固定端口",
-                    "下行：8个10/100/1000Base-T以太网电接口\n上行：2个1000Base-X以太网光接口",
-                    "下行：8个10/100/1000Base-T以太网电接口\n上行：2个1000Base-X以太网光接口",
-                    "S1720-28GWR-P系列\n下行：24个10/100/1000Base-T以太网电接口\n上行：4个1000Base-X以太网光接口\nS1720-28GWR-TP系列\n下行：24个10/100/1000Base-T以太网电接口\n上行：4个1000Base-X以太网光接口，2个复用的10/100/1000Base-T以太网Combo接口\nS1720-28GWR-X系列\n下行：24个10/100/1000Base-T以太网电接口\n上行：4个10GBase-X以太网光接口\nS1720-52GWR-P系列\n下行：48个10/100/1000Base-T以太网电接口\n上行：4个1000Base-X以太网光接口\nS1720-52GWR-X系列\n下行：48个10/100/1000Base-T以太网电接口\n上行：4个10GBase-X以太网光接口",
-                    "S1720-28GFR-P系列\n下行：24个10/100/1000Base-T以太网电接口\n上行：4个1000Base-X以太网光接口\nS1720-52GFR-P系列\n下行：48个10/100/1000Base-T以太网电接口\n上行：4个1000Base-X以太网光接口",
-                    "S1720X-16XWR-E：16个10GBase-X以太网光接口\nS1720X-32XWR-E：32个10GBase-X以太网光接口\n注：上下行接口共用"
+                    {
+                        "row": null,
+                        "col": null,
+                        "text": "固定端口",
+                        "t": "123"
+                    },
+                    {
+                        "row": null,
+                        "col": null,
+                        "text": "下行：8个10/100/1000Base-T以太网电接口\n上行：2个1000Base-X以太网光接口",
+                        "t": "123"
+                    },
+                    {
+                        "row": null,
+                        "col": null,
+                        "text": "下行：8个10/100/1000Base-T以太网电接口\n上行：2个1000Base-X以太网光接口",
+                        "t": "123"
+                    },
+                    {
+                        "row": null,
+                        "col": null,
+                        "text": "S1720-28GWR-P系列\n下行：24个10/100/1000Base-T以太网电接口\n上行：4个1000Base-X以太网光接口\nS1720-28GWR-TP系列\n下行：24个10/100/1000Base-T以太网电接口\n上行：4个1000Base-X以太网光接口，2个复用的10/100/1000Base-T以太网Combo接口\nS1720-28GWR-X系列\n下行：24个10/100/1000Base-T以太网电接口\n上行：4个10GBase-X以太网光接口\nS1720-52GWR-P系列\n下行：48个10/100/1000Base-T以太网电接口\n上行：4个1000Base-X以太网光接口\nS1720-52GWR-X系列\n下行：48个10/100/1000Base-T以太网电接口\n上行：4个10GBase-X以太网光接口",
+                        "t": "123"
+                    },
+                    {
+                        "row": null,
+                        "col": null,
+                        "text": "S1720-28GFR-P系列\n下行：24个10/100/1000Base-T以太网电接口\n上行：4个1000Base-X以太网光接口\nS1720-52GFR-P系列\n下行：48个10/100/1000Base-T以太网电接口\n上行：4个1000Base-X以太网光接口",
+                        "t": "123"
+                    },
+                    {
+                        "row": null,
+                        "col": null,
+                        "text": "S1720X-16XWR-E：16个10GBase-X以太网光接口\nS1720X-32XWR-E：32个10GBase-X以太网光接口\n注：上下行接口共用",
+                        "t": "123"
+                    }
                 ],
                 [
-                    "VLAN特性",
-                    "支持4K VLAN\n支持Access端口\n支持Trunk端口\n支持Hybrid端口\n支持管理VLAN\n支持Voice VLAN"
+                    {
+                        "row": null,
+                        "col": null,
+                        "text": "VLAN特性",
+                        "t": "123"
+                    },
+                    {
+                        "row": null,
+                        "col": "5",
+                        "text": "支持4K VLAN\n支持Access端口\n支持Trunk端口\n支持Hybrid端口\n支持管理VLAN\n支持Voice VLAN",
+                        "t": "123"
+                    }
                 ],
                 [
-                    "IP路由",
-                    "支持IPv4、IPv6静态路由\n支持RIP/RIPng/OSPF动态路由\n支持VRRP"
+                    {
+                        "row": null,
+                        "col": null,
+                        "text": "IP路由",
+                        "t": "123"
+                    },
+                    {
+                        "row": null,
+                        "col": "5",
+                        "text": "支持IPv4、IPv6静态路由\n支持RIP/RIPng/OSPF动态路由\n支持VRRP",
+                        "t": "123"
+                    }
                 ],
                 [
-                    "设备维护",
-                    "支持RMON（Remote Network Monitoring）\n支持Syslog（系统日志）\n支持Ping检测/支持Traceroute\n支持VCT(Virtual Cable Test)\n支持链路层发现协议LLDP（Link Layer Discovery Protocol）\n支持auto-config"
+                    {
+                        "row": null,
+                        "col": null,
+                        "text": "设备维护",
+                        "t": "123"
+                    },
+                    {
+                        "row": null,
+                        "col": "5",
+                        "text": "支持RMON（Remote Network Monitoring）\n支持Syslog（系统日志）\n支持Ping检测/支持Traceroute\n支持VCT(Virtual Cable Test)\n支持链路层发现协议LLDP（Link Layer Discovery Protocol）\n支持auto-config",
+                        "t": "123"
+                    }
                 ]
             ],
             "Web管理型交换机": [
                 [
-                    "产品型号",
-                    "S1720-10GW-2P\n            S1720-10GW-PWR-2P",
-                    "S1720-28GWR-4P\n            S1720-28GWR-PWR-4P\n            S1720-28GWR-PWR-4TP\n            S1720-28GWR-4X\n            S1720-28GWR-PWR-4X\n            S1728GWR-4P",
-                    "S1720-52GWR-4P\n            S1720-52GWR-PWR-4P\n            S1720-52GWR-4X\n            S1720-52GWR-PWR-4X",
-                    "S1720X-16XWR",
-                    "S1720X-32XWR"
+                    {
+                        "row": null,
+                        "col": null,
+                        "text": "产品型号",
+                        "t": "123"
+                    },
+                    {
+                        "row": null,
+                        "col": null,
+                        "text": "S1720-10GW-2P\n            S1720-10GW-PWR-2P",
+                        "t": "123"
+                    },
+                    {
+                        "row": null,
+                        "col": null,
+                        "text": "S1720-28GWR-4P\n            S1720-28GWR-PWR-4P\n            S1720-28GWR-PWR-4TP\n            S1720-28GWR-4X\n            S1720-28GWR-PWR-4X\n            S1728GWR-4P",
+                        "t": "123"
+                    },
+                    {
+                        "row": null,
+                        "col": null,
+                        "text": "S1720-52GWR-4P\n            S1720-52GWR-PWR-4P\n            S1720-52GWR-4X\n            S1720-52GWR-PWR-4X",
+                        "t": "123"
+                    },
+                    {
+                        "row": null,
+                        "col": null,
+                        "text": "S1720X-16XWR",
+                        "t": "123"
+                    },
+                    {
+                        "row": null,
+                        "col": null,
+                        "text": "S1720X-32XWR",
+                        "t": "123"
+                    }
                 ],
                 [
-                    "交换容量",
-                    "68Gbps",
-                    "S1720-28GWR-P/TP系列：68Gbps\n            S1720-28GWR-X系列：168Gbps\n            S1728GWR-4P：56Gbps",
-                    "336Gbps",
-                    "680Gbps",
-                    "680Gbps"
+                    {
+                        "row": null,
+                        "col": null,
+                        "text": "交换容量",
+                        "t": "123"
+                    },
+                    {
+                        "row": null,
+                        "col": null,
+                        "text": "68Gbps",
+                        "t": "123"
+                    },
+                    {
+                        "row": null,
+                        "col": null,
+                        "text": "S1720-28GWR-P/TP系列：68Gbps\n            S1720-28GWR-X系列：168Gbps\n            S1728GWR-4P：56Gbps",
+                        "t": "123"
+                    },
+                    {
+                        "row": null,
+                        "col": null,
+                        "text": "336Gbps",
+                        "t": "123"
+                    },
+                    {
+                        "row": null,
+                        "col": null,
+                        "text": "680Gbps",
+                        "t": "123"
+                    },
+                    {
+                        "row": null,
+                        "col": null,
+                        "text": "680Gbps",
+                        "t": "123"
+                    }
                 ],
                 [
-                    "包转发率",
-                    "15Mpps",
-                    "S1720-28GWR-P/TP系列：42Mpps\n            S1720-28GWR-X系列：96Mpps\n            S1728GWR-4P：42Mpps",
-                    "S1720-52GWR-P系列：78 Mpps\n            S1720-52GWR-X系列：132 Mpps",
-                    "240Mpps",
-                    "252Mpps"
+                    {
+                        "row": null,
+                        "col": null,
+                        "text": "包转发率",
+                        "t": "123"
+                    },
+                    {
+                        "row": null,
+                        "col": null,
+                        "text": "15Mpps",
+                        "t": "123"
+                    },
+                    {
+                        "row": null,
+                        "col": null,
+                        "text": "S1720-28GWR-P/TP系列：42Mpps\n            S1720-28GWR-X系列：96Mpps\n            S1728GWR-4P：42Mpps",
+                        "t": "123"
+                    },
+                    {
+                        "row": null,
+                        "col": null,
+                        "text": "S1720-52GWR-P系列：78 Mpps\n            S1720-52GWR-X系列：132 Mpps",
+                        "t": "123"
+                    },
+                    {
+                        "row": null,
+                        "col": null,
+                        "text": "240Mpps",
+                        "t": "123"
+                    },
+                    {
+                        "row": null,
+                        "col": null,
+                        "text": "252Mpps",
+                        "t": "123"
+                    }
                 ],
                 [
-                    "固定端口",
-                    "下行：8个10/100/1000Base-T以太网电接口\n            上行：2个1000Base-X以太网光接口",
-                    "S1720-28GWR-P系列\n            下行：24个10/100/1000Base-T以太网电接口\n            上行：4个1000Base-X以太网光接口\n            S1720-28GWR-TP系列\n            下行：24个10/100/1000Base-T以太网电接口\n            上行：4个1000Base-X以太网光接口，2个复用的10/100/1000Base-T以太网Combo接口\n            S1720-28GWR-X系列\n            下行：24个10/100/1000Base-T以太网电接口\n            上行：4个10GBase-X以太网光接口\n            S1728GWR-4P\n            下行：24个10/100/1000Base-T以太网电接口\n            上行：4个1000Base-X以太网光接口",
-                    "S1720-52GWR-P系列\n            下行：48个10/100/1000Base-T以太网端口\n            上行：4个千兆SFP\n            S1720-52GWR-X系列\n            下行：48个10/100/1000Base-T以太网端口\n            上行：4个10GBase-X以太网光接口",
-                    "16个10GBase-X以太网光接口\n            注：上下行接口共用",
-                    "32个10GBase-X以太网光接口\n            注：上下行接口共用"
+                    {
+                        "row": null,
+                        "col": null,
+                        "text": "固定端口",
+                        "t": "123"
+                    },
+                    {
+                        "row": null,
+                        "col": null,
+                        "text": "下行：8个10/100/1000Base-T以太网电接口\n            上行：2个1000Base-X以太网光接口",
+                        "t": "123"
+                    },
+                    {
+                        "row": null,
+                        "col": null,
+                        "text": "S1720-28GWR-P系列\n            下行：24个10/100/1000Base-T以太网电接口\n            上行：4个1000Base-X以太网光接口\n            S1720-28GWR-TP系列\n            下行：24个10/100/1000Base-T以太网电接口\n            上行：4个1000Base-X以太网光接口，2个复用的10/100/1000Base-T以太网Combo接口\n            S1720-28GWR-X系列\n            下行：24个10/100/1000Base-T以太网电接口\n            上行：4个10GBase-X以太网光接口\n            S1728GWR-4P\n            下行：24个10/100/1000Base-T以太网电接口\n            上行：4个1000Base-X以太网光接口",
+                        "t": "123"
+                    },
+                    {
+                        "row": null,
+                        "col": null,
+                        "text": "S1720-52GWR-P系列\n            下行：48个10/100/1000Base-T以太网端口\n            上行：4个千兆SFP\n            S1720-52GWR-X系列\n            下行：48个10/100/1000Base-T以太网端口\n            上行：4个10GBase-X以太网光接口",
+                        "t": "123"
+                    },
+                    {
+                        "row": null,
+                        "col": null,
+                        "text": "16个10GBase-X以太网光接口\n            注：上下行接口共用",
+                        "t": "123"
+                    },
+                    {
+                        "row": null,
+                        "col": null,
+                        "text": "32个10GBase-X以太网光接口\n            注：上下行接口共用",
+                        "t": "123"
+                    }
                 ],
                 [
-                    "VLAN特性",
-                    "支持4K VLAN（S1728GWR-4P：256）\n            支持Access端口\n            支持Trunk端口\n            支持Hybrid端口\n            支持管理VLAN\n            支持Voice VLAN"
+                    {
+                        "row": null,
+                        "col": null,
+                        "text": "VLAN特性",
+                        "t": "123"
+                    },
+                    {
+                        "row": null,
+                        "col": "5",
+                        "text": "支持4K VLAN（S1728GWR-4P：256）\n            支持Access端口\n            支持Trunk端口\n            支持Hybrid端口\n            支持管理VLAN\n            支持Voice VLAN",
+                        "t": "123"
+                    }
                 ],
                 [
-                    "IP路由",
-                    "支持IPv4、IPv6静态路由（S1728GWR-4P除外）"
+                    {
+                        "row": null,
+                        "col": null,
+                        "text": "IP路由",
+                        "t": "123"
+                    },
+                    {
+                        "row": null,
+                        "col": "5",
+                        "text": "支持IPv4、IPv6静态路由（S1728GWR-4P除外）",
+                        "t": "123"
+                    }
                 ],
                 [
-                    "设备维护",
-                    "支持Syslog（系统日志）\n            支持Ping检测\n            支持VCT(Virtual Cable Test)\n            支持链路层发现协议LLDP（Link Layer\n            Discovery Protocol）"
+                    {
+                        "row": null,
+                        "col": null,
+                        "text": "设备维护",
+                        "t": "123"
+                    },
+                    {
+                        "row": null,
+                        "col": "5",
+                        "text": "支持Syslog（系统日志）\n            支持Ping检测\n            支持VCT(Virtual Cable Test)\n            支持链路层发现协议LLDP（Link Layer\n            Discovery Protocol）",
+                        "t": "123"
+                    }
                 ]
             ],
             "无管理型交换机": [
                 [
-                    "产品型号",
-                    "S1700-8-AC\n            S1700-16R\n            S1700-24R\n            S1700-24-AC",
-                    "S1700-26R-2T\n            S1700-52R-2T2P-AC",
-                    "S1700-8G-AC\n            S1700-16G\n            S1724G-AC\n            S1700-24GR",
-                    "S1700-28GR-4X\n            S1700-52GR-4X"
+                    {
+                        "row": null,
+                        "col": null,
+                        "text": "产品型号",
+                        "t": "123"
+                    },
+                    {
+                        "row": null,
+                        "col": null,
+                        "text": "S1700-8-AC\n            S1700-16R\n            S1700-24R\n            S1700-24-AC",
+                        "t": "123"
+                    },
+                    {
+                        "row": null,
+                        "col": null,
+                        "text": "S1700-26R-2T\n            S1700-52R-2T2P-AC",
+                        "t": "123"
+                    },
+                    {
+                        "row": null,
+                        "col": null,
+                        "text": "S1700-8G-AC\n            S1700-16G\n            S1724G-AC\n            S1700-24GR",
+                        "t": "123"
+                    },
+                    {
+                        "row": null,
+                        "col": null,
+                        "text": "S1700-28GR-4X\n            S1700-52GR-4X",
+                        "t": "123"
+                    }
                 ],
                 [
-                    "交换容量",
-                    "S1700-8-AC：1.6Gbps\n            S1700-16R：3.2Gbps\n            S1700-24R：4.8Gbps\n            S1700-24-AC：4.8Gbps",
-                    "S1700-26R-2T：8.8Gbps\n            S1700-52R-2T2P-AC：17.6Gbps",
-                    "S1700-8G-AC：16Gbps\n            S1700-16G：32Gbps\n            S1724G-AC：48Gbps\n            S1700-24GR：48Gbps",
-                    "S1700-28GR-4X：168Gbps\n            S1700-52GR-4X：336Gbps"
+                    {
+                        "row": null,
+                        "col": null,
+                        "text": "交换容量",
+                        "t": "123"
+                    },
+                    {
+                        "row": null,
+                        "col": null,
+                        "text": "S1700-8-AC：1.6Gbps\n            S1700-16R：3.2Gbps\n            S1700-24R：4.8Gbps\n            S1700-24-AC：4.8Gbps",
+                        "t": "123"
+                    },
+                    {
+                        "row": null,
+                        "col": null,
+                        "text": "S1700-26R-2T：8.8Gbps\n            S1700-52R-2T2P-AC：17.6Gbps",
+                        "t": "123"
+                    },
+                    {
+                        "row": null,
+                        "col": null,
+                        "text": "S1700-8G-AC：16Gbps\n            S1700-16G：32Gbps\n            S1724G-AC：48Gbps\n            S1700-24GR：48Gbps",
+                        "t": "123"
+                    },
+                    {
+                        "row": null,
+                        "col": null,
+                        "text": "S1700-28GR-4X：168Gbps\n            S1700-52GR-4X：336Gbps",
+                        "t": "123"
+                    }
                 ],
                 [
-                    "包转发率",
-                    "S1700-8-AC：1.2Mpps\n            S1700-16R：2.4Mpps\n            S1700-24R：3.6Mpps\n            S1700-24-AC：3.6Mpps",
-                    "S1700-26R-2T：6.6Mpps\n            S1700-52R-2T2P-AC：13.2Mpps",
-                    "S1700-8G-AC：12Mpps\n            S1700-16G：24Mpps\n            S1724G-AC：36Mpps\n            S1700-24GR：36Mpps",
-                    "S1700-28GR-4X：96Mpps\n            S1700-52GR-4X：132Mpps"
+                    {
+                        "row": null,
+                        "col": null,
+                        "text": "包转发率",
+                        "t": "123"
+                    },
+                    {
+                        "row": null,
+                        "col": null,
+                        "text": "S1700-8-AC：1.2Mpps\n            S1700-16R：2.4Mpps\n            S1700-24R：3.6Mpps\n            S1700-24-AC：3.6Mpps",
+                        "t": "123"
+                    },
+                    {
+                        "row": null,
+                        "col": null,
+                        "text": "S1700-26R-2T：6.6Mpps\n            S1700-52R-2T2P-AC：13.2Mpps",
+                        "t": "123"
+                    },
+                    {
+                        "row": null,
+                        "col": null,
+                        "text": "S1700-8G-AC：12Mpps\n            S1700-16G：24Mpps\n            S1724G-AC：36Mpps\n            S1700-24GR：36Mpps",
+                        "t": "123"
+                    },
+                    {
+                        "row": null,
+                        "col": null,
+                        "text": "S1700-28GR-4X：96Mpps\n            S1700-52GR-4X：132Mpps",
+                        "t": "123"
+                    }
                 ],
                 [
-                    "端口类型",
-                    "全百兆",
-                    "百兆接入千兆上行",
-                    "全千兆",
-                    "千兆接入万兆上行"
+                    {
+                        "row": null,
+                        "col": null,
+                        "text": "端口类型",
+                        "t": "123"
+                    },
+                    {
+                        "row": null,
+                        "col": null,
+                        "text": "全百兆",
+                        "t": "123"
+                    },
+                    {
+                        "row": null,
+                        "col": null,
+                        "text": "百兆接入千兆上行",
+                        "t": "123"
+                    },
+                    {
+                        "row": null,
+                        "col": null,
+                        "text": "全千兆",
+                        "t": "123"
+                    },
+                    {
+                        "row": null,
+                        "col": null,
+                        "text": "千兆接入万兆上行",
+                        "t": "123"
+                    }
                 ],
                 [
-                    "固定端口",
-                    "S1700-8-AC：8个10/100Base-T以太网电接口\n            S1700-16R：16个10/100Base-T以太网电接口\n            S1700-24R：24个10/100Base-T以太网电接口\n            S1700-24-AC：24个10/100Base-T以太网电接口\n            注：上下行接口共用",
-                    "S1700-26R-2T\n            下行：24个10/100Base-T以太网电接口\n            上行：2个10/100/1000Base-T以太网电接口\n            S1700-52R-2T2P-AC\n            下行：48个10/100Base-T以太网电接口\n            上行：2个10/100/1000Base-T以太网电接口，2个1000Base-X以太网光接口",
-                    "S1700-8G-AC：8个10/100/1000Base-T以太网电接口\n            S1700-16G：16个10/100/1000Base-T以太网电接口\n            S1724G-AC：24个10/100/1000Base-T以太网电接口\n            S1700-24GR:24个10/100/1000Base-T以太网电接口\n            注：上下行接口共用",
-                    "S1700-28GR-4X\n            下行：24个10/100/1000Base-T以太网电接口\n            上行：4个10GBase-X以太网光接口\n            S1700-52GR-4X\n            下行：48个10/100/1000Base-T以太网电接口\n            上行：4个10GBase-X以太网光接口"
+                    {
+                        "row": null,
+                        "col": null,
+                        "text": "固定端口",
+                        "t": "123"
+                    },
+                    {
+                        "row": null,
+                        "col": null,
+                        "text": "S1700-8-AC：8个10/100Base-T以太网电接口\n            S1700-16R：16个10/100Base-T以太网电接口\n            S1700-24R：24个10/100Base-T以太网电接口\n            S1700-24-AC：24个10/100Base-T以太网电接口\n            注：上下行接口共用",
+                        "t": "123"
+                    },
+                    {
+                        "row": null,
+                        "col": null,
+                        "text": "S1700-26R-2T\n            下行：24个10/100Base-T以太网电接口\n            上行：2个10/100/1000Base-T以太网电接口\n            S1700-52R-2T2P-AC\n            下行：48个10/100Base-T以太网电接口\n            上行：2个10/100/1000Base-T以太网电接口，2个1000Base-X以太网光接口",
+                        "t": "123"
+                    },
+                    {
+                        "row": null,
+                        "col": null,
+                        "text": "S1700-8G-AC：8个10/100/1000Base-T以太网电接口\n            S1700-16G：16个10/100/1000Base-T以太网电接口\n            S1724G-AC：24个10/100/1000Base-T以太网电接口\n            S1700-24GR:24个10/100/1000Base-T以太网电接口\n            注：上下行接口共用",
+                        "t": "123"
+                    },
+                    {
+                        "row": null,
+                        "col": null,
+                        "text": "S1700-28GR-4X\n            下行：24个10/100/1000Base-T以太网电接口\n            上行：4个10GBase-X以太网光接口\n            S1700-52GR-4X\n            下行：48个10/100/1000Base-T以太网电接口\n            上行：4个10GBase-X以太网光接口",
+                        "t": "123"
+                    }
                 ]
             ]
         },
@@ -240,37 +925,132 @@
         "table": {
             "single": [
                 [
-                    "产品型号",
-                    "S1820EC-8G",
-                    "S1820EC-24G"
+                    {
+                        "row": null,
+                        "col": null,
+                        "text": "产品型号",
+                        "t": "123"
+                    },
+                    {
+                        "row": null,
+                        "col": null,
+                        "text": "S1820EC-8G",
+                        "t": "123"
+                    },
+                    {
+                        "row": null,
+                        "col": null,
+                        "text": "S1820EC-24G",
+                        "t": "123"
+                    }
                 ],
                 [
-                    "包转发率",
-                    "12 Mpps",
-                    "36 Mpps"
+                    {
+                        "row": null,
+                        "col": null,
+                        "text": "包转发率",
+                        "t": "123"
+                    },
+                    {
+                        "row": null,
+                        "col": null,
+                        "text": "12 Mpps",
+                        "t": "123"
+                    },
+                    {
+                        "row": null,
+                        "col": null,
+                        "text": "36 Mpps",
+                        "t": "123"
+                    }
                 ],
                 [
-                    "交换容量",
-                    "16 Gbps",
-                    "48 Gbps"
+                    {
+                        "row": null,
+                        "col": null,
+                        "text": "交换容量",
+                        "t": "123"
+                    },
+                    {
+                        "row": null,
+                        "col": null,
+                        "text": "16 Gbps",
+                        "t": "123"
+                    },
+                    {
+                        "row": null,
+                        "col": null,
+                        "text": "48 Gbps",
+                        "t": "123"
+                    }
                 ],
                 [
-                    "固定端口",
-                    "8个10/100/1000Base-T以太网端口",
-                    "24个10/100/1000Base-T以太网端口"
+                    {
+                        "row": null,
+                        "col": null,
+                        "text": "固定端口",
+                        "t": "123"
+                    },
+                    {
+                        "row": null,
+                        "col": null,
+                        "text": "8个10/100/1000Base-T以太网端口",
+                        "t": "123"
+                    },
+                    {
+                        "row": null,
+                        "col": null,
+                        "text": "24个10/100/1000Base-T以太网端口",
+                        "t": "123"
+                    }
                 ],
                 [
-                    "MAC特性",
-                    "遵循IEEE 802.1d标准\n支持8K MAC地址容量\nMAC老化时间为5分钟"
+                    {
+                        "row": null,
+                        "col": null,
+                        "text": "MAC特性",
+                        "t": "123"
+                    },
+                    {
+                        "row": null,
+                        "col": "2",
+                        "text": "遵循IEEE 802.1d标准\n支持8K MAC地址容量\nMAC老化时间为5分钟",
+                        "t": "123"
+                    }
                 ],
                 [
-                    "端口特性",
-                    "支持端口属性自协商\n支持Jumbo帧\n支持端口自动休眠"
+                    {
+                        "row": null,
+                        "col": null,
+                        "text": "端口特性",
+                        "t": "123"
+                    },
+                    {
+                        "row": null,
+                        "col": "2",
+                        "text": "支持端口属性自协商\n支持Jumbo帧\n支持端口自动休眠",
+                        "t": "123"
+                    }
                 ],
                 [
-                    "防雷",
-                    "业务口±7kV；电源口±4kV",
-                    "业务口±7kV；电源口±6kV"
+                    {
+                        "row": null,
+                        "col": null,
+                        "text": "防雷",
+                        "t": "123"
+                    },
+                    {
+                        "row": null,
+                        "col": null,
+                        "text": "业务口±7kV；电源口±4kV",
+                        "t": "123"
+                    },
+                    {
+                        "row": null,
+                        "col": null,
+                        "text": "业务口±7kV；电源口±6kV",
+                        "t": "123"
+                    }
                 ]
             ]
         },
@@ -282,44 +1062,164 @@
         "table": {
             "single": [
                 [
-                    "产品型号",
-                    "S2720-12TP-EI\nS2720-12TP-PWR-EI",
-                    "S2720-28TP-PWR-EI-L\nS2720-28TP-EI\nS2720-28TP-PWR-EI",
-                    "S2720-52TP-EI\nS2720-52TP-PWR-EI"
+                    {
+                        "row": null,
+                        "col": null,
+                        "text": "产品型号",
+                        "t": "123"
+                    },
+                    {
+                        "row": null,
+                        "col": null,
+                        "text": "S2720-12TP-EI\nS2720-12TP-PWR-EI",
+                        "t": "123"
+                    },
+                    {
+                        "row": null,
+                        "col": null,
+                        "text": "S2720-28TP-PWR-EI-L\nS2720-28TP-EI\nS2720-28TP-PWR-EI",
+                        "t": "123"
+                    },
+                    {
+                        "row": null,
+                        "col": null,
+                        "text": "S2720-52TP-EI\nS2720-52TP-PWR-EI",
+                        "t": "123"
+                    }
                 ],
                 [
-                    "交换容量",
-                    "128Gbps",
-                    "128Gbps",
-                    "336Gbps"
+                    {
+                        "row": null,
+                        "col": null,
+                        "text": "交换容量",
+                        "t": "123"
+                    },
+                    {
+                        "row": null,
+                        "col": null,
+                        "text": "128Gbps",
+                        "t": "123"
+                    },
+                    {
+                        "row": null,
+                        "col": null,
+                        "text": "128Gbps",
+                        "t": "123"
+                    },
+                    {
+                        "row": null,
+                        "col": null,
+                        "text": "336Gbps",
+                        "t": "123"
+                    }
                 ],
                 [
-                    "包转发率",
-                    "12.6Mpps",
-                    "20.4Mpps",
-                    "34.8Mpps"
+                    {
+                        "row": null,
+                        "col": null,
+                        "text": "包转发率",
+                        "t": "123"
+                    },
+                    {
+                        "row": null,
+                        "col": null,
+                        "text": "12.6Mpps",
+                        "t": "123"
+                    },
+                    {
+                        "row": null,
+                        "col": null,
+                        "text": "20.4Mpps",
+                        "t": "123"
+                    },
+                    {
+                        "row": null,
+                        "col": null,
+                        "text": "34.8Mpps",
+                        "t": "123"
+                    }
                 ],
                 [
-                    "固定端口",
-                    "下行4个百兆，4个千兆端口\n上行4个千兆端口",
-                    "下行16个百兆，8个千兆端口\n上行4个千兆端口",
-                    "下行32个百兆，16个千兆端口\n上行4个千兆端口"
+                    {
+                        "row": null,
+                        "col": null,
+                        "text": "固定端口",
+                        "t": "123"
+                    },
+                    {
+                        "row": null,
+                        "col": null,
+                        "text": "下行4个百兆，4个千兆端口\n上行4个千兆端口",
+                        "t": "123"
+                    },
+                    {
+                        "row": null,
+                        "col": null,
+                        "text": "下行16个百兆，8个千兆端口\n上行4个千兆端口",
+                        "t": "123"
+                    },
+                    {
+                        "row": null,
+                        "col": null,
+                        "text": "下行32个百兆，16个千兆端口\n上行4个千兆端口",
+                        "t": "123"
+                    }
                 ],
                 [
-                    "MAC特性",
-                    "支持16K MAC地址\n支持MAC地址自动学习和老化\n支持静态、动态、黑洞MAC表项\n支持接口MAC地址学习个数限制"
+                    {
+                        "row": null,
+                        "col": null,
+                        "text": "MAC特性",
+                        "t": "123"
+                    },
+                    {
+                        "row": null,
+                        "col": "3",
+                        "text": "支持16K MAC地址\n支持MAC地址自动学习和老化\n支持静态、动态、黑洞MAC表项\n支持接口MAC地址学习个数限制",
+                        "t": "123"
+                    }
                 ],
                 [
-                    "VLAN特性",
-                    "支持4K个VLAN\n支持基于MAC/协议/IP子网/策略/端口的VLAN\n支持基于端口的QinQ"
+                    {
+                        "row": null,
+                        "col": null,
+                        "text": "VLAN特性",
+                        "t": "123"
+                    },
+                    {
+                        "row": null,
+                        "col": "3",
+                        "text": "支持4K个VLAN\n支持基于MAC/协议/IP子网/策略/端口的VLAN\n支持基于端口的QinQ",
+                        "t": "123"
+                    }
                 ],
                 [
-                    "IP路由",
-                    "静态路由\n支持RIP、RIPng，OSPF协议"
+                    {
+                        "row": null,
+                        "col": null,
+                        "text": "IP路由",
+                        "t": "123"
+                    },
+                    {
+                        "row": null,
+                        "col": "3",
+                        "text": "静态路由\n支持RIP、RIPng，OSPF协议",
+                        "t": "123"
+                    }
                 ],
                 [
-                    "互通性",
-                    "VBST基于VLAN生成树协议（和PVST/PVST+/RPVST 互通）\nLNP 链路类型协商协议（和DTP相似功能）\nVCMP VLAN集中管理协议（和VTP相似功能）\n\n详细的互联互通认证与报告，请访问这里。"
+                    {
+                        "row": null,
+                        "col": null,
+                        "text": "互通性",
+                        "t": "123"
+                    },
+                    {
+                        "row": null,
+                        "col": "3",
+                        "text": "VBST基于VLAN生成树协议（和PVST/PVST+/RPVST 互通）\nLNP 链路类型协商协议（和DTP相似功能）\nVCMP VLAN集中管理协议（和VTP相似功能）\n\n详细的互联互通认证与报告，请访问这里。",
+                        "t": "123"
+                    }
                 ]
             ]
         },
@@ -331,43 +1231,158 @@
         "table": {
             "single": [
                 [
-                    "产品型号",
-                    "S5720-P-EI系列",
-                    "S5720-X-EI系列",
-                    "S5720-PC-EI系列",
-                    "S5720-C-EI系列"
+                    {
+                        "row": null,
+                        "col": null,
+                        "text": "产品型号",
+                        "t": "123"
+                    },
+                    {
+                        "row": null,
+                        "col": null,
+                        "text": "S5720-P-EI系列",
+                        "t": "123"
+                    },
+                    {
+                        "row": null,
+                        "col": null,
+                        "text": "S5720-X-EI系列",
+                        "t": "123"
+                    },
+                    {
+                        "row": null,
+                        "col": null,
+                        "text": "S5720-PC-EI系列",
+                        "t": "123"
+                    },
+                    {
+                        "row": null,
+                        "col": null,
+                        "text": "S5720-C-EI系列",
+                        "t": "123"
+                    }
                 ],
                 [
-                    "交换容量",
-                    "598Gbps/5.98Tbps",
-                    "598Gbps/5.98Tbps",
-                    "598Gbps/5.98Tbps",
-                    "598Gbps/5.98Tbps"
+                    {
+                        "row": null,
+                        "col": null,
+                        "text": "交换容量",
+                        "t": "123"
+                    },
+                    {
+                        "row": null,
+                        "col": null,
+                        "text": "598Gbps/5.98Tbps",
+                        "t": "123"
+                    },
+                    {
+                        "row": null,
+                        "col": null,
+                        "text": "598Gbps/5.98Tbps",
+                        "t": "123"
+                    },
+                    {
+                        "row": null,
+                        "col": null,
+                        "text": "598Gbps/5.98Tbps",
+                        "t": "123"
+                    },
+                    {
+                        "row": null,
+                        "col": null,
+                        "text": "598Gbps/5.98Tbps",
+                        "t": "123"
+                    }
                 ],
                 [
-                    "包转发率",
-                    "S5720-32P-EI-AC:168Mpps\nS5720-52P-EI-AC:198Mpps\nS5720-32X-EI-AC:222Mpps\nS5720-32X-EI-24S-AC:222Mpps\nS5720-32X-EI-24S-DC:222Mpps\nS5720-50X-EI-AC:249Mpps\nS5720-50X-EI-DC:249Mpps\nS5720-50X-EI-46S-AC:249Mpps\nS5720-50X-EI-46S-DC:249Mpps\nS5720-52X-EI-AC:252Mpps\nS5720-36PC-EI-AC:168Mpps\nS5720-56PC-EI-AC:198Mpps\nS5720-36C-EI-28S-AC:222Mpps\nS5720-36C-EI-28S-DC:222Mpps\nS5720-36C-EI-AC:222Mpps\nS5720-36C-PWR-EI-AC:222Mpps\nS5720-56C-EI-48S-AC:252Mpps\nS5720-56C-EI-48S-DC:252Mpps\nS5720-56C-EI-AC:252Mpps\nS5720-56C-EI-DC:252Mpps\nS5720-56C-PWR-EI-AC:252Mpps\nS5720-56C-PWR-EI-DC:252Mpps\nS5720-56C-PWR-EI-AC1:252Mpps"
+                    {
+                        "row": null,
+                        "col": null,
+                        "text": "包转发率",
+                        "t": "123"
+                    },
+                    {
+                        "row": null,
+                        "col": "4",
+                        "text": "S5720-32P-EI-AC:168Mpps\nS5720-52P-EI-AC:198Mpps\nS5720-32X-EI-AC:222Mpps\nS5720-32X-EI-24S-AC:222Mpps\nS5720-32X-EI-24S-DC:222Mpps\nS5720-50X-EI-AC:249Mpps\nS5720-50X-EI-DC:249Mpps\nS5720-50X-EI-46S-AC:249Mpps\nS5720-50X-EI-46S-DC:249Mpps\nS5720-52X-EI-AC:252Mpps\nS5720-36PC-EI-AC:168Mpps\nS5720-56PC-EI-AC:198Mpps\nS5720-36C-EI-28S-AC:222Mpps\nS5720-36C-EI-28S-DC:222Mpps\nS5720-36C-EI-AC:222Mpps\nS5720-36C-PWR-EI-AC:222Mpps\nS5720-56C-EI-48S-AC:252Mpps\nS5720-56C-EI-48S-DC:252Mpps\nS5720-56C-EI-AC:252Mpps\nS5720-56C-EI-DC:252Mpps\nS5720-56C-PWR-EI-AC:252Mpps\nS5720-56C-PWR-EI-DC:252Mpps\nS5720-56C-PWR-EI-AC1:252Mpps",
+                        "t": "123"
+                    }
                 ],
                 [
-                    "扩展插槽",
-                    "N/A",
-                    "提供1个扩展插槽，可扩展支持：\n\n业务插卡：2端口万兆SFP+光接口后插卡\n堆叠卡：2端口QSFP+专用堆叠后插卡\n防火墙插卡*"
+                    {
+                        "row": null,
+                        "col": null,
+                        "text": "扩展插槽",
+                        "t": "123"
+                    },
+                    {
+                        "row": null,
+                        "col": "2",
+                        "text": "N/A",
+                        "t": "123"
+                    },
+                    {
+                        "row": null,
+                        "col": "2",
+                        "text": "提供1个扩展插槽，可扩展支持：\n\n业务插卡：2端口万兆SFP+光接口后插卡\n堆叠卡：2端口QSFP+专用堆叠后插卡\n防火墙插卡*",
+                        "t": "123"
+                    }
                 ],
                 [
-                    "MAC特性",
-                    "64K\n支持MAC地址自动学习和老化\n支持静态、动态、黑洞MAC表项\n支持源MAC地址过滤"
+                    {
+                        "row": null,
+                        "col": null,
+                        "text": "MAC特性",
+                        "t": "123"
+                    },
+                    {
+                        "row": null,
+                        "col": "4",
+                        "text": "64K\n支持MAC地址自动学习和老化\n支持静态、动态、黑洞MAC表项\n支持源MAC地址过滤",
+                        "t": "123"
+                    }
                 ],
                 [
-                    "VLAN特性",
-                    "支持4K个VLAN\n支持Guest VLAN、Voice VLAN\n支持GVRP协议\n支持MUX VLAN功能\n支持基于MAC/协议/IP子网/策略/端口的VLAN\n支持1:1和N:1 VLAN Mapping功能\n支持协议透明VLAN"
+                    {
+                        "row": null,
+                        "col": null,
+                        "text": "VLAN特性",
+                        "t": "123"
+                    },
+                    {
+                        "row": null,
+                        "col": "4",
+                        "text": "支持4K个VLAN\n支持Guest VLAN、Voice VLAN\n支持GVRP协议\n支持MUX VLAN功能\n支持基于MAC/协议/IP子网/策略/端口的VLAN\n支持1:1和N:1 VLAN Mapping功能\n支持协议透明VLAN",
+                        "t": "123"
+                    }
                 ],
                 [
-                    "IP路由",
-                    "静态路由、RIP V1/2、RIPng\nOSPF、OSPFv3、IS-IS、IS-ISv6\nBGP、BGP4+、ECMP、路由策略"
+                    {
+                        "row": null,
+                        "col": null,
+                        "text": "IP路由",
+                        "t": "123"
+                    },
+                    {
+                        "row": null,
+                        "col": "4",
+                        "text": "静态路由、RIP V1/2、RIPng\nOSPF、OSPFv3、IS-IS、IS-ISv6\nBGP、BGP4+、ECMP、路由策略",
+                        "t": "123"
+                    }
                 ],
                 [
-                    "互通性",
-                    "VBST基于VLAN生成树协议（和PVST/PVST+/RPVST 互通）\nLNP 链路类型协商协议（和DTP相似功能）\nVCMP VLAN集中管理协议（和VTP相似功能）\n\n详细的互联互通认证与报告，请访问这里。"
+                    {
+                        "row": null,
+                        "col": null,
+                        "text": "互通性",
+                        "t": "123"
+                    },
+                    {
+                        "row": null,
+                        "col": "4",
+                        "text": "VBST基于VLAN生成树协议（和PVST/PVST+/RPVST 互通）\nLNP 链路类型协商协议（和DTP相似功能）\nVCMP VLAN集中管理协议（和VTP相似功能）\n\n详细的互联互通认证与报告，请访问这里。",
+                        "t": "123"
+                    }
                 ]
             ]
         },
@@ -379,49 +1394,174 @@
         "table": {
             "single": [
                 [
-                    "产品型号",
-                    "S6720-50L-HI-48S",
-                    "S6720-30L-HI-24S"
+                    {
+                        "row": null,
+                        "col": null,
+                        "text": "产品型号",
+                        "t": "123"
+                    },
+                    {
+                        "row": null,
+                        "col": null,
+                        "text": "S6720-50L-HI-48S",
+                        "t": "123"
+                    },
+                    {
+                        "row": null,
+                        "col": null,
+                        "text": "S6720-30L-HI-24S",
+                        "t": "123"
+                    }
                 ],
                 [
-                    "交换容量",
-                    "2.56Tbps/23.04Tbps\n",
-                    "2.56Tbps/23.04Tbps\n"
+                    {
+                        "row": null,
+                        "col": null,
+                        "text": "交换容量",
+                        "t": "123"
+                    },
+                    {
+                        "row": null,
+                        "col": null,
+                        "text": "2.56Tbps/23.04Tbps\n",
+                        "t": "123"
+                    },
+                    {
+                        "row": null,
+                        "col": null,
+                        "text": "2.56Tbps/23.04Tbps\n",
+                        "t": "123"
+                    }
                 ],
                 [
-                    "包转发率",
-                    "1200Mpps",
-                    "900Mpps"
+                    {
+                        "row": null,
+                        "col": null,
+                        "text": "包转发率",
+                        "t": "123"
+                    },
+                    {
+                        "row": null,
+                        "col": null,
+                        "text": "1200Mpps",
+                        "t": "123"
+                    },
+                    {
+                        "row": null,
+                        "col": null,
+                        "text": "900Mpps",
+                        "t": "123"
+                    }
                 ],
                 [
-                    "固定端口",
-                    "48个万兆SFP+,6个40GE QSFP+或44个万兆SFP+,4个40GE QSFP+,2个100GE QSFP28",
-                    "24个万兆SFP+,4个40GE QSFP+,2个100GE QSFP28"
+                    {
+                        "row": null,
+                        "col": null,
+                        "text": "固定端口",
+                        "t": "123"
+                    },
+                    {
+                        "row": null,
+                        "col": null,
+                        "text": "48个万兆SFP+,6个40GE QSFP+或44个万兆SFP+,4个40GE QSFP+,2个100GE QSFP28",
+                        "t": "123"
+                    },
+                    {
+                        "row": null,
+                        "col": null,
+                        "text": "24个万兆SFP+,4个40GE QSFP+,2个100GE QSFP28",
+                        "t": "123"
+                    }
                 ],
                 [
-                    "扩展插槽",
-                    "不支持",
-                    "不支持"
+                    {
+                        "row": null,
+                        "col": null,
+                        "text": "扩展插槽",
+                        "t": "123"
+                    },
+                    {
+                        "row": null,
+                        "col": null,
+                        "text": "不支持",
+                        "t": "123"
+                    },
+                    {
+                        "row": null,
+                        "col": null,
+                        "text": "不支持",
+                        "t": "123"
+                    }
                 ],
                 [
-                    "MAC特性",
-                    "支持64K MAC地址容量\n遵循IEEE 802.1d标准\n支持MAC地址自动学习和老化\n支持静态、动态、黑洞MAC表项\n支持源MAC地址过滤\n"
+                    {
+                        "row": null,
+                        "col": null,
+                        "text": "MAC特性",
+                        "t": "123"
+                    },
+                    {
+                        "row": null,
+                        "col": "2",
+                        "text": "支持64K MAC地址容量\n遵循IEEE 802.1d标准\n支持MAC地址自动学习和老化\n支持静态、动态、黑洞MAC表项\n支持源MAC地址过滤\n",
+                        "t": "123"
+                    }
                 ],
                 [
-                    "VLAN特性",
-                    "支持4K个VLAN\n支持Guest VLAN、Voice VLANs\n支持GVRP协议\n支持MUX VLAN功能\n支持基于MAC/协议/IP子网/策略/端口的VLAN\n支持VLAN Mapping功能\n"
+                    {
+                        "row": null,
+                        "col": null,
+                        "text": "VLAN特性",
+                        "t": "123"
+                    },
+                    {
+                        "row": null,
+                        "col": "2",
+                        "text": "支持4K个VLAN\n支持Guest VLAN、Voice VLANs\n支持GVRP协议\n支持MUX VLAN功能\n支持基于MAC/协议/IP子网/策略/端口的VLAN\n支持VLAN Mapping功能\n",
+                        "t": "123"
+                    }
                 ],
                 [
-                    "IP路由",
-                    "静态路由、RIP V1/2、RIPng、OSPF、OSPFv3、IS-IS、IS-ISv6、BGP、BGP4+、ECMP、路由策略"
+                    {
+                        "row": null,
+                        "col": null,
+                        "text": "IP路由",
+                        "t": "123"
+                    },
+                    {
+                        "row": null,
+                        "col": "2",
+                        "text": "静态路由、RIP V1/2、RIPng、OSPF、OSPFv3、IS-IS、IS-ISv6、BGP、BGP4+、ECMP、路由策略",
+                        "t": "123"
+                    }
                 ],
                 [
-                    "无线业务",
-                    "支持管理1K AP\n提供668Gbps无线转发能力（基于1024字节包长计算）\n支持AP接入控制、AP域管理和AP配置模板管理\n支持射频管理、统一静态配置和集中动态管理\n支持WLAN基本业务、QoS、安全和用户管理\n支持CAPWAP、Tag/终端定位、频谱分析"
+                    {
+                        "row": null,
+                        "col": null,
+                        "text": "无线业务",
+                        "t": "123"
+                    },
+                    {
+                        "row": null,
+                        "col": "2",
+                        "text": "支持管理1K AP\n提供668Gbps无线转发能力（基于1024字节包长计算）\n支持AP接入控制、AP域管理和AP配置模板管理\n支持射频管理、统一静态配置和集中动态管理\n支持WLAN基本业务、QoS、安全和用户管理\n支持CAPWAP、Tag/终端定位、频谱分析",
+                        "t": "123"
+                    }
                 ],
                 [
-                    "互通性",
-                    "VBST基于VLAN生成树协议（和PVST/PVST+/RPVST 互通）\nLNP 链路类型协商协议（和DTP相似功能）\nVCMP VLAN集中管理协议（和VTP相似功能）\n\n详细的互联互通认证与报告，请访问这里。"
+                    {
+                        "row": null,
+                        "col": null,
+                        "text": "互通性",
+                        "t": "123"
+                    },
+                    {
+                        "row": null,
+                        "col": "2",
+                        "text": "VBST基于VLAN生成树协议（和PVST/PVST+/RPVST 互通）\nLNP 链路类型协商协议（和DTP相似功能）\nVCMP VLAN集中管理协议（和VTP相似功能）\n\n详细的互联互通认证与报告，请访问这里。",
+                        "t": "123"
+                    }
                 ]
             ]
         },
@@ -433,65 +1573,240 @@
         "table": {
             "single": [
                 [
-                    "产品型号",
-                    "S7703",
-                    "S7703 PoE",
-                    "S7706/S7706 PoE",
-                    "S7712"
+                    {
+                        "row": null,
+                        "col": null,
+                        "text": "产品型号",
+                        "t": "123"
+                    },
+                    {
+                        "row": null,
+                        "col": null,
+                        "text": "S7703",
+                        "t": "123"
+                    },
+                    {
+                        "row": null,
+                        "col": null,
+                        "text": "S7703 PoE",
+                        "t": "123"
+                    },
+                    {
+                        "row": null,
+                        "col": null,
+                        "text": "S7706/S7706 PoE",
+                        "t": "123"
+                    },
+                    {
+                        "row": null,
+                        "col": null,
+                        "text": "S7712",
+                        "t": "123"
+                    }
                 ],
                 [
-                    "交换容量",
-                    "19.2/48Tbps",
-                    "19.2/48Tbps",
-                    "19.84/86.4Tbps",
-                    "27.52/153.6Tbps"
+                    {
+                        "row": null,
+                        "col": null,
+                        "text": "交换容量",
+                        "t": "123"
+                    },
+                    {
+                        "row": null,
+                        "col": null,
+                        "text": "19.2/48Tbps",
+                        "t": "123"
+                    },
+                    {
+                        "row": null,
+                        "col": null,
+                        "text": "19.2/48Tbps",
+                        "t": "123"
+                    },
+                    {
+                        "row": null,
+                        "col": null,
+                        "text": "19.84/86.4Tbps",
+                        "t": "123"
+                    },
+                    {
+                        "row": null,
+                        "col": null,
+                        "text": "27.52/153.6Tbps",
+                        "t": "123"
+                    }
                 ],
                 [
-                    "包转发率",
-                    "1440/16560Mpps",
-                    "3600/16560Mpps",
-                    "3240/26400Mpps",
-                    "3480/48960Mpps"
+                    {
+                        "row": null,
+                        "col": null,
+                        "text": "包转发率",
+                        "t": "123"
+                    },
+                    {
+                        "row": null,
+                        "col": null,
+                        "text": "1440/16560Mpps",
+                        "t": "123"
+                    },
+                    {
+                        "row": null,
+                        "col": null,
+                        "text": "3600/16560Mpps",
+                        "t": "123"
+                    },
+                    {
+                        "row": null,
+                        "col": null,
+                        "text": "3240/26400Mpps",
+                        "t": "123"
+                    },
+                    {
+                        "row": null,
+                        "col": null,
+                        "text": "3480/48960Mpps",
+                        "t": "123"
+                    }
                 ],
                 [
-                    "冗余设计",
-                    "主控、电源、监控板、风扇框（前后及左后风道）"
+                    {
+                        "row": null,
+                        "col": null,
+                        "text": "冗余设计",
+                        "t": "123"
+                    },
+                    {
+                        "row": null,
+                        "col": "4",
+                        "text": "主控、电源、监控板、风扇框（前后及左后风道）",
+                        "t": "123"
+                    }
                 ],
                 [
-                    "无线管理",
-                    "支持随板AC\n支持AP接入控制、AP域管理和AP配置模板管理\n支持射频模板管理、统一静态配置和集中动态管理\n支持WLAN基本业务、QoS、安全和用户管理\n支持AC功能分层部署"
+                    {
+                        "row": null,
+                        "col": null,
+                        "text": "无线管理",
+                        "t": "123"
+                    },
+                    {
+                        "row": null,
+                        "col": "4",
+                        "text": "支持随板AC\n支持AP接入控制、AP域管理和AP配置模板管理\n支持射频模板管理、统一静态配置和集中动态管理\n支持WLAN基本业务、QoS、安全和用户管理\n支持AC功能分层部署",
+                        "t": "123"
+                    }
                 ],
                 [
-                    "用户管理",
-                    "支持统一用户管理\n支持PPPoE、802.1X、MAC、Portal认证方式\n支持基于流量和时长计费方式\n支持分组分域分时授权方式"
+                    {
+                        "row": null,
+                        "col": null,
+                        "text": "用户管理",
+                        "t": "123"
+                    },
+                    {
+                        "row": null,
+                        "col": "4",
+                        "text": "支持统一用户管理\n支持PPPoE、802.1X、MAC、Portal认证方式\n支持基于流量和时长计费方式\n支持分组分域分时授权方式",
+                        "t": "123"
+                    }
                 ],
                 [
-                    "路由特性",
-                    "支持IPV4静态路由、RIP、OSPF、IS-IS、BGP4等\n支持IPv6静态路由、RIPng、OSPFv3、IS-ISv6、BGP4+\n支持IPv4/IPv6等价路由、策略路由、路由策略\n支持IPv4和IPv6双协议栈\n支持Pingv6、Telnetv6、FTPv6、TFTPv6、DNSv6、ICMPv6\n支持IPv4向IPv6的过渡技术，包括：IPv6手工隧道、6to4隧道、ISATAP隧道、GRE隧道、IPv4兼容自动配置隧道"
+                    {
+                        "row": null,
+                        "col": null,
+                        "text": "路由特性",
+                        "t": "123"
+                    },
+                    {
+                        "row": null,
+                        "col": "4",
+                        "text": "支持IPV4静态路由、RIP、OSPF、IS-IS、BGP4等\n支持IPv6静态路由、RIPng、OSPFv3、IS-ISv6、BGP4+\n支持IPv4/IPv6等价路由、策略路由、路由策略\n支持IPv4和IPv6双协议栈\n支持Pingv6、Telnetv6、FTPv6、TFTPv6、DNSv6、ICMPv6\n支持IPv4向IPv6的过渡技术，包括：IPv6手工隧道、6to4隧道、ISATAP隧道、GRE隧道、IPv4兼容自动配置隧道",
+                        "t": "123"
+                    }
                 ],
                 [
-                    "iPCA质量感知",
-                    "支持直接对业务报文标记以获得丢包数量和丢包率统计数据，实时统计，零开销\n支持二三层网络网络级和设备级丢包数量和丢包率统计"
+                    {
+                        "row": null,
+                        "col": null,
+                        "text": "iPCA质量感知",
+                        "t": "123"
+                    },
+                    {
+                        "row": null,
+                        "col": "4",
+                        "text": "支持直接对业务报文标记以获得丢包数量和丢包率统计数据，实时统计，零开销\n支持二三层网络网络级和设备级丢包数量和丢包率统计",
+                        "t": "123"
+                    }
                 ],
                 [
-                    "SVF简化运维",
-                    "支持将256个Client节点（接入交换机）、最大支持4K个AP虚拟为一台设备管理\n支持2层AS架构\n支持与第三方厂商混合组网管理"
+                    {
+                        "row": null,
+                        "col": null,
+                        "text": "SVF简化运维",
+                        "t": "123"
+                    },
+                    {
+                        "row": null,
+                        "col": "4",
+                        "text": "支持将256个Client节点（接入交换机）、最大支持4K个AP虚拟为一台设备管理\n支持2层AS架构\n支持与第三方厂商混合组网管理",
+                        "t": "123"
+                    }
                 ],
                 [
-                    "缓存容量",
-                    "支持每端口200ms数据缓存"
+                    {
+                        "row": null,
+                        "col": null,
+                        "text": "缓存容量",
+                        "t": "123"
+                    },
+                    {
+                        "row": null,
+                        "col": "4",
+                        "text": "支持每端口200ms数据缓存",
+                        "t": "123"
+                    }
                 ],
                 [
-                    "数据中心特性",
-                    "支持TRILL，FCoE（DCB），EVN，nCenter，EVB，SPB，VXLAN等数据中心特性"
+                    {
+                        "row": null,
+                        "col": null,
+                        "text": "数据中心特性",
+                        "t": "123"
+                    },
+                    {
+                        "row": null,
+                        "col": "4",
+                        "text": "支持TRILL，FCoE（DCB），EVN，nCenter，EVB，SPB，VXLAN等数据中心特性",
+                        "t": "123"
+                    }
                 ],
                 [
-                    "OpenFlow",
-                    "支持多控制器\n支持高达九级流表\n支持高达256K流表\n支持Group table\n支持Meter\n支持OpenFlow 1.3标准"
+                    {
+                        "row": null,
+                        "col": null,
+                        "text": "OpenFlow",
+                        "t": "123"
+                    },
+                    {
+                        "row": null,
+                        "col": "4",
+                        "text": "支持多控制器\n支持高达九级流表\n支持高达256K流表\n支持Group table\n支持Meter\n支持OpenFlow 1.3标准",
+                        "t": "123"
+                    }
                 ],
                 [
-                    "互通性",
-                    "VBST基于VLAN生成树协议（和PVST/PVST+/RPVST互通）\nLNP链路类型协商协议（和DTP相似功能）\nVCMP VLAN集中管理协议（和VTP相似功能）\n\n\n\n详细的互联互通认证与报告，请访问这里。"
+                    {
+                        "row": null,
+                        "col": null,
+                        "text": "互通性",
+                        "t": "123"
+                    },
+                    {
+                        "row": null,
+                        "col": "4",
+                        "text": "VBST基于VLAN生成树协议（和PVST/PVST+/RPVST互通）\nLNP链路类型协商协议（和DTP相似功能）\nVCMP VLAN集中管理协议（和VTP相似功能）\n\n\n\n详细的互联互通认证与报告，请访问这里。",
+                        "t": "123"
+                    }
                 ]
             ]
         },
@@ -503,52 +1818,182 @@
         "table": {
             "single": [
                 [
-                    "参数",
-                    "S7905",
-                    "S7908"
+                    {
+                        "row": null,
+                        "col": null,
+                        "text": "参数",
+                        "t": "123"
+                    },
+                    {
+                        "row": null,
+                        "col": null,
+                        "text": "S7905",
+                        "t": "123"
+                    },
+                    {
+                        "row": null,
+                        "col": null,
+                        "text": "S7908",
+                        "t": "123"
+                    }
                 ],
                 [
-                    "交换容量",
-                    "19.2/48Tbps",
-                    "19.84/86.4Tbps"
+                    {
+                        "row": null,
+                        "col": null,
+                        "text": "交换容量",
+                        "t": "123"
+                    },
+                    {
+                        "row": null,
+                        "col": null,
+                        "text": "19.2/48Tbps",
+                        "t": "123"
+                    },
+                    {
+                        "row": null,
+                        "col": null,
+                        "text": "19.84/86.4Tbps",
+                        "t": "123"
+                    }
                 ],
                 [
-                    "包转发率",
-                    "1440/16560Mpps",
-                    "2880/26400Mpps"
+                    {
+                        "row": null,
+                        "col": null,
+                        "text": "包转发率",
+                        "t": "123"
+                    },
+                    {
+                        "row": null,
+                        "col": null,
+                        "text": "1440/16560Mpps",
+                        "t": "123"
+                    },
+                    {
+                        "row": null,
+                        "col": null,
+                        "text": "2880/26400Mpps",
+                        "t": "123"
+                    }
                 ],
                 [
-                    "业务槽位",
-                    "3",
-                    "6"
+                    {
+                        "row": null,
+                        "col": null,
+                        "text": "业务槽位",
+                        "t": "123"
+                    },
+                    {
+                        "row": null,
+                        "col": null,
+                        "text": "3",
+                        "t": "123"
+                    },
+                    {
+                        "row": null,
+                        "col": null,
+                        "text": "6",
+                        "t": "123"
+                    }
                 ],
                 [
-                    "冗余设计",
-                    "主控、电源、监控板、风扇框（前后及左后风道）"
+                    {
+                        "row": null,
+                        "col": null,
+                        "text": "冗余设计",
+                        "t": "123"
+                    },
+                    {
+                        "row": null,
+                        "col": "2",
+                        "text": "主控、电源、监控板、风扇框（前后及左后风道）",
+                        "t": "123"
+                    }
                 ],
                 [
-                    "无线管理",
-                    "支持随板AC，有线无线深度融合\n支持AP接入控制、AP域管理和AP配置模板管理\n支持射频模板管理、统一静态配置和集中动态管理\n支持WLAN基本业务、QoS、安全和用户管理"
+                    {
+                        "row": null,
+                        "col": null,
+                        "text": "无线管理",
+                        "t": "123"
+                    },
+                    {
+                        "row": null,
+                        "col": "2",
+                        "text": "支持随板AC，有线无线深度融合\n支持AP接入控制、AP域管理和AP配置模板管理\n支持射频模板管理、统一静态配置和集中动态管理\n支持WLAN基本业务、QoS、安全和用户管理",
+                        "t": "123"
+                    }
                 ],
                 [
-                    "用户管理",
-                    "支持有线无线统一用户管理\n支持802.1X、MAC、Portal认证方式\n支持基于流量、时长和DAA（按照目的地址）计费方式\n支持分组分域分时授权方式"
+                    {
+                        "row": null,
+                        "col": null,
+                        "text": "用户管理",
+                        "t": "123"
+                    },
+                    {
+                        "row": null,
+                        "col": "2",
+                        "text": "支持有线无线统一用户管理\n支持802.1X、MAC、Portal认证方式\n支持基于流量、时长和DAA（按照目的地址）计费方式\n支持分组分域分时授权方式",
+                        "t": "123"
+                    }
                 ],
                 [
-                    "iPCA质量感知",
-                    "支持直接对业务报文标记以获得丢包数量和丢包率统计数据，实时统计，零开销\n支持二三层网络网络级和设备级丢包数量和丢包率统计"
+                    {
+                        "row": null,
+                        "col": null,
+                        "text": "iPCA质量感知",
+                        "t": "123"
+                    },
+                    {
+                        "row": null,
+                        "col": "2",
+                        "text": "支持直接对业务报文标记以获得丢包数量和丢包率统计数据，实时统计，零开销\n支持二三层网络网络级和设备级丢包数量和丢包率统计",
+                        "t": "123"
+                    }
                 ],
                 [
-                    "SVF2.0简化运维",
-                    "支持将256个Client节点（接入交换机）、最大支持4K个AP虚拟为一台设备管理\n支持2层AS架构\n支持与第三方厂商混合组网管理"
+                    {
+                        "row": null,
+                        "col": null,
+                        "text": "SVF2.0简化运维",
+                        "t": "123"
+                    },
+                    {
+                        "row": null,
+                        "col": "2",
+                        "text": "支持将256个Client节点（接入交换机）、最大支持4K个AP虚拟为一台设备管理\n支持2层AS架构\n支持与第三方厂商混合组网管理",
+                        "t": "123"
+                    }
                 ],
                 [
-                    "路由特性",
-                    "支持IPV4静态路由、RIP、OSPF、IS-IS、BGP4等\n支持IPv6静态路由、RIPng、OSPFv3、IS-ISv6、BGP4+\n支持IPv4/IPv6等价路由、策略路由、路由策略\n支持IPv4和IPv6双协议栈\n支持IPv4向IPv6的过渡技术，包括：IPv6手工隧道、6to4隧道、ISATAP隧道、GRE隧道"
+                    {
+                        "row": null,
+                        "col": null,
+                        "text": "路由特性",
+                        "t": "123"
+                    },
+                    {
+                        "row": null,
+                        "col": "2",
+                        "text": "支持IPV4静态路由、RIP、OSPF、IS-IS、BGP4等\n支持IPv6静态路由、RIPng、OSPFv3、IS-ISv6、BGP4+\n支持IPv4/IPv6等价路由、策略路由、路由策略\n支持IPv4和IPv6双协议栈\n支持IPv4向IPv6的过渡技术，包括：IPv6手工隧道、6to4隧道、ISATAP隧道、GRE隧道",
+                        "t": "123"
+                    }
                 ],
                 [
-                    "互通性",
-                    "VBST基于VLAN生成树协议（和PVST/PVST+/RPVST互通）\nLNP链路类型协商协议（和DTP相似功能）\nVCMP VLAN集中管理协议（和VTP相似功能）\n\n详细的互联互通认证与报告，请访问这里 。"
+                    {
+                        "row": null,
+                        "col": null,
+                        "text": "互通性",
+                        "t": "123"
+                    },
+                    {
+                        "row": null,
+                        "col": "2",
+                        "text": "VBST基于VLAN生成树协议（和PVST/PVST+/RPVST互通）\nLNP链路类型协商协议（和DTP相似功能）\nVCMP VLAN集中管理协议（和VTP相似功能）\n\n详细的互联互通认证与报告，请访问这里 。",
+                        "t": "123"
+                    }
                 ]
             ]
         },

@@ -75,13 +75,13 @@ export default class Product extends React.Component {
                             <table>
                                 <thead>
                                     <tr>
-                                        {_.head(singleTable).map(item => <td>{item}</td>)}
+                                        {_.head(singleTable).map(item => <td>{item.text}</td>)}
                                     </tr>
                                 </thead>
                                 <tbody>
                                     {_.slice(singleTable, 1).map(item => {
                                         return (<tr>
-                                            {item.map(list => <td>{list}</td>)}
+                                            {item.map((list) => <td rowSpan={list.row?list.row:1} colSpan={list.col?list.col:1}>{list.text.split('\n').map(text=>(<span>{text}<br></br></span>))}</td>)}
                                         </tr>)
                                     })}
 
