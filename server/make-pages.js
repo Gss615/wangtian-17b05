@@ -3,9 +3,10 @@ const fs = require('fs');
 const { flatten, reject } = require('lodash');
 const util = require('util');
 const readdir = util.promisify(fs.readdir);
+const _ = require('lodash')
 
 
-const templates = (title,dec,img,order,category,template,table)=>{
+const templates = (title,dec,img,order,category,template,table,features)=>{
   return `---
 id: '1'
 price: '49.40'
@@ -16,8 +17,10 @@ default_original_image: images/plant1-lg.jpg
 featured: true
 order: ${order}
 category: ${category}
-other: 
+other1: 
   table: ${JSON.stringify(table)}
+other2:
+  features: ${JSON.stringify(features)}
 seo:
   title: Nulla suscipit
   description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit'
@@ -69,10 +72,10 @@ const readFile = (fileName)=>{
     })
 }
 readFile('./indetail.json').then((res,err)=>{
-    if(err) return console.log(err)
-    console.log(res)
-    res.map((list,i)=>{
-        const content = templates(list.title,list.dec,'images/plant1-lg.jpg',i,'src/pages/category/bigplants.md','product',list.table)
+    if(err) return console.log(err);
+    console.log(res);
+    _.compact(res).map((list,i)=>{
+        const content = templates(list.title,list.dec,'images/plant1-lg.jpg',i,'src/pages/category/bigplants.md','product',list.table,list.features)
         console.log(i)
         writeMD(list.title,content)
     })

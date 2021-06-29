@@ -1,1 +1,2699 @@
-[{"title":"S12700系列敏捷交换机","link":"https://e.huawei.com/cn/material/networking/campusswitch/04777c3fce3b45ee9ab5f3b1333159a3","table":{"single":[[{"row":null,"col":null,"text":"项目"},{"row":null,"col":null,"text":"S12704"},{"row":null,"col":null,"text":"S12708"},{"row":null,"col":null,"text":"S12712"}],[{"row":null,"col":null,"text":"交换容量"},{"row":null,"col":null,"text":"28.8/102.4Tbps"},{"row":null,"col":null,"text":"52.48/204.8Tbps"},{"row":null,"col":null,"text":"78.08/307.2Tbps"}],[{"row":null,"col":null,"text":"包转发率"},{"row":null,"col":null,"text":"3600/24000Mpps"},{"row":null,"col":null,"text":"7200/48000Mpps"},{"row":null,"col":null,"text":"10080/86400Mpps"}],[{"row":null,"col":null,"text":"主控板槽位数"},{"row":null,"col":null,"text":"2"},{"row":null,"col":null,"text":"2"},{"row":null,"col":null,"text":"2"}],[{"row":null,"col":null,"text":"交换网板槽位数"},{"row":null,"col":null,"text":"2"},{"row":null,"col":null,"text":"4"},{"row":null,"col":null,"text":"4"}],[{"row":null,"col":null,"text":"业务板槽位数"},{"row":null,"col":null,"text":"4"},{"row":null,"col":null,"text":"8"},{"row":null,"col":null,"text":"12"}],[{"row":null,"col":null,"text":"风扇框"},{"row":null,"col":null,"text":"2"},{"row":null,"col":null,"text":"4"},{"row":null,"col":null,"text":"5"}],[{"row":null,"col":null,"text":"架构"},{"row":null,"col":"3","text":"CLOS架构"}],[{"row":null,"col":null,"text":"冗余设计"},{"row":null,"col":"3","text":"主控、交换网板、电源、风扇框（前后及左后风道）"}],[{"row":null,"col":null,"text":"虚拟化"},{"row":null,"col":"3","text":"支持CSS2交换网硬件集群，集群主控1+N备份，1.92Tbps集群带宽，4μs跨框时延\n支持1：N的虚拟化能力"}],[{"row":null,"col":null,"text":"无线管理"},{"row":null,"col":"3","text":"支持随板AC，每单板最大可管理4K AP，整机管理10K AP\n支持AP接入控制、AP域管理和AP配置模板管理\n支持射频模板管理、统一静态配置和集中动态管理\n支持WLAN基本业务、QoS、安全和用户管理"}],[{"row":null,"col":null,"text":"用户管理"},{"row":null,"col":"3","text":"支持有线无线统一用户管理，每单板管理16K 用户\n支持PPPoE、802.1X、MAC、Portal认证方式\n支持基于流量、时长和DAA（按照目的地址）计费方式\n支持分组分域分时授权方式"}],[{"row":null,"col":null,"text":"iPCA质量感知"},{"row":null,"col":"3","text":"支持直接对业务报文标记以获得丢包数量和丢包率的实时统计\n支持二三层网络网络级和设备级丢包数量和丢包率统计"}],[{"row":null,"col":null,"text":"SVF2.0简化运维"},{"row":null,"col":"3","text":"支持将多达10K个Client节点（接入交换机与AP）虚拟为一台设备管理\n支持2层AS架构\n支持与第三方厂商混合组网管理"}],[{"row":null,"col":null,"text":"数据中心特性"},{"row":null,"col":"3","text":"支持TRILL，FCoE（DCB），EVN，nCenter，EVB，SPB，VxLAN等数据中心特性"}],[{"row":null,"col":null,"text":"Open Flow\n"},{"row":null,"col":"3","text":"支持多控制器\n支持高达九级流表\n支持高达256K流表\n支持Group table\n支持Meter\n支持Open Flow 1.3标准"}],[{"row":null,"col":null,"text":"缓存容量"},{"row":null,"col":"3","text":"支持每端口200ms数据缓存"}],[{"row":null,"col":null,"text":"互通性"},{"row":null,"col":"3","text":"VBST基于VLAN生成树协议（和PVST/PVST+/RPVST互通）\nLNP链路类型协商协议（和DTP相似功能）\nVCMP VLAN集中管理协议（和VTP相似功能）\n\n\n\n详细的互联互通认证与报告，请访问这里。"}]]},"dec":"S12700是面向下一代园区网核心设计开发的敏捷交换机，采用全可编程架构，灵活快速满足业务需求，新业务6个月即可上线。","features":[{"title":"全可编程","dec":["","基于全可编程架构，新业务通过编程实现，快速灵活，6个月即可上线",""]},{"title":"百万级硬件表项","dec":["","1M MAC表项，3M FIB表项，1M Netstream表项，支持8*100GE、16*40GE高密板卡，满足城域、高校、大企业终端和业务增长",""]},{"title":"有线无线深度融合","dec":["","支持随板AC，最大可管理10K AP；整机无线转发性能可达4T-bit。支持SVF超级虚拟交换网， 将“核心/汇聚+接入交换机+AP”网络架构虚拟化为一台设备进行管理，极简网络运维",""]}]},{"title":"S1700系列企业交换机","link":"","table":{"全管理型交换机":[[{"row":null,"col":null,"text":"产品型号"},{"row":null,"col":null,"text":"S1720-10GW-2P-E\nS1720-10GW-PWR-2P-E"},{"row":null,"col":null,"text":"S1720-10GF-2P\nS1720-10GF-PWR-2P"},{"row":null,"col":null,"text":"S1720-28GWR-4P-E\nS1720-28GWR-PWR-4P-E\nS1720-28GWR-PWR-4TP-E\nS1720-28GWR-4X-E\nS1720-28GWR-PWR-4X-E\nS1720-52GWR-4P-E\nS1720-52GWR-PWR-4P-E\nS1720-52GWR-4X-E\nS1720-52GWR-PWR-4X-E"},{"row":null,"col":null,"text":"S1720-28GFR-4P\nS1720-28GFR-PWR-4P\nS1720-52GFR-4P\nS1720-52GFR-PWR-4P"},{"row":null,"col":null,"text":"S1720X-16XWR-E\nS1720X-32XWR-E"}],[{"row":null,"col":null,"text":"设备管理"},{"row":null,"col":"5","text":"支持SNMP\n支持WEB网管（支持HTTPS）\n支持DHCP-client\n支持用户口令保护\n支持一键还原\n支持命令行配置"}],[{"row":null,"col":null,"text":"交换容量"},{"row":null,"col":null,"text":"68Gbps"},{"row":null,"col":null,"text":"68Gbps"},{"row":null,"col":null,"text":"S1720-28GWR-P/TP系列：68Gbps\nS1720-28GWR-X系列：168Gbps\nS1720-52GWR-P系列：336Gbps\nS1720-52GWR-X：336Gbps"},{"row":null,"col":null,"text":"S1720-28GFR-P系列：68Gbps\nS1720-52GFR-P系列：336Gbps"},{"row":null,"col":null,"text":"680Gbps"}],[{"row":null,"col":null,"text":"包转发率"},{"row":null,"col":null,"text":"15Mpps"},{"row":null,"col":null,"text":"15Mpps"},{"row":null,"col":null,"text":"S1720-28GWR-P/TP系列：42Mpps\nS1720-28GWR-X系列：96Mpps\nS1720-52GWR-P系列：78Mpps\nS1720-52GWR-X系列：132Mpps"},{"row":null,"col":null,"text":"S1720-28GFR-P系列：42Mbps\nS1720-52GFR-P系列：78Mbps"},{"row":null,"col":null,"text":"S1720X-16XWR-E：240Mpps\nS1720X-32XWR-E：252Mpps"}],[{"row":null,"col":null,"text":"固定端口"},{"row":null,"col":null,"text":"下行：8个10/100/1000Base-T以太网电接口\n上行：2个1000Base-X以太网光接口"},{"row":null,"col":null,"text":"下行：8个10/100/1000Base-T以太网电接口\n上行：2个1000Base-X以太网光接口"},{"row":null,"col":null,"text":"S1720-28GWR-P系列\n下行：24个10/100/1000Base-T以太网电接口\n上行：4个1000Base-X以太网光接口\nS1720-28GWR-TP系列\n下行：24个10/100/1000Base-T以太网电接口\n上行：4个1000Base-X以太网光接口，2个复用的10/100/1000Base-T以太网Combo接口\nS1720-28GWR-X系列\n下行：24个10/100/1000Base-T以太网电接口\n上行：4个10GBase-X以太网光接口\nS1720-52GWR-P系列\n下行：48个10/100/1000Base-T以太网电接口\n上行：4个1000Base-X以太网光接口\nS1720-52GWR-X系列\n下行：48个10/100/1000Base-T以太网电接口\n上行：4个10GBase-X以太网光接口"},{"row":null,"col":null,"text":"S1720-28GFR-P系列\n下行：24个10/100/1000Base-T以太网电接口\n上行：4个1000Base-X以太网光接口\nS1720-52GFR-P系列\n下行：48个10/100/1000Base-T以太网电接口\n上行：4个1000Base-X以太网光接口"},{"row":null,"col":null,"text":"S1720X-16XWR-E：16个10GBase-X以太网光接口\nS1720X-32XWR-E：32个10GBase-X以太网光接口\n注：上下行接口共用"}],[{"row":null,"col":null,"text":"VLAN特性"},{"row":null,"col":"5","text":"支持4K VLAN\n支持Access端口\n支持Trunk端口\n支持Hybrid端口\n支持管理VLAN\n支持Voice VLAN"}],[{"row":null,"col":null,"text":"IP路由"},{"row":null,"col":"5","text":"支持IPv4、IPv6静态路由\n支持RIP/RIPng/OSPF动态路由\n支持VRRP"}],[{"row":null,"col":null,"text":"设备维护"},{"row":null,"col":"5","text":"支持RMON（Remote Network Monitoring）\n支持Syslog（系统日志）\n支持Ping检测/支持Traceroute\n支持VCT(Virtual Cable Test)\n支持链路层发现协议LLDP（Link Layer Discovery Protocol）\n支持auto-config"}]],"Web管理型交换机":[[{"row":null,"col":null,"text":"产品型号"},{"row":null,"col":null,"text":"S1720-10GW-2P\n            S1720-10GW-PWR-2P"},{"row":null,"col":null,"text":"S1720-28GWR-4P\n            S1720-28GWR-PWR-4P\n            S1720-28GWR-PWR-4TP\n            S1720-28GWR-4X\n            S1720-28GWR-PWR-4X\n            S1728GWR-4P"},{"row":null,"col":null,"text":"S1720-52GWR-4P\n            S1720-52GWR-PWR-4P\n            S1720-52GWR-4X\n            S1720-52GWR-PWR-4X"},{"row":null,"col":null,"text":"S1720X-16XWR"},{"row":null,"col":null,"text":"S1720X-32XWR"}],[{"row":null,"col":null,"text":"交换容量"},{"row":null,"col":null,"text":"68Gbps"},{"row":null,"col":null,"text":"S1720-28GWR-P/TP系列：68Gbps\n            S1720-28GWR-X系列：168Gbps\n            S1728GWR-4P：56Gbps"},{"row":null,"col":null,"text":"336Gbps"},{"row":null,"col":null,"text":"680Gbps"},{"row":null,"col":null,"text":"680Gbps"}],[{"row":null,"col":null,"text":"包转发率"},{"row":null,"col":null,"text":"15Mpps"},{"row":null,"col":null,"text":"S1720-28GWR-P/TP系列：42Mpps\n            S1720-28GWR-X系列：96Mpps\n            S1728GWR-4P：42Mpps"},{"row":null,"col":null,"text":"S1720-52GWR-P系列：78 Mpps\n            S1720-52GWR-X系列：132 Mpps"},{"row":null,"col":null,"text":"240Mpps"},{"row":null,"col":null,"text":"252Mpps"}],[{"row":null,"col":null,"text":"固定端口"},{"row":null,"col":null,"text":"下行：8个10/100/1000Base-T以太网电接口\n            上行：2个1000Base-X以太网光接口"},{"row":null,"col":null,"text":"S1720-28GWR-P系列\n            下行：24个10/100/1000Base-T以太网电接口\n            上行：4个1000Base-X以太网光接口\n            S1720-28GWR-TP系列\n            下行：24个10/100/1000Base-T以太网电接口\n            上行：4个1000Base-X以太网光接口，2个复用的10/100/1000Base-T以太网Combo接口\n            S1720-28GWR-X系列\n            下行：24个10/100/1000Base-T以太网电接口\n            上行：4个10GBase-X以太网光接口\n            S1728GWR-4P\n            下行：24个10/100/1000Base-T以太网电接口\n            上行：4个1000Base-X以太网光接口"},{"row":null,"col":null,"text":"S1720-52GWR-P系列\n            下行：48个10/100/1000Base-T以太网端口\n            上行：4个千兆SFP\n            S1720-52GWR-X系列\n            下行：48个10/100/1000Base-T以太网端口\n            上行：4个10GBase-X以太网光接口"},{"row":null,"col":null,"text":"16个10GBase-X以太网光接口\n            注：上下行接口共用"},{"row":null,"col":null,"text":"32个10GBase-X以太网光接口\n            注：上下行接口共用"}],[{"row":null,"col":null,"text":"VLAN特性"},{"row":null,"col":"5","text":"支持4K VLAN（S1728GWR-4P：256）\n            支持Access端口\n            支持Trunk端口\n            支持Hybrid端口\n            支持管理VLAN\n            支持Voice VLAN"}],[{"row":null,"col":null,"text":"IP路由"},{"row":null,"col":"5","text":"支持IPv4、IPv6静态路由（S1728GWR-4P除外）"}],[{"row":null,"col":null,"text":"设备维护"},{"row":null,"col":"5","text":"支持Syslog（系统日志）\n            支持Ping检测\n            支持VCT(Virtual Cable Test)\n            支持链路层发现协议LLDP（Link Layer\n            Discovery Protocol）"}]],"无管理型交换机":[[{"row":null,"col":null,"text":"产品型号"},{"row":null,"col":null,"text":"S1700-8-AC\n            S1700-16R\n            S1700-24R\n            S1700-24-AC"},{"row":null,"col":null,"text":"S1700-26R-2T\n            S1700-52R-2T2P-AC"},{"row":null,"col":null,"text":"S1700-8G-AC\n            S1700-16G\n            S1724G-AC\n            S1700-24GR"},{"row":null,"col":null,"text":"S1700-28GR-4X\n            S1700-52GR-4X"}],[{"row":null,"col":null,"text":"交换容量"},{"row":null,"col":null,"text":"S1700-8-AC：1.6Gbps\n            S1700-16R：3.2Gbps\n            S1700-24R：4.8Gbps\n            S1700-24-AC：4.8Gbps"},{"row":null,"col":null,"text":"S1700-26R-2T：8.8Gbps\n            S1700-52R-2T2P-AC：17.6Gbps"},{"row":null,"col":null,"text":"S1700-8G-AC：16Gbps\n            S1700-16G：32Gbps\n            S1724G-AC：48Gbps\n            S1700-24GR：48Gbps"},{"row":null,"col":null,"text":"S1700-28GR-4X：168Gbps\n            S1700-52GR-4X：336Gbps"}],[{"row":null,"col":null,"text":"包转发率"},{"row":null,"col":null,"text":"S1700-8-AC：1.2Mpps\n            S1700-16R：2.4Mpps\n            S1700-24R：3.6Mpps\n            S1700-24-AC：3.6Mpps"},{"row":null,"col":null,"text":"S1700-26R-2T：6.6Mpps\n            S1700-52R-2T2P-AC：13.2Mpps"},{"row":null,"col":null,"text":"S1700-8G-AC：12Mpps\n            S1700-16G：24Mpps\n            S1724G-AC：36Mpps\n            S1700-24GR：36Mpps"},{"row":null,"col":null,"text":"S1700-28GR-4X：96Mpps\n            S1700-52GR-4X：132Mpps"}],[{"row":null,"col":null,"text":"端口类型"},{"row":null,"col":null,"text":"全百兆"},{"row":null,"col":null,"text":"百兆接入千兆上行"},{"row":null,"col":null,"text":"全千兆"},{"row":null,"col":null,"text":"千兆接入万兆上行"}],[{"row":null,"col":null,"text":"固定端口"},{"row":null,"col":null,"text":"S1700-8-AC：8个10/100Base-T以太网电接口\n            S1700-16R：16个10/100Base-T以太网电接口\n            S1700-24R：24个10/100Base-T以太网电接口\n            S1700-24-AC：24个10/100Base-T以太网电接口\n            注：上下行接口共用"},{"row":null,"col":null,"text":"S1700-26R-2T\n            下行：24个10/100Base-T以太网电接口\n            上行：2个10/100/1000Base-T以太网电接口\n            S1700-52R-2T2P-AC\n            下行：48个10/100Base-T以太网电接口\n            上行：2个10/100/1000Base-T以太网电接口，2个1000Base-X以太网光接口"},{"row":null,"col":null,"text":"S1700-8G-AC：8个10/100/1000Base-T以太网电接口\n            S1700-16G：16个10/100/1000Base-T以太网电接口\n            S1724G-AC：24个10/100/1000Base-T以太网电接口\n            S1700-24GR:24个10/100/1000Base-T以太网电接口\n            注：上下行接口共用"},{"row":null,"col":null,"text":"S1700-28GR-4X\n            下行：24个10/100/1000Base-T以太网电接口\n            上行：4个10GBase-X以太网光接口\n            S1700-52GR-4X\n            下行：48个10/100/1000Base-T以太网电接口\n            上行：4个10GBase-X以太网光接口"}]]},"dec":"S1700系列交换机提供简单便利的安装维护手段和丰富的业务特性，助力用户打造安全可靠的高性能网络，可广泛应用于中小企业、网吧、酒店、学校等以太接入场景。根据设备支持的不同管理方式，S1700系列交换机可划分为如下三类。","features":[{"title":"款型丰富","dec":["","同时提供无管理、Web管理及全管理等系列产品，可满足客户不同应用场景需求。",""]},{"title":"静音节能","dec":["","支持端口低耗电闲置模式，大幅降低功耗；采用无风扇静音设计，降低整机功耗，同时让您免除噪音的烦扰\n（部分款型为内置风扇款型，散热类型为风扇强制散热）",""]},{"title":"安全，无阻塞转发","dec":["","丰富的安全特性，802.1x、Portal、MAC等安全认证方式； 提供二层线速交换能力，所有端口无阻塞转发",""]}]},{"title":"S1820EC系列企业交换机","link":null,"table":{"single":[[{"row":null,"col":null,"text":"产品型号"},{"row":null,"col":null,"text":"S1820EC-8G"},{"row":null,"col":null,"text":"S1820EC-24G"}],[{"row":null,"col":null,"text":"包转发率"},{"row":null,"col":null,"text":"12 Mpps"},{"row":null,"col":null,"text":"36 Mpps"}],[{"row":null,"col":null,"text":"交换容量"},{"row":null,"col":null,"text":"16 Gbps"},{"row":null,"col":null,"text":"48 Gbps"}],[{"row":null,"col":null,"text":"固定端口"},{"row":null,"col":null,"text":"8个10/100/1000Base-T以太网端口"},{"row":null,"col":null,"text":"24个10/100/1000Base-T以太网端口"}],[{"row":null,"col":null,"text":"MAC特性"},{"row":null,"col":"2","text":"遵循IEEE 802.1d标准\n支持8K MAC地址容量\nMAC老化时间为5分钟"}],[{"row":null,"col":null,"text":"端口特性"},{"row":null,"col":"2","text":"支持端口属性自协商\n支持Jumbo帧\n支持端口自动休眠"}],[{"row":null,"col":null,"text":"防雷"},{"row":null,"col":null,"text":"业务口±7kV；电源口±4kV"},{"row":null,"col":null,"text":"业务口±7kV；电源口±6kV"}]]},"dec":"S1820EC系列交换机是华为公司针对电商市场推出的即插即用、绿色节能的无管理型以太网接入交换机。它提供简单便利的安装维护手段，从而助力用户打造便捷的网络，可广泛应用于网吧、酒店、学校等中小企业以太接入场景。","features":[{"title":"绿色节能","dec":["","支持自动节能技术，大幅降低功耗；无风扇静音设计，减少整机功耗同时让您免除噪音的烦扰",""]},{"title":"先进的防雷技术","dec":["","内置专业防雷技术，业务口支持最高达7KV的防雷能力",""]},{"title":"无阻塞高速转发","dec":["","具备全端口二层线速转发能力，保障所有端口无阻塞极速转发",""]}]},{"title":"S2720-EI系列企业交换机","link":"https://e.huawei.com/cn/material/networking/campusswitch/9c184be712c647bda3f31ac8d1fb0895","table":{"single":[[{"row":null,"col":null,"text":"产品型号"},{"row":null,"col":null,"text":"S2720-12TP-EI\nS2720-12TP-PWR-EI"},{"row":null,"col":null,"text":"S2720-28TP-PWR-EI-L\nS2720-28TP-EI\nS2720-28TP-PWR-EI"},{"row":null,"col":null,"text":"S2720-52TP-EI\nS2720-52TP-PWR-EI"}],[{"row":null,"col":null,"text":"交换容量"},{"row":null,"col":null,"text":"128Gbps"},{"row":null,"col":null,"text":"128Gbps"},{"row":null,"col":null,"text":"336Gbps"}],[{"row":null,"col":null,"text":"包转发率"},{"row":null,"col":null,"text":"12.6Mpps"},{"row":null,"col":null,"text":"20.4Mpps"},{"row":null,"col":null,"text":"34.8Mpps"}],[{"row":null,"col":null,"text":"固定端口"},{"row":null,"col":null,"text":"下行4个百兆，4个千兆端口\n上行4个千兆端口"},{"row":null,"col":null,"text":"下行16个百兆，8个千兆端口\n上行4个千兆端口"},{"row":null,"col":null,"text":"下行32个百兆，16个千兆端口\n上行4个千兆端口"}],[{"row":null,"col":null,"text":"MAC特性"},{"row":null,"col":"3","text":"支持16K MAC地址\n支持MAC地址自动学习和老化\n支持静态、动态、黑洞MAC表项\n支持接口MAC地址学习个数限制"}],[{"row":null,"col":null,"text":"VLAN特性"},{"row":null,"col":"3","text":"支持4K个VLAN\n支持基于MAC/协议/IP子网/策略/端口的VLAN\n支持基于端口的QinQ"}],[{"row":null,"col":null,"text":"IP路由"},{"row":null,"col":"3","text":"静态路由\n支持RIP、RIPng，OSPF协议"}],[{"row":null,"col":null,"text":"互通性"},{"row":null,"col":"3","text":"VBST基于VLAN生成树协议（和PVST/PVST+/RPVST 互通）\nLNP 链路类型协商协议（和DTP相似功能）\nVCMP VLAN集中管理协议（和VTP相似功能）\n\n详细的互联互通认证与报告，请访问这里。"}]]},"dec":"S2720-EI系列企业交换机提供灵活的百兆、千兆端口组合，支持多种三层路由协议，具备更高性能和更丰富的业务处理能力，可作为Client接入SVF超级虚拟交换网，广泛应用于企业园区接入、百兆到桌面千兆上行等多种应用场景。","features":[{"title":"丰富的端口形态","dec":["","百兆千兆端口混合，接入端口丰富",""]},{"title":"智能堆叠","dec":["","iStack智能堆叠提升交换机可靠性、可扩展性，堆叠后的逻辑系统可统一配置管理，大大降低系统运维的成本",""]},{"title":"高性能","dec":["","支持RIP、OSPF特性，路由性能在百兆交换机领域拥有领先地位",""]}]},{"title":"S3700系列企业交换机","link":null,"table":{"single":[[{"row":null,"col":null,"text":"项目"},{"row":null,"col":null,"text":"S3700-SI"},{"row":null,"col":null,"text":"S3700-EI"}],[{"row":null,"col":null,"text":"交换容量\n"},{"row":null,"col":null,"text":"64Gbps\n"},{"row":null,"col":null,"text":"64Gbps\n"}],[{"row":null,"col":null,"text":"包转发率\n"},{"row":null,"col":null,"text":"S3700-28TP-SI-AC：14.1Mpps\nS3700-52P-SI-AC：17.7Mpps"},{"row":null,"col":null,"text":"S3700-28TP-EI-AC：14.1Mpps\nS3700-28TP-PWR-EI：14.1Mpps\nS3700-28TP-EI-24S-AC：14.1Mpps\nS3700-52P-EI-AC：17.7Mpps\nS3700-52P-PWR-EI：17.7Mpps"}],[{"row":null,"col":null,"text":"端口描述"},{"row":null,"col":null,"text":"下行24个或者48个百兆端口\n上行4个千兆端口"},{"row":null,"col":null,"text":"下行24个或者48个百兆端口\n上行4个千兆端口"}],[{"row":null,"col":null,"text":"可靠性"},{"row":null,"col":null,"text":"支持RRPP/Smart-Link/智能以太保护SEP(Smart Ethernet Protection)\n支持STP/RSTP/MSTP"},{"row":null,"col":null,"text":"支持RRPP/Smart-Link/智能以太保护SEP(Smart Ethernet Protection)\n支持STP/RSTP/MSTP\n支持BFD"}],[{"row":null,"col":null,"text":"IP路由"},{"row":null,"col":null,"text":"静态路由、RIP v1/v2、ECMP"},{"row":null,"col":null,"text":"静态路由、RIP v1/v2、ECMP、OSPF、IS-IS、BGP"}],[{"row":null,"col":null,"text":"IPv6特性"},{"row":null,"col":null,"text":"支持ND（Neighbor Discovery）\n支持PMTU\n支持IPv6 Ping、IPv6 Tracert、IPv6 Telnet\n支持手动配置Tunnel\n支持6to4 tunnel\n支持ISATAP tunnel\n支持基于源IPv6 地址、目的IPv6 地址、TCP/UDP协议端口号、协议类型等ACL\n支持MLD v1/v2 Snooping（Multicast Listener Discovery snooping）"},{"row":null,"col":null,"text":"支持ND（Neighbor Discovery）\n支持PMTU\n支持IPv6 Ping、IPv6 Tracert、IPv6 Telnet\n支持手动配置Tunnel\n支持6to4 tunnel\n支持ISATAP tunnel\n支持基于源IPv6 地址、目的IPv6 地址、TCP/UDP协议端口号、协议类型等ACL\n支持MLD v1/v2 Snooping（Multicast Listener Discovery snooping）"}],[{"row":null,"col":null,"text":"组播"},{"row":null,"col":null,"text":"支持1K的组播组\n支持IGMP v1/v2/v3 Snooping和快速离开机制\n支持组播VLAN和跨VLAN组播复制\n支持捆绑端口的组播负载分担\n基于可控组播\n基于端口的组播流量统计"},{"row":null,"col":null,"text":"支持1K的组播组\n支持IGMP v1/v2/v3 Snooping和快速离开机制\n支持组播VLAN和跨VLAN组播复制\n支持捆绑端口的组播负载分担\n基于可控组播\n基于端口的组播流量统计"}],[{"row":null,"col":null,"text":"QoS/ACL"},{"row":null,"col":null,"text":"支持端口入方向、出方向的速率限制\n支持报文重定向\n支持基于端口的流量监管，支持双速三色CAR功能\n每端口支持8个优先级队列\n支持WRR、DRR、SP、WRR＋SP、DRR+SP等队列调度算法\n支持报文的802.1p和DSCP优先级重新标记\n支持L2（Layer 2）~L4（Layer 4）包过滤功能，提供基于源MAC地址、目的MAC地址、源IP地址、目的IP地址、TCP/UDP协议端口号、协议、VLAN的非法帧过滤功能\n支持基于队列限速和流量整形功能"},{"row":null,"col":null,"text":"支持端口入方向、出方向的速率限制\n支持报文重定向\n支持基于端口的流量监管，支持双速三色CAR功能\n每端口支持8个优先级队列\n支持WRR、DRR、SP、WRR＋SP、DRR+SP等队列调度算法\n支持报文的802.1p和DSCP优先级重新标记\n支持L2（Layer 2）~L4（Layer 4）包过滤功能，提供基于源MAC地址、目的MAC地址、源IP地址、目的IP地址、TCP/UDP协议端口号、协议、VLAN的非法帧过滤功能\n支持基于队列限速和流量整形功能"}],[{"row":null,"col":null,"text":"接入和安全特性"},{"row":null,"col":null,"text":"用户分级管理和口令保护\n支持防止DOS、ARP防攻击、ICMP防攻击功能\n支持IP、MAC、端口、VLAN的组合绑定\n支持端口隔离、端口安全、Sticky MAC\n支持黑洞MAC地址\n支持MAC地址学习数目限制\n支持IEEE 802.1x认证，支持单端口最大用户数限制\n支持AAA认证，支持Radius、HWTACACS等多种方式\n支持SSH V2.0\n支持CPU保护功能 支持黑名单和白名单\n支持DHCP Server,DHCP Relay, DHCP Snooping, DHCP Security"},{"row":null,"col":null,"text":"用户分级管理和口令保护\n支持防止DOS、ARP防攻击、ICMP防攻击功能\n支持IP、MAC、端口、VLAN的组合绑定\n支持端口隔离、端口安全、Sticky MAC\n支持黑洞MAC地址\n支持MAC地址学习数目限制\n支持IEEE 802.1x认证，支持单端口最大用户数限制\n支持AAA认证，支持Radius、HWTACACS等多种方式\n支持SSH V2.0\n支持CPU保护功能 支持黑名单和白名单\n支持DHCP Server,DHCP Relay, DHCP Snooping, DHCP Security"}],[{"row":null,"col":null,"text":"防雷能力"},{"row":null,"col":null,"text":"业务端口防雷能力：7KV"},{"row":null,"col":null,"text":"业务端口防雷能力：7KV"}],[{"row":null,"col":null,"text":"管理和维护"},{"row":null,"col":null,"text":"支持智能堆叠\n支持MFF\n支持Telnet远程配置、维护\n支持自动配置功能\n支持VCT虚拟电缆检测(Virtual Cable Test)\n支持以太OAM（802.3ah 和 802.1ag）\n支持SNMPv1/v2c/v3；支持RMON\n支持MUX VLAN特性；支持GVRP协议\n支持eSight网管系统、支持WEB管理特性\n支持SSH V2"},{"row":null,"col":null,"text":"支持智能堆叠\n支持MFF\n支持Telnet远程配置、维护\n支持自动配置功能\n支持VCT虚拟电缆检测(Virtual Cable Test)\n支持以太OAM（802.3ah 和 802.1ag）\n支持SNMPv1/v2c/v3；支持RMON\n支持MUX VLAN特性；支持GVRP协议\n支持eSight网管系统、支持WEB管理特性\n支持SSH V2"}],[{"row":null,"col":null,"text":"互通性"},{"row":null,"col":"2","text":"LNP链路类型协商协议（和DTP相似功能）\nVCMP VLAN集中管理协议（和VTP相似功能）\n\n详细的互联互通认证与报告，请访问这里 。"}]]},"dec":"S3700系列企业交换机是华为公司推出的新一代绿色节能的三层以太交换机。,基于新一代高性能硬件和华为 VRP（Versatile Routing Platform）软件平台，针对企业用户园区汇聚、接入等多种应用场景，提供简单便利的安装维护手段、灵活的VLAN部署和PoE供电能力、丰富的路由功能和IPv6平滑升级能力，并通过融合堆叠、虚拟路由器冗余、快速环网保护等先进技术有效增强网络健壮性，助力企业搭建面向未来的IT网络。","features":[]},{"title":"S5720-EI系列增强型千兆以太交换机","link":null,"table":{"single":[[{"row":null,"col":null,"text":"产品型号"},{"row":null,"col":null,"text":"S5720-P-EI系列"},{"row":null,"col":null,"text":"S5720-X-EI系列"},{"row":null,"col":null,"text":"S5720-PC-EI系列"},{"row":null,"col":null,"text":"S5720-C-EI系列"}],[{"row":null,"col":null,"text":"交换容量"},{"row":null,"col":null,"text":"598Gbps/5.98Tbps"},{"row":null,"col":null,"text":"598Gbps/5.98Tbps"},{"row":null,"col":null,"text":"598Gbps/5.98Tbps"},{"row":null,"col":null,"text":"598Gbps/5.98Tbps"}],[{"row":null,"col":null,"text":"包转发率"},{"row":null,"col":"4","text":"S5720-32P-EI-AC:168Mpps\nS5720-52P-EI-AC:198Mpps\nS5720-32X-EI-AC:222Mpps\nS5720-32X-EI-24S-AC:222Mpps\nS5720-32X-EI-24S-DC:222Mpps\nS5720-50X-EI-AC:249Mpps\nS5720-50X-EI-DC:249Mpps\nS5720-50X-EI-46S-AC:249Mpps\nS5720-50X-EI-46S-DC:249Mpps\nS5720-52X-EI-AC:252Mpps\nS5720-36PC-EI-AC:168Mpps\nS5720-56PC-EI-AC:198Mpps\nS5720-36C-EI-28S-AC:222Mpps\nS5720-36C-EI-28S-DC:222Mpps\nS5720-36C-EI-AC:222Mpps\nS5720-36C-PWR-EI-AC:222Mpps\nS5720-56C-EI-48S-AC:252Mpps\nS5720-56C-EI-48S-DC:252Mpps\nS5720-56C-EI-AC:252Mpps\nS5720-56C-EI-DC:252Mpps\nS5720-56C-PWR-EI-AC:252Mpps\nS5720-56C-PWR-EI-DC:252Mpps\nS5720-56C-PWR-EI-AC1:252Mpps"}],[{"row":null,"col":null,"text":"扩展插槽"},{"row":null,"col":"2","text":"N/A"},{"row":null,"col":"2","text":"提供1个扩展插槽，可扩展支持：\n\n业务插卡：2端口万兆SFP+光接口后插卡\n堆叠卡：2端口QSFP+专用堆叠后插卡\n防火墙插卡*"}],[{"row":null,"col":null,"text":"MAC特性"},{"row":null,"col":"4","text":"64K\n支持MAC地址自动学习和老化\n支持静态、动态、黑洞MAC表项\n支持源MAC地址过滤"}],[{"row":null,"col":null,"text":"VLAN特性"},{"row":null,"col":"4","text":"支持4K个VLAN\n支持Guest VLAN、Voice VLAN\n支持GVRP协议\n支持MUX VLAN功能\n支持基于MAC/协议/IP子网/策略/端口的VLAN\n支持1:1和N:1 VLAN Mapping功能\n支持协议透明VLAN"}],[{"row":null,"col":null,"text":"IP路由"},{"row":null,"col":"4","text":"静态路由、RIP V1/2、RIPng\nOSPF、OSPFv3、IS-IS、IS-ISv6\nBGP、BGP4+、ECMP、路由策略"}],[{"row":null,"col":null,"text":"互通性"},{"row":null,"col":"4","text":"VBST基于VLAN生成树协议（和PVST/PVST+/RPVST 互通）\nLNP 链路类型协商协议（和DTP相似功能）\nVCMP VLAN集中管理协议（和VTP相似功能）\n\n详细的互联互通认证与报告，请访问这里。"}]]},"dec":"S5720-EI系列增强型千兆以太网交换机提供灵活的全千兆接入以及增强的万兆上行端口扩展能力，广泛应用于企业园区接入、汇聚，数据中心千兆接入等多种应用场景。","features":[{"title":"高可扩展","dec":["","提供灵活的全千兆光/电/Combo口接入以及增强的万兆上行端口扩展能力",""]},{"title":"高可靠","dec":["","多样的设备级和链路级可靠性保护，智能iStack堆叠，丰富的环网保护技术，更短的故障切换时间",""]},{"title":"SVF极简网络运维","dec":["","SVF（超级虚拟交换网）将园区“核心/汇聚+接入交换机+AP”的网络架构，虚拟化为一台网元，可作为SVF Client角色，即插即用，极简网络运维",""]}]},{"title":"S6720-HI系列全功能万兆路由交换机","link":"https://e.huawei.com/cn/material/networking/campusswitch/c3f8b4e895354f96a4aa277a58a5ad3f","table":{"single":[[{"row":null,"col":null,"text":"产品型号"},{"row":null,"col":null,"text":"S6720-50L-HI-48S"},{"row":null,"col":null,"text":"S6720-30L-HI-24S"}],[{"row":null,"col":null,"text":"交换容量"},{"row":null,"col":null,"text":"2.56Tbps/23.04Tbps\n"},{"row":null,"col":null,"text":"2.56Tbps/23.04Tbps\n"}],[{"row":null,"col":null,"text":"包转发率"},{"row":null,"col":null,"text":"1200Mpps"},{"row":null,"col":null,"text":"900Mpps"}],[{"row":null,"col":null,"text":"固定端口"},{"row":null,"col":null,"text":"48个万兆SFP+,6个40GE QSFP+或44个万兆SFP+,4个40GE QSFP+,2个100GE QSFP28"},{"row":null,"col":null,"text":"24个万兆SFP+,4个40GE QSFP+,2个100GE QSFP28"}],[{"row":null,"col":null,"text":"扩展插槽"},{"row":null,"col":null,"text":"不支持"},{"row":null,"col":null,"text":"不支持"}],[{"row":null,"col":null,"text":"MAC特性"},{"row":null,"col":"2","text":"支持64K MAC地址容量\n遵循IEEE 802.1d标准\n支持MAC地址自动学习和老化\n支持静态、动态、黑洞MAC表项\n支持源MAC地址过滤\n"}],[{"row":null,"col":null,"text":"VLAN特性"},{"row":null,"col":"2","text":"支持4K个VLAN\n支持Guest VLAN、Voice VLANs\n支持GVRP协议\n支持MUX VLAN功能\n支持基于MAC/协议/IP子网/策略/端口的VLAN\n支持VLAN Mapping功能\n"}],[{"row":null,"col":null,"text":"IP路由"},{"row":null,"col":"2","text":"静态路由、RIP V1/2、RIPng、OSPF、OSPFv3、IS-IS、IS-ISv6、BGP、BGP4+、ECMP、路由策略"}],[{"row":null,"col":null,"text":"无线业务"},{"row":null,"col":"2","text":"支持管理1K AP\n提供668Gbps无线转发能力（基于1024字节包长计算）\n支持AP接入控制、AP域管理和AP配置模板管理\n支持射频管理、统一静态配置和集中动态管理\n支持WLAN基本业务、QoS、安全和用户管理\n支持CAPWAP、Tag/终端定位、频谱分析"}],[{"row":null,"col":null,"text":"互通性"},{"row":null,"col":"2","text":"VBST基于VLAN生成树协议（和PVST/PVST+/RPVST 互通）\nLNP 链路类型协商协议（和DTP相似功能）\nVCMP VLAN集中管理协议（和VTP相似功能）\n\n详细的互联互通认证与报告，请访问这里。"}]]},"dec":"S6720-HI系列全功能万兆路由交换机是华为首款下行万兆、上行40G和100G端口的盒式交换机，支持丰富的敏捷特性，可广泛应用于企业园区、运营商、高校、政府等应用场景。","features":[{"title":"有线无线融合","dec":["","融合AC功能，支持SVF超级虚拟交换网， 将“核心/汇聚+接入交换机+AP”网络架构虚拟化为一个网元进行管理",""]},{"title":"自动化网络服务","dec":["","支持SD-Campus，自动化网络实现快速业务发放，降低80% OPEX",""]},{"title":"100G上行端口","dec":["","首款100G盒式交换机，打造高带宽企业网园区网络",""]}]},{"title":"S7700系列智能路由交换机","link":"https://e.huawei.com/cn/material/networking/campusswitch/2735e11a56db46ba99c867d8bc4e5b5f","table":{"single":[[{"row":null,"col":null,"text":"产品型号"},{"row":null,"col":null,"text":"S7703"},{"row":null,"col":null,"text":"S7703 PoE"},{"row":null,"col":null,"text":"S7706/S7706 PoE"},{"row":null,"col":null,"text":"S7712"}],[{"row":null,"col":null,"text":"交换容量"},{"row":null,"col":null,"text":"19.2/48Tbps"},{"row":null,"col":null,"text":"19.2/48Tbps"},{"row":null,"col":null,"text":"19.84/86.4Tbps"},{"row":null,"col":null,"text":"27.52/153.6Tbps"}],[{"row":null,"col":null,"text":"包转发率"},{"row":null,"col":null,"text":"1440/16560Mpps"},{"row":null,"col":null,"text":"3600/16560Mpps"},{"row":null,"col":null,"text":"3240/26400Mpps"},{"row":null,"col":null,"text":"3480/48960Mpps"}],[{"row":null,"col":null,"text":"冗余设计"},{"row":null,"col":"4","text":"主控、电源、监控板、风扇框（前后及左后风道）"}],[{"row":null,"col":null,"text":"无线管理"},{"row":null,"col":"4","text":"支持随板AC\n支持AP接入控制、AP域管理和AP配置模板管理\n支持射频模板管理、统一静态配置和集中动态管理\n支持WLAN基本业务、QoS、安全和用户管理\n支持AC功能分层部署"}],[{"row":null,"col":null,"text":"用户管理"},{"row":null,"col":"4","text":"支持统一用户管理\n支持PPPoE、802.1X、MAC、Portal认证方式\n支持基于流量和时长计费方式\n支持分组分域分时授权方式"}],[{"row":null,"col":null,"text":"路由特性"},{"row":null,"col":"4","text":"支持IPV4静态路由、RIP、OSPF、IS-IS、BGP4等\n支持IPv6静态路由、RIPng、OSPFv3、IS-ISv6、BGP4+\n支持IPv4/IPv6等价路由、策略路由、路由策略\n支持IPv4和IPv6双协议栈\n支持Pingv6、Telnetv6、FTPv6、TFTPv6、DNSv6、ICMPv6\n支持IPv4向IPv6的过渡技术，包括：IPv6手工隧道、6to4隧道、ISATAP隧道、GRE隧道、IPv4兼容自动配置隧道"}],[{"row":null,"col":null,"text":"iPCA质量感知"},{"row":null,"col":"4","text":"支持直接对业务报文标记以获得丢包数量和丢包率统计数据，实时统计，零开销\n支持二三层网络网络级和设备级丢包数量和丢包率统计"}],[{"row":null,"col":null,"text":"SVF简化运维"},{"row":null,"col":"4","text":"支持将256个Client节点（接入交换机）、最大支持4K个AP虚拟为一台设备管理\n支持2层AS架构\n支持与第三方厂商混合组网管理"}],[{"row":null,"col":null,"text":"缓存容量"},{"row":null,"col":"4","text":"支持每端口200ms数据缓存"}],[{"row":null,"col":null,"text":"数据中心特性"},{"row":null,"col":"4","text":"支持TRILL，FCoE（DCB），EVN，nCenter，EVB，SPB，VXLAN等数据中心特性"}],[{"row":null,"col":null,"text":"OpenFlow"},{"row":null,"col":"4","text":"支持多控制器\n支持高达九级流表\n支持高达256K流表\n支持Group table\n支持Meter\n支持OpenFlow 1.3标准"}],[{"row":null,"col":null,"text":"互通性"},{"row":null,"col":"4","text":"VBST基于VLAN生成树协议（和PVST/PVST+/RPVST互通）\nLNP链路类型协商协议（和DTP相似功能）\nVCMP VLAN集中管理协议（和VTP相似功能）\n\n\n\n详细的互联互通认证与报告，请访问这里。"}]]},"dec":"S7700系列交换机可提供有线无线深度融合、统一用户管理、网络质量感知iPCA、完善的H-QoS策略、一体化安全等智能业务优化特性，支持100G端口，支持SVF2.0超级虚拟交换机，具备超强扩展性和可靠性。","features":[{"title":"全可编程","dec":["","基于全可编程架构，新业务通过编程实现，快速灵活，6个月即可上线",""]},{"title":"百万级硬件表项","dec":["","最大可支持1M MAC表项、1M Netstream表项，支持8*100GE、16*40GE高密板卡，满足城域、高校、大企业终端和业务增长",""]},{"title":"有线无线融合","dec":["","支持随板AC，最大可管理4K AP；整机无线转发性能可达4T-bit。支持SVF超级虚拟交换网， 将“核心/汇聚+接入交换机+AP”网络架构虚拟化为一台设备进行管理，极简网络运维",""]}]},null,{"title":"S7900系列企业交换机","link":null,"table":{"single":[[{"row":null,"col":null,"text":"参数"},{"row":null,"col":null,"text":"S7905"},{"row":null,"col":null,"text":"S7908"}],[{"row":null,"col":null,"text":"交换容量"},{"row":null,"col":null,"text":"19.2/48Tbps"},{"row":null,"col":null,"text":"19.84/86.4Tbps"}],[{"row":null,"col":null,"text":"包转发率"},{"row":null,"col":null,"text":"1440/16560Mpps"},{"row":null,"col":null,"text":"2880/26400Mpps"}],[{"row":null,"col":null,"text":"业务槽位"},{"row":null,"col":null,"text":"3"},{"row":null,"col":null,"text":"6"}],[{"row":null,"col":null,"text":"冗余设计"},{"row":null,"col":"2","text":"主控、电源、监控板、风扇框（前后及左后风道）"}],[{"row":null,"col":null,"text":"无线管理"},{"row":null,"col":"2","text":"支持随板AC，有线无线深度融合\n支持AP接入控制、AP域管理和AP配置模板管理\n支持射频模板管理、统一静态配置和集中动态管理\n支持WLAN基本业务、QoS、安全和用户管理"}],[{"row":null,"col":null,"text":"用户管理"},{"row":null,"col":"2","text":"支持有线无线统一用户管理\n支持802.1X、MAC、Portal认证方式\n支持基于流量、时长和DAA（按照目的地址）计费方式\n支持分组分域分时授权方式"}],[{"row":null,"col":null,"text":"iPCA质量感知"},{"row":null,"col":"2","text":"支持直接对业务报文标记以获得丢包数量和丢包率统计数据，实时统计，零开销\n支持二三层网络网络级和设备级丢包数量和丢包率统计"}],[{"row":null,"col":null,"text":"SVF2.0简化运维"},{"row":null,"col":"2","text":"支持将256个Client节点（接入交换机）、最大支持4K个AP虚拟为一台设备管理\n支持2层AS架构\n支持与第三方厂商混合组网管理"}],[{"row":null,"col":null,"text":"路由特性"},{"row":null,"col":"2","text":"支持IPV4静态路由、RIP、OSPF、IS-IS、BGP4等\n支持IPv6静态路由、RIPng、OSPFv3、IS-ISv6、BGP4+\n支持IPv4/IPv6等价路由、策略路由、路由策略\n支持IPv4和IPv6双协议栈\n支持IPv4向IPv6的过渡技术，包括：IPv6手工隧道、6to4隧道、ISATAP隧道、GRE隧道"}],[{"row":null,"col":null,"text":"互通性"},{"row":null,"col":"2","text":"VBST基于VLAN生成树协议（和PVST/PVST+/RPVST互通）\nLNP链路类型协商协议（和DTP相似功能）\nVCMP VLAN集中管理协议（和VTP相似功能）\n\n详细的互联互通认证与报告，请访问这里 。"}]]},"dec":"S7900系列交换机是面向下一代企业网络架构推出的新一代高端智能路由交换机。该产品基于在提供稳定、可靠、安全的高性能L2~L4层交换服务基础上，进一步提供MPLS VPN、业务流分析、完善的QoS策略、可控组播、资源负载均衡、一体化安全等智能业务，同时具备超强扩展性和可靠性。","features":[{"title":"全可编程","dec":["","基于全可编程架构，新业务通过编程实现，快速灵活，6个月即可上线",""]},{"title":"有线无线融合","dec":["","支持随板AC，最大可管理4K AP；整机无线转发性能可达T-bit级。支持SVF超级虚拟交换网， 将“核心/汇聚+接入交换机+AP”网络架构虚拟化为一台设备进行管理，极简网络运维",""]},{"title":"SVF极简网络运维","dec":["","SVF（超级虚拟交换网）将园区“核心/汇聚+接入交换机+AP”的网络架构，虚拟化为一台网元，并可作为parent角色，对整网进行网络管理，极简网络运维",""]}]},{"title":"CloudEngine 16800系列数据中心交换机","link":"https://e.huawei.com/cn/material/networking/dcswitch/56bd18285f654c68b0c1001efaf63b6b","table":{"single":[[{"row":null,"col":null,"text":"型号"},{"row":null,"col":null,"text":"CloudEngine 16804"},{"row":null,"col":null,"text":"CloudEngine 16808"},{"row":null,"col":null,"text":"CloudEngine 16816"}],[{"row":null,"col":null,"text":"交换容量(Tbps)"},{"row":null,"col":null,"text":"387/1161"},{"row":null,"col":null,"text":"645/1935"},{"row":null,"col":null,"text":"1290/3870"}],[{"row":null,"col":null,"text":"包转发率(Mpps)"},{"row":null,"col":null,"text":"115,200"},{"row":null,"col":null,"text":"230,400"},{"row":null,"col":null,"text":"460,800"}],[{"row":null,"col":null,"text":"业务槽位"},{"row":null,"col":null,"text":"4"},{"row":null,"col":null,"text":"8"},{"row":null,"col":null,"text":"16"}],[{"row":null,"col":null,"text":"交换网槽位"},{"row":null,"col":"3","text":"6（未来可扩展到9）"}],[{"row":null,"col":null,"text":"交换架构"},{"row":null,"col":"3","text":"Clos交换、信元交换、VoQ "}],[{"row":null,"col":null,"text":"风道类型"},{"row":null,"col":"3","text":"标准前后风道"}],[{"row":null,"col":null,"text":"虚拟化"},{"row":null,"col":"3","text":"支持M-LAG\n支持VS（1:16虚拟化）、CSS集群\n支持VxLAN routing 和VxLAN bridging、BGP-EVPN\n支持QinQ access VxLAN"}],[{"row":null,"col":null,"text":"L2/L3"},{"row":null,"col":"3","text":"支持VLAN、STP、LACP等二层协议\n支持静态路由、IPv4/IPv6动态路由协议\n支持IP分片重组"}],[{"row":null,"col":null,"text":"安全可靠"},{"row":null,"col":"3","text":"微分段\n支持硬件BFD（最小3.3ms发包间隔）"}],[{"row":null,"col":null,"text":"智能运维"},{"row":null,"col":"3","text":"支持telemetry数据采集\nERSPAN增强\n支持iPCA"}],[{"row":null,"col":null,"text":"可编程特性"},{"row":null,"col":"3","text":"支持NETCONF北向接口\n支持Ansible自动化配置，Module开源发布"}]]},"dec":"CloudEngine 16800是华为推出的面向智能时代的数据中心交换机。承载独创的iLossless 智能无损交换算法，对全网流量进行实时的学习训练，实现网络0丢包，达到最高吞吐量。","features":[{"title":"超大容量","dec":["","734/3096Tbps交换容量，支持400GE平滑演进，应对未来数字流量激增需求。",""]},{"title":"智能引擎","dec":["","独创iLossless算法，全网流量实时学习训练，实现网络自适应，自优化。实现网络0丢包与E2Eμs级时延，达到最高吞吐量。",""]},{"title":"智能运维","dec":["","毫秒级Telemetry数据采集，为智能运维平台构建数据基础。1-3-5智能运维，90%故障主动预测。",""]}]}]
+[
+    {
+        "title": "S12700系列敏捷交换机",
+        "link": "https://e.huawei.com/cn/material/networking/campusswitch/04777c3fce3b45ee9ab5f3b1333159a3",
+        "table": {
+            "single": [
+                [
+                    {
+                        "row": null,
+                        "col": null,
+                        "text": "项目",
+                        "t": "123"
+                    },
+                    {
+                        "row": null,
+                        "col": null,
+                        "text": "S12704",
+                        "t": "123"
+                    },
+                    {
+                        "row": null,
+                        "col": null,
+                        "text": "S12708",
+                        "t": "123"
+                    },
+                    {
+                        "row": null,
+                        "col": null,
+                        "text": "S12712",
+                        "t": "123"
+                    }
+                ],
+                [
+                    {
+                        "row": null,
+                        "col": null,
+                        "text": "交换容量",
+                        "t": "123"
+                    },
+                    {
+                        "row": null,
+                        "col": null,
+                        "text": "28.8/102.4Tbps",
+                        "t": "123"
+                    },
+                    {
+                        "row": null,
+                        "col": null,
+                        "text": "52.48/204.8Tbps",
+                        "t": "123"
+                    },
+                    {
+                        "row": null,
+                        "col": null,
+                        "text": "78.08/307.2Tbps",
+                        "t": "123"
+                    }
+                ],
+                [
+                    {
+                        "row": null,
+                        "col": null,
+                        "text": "包转发率",
+                        "t": "123"
+                    },
+                    {
+                        "row": null,
+                        "col": null,
+                        "text": "3600/24000Mpps",
+                        "t": "123"
+                    },
+                    {
+                        "row": null,
+                        "col": null,
+                        "text": "7200/48000Mpps",
+                        "t": "123"
+                    },
+                    {
+                        "row": null,
+                        "col": null,
+                        "text": "10080/86400Mpps",
+                        "t": "123"
+                    }
+                ],
+                [
+                    {
+                        "row": null,
+                        "col": null,
+                        "text": "主控板槽位数",
+                        "t": "123"
+                    },
+                    {
+                        "row": null,
+                        "col": null,
+                        "text": "2",
+                        "t": "123"
+                    },
+                    {
+                        "row": null,
+                        "col": null,
+                        "text": "2",
+                        "t": "123"
+                    },
+                    {
+                        "row": null,
+                        "col": null,
+                        "text": "2",
+                        "t": "123"
+                    }
+                ],
+                [
+                    {
+                        "row": null,
+                        "col": null,
+                        "text": "交换网板槽位数",
+                        "t": "123"
+                    },
+                    {
+                        "row": null,
+                        "col": null,
+                        "text": "2",
+                        "t": "123"
+                    },
+                    {
+                        "row": null,
+                        "col": null,
+                        "text": "4",
+                        "t": "123"
+                    },
+                    {
+                        "row": null,
+                        "col": null,
+                        "text": "4",
+                        "t": "123"
+                    }
+                ],
+                [
+                    {
+                        "row": null,
+                        "col": null,
+                        "text": "业务板槽位数",
+                        "t": "123"
+                    },
+                    {
+                        "row": null,
+                        "col": null,
+                        "text": "4",
+                        "t": "123"
+                    },
+                    {
+                        "row": null,
+                        "col": null,
+                        "text": "8",
+                        "t": "123"
+                    },
+                    {
+                        "row": null,
+                        "col": null,
+                        "text": "12",
+                        "t": "123"
+                    }
+                ],
+                [
+                    {
+                        "row": null,
+                        "col": null,
+                        "text": "风扇框",
+                        "t": "123"
+                    },
+                    {
+                        "row": null,
+                        "col": null,
+                        "text": "2",
+                        "t": "123"
+                    },
+                    {
+                        "row": null,
+                        "col": null,
+                        "text": "4",
+                        "t": "123"
+                    },
+                    {
+                        "row": null,
+                        "col": null,
+                        "text": "5",
+                        "t": "123"
+                    }
+                ],
+                [
+                    {
+                        "row": null,
+                        "col": null,
+                        "text": "架构",
+                        "t": "123"
+                    },
+                    {
+                        "row": null,
+                        "col": "3",
+                        "text": "CLOS架构",
+                        "t": "123"
+                    }
+                ],
+                [
+                    {
+                        "row": null,
+                        "col": null,
+                        "text": "冗余设计",
+                        "t": "123"
+                    },
+                    {
+                        "row": null,
+                        "col": "3",
+                        "text": "主控、交换网板、电源、风扇框（前后及左后风道）",
+                        "t": "123"
+                    }
+                ],
+                [
+                    {
+                        "row": null,
+                        "col": null,
+                        "text": "虚拟化",
+                        "t": "123"
+                    },
+                    {
+                        "row": null,
+                        "col": "3",
+                        "text": "支持CSS2交换网硬件集群，集群主控1+N备份，1.92Tbps集群带宽，4μs跨框时延\n支持1：N的虚拟化能力",
+                        "t": "123"
+                    }
+                ],
+                [
+                    {
+                        "row": null,
+                        "col": null,
+                        "text": "无线管理",
+                        "t": "123"
+                    },
+                    {
+                        "row": null,
+                        "col": "3",
+                        "text": "支持随板AC，每单板最大可管理4K AP，整机管理10K AP\n支持AP接入控制、AP域管理和AP配置模板管理\n支持射频模板管理、统一静态配置和集中动态管理\n支持WLAN基本业务、QoS、安全和用户管理",
+                        "t": "123"
+                    }
+                ],
+                [
+                    {
+                        "row": null,
+                        "col": null,
+                        "text": "用户管理",
+                        "t": "123"
+                    },
+                    {
+                        "row": null,
+                        "col": "3",
+                        "text": "支持有线无线统一用户管理，每单板管理16K 用户\n支持PPPoE、802.1X、MAC、Portal认证方式\n支持基于流量、时长和DAA（按照目的地址）计费方式\n支持分组分域分时授权方式",
+                        "t": "123"
+                    }
+                ],
+                [
+                    {
+                        "row": null,
+                        "col": null,
+                        "text": "iPCA质量感知",
+                        "t": "123"
+                    },
+                    {
+                        "row": null,
+                        "col": "3",
+                        "text": "支持直接对业务报文标记以获得丢包数量和丢包率的实时统计\n支持二三层网络网络级和设备级丢包数量和丢包率统计",
+                        "t": "123"
+                    }
+                ],
+                [
+                    {
+                        "row": null,
+                        "col": null,
+                        "text": "SVF2.0简化运维",
+                        "t": "123"
+                    },
+                    {
+                        "row": null,
+                        "col": "3",
+                        "text": "支持将多达10K个Client节点（接入交换机与AP）虚拟为一台设备管理\n支持2层AS架构\n支持与第三方厂商混合组网管理",
+                        "t": "123"
+                    }
+                ],
+                [
+                    {
+                        "row": null,
+                        "col": null,
+                        "text": "数据中心特性",
+                        "t": "123"
+                    },
+                    {
+                        "row": null,
+                        "col": "3",
+                        "text": "支持TRILL，FCoE（DCB），EVN，nCenter，EVB，SPB，VxLAN等数据中心特性",
+                        "t": "123"
+                    }
+                ],
+                [
+                    {
+                        "row": null,
+                        "col": null,
+                        "text": "Open Flow\n",
+                        "t": "123"
+                    },
+                    {
+                        "row": null,
+                        "col": "3",
+                        "text": "支持多控制器\n支持高达九级流表\n支持高达256K流表\n支持Group table\n支持Meter\n支持Open Flow 1.3标准",
+                        "t": "123"
+                    }
+                ],
+                [
+                    {
+                        "row": null,
+                        "col": null,
+                        "text": "缓存容量",
+                        "t": "123"
+                    },
+                    {
+                        "row": null,
+                        "col": "3",
+                        "text": "支持每端口200ms数据缓存",
+                        "t": "123"
+                    }
+                ],
+                [
+                    {
+                        "row": null,
+                        "col": null,
+                        "text": "互通性",
+                        "t": "123"
+                    },
+                    {
+                        "row": null,
+                        "col": "3",
+                        "text": "VBST基于VLAN生成树协议（和PVST/PVST+/RPVST互通）\nLNP链路类型协商协议（和DTP相似功能）\nVCMP VLAN集中管理协议（和VTP相似功能）\n\n\n\n详细的互联互通认证与报告，请访问这里。",
+                        "t": "123"
+                    }
+                ]
+            ]
+        },
+        "dec": "S12700是面向下一代园区网核心设计开发的敏捷交换机，采用全可编程架构，灵活快速满足业务需求，新业务6个月即可上线。",
+        "features": [
+            {
+                "dec": [
+                    "",
+                    "基于全可编程架构，新业务通过编程实现，快速灵活，6个月即可上线",
+                    ""
+                ]
+            },
+            {
+                "dec": [
+                    "",
+                    "1M MAC表项，3M FIB表项，1M Netstream表项，支持8*100GE、16*40GE高密板卡，满足城域、高校、大企业终端和业务增长",
+                    ""
+                ]
+            },
+            {
+                "dec": [
+                    "",
+                    "支持随板AC，最大可管理10K AP；整机无线转发性能可达4T-bit。支持SVF超级虚拟交换网， 将“核心/汇聚+接入交换机+AP”网络架构虚拟化为一台设备进行管理，极简网络运维",
+                    ""
+                ]
+            }
+        ]
+    },
+    {
+        "title": "S1700系列企业交换机",
+        "link": "",
+        "table": {
+            "全管理型交换机": [
+                [
+                    {
+                        "row": null,
+                        "col": null,
+                        "text": "产品型号",
+                        "t": "123"
+                    },
+                    {
+                        "row": null,
+                        "col": null,
+                        "text": "S1720-10GW-2P-E\nS1720-10GW-PWR-2P-E",
+                        "t": "123"
+                    },
+                    {
+                        "row": null,
+                        "col": null,
+                        "text": "S1720-10GF-2P\nS1720-10GF-PWR-2P",
+                        "t": "123"
+                    },
+                    {
+                        "row": null,
+                        "col": null,
+                        "text": "S1720-28GWR-4P-E\nS1720-28GWR-PWR-4P-E\nS1720-28GWR-PWR-4TP-E\nS1720-28GWR-4X-E\nS1720-28GWR-PWR-4X-E\nS1720-52GWR-4P-E\nS1720-52GWR-PWR-4P-E\nS1720-52GWR-4X-E\nS1720-52GWR-PWR-4X-E",
+                        "t": "123"
+                    },
+                    {
+                        "row": null,
+                        "col": null,
+                        "text": "S1720-28GFR-4P\nS1720-28GFR-PWR-4P\nS1720-52GFR-4P\nS1720-52GFR-PWR-4P",
+                        "t": "123"
+                    },
+                    {
+                        "row": null,
+                        "col": null,
+                        "text": "S1720X-16XWR-E\nS1720X-32XWR-E",
+                        "t": "123"
+                    }
+                ],
+                [
+                    {
+                        "row": null,
+                        "col": null,
+                        "text": "设备管理",
+                        "t": "123"
+                    },
+                    {
+                        "row": null,
+                        "col": "5",
+                        "text": "支持SNMP\n支持WEB网管（支持HTTPS）\n支持DHCP-client\n支持用户口令保护\n支持一键还原\n支持命令行配置",
+                        "t": "123"
+                    }
+                ],
+                [
+                    {
+                        "row": null,
+                        "col": null,
+                        "text": "交换容量",
+                        "t": "123"
+                    },
+                    {
+                        "row": null,
+                        "col": null,
+                        "text": "68Gbps",
+                        "t": "123"
+                    },
+                    {
+                        "row": null,
+                        "col": null,
+                        "text": "68Gbps",
+                        "t": "123"
+                    },
+                    {
+                        "row": null,
+                        "col": null,
+                        "text": "S1720-28GWR-P/TP系列：68Gbps\nS1720-28GWR-X系列：168Gbps\nS1720-52GWR-P系列：336Gbps\nS1720-52GWR-X：336Gbps",
+                        "t": "123"
+                    },
+                    {
+                        "row": null,
+                        "col": null,
+                        "text": "S1720-28GFR-P系列：68Gbps\nS1720-52GFR-P系列：336Gbps",
+                        "t": "123"
+                    },
+                    {
+                        "row": null,
+                        "col": null,
+                        "text": "680Gbps",
+                        "t": "123"
+                    }
+                ],
+                [
+                    {
+                        "row": null,
+                        "col": null,
+                        "text": "包转发率",
+                        "t": "123"
+                    },
+                    {
+                        "row": null,
+                        "col": null,
+                        "text": "15Mpps",
+                        "t": "123"
+                    },
+                    {
+                        "row": null,
+                        "col": null,
+                        "text": "15Mpps",
+                        "t": "123"
+                    },
+                    {
+                        "row": null,
+                        "col": null,
+                        "text": "S1720-28GWR-P/TP系列：42Mpps\nS1720-28GWR-X系列：96Mpps\nS1720-52GWR-P系列：78Mpps\nS1720-52GWR-X系列：132Mpps",
+                        "t": "123"
+                    },
+                    {
+                        "row": null,
+                        "col": null,
+                        "text": "S1720-28GFR-P系列：42Mbps\nS1720-52GFR-P系列：78Mbps",
+                        "t": "123"
+                    },
+                    {
+                        "row": null,
+                        "col": null,
+                        "text": "S1720X-16XWR-E：240Mpps\nS1720X-32XWR-E：252Mpps",
+                        "t": "123"
+                    }
+                ],
+                [
+                    {
+                        "row": null,
+                        "col": null,
+                        "text": "固定端口",
+                        "t": "123"
+                    },
+                    {
+                        "row": null,
+                        "col": null,
+                        "text": "下行：8个10/100/1000Base-T以太网电接口\n上行：2个1000Base-X以太网光接口",
+                        "t": "123"
+                    },
+                    {
+                        "row": null,
+                        "col": null,
+                        "text": "下行：8个10/100/1000Base-T以太网电接口\n上行：2个1000Base-X以太网光接口",
+                        "t": "123"
+                    },
+                    {
+                        "row": null,
+                        "col": null,
+                        "text": "S1720-28GWR-P系列\n下行：24个10/100/1000Base-T以太网电接口\n上行：4个1000Base-X以太网光接口\nS1720-28GWR-TP系列\n下行：24个10/100/1000Base-T以太网电接口\n上行：4个1000Base-X以太网光接口，2个复用的10/100/1000Base-T以太网Combo接口\nS1720-28GWR-X系列\n下行：24个10/100/1000Base-T以太网电接口\n上行：4个10GBase-X以太网光接口\nS1720-52GWR-P系列\n下行：48个10/100/1000Base-T以太网电接口\n上行：4个1000Base-X以太网光接口\nS1720-52GWR-X系列\n下行：48个10/100/1000Base-T以太网电接口\n上行：4个10GBase-X以太网光接口",
+                        "t": "123"
+                    },
+                    {
+                        "row": null,
+                        "col": null,
+                        "text": "S1720-28GFR-P系列\n下行：24个10/100/1000Base-T以太网电接口\n上行：4个1000Base-X以太网光接口\nS1720-52GFR-P系列\n下行：48个10/100/1000Base-T以太网电接口\n上行：4个1000Base-X以太网光接口",
+                        "t": "123"
+                    },
+                    {
+                        "row": null,
+                        "col": null,
+                        "text": "S1720X-16XWR-E：16个10GBase-X以太网光接口\nS1720X-32XWR-E：32个10GBase-X以太网光接口\n注：上下行接口共用",
+                        "t": "123"
+                    }
+                ],
+                [
+                    {
+                        "row": null,
+                        "col": null,
+                        "text": "VLAN特性",
+                        "t": "123"
+                    },
+                    {
+                        "row": null,
+                        "col": "5",
+                        "text": "支持4K VLAN\n支持Access端口\n支持Trunk端口\n支持Hybrid端口\n支持管理VLAN\n支持Voice VLAN",
+                        "t": "123"
+                    }
+                ],
+                [
+                    {
+                        "row": null,
+                        "col": null,
+                        "text": "IP路由",
+                        "t": "123"
+                    },
+                    {
+                        "row": null,
+                        "col": "5",
+                        "text": "支持IPv4、IPv6静态路由\n支持RIP/RIPng/OSPF动态路由\n支持VRRP",
+                        "t": "123"
+                    }
+                ],
+                [
+                    {
+                        "row": null,
+                        "col": null,
+                        "text": "设备维护",
+                        "t": "123"
+                    },
+                    {
+                        "row": null,
+                        "col": "5",
+                        "text": "支持RMON（Remote Network Monitoring）\n支持Syslog（系统日志）\n支持Ping检测/支持Traceroute\n支持VCT(Virtual Cable Test)\n支持链路层发现协议LLDP（Link Layer Discovery Protocol）\n支持auto-config",
+                        "t": "123"
+                    }
+                ]
+            ],
+            "Web管理型交换机": [
+                [
+                    {
+                        "row": null,
+                        "col": null,
+                        "text": "产品型号",
+                        "t": "123"
+                    },
+                    {
+                        "row": null,
+                        "col": null,
+                        "text": "S1720-10GW-2P\n            S1720-10GW-PWR-2P",
+                        "t": "123"
+                    },
+                    {
+                        "row": null,
+                        "col": null,
+                        "text": "S1720-28GWR-4P\n            S1720-28GWR-PWR-4P\n            S1720-28GWR-PWR-4TP\n            S1720-28GWR-4X\n            S1720-28GWR-PWR-4X\n            S1728GWR-4P",
+                        "t": "123"
+                    },
+                    {
+                        "row": null,
+                        "col": null,
+                        "text": "S1720-52GWR-4P\n            S1720-52GWR-PWR-4P\n            S1720-52GWR-4X\n            S1720-52GWR-PWR-4X",
+                        "t": "123"
+                    },
+                    {
+                        "row": null,
+                        "col": null,
+                        "text": "S1720X-16XWR",
+                        "t": "123"
+                    },
+                    {
+                        "row": null,
+                        "col": null,
+                        "text": "S1720X-32XWR",
+                        "t": "123"
+                    }
+                ],
+                [
+                    {
+                        "row": null,
+                        "col": null,
+                        "text": "交换容量",
+                        "t": "123"
+                    },
+                    {
+                        "row": null,
+                        "col": null,
+                        "text": "68Gbps",
+                        "t": "123"
+                    },
+                    {
+                        "row": null,
+                        "col": null,
+                        "text": "S1720-28GWR-P/TP系列：68Gbps\n            S1720-28GWR-X系列：168Gbps\n            S1728GWR-4P：56Gbps",
+                        "t": "123"
+                    },
+                    {
+                        "row": null,
+                        "col": null,
+                        "text": "336Gbps",
+                        "t": "123"
+                    },
+                    {
+                        "row": null,
+                        "col": null,
+                        "text": "680Gbps",
+                        "t": "123"
+                    },
+                    {
+                        "row": null,
+                        "col": null,
+                        "text": "680Gbps",
+                        "t": "123"
+                    }
+                ],
+                [
+                    {
+                        "row": null,
+                        "col": null,
+                        "text": "包转发率",
+                        "t": "123"
+                    },
+                    {
+                        "row": null,
+                        "col": null,
+                        "text": "15Mpps",
+                        "t": "123"
+                    },
+                    {
+                        "row": null,
+                        "col": null,
+                        "text": "S1720-28GWR-P/TP系列：42Mpps\n            S1720-28GWR-X系列：96Mpps\n            S1728GWR-4P：42Mpps",
+                        "t": "123"
+                    },
+                    {
+                        "row": null,
+                        "col": null,
+                        "text": "S1720-52GWR-P系列：78 Mpps\n            S1720-52GWR-X系列：132 Mpps",
+                        "t": "123"
+                    },
+                    {
+                        "row": null,
+                        "col": null,
+                        "text": "240Mpps",
+                        "t": "123"
+                    },
+                    {
+                        "row": null,
+                        "col": null,
+                        "text": "252Mpps",
+                        "t": "123"
+                    }
+                ],
+                [
+                    {
+                        "row": null,
+                        "col": null,
+                        "text": "固定端口",
+                        "t": "123"
+                    },
+                    {
+                        "row": null,
+                        "col": null,
+                        "text": "下行：8个10/100/1000Base-T以太网电接口\n            上行：2个1000Base-X以太网光接口",
+                        "t": "123"
+                    },
+                    {
+                        "row": null,
+                        "col": null,
+                        "text": "S1720-28GWR-P系列\n            下行：24个10/100/1000Base-T以太网电接口\n            上行：4个1000Base-X以太网光接口\n            S1720-28GWR-TP系列\n            下行：24个10/100/1000Base-T以太网电接口\n            上行：4个1000Base-X以太网光接口，2个复用的10/100/1000Base-T以太网Combo接口\n            S1720-28GWR-X系列\n            下行：24个10/100/1000Base-T以太网电接口\n            上行：4个10GBase-X以太网光接口\n            S1728GWR-4P\n            下行：24个10/100/1000Base-T以太网电接口\n            上行：4个1000Base-X以太网光接口",
+                        "t": "123"
+                    },
+                    {
+                        "row": null,
+                        "col": null,
+                        "text": "S1720-52GWR-P系列\n            下行：48个10/100/1000Base-T以太网端口\n            上行：4个千兆SFP\n            S1720-52GWR-X系列\n            下行：48个10/100/1000Base-T以太网端口\n            上行：4个10GBase-X以太网光接口",
+                        "t": "123"
+                    },
+                    {
+                        "row": null,
+                        "col": null,
+                        "text": "16个10GBase-X以太网光接口\n            注：上下行接口共用",
+                        "t": "123"
+                    },
+                    {
+                        "row": null,
+                        "col": null,
+                        "text": "32个10GBase-X以太网光接口\n            注：上下行接口共用",
+                        "t": "123"
+                    }
+                ],
+                [
+                    {
+                        "row": null,
+                        "col": null,
+                        "text": "VLAN特性",
+                        "t": "123"
+                    },
+                    {
+                        "row": null,
+                        "col": "5",
+                        "text": "支持4K VLAN（S1728GWR-4P：256）\n            支持Access端口\n            支持Trunk端口\n            支持Hybrid端口\n            支持管理VLAN\n            支持Voice VLAN",
+                        "t": "123"
+                    }
+                ],
+                [
+                    {
+                        "row": null,
+                        "col": null,
+                        "text": "IP路由",
+                        "t": "123"
+                    },
+                    {
+                        "row": null,
+                        "col": "5",
+                        "text": "支持IPv4、IPv6静态路由（S1728GWR-4P除外）",
+                        "t": "123"
+                    }
+                ],
+                [
+                    {
+                        "row": null,
+                        "col": null,
+                        "text": "设备维护",
+                        "t": "123"
+                    },
+                    {
+                        "row": null,
+                        "col": "5",
+                        "text": "支持Syslog（系统日志）\n            支持Ping检测\n            支持VCT(Virtual Cable Test)\n            支持链路层发现协议LLDP（Link Layer\n            Discovery Protocol）",
+                        "t": "123"
+                    }
+                ]
+            ],
+            "无管理型交换机": [
+                [
+                    {
+                        "row": null,
+                        "col": null,
+                        "text": "产品型号",
+                        "t": "123"
+                    },
+                    {
+                        "row": null,
+                        "col": null,
+                        "text": "S1700-8-AC\n            S1700-16R\n            S1700-24R\n            S1700-24-AC",
+                        "t": "123"
+                    },
+                    {
+                        "row": null,
+                        "col": null,
+                        "text": "S1700-26R-2T\n            S1700-52R-2T2P-AC",
+                        "t": "123"
+                    },
+                    {
+                        "row": null,
+                        "col": null,
+                        "text": "S1700-8G-AC\n            S1700-16G\n            S1724G-AC\n            S1700-24GR",
+                        "t": "123"
+                    },
+                    {
+                        "row": null,
+                        "col": null,
+                        "text": "S1700-28GR-4X\n            S1700-52GR-4X",
+                        "t": "123"
+                    }
+                ],
+                [
+                    {
+                        "row": null,
+                        "col": null,
+                        "text": "交换容量",
+                        "t": "123"
+                    },
+                    {
+                        "row": null,
+                        "col": null,
+                        "text": "S1700-8-AC：1.6Gbps\n            S1700-16R：3.2Gbps\n            S1700-24R：4.8Gbps\n            S1700-24-AC：4.8Gbps",
+                        "t": "123"
+                    },
+                    {
+                        "row": null,
+                        "col": null,
+                        "text": "S1700-26R-2T：8.8Gbps\n            S1700-52R-2T2P-AC：17.6Gbps",
+                        "t": "123"
+                    },
+                    {
+                        "row": null,
+                        "col": null,
+                        "text": "S1700-8G-AC：16Gbps\n            S1700-16G：32Gbps\n            S1724G-AC：48Gbps\n            S1700-24GR：48Gbps",
+                        "t": "123"
+                    },
+                    {
+                        "row": null,
+                        "col": null,
+                        "text": "S1700-28GR-4X：168Gbps\n            S1700-52GR-4X：336Gbps",
+                        "t": "123"
+                    }
+                ],
+                [
+                    {
+                        "row": null,
+                        "col": null,
+                        "text": "包转发率",
+                        "t": "123"
+                    },
+                    {
+                        "row": null,
+                        "col": null,
+                        "text": "S1700-8-AC：1.2Mpps\n            S1700-16R：2.4Mpps\n            S1700-24R：3.6Mpps\n            S1700-24-AC：3.6Mpps",
+                        "t": "123"
+                    },
+                    {
+                        "row": null,
+                        "col": null,
+                        "text": "S1700-26R-2T：6.6Mpps\n            S1700-52R-2T2P-AC：13.2Mpps",
+                        "t": "123"
+                    },
+                    {
+                        "row": null,
+                        "col": null,
+                        "text": "S1700-8G-AC：12Mpps\n            S1700-16G：24Mpps\n            S1724G-AC：36Mpps\n            S1700-24GR：36Mpps",
+                        "t": "123"
+                    },
+                    {
+                        "row": null,
+                        "col": null,
+                        "text": "S1700-28GR-4X：96Mpps\n            S1700-52GR-4X：132Mpps",
+                        "t": "123"
+                    }
+                ],
+                [
+                    {
+                        "row": null,
+                        "col": null,
+                        "text": "端口类型",
+                        "t": "123"
+                    },
+                    {
+                        "row": null,
+                        "col": null,
+                        "text": "全百兆",
+                        "t": "123"
+                    },
+                    {
+                        "row": null,
+                        "col": null,
+                        "text": "百兆接入千兆上行",
+                        "t": "123"
+                    },
+                    {
+                        "row": null,
+                        "col": null,
+                        "text": "全千兆",
+                        "t": "123"
+                    },
+                    {
+                        "row": null,
+                        "col": null,
+                        "text": "千兆接入万兆上行",
+                        "t": "123"
+                    }
+                ],
+                [
+                    {
+                        "row": null,
+                        "col": null,
+                        "text": "固定端口",
+                        "t": "123"
+                    },
+                    {
+                        "row": null,
+                        "col": null,
+                        "text": "S1700-8-AC：8个10/100Base-T以太网电接口\n            S1700-16R：16个10/100Base-T以太网电接口\n            S1700-24R：24个10/100Base-T以太网电接口\n            S1700-24-AC：24个10/100Base-T以太网电接口\n            注：上下行接口共用",
+                        "t": "123"
+                    },
+                    {
+                        "row": null,
+                        "col": null,
+                        "text": "S1700-26R-2T\n            下行：24个10/100Base-T以太网电接口\n            上行：2个10/100/1000Base-T以太网电接口\n            S1700-52R-2T2P-AC\n            下行：48个10/100Base-T以太网电接口\n            上行：2个10/100/1000Base-T以太网电接口，2个1000Base-X以太网光接口",
+                        "t": "123"
+                    },
+                    {
+                        "row": null,
+                        "col": null,
+                        "text": "S1700-8G-AC：8个10/100/1000Base-T以太网电接口\n            S1700-16G：16个10/100/1000Base-T以太网电接口\n            S1724G-AC：24个10/100/1000Base-T以太网电接口\n            S1700-24GR:24个10/100/1000Base-T以太网电接口\n            注：上下行接口共用",
+                        "t": "123"
+                    },
+                    {
+                        "row": null,
+                        "col": null,
+                        "text": "S1700-28GR-4X\n            下行：24个10/100/1000Base-T以太网电接口\n            上行：4个10GBase-X以太网光接口\n            S1700-52GR-4X\n            下行：48个10/100/1000Base-T以太网电接口\n            上行：4个10GBase-X以太网光接口",
+                        "t": "123"
+                    }
+                ]
+            ]
+        },
+        "dec": "S1700系列交换机提供简单便利的安装维护手段和丰富的业务特性，助力用户打造安全可靠的高性能网络，可广泛应用于中小企业、网吧、酒店、学校等以太接入场景。根据设备支持的不同管理方式，S1700系列交换机可划分为如下三类。",
+        "features": [
+            {
+                "dec": [
+                    "",
+                    "同时提供无管理、Web管理及全管理等系列产品，可满足客户不同应用场景需求。",
+                    ""
+                ]
+            },
+            {
+                "dec": [
+                    "",
+                    "支持端口低耗电闲置模式，大幅降低功耗；采用无风扇静音设计，降低整机功耗，同时让您免除噪音的烦扰\n（部分款型为内置风扇款型，散热类型为风扇强制散热）",
+                    ""
+                ]
+            },
+            {
+                "dec": [
+                    "",
+                    "丰富的安全特性，802.1x、Portal、MAC等安全认证方式； 提供二层线速交换能力，所有端口无阻塞转发",
+                    ""
+                ]
+            }
+        ]
+    },
+    {
+        "title": "S1820EC系列企业交换机",
+        "link": null,
+        "table": {
+            "single": [
+                [
+                    {
+                        "row": null,
+                        "col": null,
+                        "text": "产品型号",
+                        "t": "123"
+                    },
+                    {
+                        "row": null,
+                        "col": null,
+                        "text": "S1820EC-8G",
+                        "t": "123"
+                    },
+                    {
+                        "row": null,
+                        "col": null,
+                        "text": "S1820EC-24G",
+                        "t": "123"
+                    }
+                ],
+                [
+                    {
+                        "row": null,
+                        "col": null,
+                        "text": "包转发率",
+                        "t": "123"
+                    },
+                    {
+                        "row": null,
+                        "col": null,
+                        "text": "12 Mpps",
+                        "t": "123"
+                    },
+                    {
+                        "row": null,
+                        "col": null,
+                        "text": "36 Mpps",
+                        "t": "123"
+                    }
+                ],
+                [
+                    {
+                        "row": null,
+                        "col": null,
+                        "text": "交换容量",
+                        "t": "123"
+                    },
+                    {
+                        "row": null,
+                        "col": null,
+                        "text": "16 Gbps",
+                        "t": "123"
+                    },
+                    {
+                        "row": null,
+                        "col": null,
+                        "text": "48 Gbps",
+                        "t": "123"
+                    }
+                ],
+                [
+                    {
+                        "row": null,
+                        "col": null,
+                        "text": "固定端口",
+                        "t": "123"
+                    },
+                    {
+                        "row": null,
+                        "col": null,
+                        "text": "8个10/100/1000Base-T以太网端口",
+                        "t": "123"
+                    },
+                    {
+                        "row": null,
+                        "col": null,
+                        "text": "24个10/100/1000Base-T以太网端口",
+                        "t": "123"
+                    }
+                ],
+                [
+                    {
+                        "row": null,
+                        "col": null,
+                        "text": "MAC特性",
+                        "t": "123"
+                    },
+                    {
+                        "row": null,
+                        "col": "2",
+                        "text": "遵循IEEE 802.1d标准\n支持8K MAC地址容量\nMAC老化时间为5分钟",
+                        "t": "123"
+                    }
+                ],
+                [
+                    {
+                        "row": null,
+                        "col": null,
+                        "text": "端口特性",
+                        "t": "123"
+                    },
+                    {
+                        "row": null,
+                        "col": "2",
+                        "text": "支持端口属性自协商\n支持Jumbo帧\n支持端口自动休眠",
+                        "t": "123"
+                    }
+                ],
+                [
+                    {
+                        "row": null,
+                        "col": null,
+                        "text": "防雷",
+                        "t": "123"
+                    },
+                    {
+                        "row": null,
+                        "col": null,
+                        "text": "业务口±7kV；电源口±4kV",
+                        "t": "123"
+                    },
+                    {
+                        "row": null,
+                        "col": null,
+                        "text": "业务口±7kV；电源口±6kV",
+                        "t": "123"
+                    }
+                ]
+            ]
+        },
+        "dec": "S1820EC系列交换机是华为公司针对电商市场推出的即插即用、绿色节能的无管理型以太网接入交换机。它提供简单便利的安装维护手段，从而助力用户打造便捷的网络，可广泛应用于网吧、酒店、学校等中小企业以太接入场景。",
+        "features": [
+            {
+                "dec": [
+                    "",
+                    "支持自动节能技术，大幅降低功耗；无风扇静音设计，减少整机功耗同时让您免除噪音的烦扰",
+                    ""
+                ]
+            },
+            {
+                "dec": [
+                    "",
+                    "内置专业防雷技术，业务口支持最高达7KV的防雷能力",
+                    ""
+                ]
+            },
+            {
+                "dec": [
+                    "",
+                    "具备全端口二层线速转发能力，保障所有端口无阻塞极速转发",
+                    ""
+                ]
+            }
+        ]
+    },
+    {
+        "title": "S2720-EI系列企业交换机",
+        "link": "https://e.huawei.com/cn/material/networking/campusswitch/9c184be712c647bda3f31ac8d1fb0895",
+        "table": {
+            "single": [
+                [
+                    {
+                        "row": null,
+                        "col": null,
+                        "text": "产品型号",
+                        "t": "123"
+                    },
+                    {
+                        "row": null,
+                        "col": null,
+                        "text": "S2720-12TP-EI\nS2720-12TP-PWR-EI",
+                        "t": "123"
+                    },
+                    {
+                        "row": null,
+                        "col": null,
+                        "text": "S2720-28TP-PWR-EI-L\nS2720-28TP-EI\nS2720-28TP-PWR-EI",
+                        "t": "123"
+                    },
+                    {
+                        "row": null,
+                        "col": null,
+                        "text": "S2720-52TP-EI\nS2720-52TP-PWR-EI",
+                        "t": "123"
+                    }
+                ],
+                [
+                    {
+                        "row": null,
+                        "col": null,
+                        "text": "交换容量",
+                        "t": "123"
+                    },
+                    {
+                        "row": null,
+                        "col": null,
+                        "text": "128Gbps",
+                        "t": "123"
+                    },
+                    {
+                        "row": null,
+                        "col": null,
+                        "text": "128Gbps",
+                        "t": "123"
+                    },
+                    {
+                        "row": null,
+                        "col": null,
+                        "text": "336Gbps",
+                        "t": "123"
+                    }
+                ],
+                [
+                    {
+                        "row": null,
+                        "col": null,
+                        "text": "包转发率",
+                        "t": "123"
+                    },
+                    {
+                        "row": null,
+                        "col": null,
+                        "text": "12.6Mpps",
+                        "t": "123"
+                    },
+                    {
+                        "row": null,
+                        "col": null,
+                        "text": "20.4Mpps",
+                        "t": "123"
+                    },
+                    {
+                        "row": null,
+                        "col": null,
+                        "text": "34.8Mpps",
+                        "t": "123"
+                    }
+                ],
+                [
+                    {
+                        "row": null,
+                        "col": null,
+                        "text": "固定端口",
+                        "t": "123"
+                    },
+                    {
+                        "row": null,
+                        "col": null,
+                        "text": "下行4个百兆，4个千兆端口\n上行4个千兆端口",
+                        "t": "123"
+                    },
+                    {
+                        "row": null,
+                        "col": null,
+                        "text": "下行16个百兆，8个千兆端口\n上行4个千兆端口",
+                        "t": "123"
+                    },
+                    {
+                        "row": null,
+                        "col": null,
+                        "text": "下行32个百兆，16个千兆端口\n上行4个千兆端口",
+                        "t": "123"
+                    }
+                ],
+                [
+                    {
+                        "row": null,
+                        "col": null,
+                        "text": "MAC特性",
+                        "t": "123"
+                    },
+                    {
+                        "row": null,
+                        "col": "3",
+                        "text": "支持16K MAC地址\n支持MAC地址自动学习和老化\n支持静态、动态、黑洞MAC表项\n支持接口MAC地址学习个数限制",
+                        "t": "123"
+                    }
+                ],
+                [
+                    {
+                        "row": null,
+                        "col": null,
+                        "text": "VLAN特性",
+                        "t": "123"
+                    },
+                    {
+                        "row": null,
+                        "col": "3",
+                        "text": "支持4K个VLAN\n支持基于MAC/协议/IP子网/策略/端口的VLAN\n支持基于端口的QinQ",
+                        "t": "123"
+                    }
+                ],
+                [
+                    {
+                        "row": null,
+                        "col": null,
+                        "text": "IP路由",
+                        "t": "123"
+                    },
+                    {
+                        "row": null,
+                        "col": "3",
+                        "text": "静态路由\n支持RIP、RIPng，OSPF协议",
+                        "t": "123"
+                    }
+                ],
+                [
+                    {
+                        "row": null,
+                        "col": null,
+                        "text": "互通性",
+                        "t": "123"
+                    },
+                    {
+                        "row": null,
+                        "col": "3",
+                        "text": "VBST基于VLAN生成树协议（和PVST/PVST+/RPVST 互通）\nLNP 链路类型协商协议（和DTP相似功能）\nVCMP VLAN集中管理协议（和VTP相似功能）\n\n详细的互联互通认证与报告，请访问这里。",
+                        "t": "123"
+                    }
+                ]
+            ]
+        },
+        "dec": "S2720-EI系列企业交换机提供灵活的百兆、千兆端口组合，支持多种三层路由协议，具备更高性能和更丰富的业务处理能力，可作为Client接入SVF超级虚拟交换网，广泛应用于企业园区接入、百兆到桌面千兆上行等多种应用场景。",
+        "features": [
+            {
+                "dec": [
+                    "",
+                    "百兆千兆端口混合，接入端口丰富",
+                    ""
+                ]
+            },
+            {
+                "dec": [
+                    "",
+                    "iStack智能堆叠提升交换机可靠性、可扩展性，堆叠后的逻辑系统可统一配置管理，大大降低系统运维的成本",
+                    ""
+                ]
+            },
+            {
+                "dec": [
+                    "",
+                    "支持RIP、OSPF特性，路由性能在百兆交换机领域拥有领先地位",
+                    ""
+                ]
+            }
+        ]
+    },
+    {
+        "title": "S3700系列企业交换机",
+        "link": null,
+        "table": {
+            "single": [
+                [
+                    {
+                        "row": null,
+                        "col": null,
+                        "text": "项目",
+                        "t": "123"
+                    },
+                    {
+                        "row": null,
+                        "col": null,
+                        "text": "S3700-SI",
+                        "t": "123"
+                    },
+                    {
+                        "row": null,
+                        "col": null,
+                        "text": "S3700-EI",
+                        "t": "123"
+                    }
+                ],
+                [
+                    {
+                        "row": null,
+                        "col": null,
+                        "text": "交换容量\n",
+                        "t": "123"
+                    },
+                    {
+                        "row": null,
+                        "col": null,
+                        "text": "64Gbps\n",
+                        "t": "123"
+                    },
+                    {
+                        "row": null,
+                        "col": null,
+                        "text": "64Gbps\n",
+                        "t": "123"
+                    }
+                ],
+                [
+                    {
+                        "row": null,
+                        "col": null,
+                        "text": "包转发率\n",
+                        "t": "123"
+                    },
+                    {
+                        "row": null,
+                        "col": null,
+                        "text": "S3700-28TP-SI-AC：14.1Mpps\nS3700-52P-SI-AC：17.7Mpps",
+                        "t": "123"
+                    },
+                    {
+                        "row": null,
+                        "col": null,
+                        "text": "S3700-28TP-EI-AC：14.1Mpps\nS3700-28TP-PWR-EI：14.1Mpps\nS3700-28TP-EI-24S-AC：14.1Mpps\nS3700-52P-EI-AC：17.7Mpps\nS3700-52P-PWR-EI：17.7Mpps",
+                        "t": "123"
+                    }
+                ],
+                [
+                    {
+                        "row": null,
+                        "col": null,
+                        "text": "端口描述",
+                        "t": "123"
+                    },
+                    {
+                        "row": null,
+                        "col": null,
+                        "text": "下行24个或者48个百兆端口\n上行4个千兆端口",
+                        "t": "123"
+                    },
+                    {
+                        "row": null,
+                        "col": null,
+                        "text": "下行24个或者48个百兆端口\n上行4个千兆端口",
+                        "t": "123"
+                    }
+                ],
+                [
+                    {
+                        "row": null,
+                        "col": null,
+                        "text": "可靠性",
+                        "t": "123"
+                    },
+                    {
+                        "row": null,
+                        "col": null,
+                        "text": "支持RRPP/Smart-Link/智能以太保护SEP(Smart Ethernet Protection)\n支持STP/RSTP/MSTP",
+                        "t": "123"
+                    },
+                    {
+                        "row": null,
+                        "col": null,
+                        "text": "支持RRPP/Smart-Link/智能以太保护SEP(Smart Ethernet Protection)\n支持STP/RSTP/MSTP\n支持BFD",
+                        "t": "123"
+                    }
+                ],
+                [
+                    {
+                        "row": null,
+                        "col": null,
+                        "text": "IP路由",
+                        "t": "123"
+                    },
+                    {
+                        "row": null,
+                        "col": null,
+                        "text": "静态路由、RIP v1/v2、ECMP",
+                        "t": "123"
+                    },
+                    {
+                        "row": null,
+                        "col": null,
+                        "text": "静态路由、RIP v1/v2、ECMP、OSPF、IS-IS、BGP",
+                        "t": "123"
+                    }
+                ],
+                [
+                    {
+                        "row": null,
+                        "col": null,
+                        "text": "IPv6特性",
+                        "t": "123"
+                    },
+                    {
+                        "row": null,
+                        "col": null,
+                        "text": "支持ND（Neighbor Discovery）\n支持PMTU\n支持IPv6 Ping、IPv6 Tracert、IPv6 Telnet\n支持手动配置Tunnel\n支持6to4 tunnel\n支持ISATAP tunnel\n支持基于源IPv6 地址、目的IPv6 地址、TCP/UDP协议端口号、协议类型等ACL\n支持MLD v1/v2 Snooping（Multicast Listener Discovery snooping）",
+                        "t": "123"
+                    },
+                    {
+                        "row": null,
+                        "col": null,
+                        "text": "支持ND（Neighbor Discovery）\n支持PMTU\n支持IPv6 Ping、IPv6 Tracert、IPv6 Telnet\n支持手动配置Tunnel\n支持6to4 tunnel\n支持ISATAP tunnel\n支持基于源IPv6 地址、目的IPv6 地址、TCP/UDP协议端口号、协议类型等ACL\n支持MLD v1/v2 Snooping（Multicast Listener Discovery snooping）",
+                        "t": "123"
+                    }
+                ],
+                [
+                    {
+                        "row": null,
+                        "col": null,
+                        "text": "组播",
+                        "t": "123"
+                    },
+                    {
+                        "row": null,
+                        "col": null,
+                        "text": "支持1K的组播组\n支持IGMP v1/v2/v3 Snooping和快速离开机制\n支持组播VLAN和跨VLAN组播复制\n支持捆绑端口的组播负载分担\n基于可控组播\n基于端口的组播流量统计",
+                        "t": "123"
+                    },
+                    {
+                        "row": null,
+                        "col": null,
+                        "text": "支持1K的组播组\n支持IGMP v1/v2/v3 Snooping和快速离开机制\n支持组播VLAN和跨VLAN组播复制\n支持捆绑端口的组播负载分担\n基于可控组播\n基于端口的组播流量统计",
+                        "t": "123"
+                    }
+                ],
+                [
+                    {
+                        "row": null,
+                        "col": null,
+                        "text": "QoS/ACL",
+                        "t": "123"
+                    },
+                    {
+                        "row": null,
+                        "col": null,
+                        "text": "支持端口入方向、出方向的速率限制\n支持报文重定向\n支持基于端口的流量监管，支持双速三色CAR功能\n每端口支持8个优先级队列\n支持WRR、DRR、SP、WRR＋SP、DRR+SP等队列调度算法\n支持报文的802.1p和DSCP优先级重新标记\n支持L2（Layer 2）~L4（Layer 4）包过滤功能，提供基于源MAC地址、目的MAC地址、源IP地址、目的IP地址、TCP/UDP协议端口号、协议、VLAN的非法帧过滤功能\n支持基于队列限速和流量整形功能",
+                        "t": "123"
+                    },
+                    {
+                        "row": null,
+                        "col": null,
+                        "text": "支持端口入方向、出方向的速率限制\n支持报文重定向\n支持基于端口的流量监管，支持双速三色CAR功能\n每端口支持8个优先级队列\n支持WRR、DRR、SP、WRR＋SP、DRR+SP等队列调度算法\n支持报文的802.1p和DSCP优先级重新标记\n支持L2（Layer 2）~L4（Layer 4）包过滤功能，提供基于源MAC地址、目的MAC地址、源IP地址、目的IP地址、TCP/UDP协议端口号、协议、VLAN的非法帧过滤功能\n支持基于队列限速和流量整形功能",
+                        "t": "123"
+                    }
+                ],
+                [
+                    {
+                        "row": null,
+                        "col": null,
+                        "text": "接入和安全特性",
+                        "t": "123"
+                    },
+                    {
+                        "row": null,
+                        "col": null,
+                        "text": "用户分级管理和口令保护\n支持防止DOS、ARP防攻击、ICMP防攻击功能\n支持IP、MAC、端口、VLAN的组合绑定\n支持端口隔离、端口安全、Sticky MAC\n支持黑洞MAC地址\n支持MAC地址学习数目限制\n支持IEEE 802.1x认证，支持单端口最大用户数限制\n支持AAA认证，支持Radius、HWTACACS等多种方式\n支持SSH V2.0\n支持CPU保护功能 支持黑名单和白名单\n支持DHCP Server,DHCP Relay, DHCP Snooping, DHCP Security",
+                        "t": "123"
+                    },
+                    {
+                        "row": null,
+                        "col": null,
+                        "text": "用户分级管理和口令保护\n支持防止DOS、ARP防攻击、ICMP防攻击功能\n支持IP、MAC、端口、VLAN的组合绑定\n支持端口隔离、端口安全、Sticky MAC\n支持黑洞MAC地址\n支持MAC地址学习数目限制\n支持IEEE 802.1x认证，支持单端口最大用户数限制\n支持AAA认证，支持Radius、HWTACACS等多种方式\n支持SSH V2.0\n支持CPU保护功能 支持黑名单和白名单\n支持DHCP Server,DHCP Relay, DHCP Snooping, DHCP Security",
+                        "t": "123"
+                    }
+                ],
+                [
+                    {
+                        "row": null,
+                        "col": null,
+                        "text": "防雷能力",
+                        "t": "123"
+                    },
+                    {
+                        "row": null,
+                        "col": null,
+                        "text": "业务端口防雷能力：7KV",
+                        "t": "123"
+                    },
+                    {
+                        "row": null,
+                        "col": null,
+                        "text": "业务端口防雷能力：7KV",
+                        "t": "123"
+                    }
+                ],
+                [
+                    {
+                        "row": null,
+                        "col": null,
+                        "text": "管理和维护",
+                        "t": "123"
+                    },
+                    {
+                        "row": null,
+                        "col": null,
+                        "text": "支持智能堆叠\n支持MFF\n支持Telnet远程配置、维护\n支持自动配置功能\n支持VCT虚拟电缆检测(Virtual Cable Test)\n支持以太OAM（802.3ah 和 802.1ag）\n支持SNMPv1/v2c/v3；支持RMON\n支持MUX VLAN特性；支持GVRP协议\n支持eSight网管系统、支持WEB管理特性\n支持SSH V2",
+                        "t": "123"
+                    },
+                    {
+                        "row": null,
+                        "col": null,
+                        "text": "支持智能堆叠\n支持MFF\n支持Telnet远程配置、维护\n支持自动配置功能\n支持VCT虚拟电缆检测(Virtual Cable Test)\n支持以太OAM（802.3ah 和 802.1ag）\n支持SNMPv1/v2c/v3；支持RMON\n支持MUX VLAN特性；支持GVRP协议\n支持eSight网管系统、支持WEB管理特性\n支持SSH V2",
+                        "t": "123"
+                    }
+                ],
+                [
+                    {
+                        "row": null,
+                        "col": null,
+                        "text": "互通性",
+                        "t": "123"
+                    },
+                    {
+                        "row": null,
+                        "col": "2",
+                        "text": "LNP链路类型协商协议（和DTP相似功能）\nVCMP VLAN集中管理协议（和VTP相似功能）\n\n详细的互联互通认证与报告，请访问这里 。",
+                        "t": "123"
+                    }
+                ]
+            ]
+        },
+        "dec": "S3700系列企业交换机是华为公司推出的新一代绿色节能的三层以太交换机。,基于新一代高性能硬件和华为 VRP（Versatile Routing Platform）软件平台，针对企业用户园区汇聚、接入等多种应用场景，提供简单便利的安装维护手段、灵活的VLAN部署和PoE供电能力、丰富的路由功能和IPv6平滑升级能力，并通过融合堆叠、虚拟路由器冗余、快速环网保护等先进技术有效增强网络健壮性，助力企业搭建面向未来的IT网络。",
+        "features": []
+    },
+    {
+        "title": "S5720-EI系列增强型千兆以太交换机",
+        "link": null,
+        "table": {
+            "single": [
+                [
+                    {
+                        "row": null,
+                        "col": null,
+                        "text": "产品型号",
+                        "t": "123"
+                    },
+                    {
+                        "row": null,
+                        "col": null,
+                        "text": "S5720-P-EI系列",
+                        "t": "123"
+                    },
+                    {
+                        "row": null,
+                        "col": null,
+                        "text": "S5720-X-EI系列",
+                        "t": "123"
+                    },
+                    {
+                        "row": null,
+                        "col": null,
+                        "text": "S5720-PC-EI系列",
+                        "t": "123"
+                    },
+                    {
+                        "row": null,
+                        "col": null,
+                        "text": "S5720-C-EI系列",
+                        "t": "123"
+                    }
+                ],
+                [
+                    {
+                        "row": null,
+                        "col": null,
+                        "text": "交换容量",
+                        "t": "123"
+                    },
+                    {
+                        "row": null,
+                        "col": null,
+                        "text": "598Gbps/5.98Tbps",
+                        "t": "123"
+                    },
+                    {
+                        "row": null,
+                        "col": null,
+                        "text": "598Gbps/5.98Tbps",
+                        "t": "123"
+                    },
+                    {
+                        "row": null,
+                        "col": null,
+                        "text": "598Gbps/5.98Tbps",
+                        "t": "123"
+                    },
+                    {
+                        "row": null,
+                        "col": null,
+                        "text": "598Gbps/5.98Tbps",
+                        "t": "123"
+                    }
+                ],
+                [
+                    {
+                        "row": null,
+                        "col": null,
+                        "text": "包转发率",
+                        "t": "123"
+                    },
+                    {
+                        "row": null,
+                        "col": "4",
+                        "text": "S5720-32P-EI-AC:168Mpps\nS5720-52P-EI-AC:198Mpps\nS5720-32X-EI-AC:222Mpps\nS5720-32X-EI-24S-AC:222Mpps\nS5720-32X-EI-24S-DC:222Mpps\nS5720-50X-EI-AC:249Mpps\nS5720-50X-EI-DC:249Mpps\nS5720-50X-EI-46S-AC:249Mpps\nS5720-50X-EI-46S-DC:249Mpps\nS5720-52X-EI-AC:252Mpps\nS5720-36PC-EI-AC:168Mpps\nS5720-56PC-EI-AC:198Mpps\nS5720-36C-EI-28S-AC:222Mpps\nS5720-36C-EI-28S-DC:222Mpps\nS5720-36C-EI-AC:222Mpps\nS5720-36C-PWR-EI-AC:222Mpps\nS5720-56C-EI-48S-AC:252Mpps\nS5720-56C-EI-48S-DC:252Mpps\nS5720-56C-EI-AC:252Mpps\nS5720-56C-EI-DC:252Mpps\nS5720-56C-PWR-EI-AC:252Mpps\nS5720-56C-PWR-EI-DC:252Mpps\nS5720-56C-PWR-EI-AC1:252Mpps",
+                        "t": "123"
+                    }
+                ],
+                [
+                    {
+                        "row": null,
+                        "col": null,
+                        "text": "扩展插槽",
+                        "t": "123"
+                    },
+                    {
+                        "row": null,
+                        "col": "2",
+                        "text": "N/A",
+                        "t": "123"
+                    },
+                    {
+                        "row": null,
+                        "col": "2",
+                        "text": "提供1个扩展插槽，可扩展支持：\n\n业务插卡：2端口万兆SFP+光接口后插卡\n堆叠卡：2端口QSFP+专用堆叠后插卡\n防火墙插卡*",
+                        "t": "123"
+                    }
+                ],
+                [
+                    {
+                        "row": null,
+                        "col": null,
+                        "text": "MAC特性",
+                        "t": "123"
+                    },
+                    {
+                        "row": null,
+                        "col": "4",
+                        "text": "64K\n支持MAC地址自动学习和老化\n支持静态、动态、黑洞MAC表项\n支持源MAC地址过滤",
+                        "t": "123"
+                    }
+                ],
+                [
+                    {
+                        "row": null,
+                        "col": null,
+                        "text": "VLAN特性",
+                        "t": "123"
+                    },
+                    {
+                        "row": null,
+                        "col": "4",
+                        "text": "支持4K个VLAN\n支持Guest VLAN、Voice VLAN\n支持GVRP协议\n支持MUX VLAN功能\n支持基于MAC/协议/IP子网/策略/端口的VLAN\n支持1:1和N:1 VLAN Mapping功能\n支持协议透明VLAN",
+                        "t": "123"
+                    }
+                ],
+                [
+                    {
+                        "row": null,
+                        "col": null,
+                        "text": "IP路由",
+                        "t": "123"
+                    },
+                    {
+                        "row": null,
+                        "col": "4",
+                        "text": "静态路由、RIP V1/2、RIPng\nOSPF、OSPFv3、IS-IS、IS-ISv6\nBGP、BGP4+、ECMP、路由策略",
+                        "t": "123"
+                    }
+                ],
+                [
+                    {
+                        "row": null,
+                        "col": null,
+                        "text": "互通性",
+                        "t": "123"
+                    },
+                    {
+                        "row": null,
+                        "col": "4",
+                        "text": "VBST基于VLAN生成树协议（和PVST/PVST+/RPVST 互通）\nLNP 链路类型协商协议（和DTP相似功能）\nVCMP VLAN集中管理协议（和VTP相似功能）\n\n详细的互联互通认证与报告，请访问这里。",
+                        "t": "123"
+                    }
+                ]
+            ]
+        },
+        "dec": "S5720-EI系列增强型千兆以太网交换机提供灵活的全千兆接入以及增强的万兆上行端口扩展能力，广泛应用于企业园区接入、汇聚，数据中心千兆接入等多种应用场景。",
+        "features": [
+            {
+                "dec": [
+                    "",
+                    "提供灵活的全千兆光/电/Combo口接入以及增强的万兆上行端口扩展能力",
+                    ""
+                ]
+            },
+            {
+                "dec": [
+                    "",
+                    "多样的设备级和链路级可靠性保护，智能iStack堆叠，丰富的环网保护技术，更短的故障切换时间",
+                    ""
+                ]
+            },
+            {
+                "dec": [
+                    "",
+                    "SVF（超级虚拟交换网）将园区“核心/汇聚+接入交换机+AP”的网络架构，虚拟化为一台网元，可作为SVF Client角色，即插即用，极简网络运维",
+                    ""
+                ]
+            }
+        ]
+    },
+    {
+        "title": "S6720-HI系列全功能万兆路由交换机",
+        "link": "https://e.huawei.com/cn/material/networking/campusswitch/c3f8b4e895354f96a4aa277a58a5ad3f",
+        "table": {
+            "single": [
+                [
+                    {
+                        "row": null,
+                        "col": null,
+                        "text": "产品型号",
+                        "t": "123"
+                    },
+                    {
+                        "row": null,
+                        "col": null,
+                        "text": "S6720-50L-HI-48S",
+                        "t": "123"
+                    },
+                    {
+                        "row": null,
+                        "col": null,
+                        "text": "S6720-30L-HI-24S",
+                        "t": "123"
+                    }
+                ],
+                [
+                    {
+                        "row": null,
+                        "col": null,
+                        "text": "交换容量",
+                        "t": "123"
+                    },
+                    {
+                        "row": null,
+                        "col": null,
+                        "text": "2.56Tbps/23.04Tbps\n",
+                        "t": "123"
+                    },
+                    {
+                        "row": null,
+                        "col": null,
+                        "text": "2.56Tbps/23.04Tbps\n",
+                        "t": "123"
+                    }
+                ],
+                [
+                    {
+                        "row": null,
+                        "col": null,
+                        "text": "包转发率",
+                        "t": "123"
+                    },
+                    {
+                        "row": null,
+                        "col": null,
+                        "text": "1200Mpps",
+                        "t": "123"
+                    },
+                    {
+                        "row": null,
+                        "col": null,
+                        "text": "900Mpps",
+                        "t": "123"
+                    }
+                ],
+                [
+                    {
+                        "row": null,
+                        "col": null,
+                        "text": "固定端口",
+                        "t": "123"
+                    },
+                    {
+                        "row": null,
+                        "col": null,
+                        "text": "48个万兆SFP+,6个40GE QSFP+或44个万兆SFP+,4个40GE QSFP+,2个100GE QSFP28",
+                        "t": "123"
+                    },
+                    {
+                        "row": null,
+                        "col": null,
+                        "text": "24个万兆SFP+,4个40GE QSFP+,2个100GE QSFP28",
+                        "t": "123"
+                    }
+                ],
+                [
+                    {
+                        "row": null,
+                        "col": null,
+                        "text": "扩展插槽",
+                        "t": "123"
+                    },
+                    {
+                        "row": null,
+                        "col": null,
+                        "text": "不支持",
+                        "t": "123"
+                    },
+                    {
+                        "row": null,
+                        "col": null,
+                        "text": "不支持",
+                        "t": "123"
+                    }
+                ],
+                [
+                    {
+                        "row": null,
+                        "col": null,
+                        "text": "MAC特性",
+                        "t": "123"
+                    },
+                    {
+                        "row": null,
+                        "col": "2",
+                        "text": "支持64K MAC地址容量\n遵循IEEE 802.1d标准\n支持MAC地址自动学习和老化\n支持静态、动态、黑洞MAC表项\n支持源MAC地址过滤\n",
+                        "t": "123"
+                    }
+                ],
+                [
+                    {
+                        "row": null,
+                        "col": null,
+                        "text": "VLAN特性",
+                        "t": "123"
+                    },
+                    {
+                        "row": null,
+                        "col": "2",
+                        "text": "支持4K个VLAN\n支持Guest VLAN、Voice VLANs\n支持GVRP协议\n支持MUX VLAN功能\n支持基于MAC/协议/IP子网/策略/端口的VLAN\n支持VLAN Mapping功能\n",
+                        "t": "123"
+                    }
+                ],
+                [
+                    {
+                        "row": null,
+                        "col": null,
+                        "text": "IP路由",
+                        "t": "123"
+                    },
+                    {
+                        "row": null,
+                        "col": "2",
+                        "text": "静态路由、RIP V1/2、RIPng、OSPF、OSPFv3、IS-IS、IS-ISv6、BGP、BGP4+、ECMP、路由策略",
+                        "t": "123"
+                    }
+                ],
+                [
+                    {
+                        "row": null,
+                        "col": null,
+                        "text": "无线业务",
+                        "t": "123"
+                    },
+                    {
+                        "row": null,
+                        "col": "2",
+                        "text": "支持管理1K AP\n提供668Gbps无线转发能力（基于1024字节包长计算）\n支持AP接入控制、AP域管理和AP配置模板管理\n支持射频管理、统一静态配置和集中动态管理\n支持WLAN基本业务、QoS、安全和用户管理\n支持CAPWAP、Tag/终端定位、频谱分析",
+                        "t": "123"
+                    }
+                ],
+                [
+                    {
+                        "row": null,
+                        "col": null,
+                        "text": "互通性",
+                        "t": "123"
+                    },
+                    {
+                        "row": null,
+                        "col": "2",
+                        "text": "VBST基于VLAN生成树协议（和PVST/PVST+/RPVST 互通）\nLNP 链路类型协商协议（和DTP相似功能）\nVCMP VLAN集中管理协议（和VTP相似功能）\n\n详细的互联互通认证与报告，请访问这里。",
+                        "t": "123"
+                    }
+                ]
+            ]
+        },
+        "dec": "S6720-HI系列全功能万兆路由交换机是华为首款下行万兆、上行40G和100G端口的盒式交换机，支持丰富的敏捷特性，可广泛应用于企业园区、运营商、高校、政府等应用场景。",
+        "features": [
+            {
+                "dec": [
+                    "",
+                    "融合AC功能，支持SVF超级虚拟交换网， 将“核心/汇聚+接入交换机+AP”网络架构虚拟化为一个网元进行管理",
+                    ""
+                ]
+            },
+            {
+                "dec": [
+                    "",
+                    "支持SD-Campus，自动化网络实现快速业务发放，降低80% OPEX",
+                    ""
+                ]
+            },
+            {
+                "dec": [
+                    "",
+                    "首款100G盒式交换机，打造高带宽企业网园区网络",
+                    ""
+                ]
+            }
+        ]
+    },
+    {
+        "title": "S7700系列智能路由交换机",
+        "link": "https://e.huawei.com/cn/material/networking/campusswitch/2735e11a56db46ba99c867d8bc4e5b5f",
+        "table": {
+            "single": [
+                [
+                    {
+                        "row": null,
+                        "col": null,
+                        "text": "产品型号",
+                        "t": "123"
+                    },
+                    {
+                        "row": null,
+                        "col": null,
+                        "text": "S7703",
+                        "t": "123"
+                    },
+                    {
+                        "row": null,
+                        "col": null,
+                        "text": "S7703 PoE",
+                        "t": "123"
+                    },
+                    {
+                        "row": null,
+                        "col": null,
+                        "text": "S7706/S7706 PoE",
+                        "t": "123"
+                    },
+                    {
+                        "row": null,
+                        "col": null,
+                        "text": "S7712",
+                        "t": "123"
+                    }
+                ],
+                [
+                    {
+                        "row": null,
+                        "col": null,
+                        "text": "交换容量",
+                        "t": "123"
+                    },
+                    {
+                        "row": null,
+                        "col": null,
+                        "text": "19.2/48Tbps",
+                        "t": "123"
+                    },
+                    {
+                        "row": null,
+                        "col": null,
+                        "text": "19.2/48Tbps",
+                        "t": "123"
+                    },
+                    {
+                        "row": null,
+                        "col": null,
+                        "text": "19.84/86.4Tbps",
+                        "t": "123"
+                    },
+                    {
+                        "row": null,
+                        "col": null,
+                        "text": "27.52/153.6Tbps",
+                        "t": "123"
+                    }
+                ],
+                [
+                    {
+                        "row": null,
+                        "col": null,
+                        "text": "包转发率",
+                        "t": "123"
+                    },
+                    {
+                        "row": null,
+                        "col": null,
+                        "text": "1440/16560Mpps",
+                        "t": "123"
+                    },
+                    {
+                        "row": null,
+                        "col": null,
+                        "text": "3600/16560Mpps",
+                        "t": "123"
+                    },
+                    {
+                        "row": null,
+                        "col": null,
+                        "text": "3240/26400Mpps",
+                        "t": "123"
+                    },
+                    {
+                        "row": null,
+                        "col": null,
+                        "text": "3480/48960Mpps",
+                        "t": "123"
+                    }
+                ],
+                [
+                    {
+                        "row": null,
+                        "col": null,
+                        "text": "冗余设计",
+                        "t": "123"
+                    },
+                    {
+                        "row": null,
+                        "col": "4",
+                        "text": "主控、电源、监控板、风扇框（前后及左后风道）",
+                        "t": "123"
+                    }
+                ],
+                [
+                    {
+                        "row": null,
+                        "col": null,
+                        "text": "无线管理",
+                        "t": "123"
+                    },
+                    {
+                        "row": null,
+                        "col": "4",
+                        "text": "支持随板AC\n支持AP接入控制、AP域管理和AP配置模板管理\n支持射频模板管理、统一静态配置和集中动态管理\n支持WLAN基本业务、QoS、安全和用户管理\n支持AC功能分层部署",
+                        "t": "123"
+                    }
+                ],
+                [
+                    {
+                        "row": null,
+                        "col": null,
+                        "text": "用户管理",
+                        "t": "123"
+                    },
+                    {
+                        "row": null,
+                        "col": "4",
+                        "text": "支持统一用户管理\n支持PPPoE、802.1X、MAC、Portal认证方式\n支持基于流量和时长计费方式\n支持分组分域分时授权方式",
+                        "t": "123"
+                    }
+                ],
+                [
+                    {
+                        "row": null,
+                        "col": null,
+                        "text": "路由特性",
+                        "t": "123"
+                    },
+                    {
+                        "row": null,
+                        "col": "4",
+                        "text": "支持IPV4静态路由、RIP、OSPF、IS-IS、BGP4等\n支持IPv6静态路由、RIPng、OSPFv3、IS-ISv6、BGP4+\n支持IPv4/IPv6等价路由、策略路由、路由策略\n支持IPv4和IPv6双协议栈\n支持Pingv6、Telnetv6、FTPv6、TFTPv6、DNSv6、ICMPv6\n支持IPv4向IPv6的过渡技术，包括：IPv6手工隧道、6to4隧道、ISATAP隧道、GRE隧道、IPv4兼容自动配置隧道",
+                        "t": "123"
+                    }
+                ],
+                [
+                    {
+                        "row": null,
+                        "col": null,
+                        "text": "iPCA质量感知",
+                        "t": "123"
+                    },
+                    {
+                        "row": null,
+                        "col": "4",
+                        "text": "支持直接对业务报文标记以获得丢包数量和丢包率统计数据，实时统计，零开销\n支持二三层网络网络级和设备级丢包数量和丢包率统计",
+                        "t": "123"
+                    }
+                ],
+                [
+                    {
+                        "row": null,
+                        "col": null,
+                        "text": "SVF简化运维",
+                        "t": "123"
+                    },
+                    {
+                        "row": null,
+                        "col": "4",
+                        "text": "支持将256个Client节点（接入交换机）、最大支持4K个AP虚拟为一台设备管理\n支持2层AS架构\n支持与第三方厂商混合组网管理",
+                        "t": "123"
+                    }
+                ],
+                [
+                    {
+                        "row": null,
+                        "col": null,
+                        "text": "缓存容量",
+                        "t": "123"
+                    },
+                    {
+                        "row": null,
+                        "col": "4",
+                        "text": "支持每端口200ms数据缓存",
+                        "t": "123"
+                    }
+                ],
+                [
+                    {
+                        "row": null,
+                        "col": null,
+                        "text": "数据中心特性",
+                        "t": "123"
+                    },
+                    {
+                        "row": null,
+                        "col": "4",
+                        "text": "支持TRILL，FCoE（DCB），EVN，nCenter，EVB，SPB，VXLAN等数据中心特性",
+                        "t": "123"
+                    }
+                ],
+                [
+                    {
+                        "row": null,
+                        "col": null,
+                        "text": "OpenFlow",
+                        "t": "123"
+                    },
+                    {
+                        "row": null,
+                        "col": "4",
+                        "text": "支持多控制器\n支持高达九级流表\n支持高达256K流表\n支持Group table\n支持Meter\n支持OpenFlow 1.3标准",
+                        "t": "123"
+                    }
+                ],
+                [
+                    {
+                        "row": null,
+                        "col": null,
+                        "text": "互通性",
+                        "t": "123"
+                    },
+                    {
+                        "row": null,
+                        "col": "4",
+                        "text": "VBST基于VLAN生成树协议（和PVST/PVST+/RPVST互通）\nLNP链路类型协商协议（和DTP相似功能）\nVCMP VLAN集中管理协议（和VTP相似功能）\n\n\n\n详细的互联互通认证与报告，请访问这里。",
+                        "t": "123"
+                    }
+                ]
+            ]
+        },
+        "dec": "S7700系列交换机可提供有线无线深度融合、统一用户管理、网络质量感知iPCA、完善的H-QoS策略、一体化安全等智能业务优化特性，支持100G端口，支持SVF2.0超级虚拟交换机，具备超强扩展性和可靠性。",
+        "features": [
+            {
+                "dec": [
+                    "",
+                    "基于全可编程架构，新业务通过编程实现，快速灵活，6个月即可上线",
+                    ""
+                ]
+            },
+            {
+                "dec": [
+                    "",
+                    "最大可支持1M MAC表项、1M Netstream表项，支持8*100GE、16*40GE高密板卡，满足城域、高校、大企业终端和业务增长",
+                    ""
+                ]
+            },
+            {
+                "dec": [
+                    "",
+                    "支持随板AC，最大可管理4K AP；整机无线转发性能可达4T-bit。支持SVF超级虚拟交换网， 将“核心/汇聚+接入交换机+AP”网络架构虚拟化为一台设备进行管理，极简网络运维",
+                    ""
+                ]
+            }
+        ]
+    },
+    null,
+    {
+        "title": "S7900系列企业交换机",
+        "link": null,
+        "table": {
+            "single": [
+                [
+                    {
+                        "row": null,
+                        "col": null,
+                        "text": "参数",
+                        "t": "123"
+                    },
+                    {
+                        "row": null,
+                        "col": null,
+                        "text": "S7905",
+                        "t": "123"
+                    },
+                    {
+                        "row": null,
+                        "col": null,
+                        "text": "S7908",
+                        "t": "123"
+                    }
+                ],
+                [
+                    {
+                        "row": null,
+                        "col": null,
+                        "text": "交换容量",
+                        "t": "123"
+                    },
+                    {
+                        "row": null,
+                        "col": null,
+                        "text": "19.2/48Tbps",
+                        "t": "123"
+                    },
+                    {
+                        "row": null,
+                        "col": null,
+                        "text": "19.84/86.4Tbps",
+                        "t": "123"
+                    }
+                ],
+                [
+                    {
+                        "row": null,
+                        "col": null,
+                        "text": "包转发率",
+                        "t": "123"
+                    },
+                    {
+                        "row": null,
+                        "col": null,
+                        "text": "1440/16560Mpps",
+                        "t": "123"
+                    },
+                    {
+                        "row": null,
+                        "col": null,
+                        "text": "2880/26400Mpps",
+                        "t": "123"
+                    }
+                ],
+                [
+                    {
+                        "row": null,
+                        "col": null,
+                        "text": "业务槽位",
+                        "t": "123"
+                    },
+                    {
+                        "row": null,
+                        "col": null,
+                        "text": "3",
+                        "t": "123"
+                    },
+                    {
+                        "row": null,
+                        "col": null,
+                        "text": "6",
+                        "t": "123"
+                    }
+                ],
+                [
+                    {
+                        "row": null,
+                        "col": null,
+                        "text": "冗余设计",
+                        "t": "123"
+                    },
+                    {
+                        "row": null,
+                        "col": "2",
+                        "text": "主控、电源、监控板、风扇框（前后及左后风道）",
+                        "t": "123"
+                    }
+                ],
+                [
+                    {
+                        "row": null,
+                        "col": null,
+                        "text": "无线管理",
+                        "t": "123"
+                    },
+                    {
+                        "row": null,
+                        "col": "2",
+                        "text": "支持随板AC，有线无线深度融合\n支持AP接入控制、AP域管理和AP配置模板管理\n支持射频模板管理、统一静态配置和集中动态管理\n支持WLAN基本业务、QoS、安全和用户管理",
+                        "t": "123"
+                    }
+                ],
+                [
+                    {
+                        "row": null,
+                        "col": null,
+                        "text": "用户管理",
+                        "t": "123"
+                    },
+                    {
+                        "row": null,
+                        "col": "2",
+                        "text": "支持有线无线统一用户管理\n支持802.1X、MAC、Portal认证方式\n支持基于流量、时长和DAA（按照目的地址）计费方式\n支持分组分域分时授权方式",
+                        "t": "123"
+                    }
+                ],
+                [
+                    {
+                        "row": null,
+                        "col": null,
+                        "text": "iPCA质量感知",
+                        "t": "123"
+                    },
+                    {
+                        "row": null,
+                        "col": "2",
+                        "text": "支持直接对业务报文标记以获得丢包数量和丢包率统计数据，实时统计，零开销\n支持二三层网络网络级和设备级丢包数量和丢包率统计",
+                        "t": "123"
+                    }
+                ],
+                [
+                    {
+                        "row": null,
+                        "col": null,
+                        "text": "SVF2.0简化运维",
+                        "t": "123"
+                    },
+                    {
+                        "row": null,
+                        "col": "2",
+                        "text": "支持将256个Client节点（接入交换机）、最大支持4K个AP虚拟为一台设备管理\n支持2层AS架构\n支持与第三方厂商混合组网管理",
+                        "t": "123"
+                    }
+                ],
+                [
+                    {
+                        "row": null,
+                        "col": null,
+                        "text": "路由特性",
+                        "t": "123"
+                    },
+                    {
+                        "row": null,
+                        "col": "2",
+                        "text": "支持IPV4静态路由、RIP、OSPF、IS-IS、BGP4等\n支持IPv6静态路由、RIPng、OSPFv3、IS-ISv6、BGP4+\n支持IPv4/IPv6等价路由、策略路由、路由策略\n支持IPv4和IPv6双协议栈\n支持IPv4向IPv6的过渡技术，包括：IPv6手工隧道、6to4隧道、ISATAP隧道、GRE隧道",
+                        "t": "123"
+                    }
+                ],
+                [
+                    {
+                        "row": null,
+                        "col": null,
+                        "text": "互通性",
+                        "t": "123"
+                    },
+                    {
+                        "row": null,
+                        "col": "2",
+                        "text": "VBST基于VLAN生成树协议（和PVST/PVST+/RPVST互通）\nLNP链路类型协商协议（和DTP相似功能）\nVCMP VLAN集中管理协议（和VTP相似功能）\n\n详细的互联互通认证与报告，请访问这里 。",
+                        "t": "123"
+                    }
+                ]
+            ]
+        },
+        "dec": "S7900系列交换机是面向下一代企业网络架构推出的新一代高端智能路由交换机。该产品基于在提供稳定、可靠、安全的高性能L2~L4层交换服务基础上，进一步提供MPLS VPN、业务流分析、完善的QoS策略、可控组播、资源负载均衡、一体化安全等智能业务，同时具备超强扩展性和可靠性。",
+        "features": [
+            {
+                "dec": [
+                    "",
+                    "基于全可编程架构，新业务通过编程实现，快速灵活，6个月即可上线",
+                    ""
+                ]
+            },
+            {
+                "dec": [
+                    "",
+                    "支持随板AC，最大可管理4K AP；整机无线转发性能可达T-bit级。支持SVF超级虚拟交换网， 将“核心/汇聚+接入交换机+AP”网络架构虚拟化为一台设备进行管理，极简网络运维",
+                    ""
+                ]
+            },
+            {
+                "dec": [
+                    "",
+                    "SVF（超级虚拟交换网）将园区“核心/汇聚+接入交换机+AP”的网络架构，虚拟化为一台网元，并可作为parent角色，对整网进行网络管理，极简网络运维",
+                    ""
+                ]
+            }
+        ]
+    },
+    {
+        "title": "CloudEngine 16800系列数据中心交换机",
+        "link": "https://e.huawei.com/cn/material/networking/dcswitch/56bd18285f654c68b0c1001efaf63b6b",
+        "table": {
+            "single": [
+                [
+                    {
+                        "row": null,
+                        "col": null,
+                        "text": "型号",
+                        "t": "123"
+                    },
+                    {
+                        "row": null,
+                        "col": null,
+                        "text": "CloudEngine 16804",
+                        "t": "123"
+                    },
+                    {
+                        "row": null,
+                        "col": null,
+                        "text": "CloudEngine 16808",
+                        "t": "123"
+                    },
+                    {
+                        "row": null,
+                        "col": null,
+                        "text": "CloudEngine 16816",
+                        "t": "123"
+                    }
+                ],
+                [
+                    {
+                        "row": null,
+                        "col": null,
+                        "text": "交换容量(Tbps)",
+                        "t": "123"
+                    },
+                    {
+                        "row": null,
+                        "col": null,
+                        "text": "387/1161",
+                        "t": "123"
+                    },
+                    {
+                        "row": null,
+                        "col": null,
+                        "text": "645/1935",
+                        "t": "123"
+                    },
+                    {
+                        "row": null,
+                        "col": null,
+                        "text": "1290/3870",
+                        "t": "123"
+                    }
+                ],
+                [
+                    {
+                        "row": null,
+                        "col": null,
+                        "text": "包转发率(Mpps)",
+                        "t": "123"
+                    },
+                    {
+                        "row": null,
+                        "col": null,
+                        "text": "115,200",
+                        "t": "123"
+                    },
+                    {
+                        "row": null,
+                        "col": null,
+                        "text": "230,400",
+                        "t": "123"
+                    },
+                    {
+                        "row": null,
+                        "col": null,
+                        "text": "460,800",
+                        "t": "123"
+                    }
+                ],
+                [
+                    {
+                        "row": null,
+                        "col": null,
+                        "text": "业务槽位",
+                        "t": "123"
+                    },
+                    {
+                        "row": null,
+                        "col": null,
+                        "text": "4",
+                        "t": "123"
+                    },
+                    {
+                        "row": null,
+                        "col": null,
+                        "text": "8",
+                        "t": "123"
+                    },
+                    {
+                        "row": null,
+                        "col": null,
+                        "text": "16",
+                        "t": "123"
+                    }
+                ],
+                [
+                    {
+                        "row": null,
+                        "col": null,
+                        "text": "交换网槽位",
+                        "t": "123"
+                    },
+                    {
+                        "row": null,
+                        "col": "3",
+                        "text": "6（未来可扩展到9）",
+                        "t": "123"
+                    }
+                ],
+                [
+                    {
+                        "row": null,
+                        "col": null,
+                        "text": "交换架构",
+                        "t": "123"
+                    },
+                    {
+                        "row": null,
+                        "col": "3",
+                        "text": "Clos交换、信元交换、VoQ ",
+                        "t": "123"
+                    }
+                ],
+                [
+                    {
+                        "row": null,
+                        "col": null,
+                        "text": "风道类型",
+                        "t": "123"
+                    },
+                    {
+                        "row": null,
+                        "col": "3",
+                        "text": "标准前后风道",
+                        "t": "123"
+                    }
+                ],
+                [
+                    {
+                        "row": null,
+                        "col": null,
+                        "text": "虚拟化",
+                        "t": "123"
+                    },
+                    {
+                        "row": null,
+                        "col": "3",
+                        "text": "支持M-LAG\n支持VS（1:16虚拟化）、CSS集群\n支持VxLAN routing 和VxLAN bridging、BGP-EVPN\n支持QinQ access VxLAN",
+                        "t": "123"
+                    }
+                ],
+                [
+                    {
+                        "row": null,
+                        "col": null,
+                        "text": "L2/L3",
+                        "t": "123"
+                    },
+                    {
+                        "row": null,
+                        "col": "3",
+                        "text": "支持VLAN、STP、LACP等二层协议\n支持静态路由、IPv4/IPv6动态路由协议\n支持IP分片重组",
+                        "t": "123"
+                    }
+                ],
+                [
+                    {
+                        "row": null,
+                        "col": null,
+                        "text": "安全可靠",
+                        "t": "123"
+                    },
+                    {
+                        "row": null,
+                        "col": "3",
+                        "text": "微分段\n支持硬件BFD（最小3.3ms发包间隔）",
+                        "t": "123"
+                    }
+                ],
+                [
+                    {
+                        "row": null,
+                        "col": null,
+                        "text": "智能运维",
+                        "t": "123"
+                    },
+                    {
+                        "row": null,
+                        "col": "3",
+                        "text": "支持telemetry数据采集\nERSPAN增强\n支持iPCA",
+                        "t": "123"
+                    }
+                ],
+                [
+                    {
+                        "row": null,
+                        "col": null,
+                        "text": "可编程特性",
+                        "t": "123"
+                    },
+                    {
+                        "row": null,
+                        "col": "3",
+                        "text": "支持NETCONF北向接口\n支持Ansible自动化配置，Module开源发布",
+                        "t": "123"
+                    }
+                ]
+            ]
+        },
+        "dec": "CloudEngine 16800是华为推出的面向智能时代的数据中心交换机。承载独创的iLossless 智能无损交换算法，对全网流量进行实时的学习训练，实现网络0丢包，达到最高吞吐量。",
+        "features": [
+            {
+                "dec": [
+                    "",
+                    "734/3096Tbps交换容量，支持400GE平滑演进，应对未来数字流量激增需求。",
+                    ""
+                ]
+            },
+            {
+                "dec": [
+                    "",
+                    "独创iLossless算法，全网流量实时学习训练，实现网络自适应，自优化。实现网络0丢包与E2Eμs级时延，达到最高吞吐量。",
+                    ""
+                ]
+            },
+            {
+                "dec": [
+                    "",
+                    "毫秒级Telemetry数据采集，为智能运维平台构建数据基础。1-3-5智能运维，90%故障主动预测。",
+                    ""
+                ]
+            }
+        ]
+    }
+]

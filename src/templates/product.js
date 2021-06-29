@@ -22,8 +22,9 @@ export default class Product extends React.Component {
     render() {
         let primary_bg_img_opacity_pct = _.get(this.props, 'pageContext.site.siteMetadata.bg_image_primary_opacity', null) || 100;
         let primary_bg_img_opacity = primary_bg_img_opacity_pct * 0.01;
-        let singleTable = _.get(this.props,`pageContext.frontmatter.other.table.single`,null);
-        console.log(singleTable,_.get(this.props, 'pageContext.frontmatter', null))
+        let singleTable = _.get(this.props,`pageContext.frontmatter.other1.table.single`,null);
+        const features = _.get(this.props,'pageContext.frontmatter.other2.features')
+        console.log('singleTable',features)
         return (
             <Layout {...this.props}>
                 <main className="content">
@@ -68,9 +69,29 @@ export default class Product extends React.Component {
                             <BuyButton {...this.props} product_page={this.props.pageContext} />
                         </div>
                     </section>
-                    // 参数
+                    <section className='content__row features'>
+                        {/* <h2>特性</h2> */}
+                        {features?
+                        <ul>
+                            {/* {_.map(features,(item,key)=>{
+                                return <li key={key}>
+                                    <h4>{item}</h4>
+                                </li>
+                            })} */}
+                            {features.map((item,key)=>{
+                                return <li key={key}>
+                                    <h3>{item.title}</h3>
+                                    {item.dec.map((text,j)=>{
+                                        return <p key={j}>{text}</p>
+                                    })}
+                                </li>
+                            })}
+                        </ul>:
+                        null
+                        }
+                    </section>
                     <section className='content__row table'>
-                        <h3>技术规格</h3>
+                        <h2>技术规格</h2>
                         {singleTable ?
                             <table>
                                 <thead>
