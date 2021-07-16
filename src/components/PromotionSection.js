@@ -5,13 +5,16 @@ import Picture from './Picture';
 import {toStyleObj, withPrefix, Link, classNames} from '../utils';
 
 export default class PromotionSection extends React.Component {
+    
     render() {
+        const img = _.get(this.props,`pageContext.frontmatter.other4.images[0].alt`,null)
+        const imgurl = img ? `huawei/images/${img}.jpg`:''
         let section = _.get(this.props, 'section', null);
         return (
             <section className="content__row content__row--full-width promo__section"  data-id={_.get(section, 'section_id', null)}>
                 <div className="promo">
-                    <Picture {...this.props} image={_.get(section, 'image', null)} alt={_.get(section, 'title', null)} />
-                    <div className="promo__message-container" {...(_.get(section, 'background_image', null) ? ({style: toStyleObj('background-image: url(\'' + withPrefix(_.get(section, 'background_image', null)) + '\')')}) : null)}>
+                    <Picture {...this.props} image={imgurl} alt={_.get(section, 'title', null)} />
+                    {/* <div className="promo__message-container" {...(_.get(section, 'background_image', null) ? ({style: toStyleObj('background-image: url(\'' + withPrefix(_.get(section, 'background_image', null)) + '\')')}) : null)}>
                         <h2 className="promo__title">{_.get(section, 'title', null)}</h2>
                         <p className="promo__subtitle">{_.get(section, 'subtitle', null)}</p>
                         {_.get(section, 'cta', null) && ((() => {
@@ -27,7 +30,7 @@ export default class PromotionSection extends React.Component {
                                 </Link>
                             );
                         })())}
-                    </div>
+                    </div> */}
                 </div>
             </section>
         );

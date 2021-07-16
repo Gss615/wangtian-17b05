@@ -6,13 +6,13 @@ const readdir = util.promisify(fs.readdir);
 const _ = require('lodash')
 
 
-const templates = (title,dec,img,order,category,template,table,features)=>{
+const templates = (title,dec,img,order,category,template,table,features,link)=>{
   return `---
 id: '1'
 price: '49.40'
 title: ${title}
 description: ${dec}
-default_thumbnail_image: ${img}
+default_thumbnail_image: images/plant1-lg.jpg
 default_original_image: images/plant1-lg.jpg
 featured: true
 order: ${order}
@@ -21,6 +21,9 @@ other1:
   table: ${JSON.stringify(table)}
 other2:
   features: ${JSON.stringify(features)}
+other3: ${link}
+other4:
+  images: ${JSON.stringify(img)}
 seo:
   title: Nulla suscipit
   description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit'
@@ -47,7 +50,7 @@ seo:
     - name: 'twitter:image'
       value: images/plant1-lg.jpg
       relativeUrl: true
-template: ${template}
+template: product
 ---
 
 # Nulla suscipit
@@ -56,7 +59,7 @@ Aliquam quis laoreet lectus. Proin non mattis nulla, quis posuere mi. Mauris ven
 }
 
 const writeMD = (fileName,content)=>{
-    fs.writeFile(`${fileName}.md`,content,(err)=>{
+    fs.writeFile(`../src/pages/products/${fileName}.md`,content,(err)=>{
         if(err) return console.log(err)
     })
 }
@@ -71,11 +74,11 @@ const readFile = (fileName)=>{
         })
     })
 }
-readFile('./indetail.json').then((res,err)=>{
+readFile('./final.json').then((res,err)=>{
     if(err) return console.log(err);
     console.log(res);
     _.compact(res).map((list,i)=>{
-        const content = templates(list.title,list.dec,'images/plant1-lg.jpg',i,'src/pages/category/bigplants.md','product',list.table,list.features)
+        const content = templates(list.title,list.dec,list.tag.imgsUrl,i, `src/pages/category/${list.tag}.md`,list.tag,list.table,list.features,list.link)
         console.log(i)
         writeMD(list.title,content)
     })

@@ -25,3 +25,36 @@
         
     }
 }
+
+.table-btn{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    margin: 30px 0;
+}
+
+// 图片样式
+
+.picture{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 80%;
+    height: 80%;
+    // border: 1px solid red;
+    position: relative;
+    .test-box{
+        width: 0;
+        height: 0;
+        padding-bottom: 80%;
+    }
+    .img{
+        // position: absolute;
+        top: 0;
+        left: 0;
+    }
+    img{
+        max-width: 100%;
+        max-height: 100%;
+    }
+}

@@ -24,7 +24,12 @@ export default class Product extends React.Component {
         let primary_bg_img_opacity = primary_bg_img_opacity_pct * 0.01;
         let singleTable = _.get(this.props,`pageContext.frontmatter.other1.table.single`,null);
         const features = _.get(this.props,'pageContext.frontmatter.other2.features')
-        console.log('singleTable',features)
+        const link = _.get(this.props,`pageContext.frontmatter.other3`)
+        const img = _.get(this.props,`pageContext.frontmatter.other4.images[0].alt`,null)
+        console.log(img)
+        const imgurl = img ? `huawei/images/${img}.jpg`:''
+        // console.log(`huawei/images/${img[0].title}.jpg`, img,imgurl)
+        console.log('singleTable',this.props)
         return (
             <Layout {...this.props}>
                 <main className="content">
@@ -42,11 +47,11 @@ export default class Product extends React.Component {
                                 <svg width="20" height="10" viewBox="0 0 20 10" xmlns="http://www.w3.org/2000/svg">
                                     <path d="M2.739 4.309h17.011v1.284h-17.11l3.43 3.396-0.895 0.886-4.924-4.875 4.924-4.875 0.895 0.886-3.331 3.298z" />
                                 </svg>
-                                see all products
+                                查看更多
                             </Link>
                         </div>
                         <figure className="product__figure">
-                            <Picture {...this.props} image={_.get(this.props, 'pageContext.frontmatter.default_original_image', null)} alt={_.get(this.props, 'pageContext.frontmatter.title', null)} cssClass={'product__image'} />
+                            <Picture {...this.props} image={imgurl} alt={_.get(this.props, 'pageContext.frontmatter.title', null)} cssClass={'product__image'} />
                         </figure>
                         <div className="product__details">
                             <h1 className="product__title">
@@ -73,11 +78,6 @@ export default class Product extends React.Component {
                         {/* <h2>特性</h2> */}
                         {features?
                         <ul>
-                            {/* {_.map(features,(item,key)=>{
-                                return <li key={key}>
-                                    <h4>{item}</h4>
-                                </li>
-                            })} */}
                             {features.map((item,key)=>{
                                 return <li key={key}>
                                     <h3>{item.title}</h3>
@@ -92,7 +92,7 @@ export default class Product extends React.Component {
                     </section>
                     <section className='content__row table'>
                         <h2>技术规格</h2>
-                        {singleTable ?
+                        {singleTable ? <div>
                             <table>
                                 <thead>
                                     <tr>
@@ -108,8 +108,10 @@ export default class Product extends React.Component {
 
                                 </tbody>
                             </table>
-                            : (2)}
-
+                        </div> : (2)}
+                            {link?<div className='table-btn'>
+                                <button className='button button--std snipcart-add-item'><a href={link} target='_blank'>查看更多资料</a></button>
+                            </div>:null}
                     </section>
                     {_.get(this.props, 'pageContext.frontmatter.category', null) && ((() => {
                         let product_pages = _.filter(_.orderBy(getPages(this.props.pageContext.pages, '/products'), 'frontmatter.order'), item => _.get(item, 'frontmatter.id') != _.get(this.props, 'pageContext.frontmatter.id', null));
@@ -125,7 +127,7 @@ export default class Product extends React.Component {
                         <svg width="20" height="10" viewBox="0 0 20 10" xmlns="http://www.w3.org/2000/svg">
                             <path d="M2.739 4.309h17.011v1.284h-17.11l3.43 3.396-0.895 0.886-4.924-4.875 4.924-4.875 0.895 0.886-3.331 3.298z" />
                         </svg>
-                        see all products
+                        查看更多
                     </Link>
                 </main>
             </Layout>

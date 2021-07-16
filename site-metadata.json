@@ -12,17 +12,17 @@
     "palette": "green",
     "main_menu": [
         {
-            "title": "Store",
+            "title": "产品",
             "url": "/store",
             "style": "link"
         },
         {
-            "title": "About",
+            "title": "关于我们",
             "url": "/about",
             "style": "link"
         },
         {
-            "title": "FAQ",
+            "title": "联系方式",
             "url": "/faq",
             "style": "link"
         }

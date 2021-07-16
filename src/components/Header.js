@@ -18,12 +18,13 @@ export default class Header extends React.Component {
                 <header className="header">
                     <nav className={classNames('nav', {'nav--light': is_white_header, 'nav--dark': is_white_header !== true})}>
                         <div className="nav__logo"{...((is_logo_light && _.get(site, 'siteMetadata.logo_light', null)) ? ({"data-original": withPrefix(_.get(site, 'siteMetadata.logo_light', null))}) : null)}{...(_.get(site, 'siteMetadata.logo_dark', null) ? ({"data-dark": withPrefix(_.get(site, 'siteMetadata.logo_dark', null))}) : null)}>
-                            <Link to={withPrefix('/')}>
+                            <Link to={withPrefix('/')} style={{display:`flex`,alignItems:'center'}}>
                                 {is_logo_light ? (
                                     <Picture {...this.props} image={_.get(site, 'siteMetadata.logo_light', null)} cssClass={'nav__logo-image'} alt={'Site logo'} />
                                 ) : 
                                     <Picture {...this.props} image={_.get(site, 'siteMetadata.logo_dark', null)} cssClass={'nav__logo-image'} alt={'Site logo'} />
                                 }
+                                河南网田
                             </Link>
                         </div>
                         <ul className="nav__menu">
