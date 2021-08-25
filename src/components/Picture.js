@@ -11,7 +11,6 @@ export default class Picture extends React.Component {
         return (
             image && (
                 <div class='picture'>
-                    <div class='test-box'></div>
                     <picture class='img'>
                         <img src={withPrefix(image)} {...(alt ? ({ alt: alt }) : null)}  {...(cssClass ? ({ className: cssClass }) : null)} />
                     </picture>
