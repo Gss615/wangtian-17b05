@@ -1,3 +1,4 @@
+// 产品详情页面
 import React from 'react';
 import _, { map } from 'lodash';
 import {graphql} from 'gatsby';
@@ -25,11 +26,11 @@ export default class Product extends React.Component {
         let singleTable = _.get(this.props,`pageContext.frontmatter.other1.table.single`,null);
         const features = _.get(this.props,'pageContext.frontmatter.other2.features')
         const link = _.get(this.props,`pageContext.frontmatter.other3`)
-        const img = _.get(this.props,`pageContext.frontmatter.other4.images[0].alt`,null)
-        console.log(img)
-        const imgurl = img ? `huawei/images/${img}.jpg`:''
-        // console.log(`huawei/images/${img[0].title}.jpg`, img,imgurl)
-        console.log('singleTable',this.props)
+        const img = _.map(_.get(this.props, 'pageContext.frontmatter.other4.images'), (value, key) => {
+            const result = { value, key}
+            return result
+         })[0];
+        const imgurl = img ? `huawei/image/${img.key}/${img.value[0]}`:'';
         return (
             <Layout {...this.props}>
                 <main className="content">
@@ -65,9 +66,6 @@ export default class Product extends React.Component {
                                     </h2>
                                 );
                             })())}
-                            <div className="product__price">
-                                ${_.get(this.props, 'pageContext.frontmatter.price', null)}
-                            </div>
                             <article className="product__description">
                                 {_.get(this.props, 'pageContext.frontmatter.description', null)}
                             </article>
