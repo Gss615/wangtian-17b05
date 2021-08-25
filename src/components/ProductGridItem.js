@@ -1,3 +1,6 @@
+// 首页产品图片
+
+
 import React from 'react';
 import _ from 'lodash';
 
@@ -9,18 +12,11 @@ export default class ProductGridItem extends React.Component {
 
     render() {
 
-        let product_page = _.get(this.props, 'product_page', null);
-        // const img = _.get(product_page, 'frontmatter.other4.images', null).map((v,k)=>)
-        // const img = _.chain(product_page).get('frontmatter.other4.images').map((value,key)=>{
-        //     console.log('map',key,value)
-        //     return key
-        // }).head.value()
+        const product_page = _.get(this.props, 'product_page', null);
         const img = _.map(_.get(product_page, 'frontmatter.other4.images'), (value, key) => {
-            
             const result = { value, key}
             return result
          })[0];
-       console.log('====',img)
         const imgurl = img ? `huawei/image/${img.key}/${img.value[0]}`:'';
         return (
             <li className="product-grid__item">
