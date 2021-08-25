@@ -14,7 +14,7 @@ other2:
   features: [{"title":"丰富的接口","dec":["","提供1个GE上行和4个GE下行，以及2个RJ45电话直通口；内置蓝牙，与eSight协作实现蓝牙终端定位；支持PoE out，可为IP话机等终端供电",""]},{"title":"安装灵活","dec":["","支持面板、挂墙、吸顶及桌面等多种安装方式，便于部署",""]},{"title":"云管理","dec":["","可通过华为云管理平台对AP设备及业务进行管理和运维，节省网络运维成本",""]}]
 other3: https://e.huawei.com/cn/material/networking/wlan/0b51783f181a40ddba757df4b58e6231
 other4:
-  images: {"AP2010DN":["01.png","02.png","03.png","04.png","05.png","06.png"]}
+  images: {"AP230":["bottom.png","front_left.png","front_right.png","front_top.png","rear_top.png","right.png","stand_left.png","stand_right.png","top.png"]}
 seo:
   title: Nulla suscipit
   description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit'

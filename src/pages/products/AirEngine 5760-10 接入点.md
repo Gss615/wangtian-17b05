@@ -14,7 +14,7 @@ other2:
   features: [{"title":"自适应阵列天线技术","dec":["对终端进行精准覆盖，降低干扰，提升信号质量，信号随用户而动"]},{"title":"物联网扩展","dec":["USB扩展物联网模块，支持RFID、ZigBee等物联协议"]},{"title":"云管理","dec":["可通过华为云管理平台对AP设备及业务进行管理和运维，节省网络运维成本"]}]
 other3: https://e.huawei.com/cn/material/networking/wlan/fa7155bce1d348e292dc96f2e5881ef4
 other4:
-  images: {}
+  images: {"AirEngine 5761S-21":["front.png","front_bottom.png","front_left.png","front_right.png","front_top.png","rear.png","rear_top.png"]}
 seo:
   title: Nulla suscipit
   description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit'

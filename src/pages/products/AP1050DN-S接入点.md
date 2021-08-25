@@ -14,7 +14,7 @@ other2:
   features: [{"title":"千兆网口","dec":["","上行1个千兆网口",""]},{"title":"双频AP","dec":["","提供2.4GHz及5GHz双频，整机速率633Mbps",""]},{"title":"云管理","dec":["","可通过华为云管理平台对AP设备及业务进行管理和运维，节省网络运维成本",""]}]
 other3: https://e.huawei.com/cn/material/networking/wlan/c0dcaef0eec74ee2a11c93e266e6016b
 other4:
-  images: {"AP1010SN":["01.png","02.png","03.png","04.png","05.png"]}
+  images: {"AP1050DN-S":["01.png","02.png","03.png","04.png","05.png","06.png","07.png"]}
 seo:
   title: Nulla suscipit
   description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit'

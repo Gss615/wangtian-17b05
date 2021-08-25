@@ -14,7 +14,7 @@ other2:
   features: []
 other3: 
 other4:
-  images: {"AR6120-S":["front.png","front_left.png","front_right.png","front_top.png","rear.png","rear_left.png","rear_right.png","rear_top.png"]}
+  images: {"AR6300-S":["front.png","front_left.png","front_right.png","front_top.png","rear.png","rear_left.png","rear_right.png","rear_top.png"]}
 seo:
   title: Nulla suscipit
   description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit'

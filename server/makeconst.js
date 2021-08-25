@@ -3,8 +3,9 @@ const _ = require('lodash')
 let request = require('request')
 let path = require('path')
 
+// 根据 final.json 中的型号，下载 华为图库中的图片
 
-const base = (name)=> `https://info.support.huawei.com/network/imagelib/downloadZip4web?productName=${name}&imgType=pic%2524%2524${name}_pic.zip&domain=0&lang=zh&ipNum=local`
+const base = (name)=> `https://info.support.huawei.com/network/imagelib/downloadZip4web?productName=${name}&imgType=pic&domain=0&lang=zh`
 
 fs.readFile('./final.json',{encoding:'utf-8'},(err,data)=>{
     if(err) return console.log(err);
@@ -13,7 +14,7 @@ fs.readFile('./final.json',{encoding:'utf-8'},(err,data)=>{
     const newdata = _.map(JSON.parse(data),res=>{
         if(res && res.tag) {
             
-            return _.chain(res.tag.version).difference(res.tag.expand).head().value()
+            return _.chain(res.tag.version).difference(res.tag.expand).last().value()
 
 
         } else{
@@ -44,7 +45,7 @@ if (!fs.existsSync(dirPath)) {
 //循环多线程下载
 function downloadZIP(name){
     let fileName = name+'.zip';
-    let url = base(name)
+    let url = base(name.replace(/\s+/g,'%20'))
     let stream = fs.createWriteStream(path.join(dirPath, fileName));
     request(url).pipe(stream).on("close", function (err) {
         console.log("文件[" + fileName + "]下载完毕");

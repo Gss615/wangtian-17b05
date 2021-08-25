@@ -14,7 +14,7 @@ other2:
   features: [{"title":"小体积大容量，综合业务承载","dec":["","设备深度仅220mm，有效节省机房空间；支持2Mbps至100Gbps的丰富接口，为客户提供综合业务承载服务",""]},{"title":"多种创新技术，提升用户体验","dec":["","采用华为自研NP芯片、创新的IP硬管道和IP FPM等技术，为客户提供高质量和高可靠的网络，极大提升用户体验",""]},{"title":"SDN智能控制，网络极简高效","dec":["","基于SDN架构，实现业务快速开通，解决流量负载均衡问题，让网络更简单高效，帮助客户实现商业成功",""]}]
 other3: null
 other4:
-  images: {}
+  images: {"NE20E-S8A":["front_letf_NE20E_S8A_AC.png","front_letf_NE20E_S8A_DC.png","front_NE20E_S8A_AC.png","front_NE20E_S8A_DC.png"]}
 seo:
   title: Nulla suscipit
   description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit'

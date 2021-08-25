@@ -14,7 +14,7 @@ other2:
   features: [{"title":"弹性扩展","dec":["","可直接连接24个远端单元，并最多可通过交换机扩展至48个远端单元",""]},{"title":"简易管理","dec":["","远端单元不占用AC License，近万个房间只需要200个AP的管理开销",""]},{"title":"超远距离覆盖","dec":["","中心AP和远端单元之间的连线可达100米，数倍放大网络的部署范围",""]}]
 other3: https://e.huawei.com/cn/material/networking/wlan/4411b2003bd247ccbe74cd6cdaa845c3
 other4:
-  images: {"AD9430DN-12":["01.png","02.png","03.png","04.png","05.png","06.png"]}
+  images: {"AD9431DN-24X":["01.png","02.png","03.png","04.png","05.png","06.png"]}
 seo:
   title: Nulla suscipit
   description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit'

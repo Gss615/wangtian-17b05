@@ -14,7 +14,7 @@ other2:
   features: [{"title":"超宽2T单板","dec":["","业界领先的超宽2T单板，未来满足向400G端口、4T单板演进，实现大容量业务承载，满足未来带宽增长需求",""]},{"title":"领先的SDN商用能力","dec":["","基于创新的SDN架构，业界领先的MPLS网络和裸IP网络调优技术，解决网络流量负载不均、带宽利用率低，以及故障时网络拓扑重复计算，影响网络收敛效率等问题",""]},{"title":"创新的IP硬管道技术","dec":["","IP硬管道技术是华为在IP领域的一大创新，利用MPLS-TE、HQoS等技术，通过硬件资源预留方式，确保硬管道带宽不被抢占，实现类似SDH的刚性管道，为企业提供高品质的IP专线解决方案",""]}]
 other3: 
 other4:
-  images: {}
+  images: {"NetEngine 40E-X8AK":["front_left_NetEngine-40E-X8AK.png","front_NetEngine-40E-X8AK.png","front_right_NetEngine-40E-X8AK.png","front_top_NetEngine-40E-X8AK.png","rear_top_NetEngine-40E-X8AK.png"]}
 seo:
   title: Nulla suscipit
   description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit'

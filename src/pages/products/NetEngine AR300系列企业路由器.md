@@ -14,7 +14,7 @@ other2:
   features: [{"title":"双核处理器，性能领先","dec":["","全系列采用双核处理器，提供双倍应用和双倍性能",""]},{"title":"多业务合一，网络融合","dec":["","融合路由、交换、安全、无线的一体化企业网关，最大程度保护企业投资",""]},{"title":"VRP操作系统，成熟稳定","dec":["","采用华为领先的VRP操作系统，模块化和无风扇设计，成熟稳定",""]}]
 other3: null
 other4:
-  images: {"AR301":["front_left.png","front_right.png","front_top.png","rear.png"]}
+  images: {"AR301W":["front.png","front_left.png","front_right.png","front_top.png","rear.png"]}
 seo:
   title: Nulla suscipit
   description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit'

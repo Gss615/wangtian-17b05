@@ -74,7 +74,7 @@ const readFile = (fileName)=>{
         })
     })
 }
-readFile('./final.json').then((res,err)=>{
+readFile('./final1.json').then((res,err)=>{
     if(err) return console.log(err);
     console.log(res);
     _.compact(res).map((list,i)=>{

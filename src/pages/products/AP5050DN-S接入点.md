@@ -14,7 +14,7 @@ other2:
   features: [{"title":"高性能","dec":["","支持802.11ac wave 2标准，MU-MIMO，2.4GHz和5GHz双射频同时提供业务，整机速率2.33Gbps",""]},{"title":"高可靠","dec":["","支持双以太接口的链路聚合，保证链路可靠性的同时增加业务负载均衡能力",""]},{"title":"云管理","dec":["","可通过华为云管理平台对AP设备及业务进行管理和运维，节省网络运维成本",""]}]
 other3: https://e.huawei.com/cn/material/networking/wlan/0ac04447cf6f4e6c85e79c9813f36212
 other4:
-  images: {"AP5010DN-AGN":["01.png","02.png","03.png","04.png","05.png","06.png","07.png"]}
+  images: {"AP5510-W-GP":["01-Front.png","02-Left.png","03-Bottom.png","05-Rear.png","06-Front_right_down.png","07-Rear_left_down.png"]}
 seo:
   title: Nulla suscipit
   description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit'

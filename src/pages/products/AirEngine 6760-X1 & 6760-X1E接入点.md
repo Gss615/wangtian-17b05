@@ -14,7 +14,7 @@ other2:
   features: [{"title":"智能应用加速","dec":["基于独家SmartRadio应用加速技术，智能感知VR/AR/游戏等时延敏感类应用，确保多用户并发场景下，业务时延低至10ms，长时间体验无眩晕、无卡顿。"]},{"title":"智能天线","dec":["内置独家双频共口面智能天线，自动抑制干扰，覆盖半径提升20%，同位置信号强度提升100%，给用户带来稳定无死角的覆盖"]},{"title":"物联网扩展","dec":["默认支持蓝牙5.0，此外通过内置双IoT插槽设计以及USB接口，可在一台AP上灵活支持多种物联网协议，如：RFID，ZigBee等，满足各类物联网终端的接入需求"]}]
 other3: https://e.huawei.com/cn/material/networking/campus-network/wlan/30b80550222c44e8a311b67a0e870b9c
 other4:
-  images: {}
+  images: {"AirEngine 6761S-21T":["front.png","front_bottom.png","front_left.png","front_right.png","front_top.png","rear.png","rear_top.png"]}
 seo:
   title: Nulla suscipit
   description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit'

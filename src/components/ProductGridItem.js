@@ -20,9 +20,8 @@ export default class ProductGridItem extends React.Component {
             const result = { value, key}
             return result
          })[0];
-       
-        const imgurl = img ? `huawei/image/${img.key}_pic/${img.value[0]}`:'';
-        console.log(imgurl)
+       console.log('====',img)
+        const imgurl = img ? `huawei/image/${img.key}/${img.value[0]}`:'';
         return (
             <li className="product-grid__item">
                 <figure className="product-grid__item-figure">

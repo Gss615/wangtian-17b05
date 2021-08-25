@@ -14,7 +14,7 @@ other2:
   features: [{"title":"小体积，大带宽，宽温度","dec":["","业界最紧凑路由器，小尺寸、大带宽；-40ºC~70ºC宽温应用，适应恶劣环境",""]},{"title":"IP硬管道","dec":["","独创的IP硬管道技术，RFC 7625标准，提供类SDH的业务体验",""]},{"title":"多业务接入","dec":["","内置PCM子卡，接入各种低速业务，简化网络，统一运维；支持快速感知，通过实时告警/日志管理上报",""]}]
 other3: null
 other4:
-  images: {}
+  images: {"NE08E-S9":["front_ne08e_s9_AC.png","front_top_ne08e_s9_DC.png"]}
 seo:
   title: Nulla suscipit
   description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit'
