@@ -11,6 +11,7 @@ import HeaderSection from './HeaderSection';
 import HeroSection from './HeroSection';
 import NavCategories from './NavCategories';
 import Picture from './Picture';
+import PictureBig from './PictureBig';
 import ProductCard from './ProductCard';
 import ProductGrid from './ProductGrid';
 import ProductGridItem from './ProductGridItem';
@@ -34,6 +35,7 @@ export {
     HeroSection,
     NavCategories,
     Picture,
+    PictureBig,
     ProductCard,
     ProductGrid,
     ProductGridItem,
@@ -58,6 +60,7 @@ export default {
     HeroSection,
     NavCategories,
     Picture,
+    PictureBig,
     ProductCard,
     ProductGrid,
     ProductGridItem,

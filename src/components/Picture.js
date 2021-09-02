@@ -1,7 +1,7 @@
 import React from 'react';
 import _ from 'lodash';
 
-import {withPrefix} from '../utils';
+import { withPrefix } from '../utils';
 
 export default class Picture extends React.Component {
     render() {
@@ -10,11 +10,9 @@ export default class Picture extends React.Component {
         let cssClass = _.get(this.props, 'cssClass', null);
         return (
             image && (
-                <div class='picture'>
-                    <picture class='img'>
-                        <img src={withPrefix(image)} {...(alt ? ({ alt: alt }) : null)}  {...(cssClass ? ({ className: cssClass }) : null)} />
-                    </picture>
-                </div>
+                <picture class='img'>
+                    <img src={withPrefix(image)} {...(alt ? ({ alt: alt }) : null)}  {...(cssClass ? ({ className: cssClass }) : null)} />
+                </picture>
             )
         );
     }

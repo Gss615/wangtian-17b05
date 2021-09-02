@@ -5,7 +5,7 @@ import React from 'react';
 import _ from 'lodash';
 
 import { Link, withPrefix, getPageByFilePath } from '../utils';
-import Picture from './Picture';
+import PictureBig from './PictureBig';
 import SmallBuyButton from './SmallBuyButton';
 
 export default class ProductGridItem extends React.Component {
@@ -22,7 +22,7 @@ export default class ProductGridItem extends React.Component {
             <li className="product-grid__item">
                 <figure className="product-grid__item-figure">
                     <Link className="product-grid__item-link" to={withPrefix(_.get(product_page, 'url', null))}>
-                        <Picture {...this.props} image={imgurl} alt={_.get(product_page, 'frontmatter.title', null)} cssClass={'product-grid__item-image'} />
+                        <PictureBig {...this.props} image={imgurl} alt={_.get(product_page, 'frontmatter.title', null)} cssClass={'product-grid__item-image'} />
                     </Link>
                     <figcaption>
                         <SmallBuyButton {...this.props} product_page={product_page} component={'product-grid'} />
