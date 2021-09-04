@@ -24,9 +24,9 @@ export default class ProductGridItem extends React.Component {
                     <Link className="product-grid__item-link" to={withPrefix(_.get(product_page, 'url', null))}>
                         <PictureBig {...this.props} image={imgurl} alt={_.get(product_page, 'frontmatter.title', null)} cssClass={'product-grid__item-image'} />
                     </Link>
-                    <figcaption>
+                    {/* <figcaption>
                         <SmallBuyButton {...this.props} product_page={product_page} component={'product-grid'} />
-                    </figcaption>
+                    </figcaption> */}
                 </figure>
                 <div className="product-grid__definition">
                     <Link to={withPrefix(_.get(product_page, 'url', null))}><h3 className="product-grid__title">{_.get(product_page, 'frontmatter.title', null)}</h3></Link>
