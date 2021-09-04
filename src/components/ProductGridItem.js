@@ -6,7 +6,7 @@ import _ from 'lodash';
 
 import { Link, withPrefix, getPageByFilePath } from '../utils';
 import PictureBig from './PictureBig';
-import SmallBuyButton from './SmallBuyButton';
+// import SmallBuyButton from './SmallBuyButton';
 
 export default class ProductGridItem extends React.Component {
 

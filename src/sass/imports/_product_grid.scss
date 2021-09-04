@@ -19,6 +19,10 @@
     margin-bottom: $spacing--unit*1;
     font-size: $font_size_medium;
     color: $color_darker;
+    // 增加：文字溢出
+    overflow: hidden;
+    white-space: nowrap;
+    text-overflow: ellipsis;
   }
 
   &__price {
