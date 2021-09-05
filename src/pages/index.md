@@ -21,16 +21,16 @@ sections:
     title: 热门产品
     icon: true
     light_title: true
-    featured_products:
-      - src/pages/products/WLAN/AirEngine5760-10.md
-      - src/pages/products/WLAN/AirEngine5760-22W.md
-      - src/pages/products/WLAN/AirEngine6760-X1E.md
-      - src/pages/products/WLAN/AirEngine5761S-11W.md
+    featured_products: # 热门产品再次添加
+      - src/pages/products/AD9431DN-24X万兆中心AP.md
   - type: featured_categories_section
     section_id: featured_categories_section
     featured_categories:
-      - src/pages/category/bigplants.md
-      - src/pages/category/cactuses.md
+      - src/pages/category/园区交换机.md
+      - src/pages/category/安全.md
+      - src/pages/category/路由器.md
+      - src/pages/category/网络监管&分析软件.md
+      - src/pages/category/无线局域网.md
   - type: testimonials_section
     section_id: testimonials_section
     title: Testimonials

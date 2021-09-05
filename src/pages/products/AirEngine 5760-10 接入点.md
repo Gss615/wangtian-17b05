@@ -7,7 +7,7 @@ default_thumbnail_image: images/plant1-lg.jpg
 default_original_image: images/plant1-lg.jpg
 featured: true
 order: 20
-category: src/pages/category/[object Object].md
+category: src/pages/category/路由器.md
 other1: 
   table: {"single":[[{"row":null,"col":null,"text":"参数"},{"row":null,"col":null,"text":"AirEngine 5760-10"}],[{"row":null,"col":null,"text":"尺寸（宽 x 深 x 高）"},{"row":null,"col":null,"text":"200mm×200mm×47mm"}],[{"row":null,"col":null,"text":"电源输入"},{"row":null,"col":null,"text":"DC：12V±10%\nPoE供电：满足802.3at以太网供电标准"}],[{"row":null,"col":null,"text":"最大功耗"},{"row":null,"col":null,"text":"15.8W（不含USB和IOT）\n说明：实际最大功耗遵照不同国家和地区法规而有所不同。"}],[{"row":null,"col":null,"text":"天线类型"},{"row":null,"col":null,"text":"内置智能天线"}],[{"row":null,"col":null,"text":"可同时在线的用户数量"},{"row":null,"col":null,"text":"≤512\n说明：使用环境不同实际用户数存在差异。"}],[{"row":null,"col":null,"text":"最大发射功率"},{"row":null,"col":null,"text":"2.4G：25dBm（组合功率）\n5G：25dBm（组合功率）\n说明： 实际发射功率遵照不同国家和地区法规而有所不同。"}],[{"row":null,"col":null,"text":"MIMO:空间流"},{"row":null,"col":null,"text":"2.4G:2×2:2  5G:2×2:2"}],[{"row":null,"col":null,"text":"无线协议"},{"row":null,"col":null,"text":"802.11a/b/g/n/ac/ac wave2/11ax"}],[{"row":null,"col":null,"text":"最高速率"},{"row":null,"col":null,"text":"1.775 Gbps"}]]}
 other2:
