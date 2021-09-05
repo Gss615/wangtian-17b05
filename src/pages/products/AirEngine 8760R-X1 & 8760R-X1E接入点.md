@@ -7,7 +7,7 @@ default_thumbnail_image: images/plant1-lg.jpg
 default_original_image: images/plant1-lg.jpg
 featured: true
 order: 22
-category: src/pages/category/[object Object].md
+category: src/pages/category/无线局域网.md
 other1: 
   table: {"single":[[{"row":null,"col":null,"text":"参数"},{"row":null,"col":null,"text":"AirEngine 8760R-X1"},{"row":null,"col":null,"text":"AirEngine 8760R-X1E"}],[{"row":null,"col":null,"text":"尺寸（直径×高）"},{"row":null,"col":"2","text":"Φ165mm × 387mm"}],[{"row":null,"col":null,"text":"电源输入"},{"row":null,"col":"2","text":"PoE供电：满足802.3bt以太网供电标准"}],[{"row":null,"col":null,"text":"最大用户数"},{"row":null,"col":null,"text":"≤1024（双射频）\n说明：使用环境不同实际用户数存在差异。"},{"row":null,"col":null,"text":"≤1024（双射频）\n≤1152（三射频）\n说明：使用环境不同实际用户数存在差异。"}],[{"row":null,"col":null,"text":"接口"},{"row":null,"col":"2","text":"1x10GE电口 +1xGE电口+ 1x10GE SFP+"}],[{"row":null,"col":null,"text":"蓝牙"},{"row":null,"col":"2","text":"蓝牙5.0"}],[{"row":null,"col":null,"text":"工作温度"},{"row":null,"col":"2","text":" -40℃ ～+65℃"}],[{"row":null,"col":null,"text":"天线类型"},{"row":null,"col":null,"text":"内置智能天线"},{"row":null,"col":null,"text":"外置天线"}],[{"row":null,"col":null,"text":"MIMO:空间流"},{"row":null,"col":null,"text":"2.4GHz: 8×8:8，5GHz: 8×8:8\n2.4GHz: 4×4:4，5GHz: 12×12:8"},{"row":null,"col":null,"text":"2.4GHz: 8×8:8，5GHz: 8×8:8\n2.4GHz: 4×4:4，5GHz-0: 4×4:4，5GHz-1: 4×4:4 "}],[{"row":null,"col":null,"text":"无线协议"},{"row":null,"col":"2","text":"802.11a/b/g/n/ac/ac Wave2/ax"}],[{"row":null,"col":null,"text":"最高速率"},{"row":null,"col":"2","text":"10.75Gbps"}]]}
 other2:

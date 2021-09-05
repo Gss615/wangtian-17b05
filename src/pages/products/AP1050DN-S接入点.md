@@ -7,7 +7,7 @@ default_thumbnail_image: images/plant1-lg.jpg
 default_original_image: images/plant1-lg.jpg
 featured: true
 order: 23
-category: src/pages/category/[object Object].md
+category: src/pages/category/无线局域网.md
 other1: 
   table: {"single":[[{"row":null,"col":null,"text":"参数"},{"row":null,"col":null,"text":"AP1050DN-S"}],[{"row":null,"col":null,"text":"尺寸（长×宽×高）"},{"row":null,"col":null,"text":"170mm×170mm×35mm"}],[{"row":null,"col":null,"text":"电源输入"},{"row":null,"col":null,"text":"DC：12V±10%\nPoE供电：满足802.3af/at以太网供电标准"}],[{"row":null,"col":null,"text":"最大功耗"},{"row":null,"col":null,"text":"8.1W"}],[{"row":null,"col":null,"text":"端口"},{"row":null,"col":null,"text":"1 x GE"}],[{"row":null,"col":null,"text":"工作温度"},{"row":null,"col":null,"text":"-10℃～+50℃"}],[{"row":null,"col":null,"text":"天线类型"},{"row":null,"col":null,"text":"内置双频全向天线"}],[{"row":null,"col":null,"text":"可同时在线的用户数量"},{"row":null,"col":null,"text":"256"}],[{"row":null,"col":null,"text":"最大发射功率"},{"row":null,"col":null,"text":"2.4G：20dBm（组合功率）\n5G：20dBm（组合功率）\n说明：\n实际发射功率遵照不同国家和地区法规而有所不同。"}],[{"row":null,"col":null,"text":"MIMO:空间流"},{"row":null,"col":null,"text":"1×1:1"}],[{"row":null,"col":null,"text":"无线协议"},{"row":null,"col":null,"text":"802.11a/b/g/n/ac/ac wave2"}],[{"row":null,"col":null,"text":"最高速率"},{"row":null,"col":null,"text":"633Mbps"}]]}
 other2:

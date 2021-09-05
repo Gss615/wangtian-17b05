@@ -7,7 +7,7 @@ default_thumbnail_image: images/plant1-lg.jpg
 default_original_image: images/plant1-lg.jpg
 featured: true
 order: 24
-category: src/pages/category/[object Object].md
+category: src/pages/category/无线局域网.md
 other1: 
   table: {"single":[[{"row":null,"col":null,"text":"参数"},{"row":null,"col":null,"text":"AP2050DN-E"}],[{"row":null,"col":null,"text":"尺寸（长×宽×高）"},{"row":null,"col":null,"text":"140mm×86mm×36mm"}],[{"row":null,"col":null,"text":"电源输入"},{"row":null,"col":null,"text":"DC：48V±5%\nPoE供电：满足802.3af/at以太网供电标准"}],[{"row":null,"col":null,"text":"最大功耗"},{"row":null,"col":null,"text":"11.5W\n说明：实际最大功耗遵照不同国家和地区法规而有所不同。"}],[{"row":null,"col":null,"text":"工作温度"},{"row":null,"col":null,"text":"0℃～+40℃"}],[{"row":null,"col":null,"text":"天线类型"},{"row":null,"col":null,"text":"内置全向天线"}],[{"row":null,"col":null,"text":"可同时在线的用户数量"},{"row":null,"col":null,"text":"≤256"}],[{"row":null,"col":null,"text":"最大发射功率"},{"row":null,"col":null,"text":"2.4G：21dBm（组合功率）\n5G：20dBm（组合功率）\n说明：\n实际发射功率遵照不同国家和地区法规而有所不同。发射功率支持1dB步长调整，可调范围支持从最大发射功率向下调整至1dBm。\nAP2050DN为86盒结构，只支持适合86盒的国家和地区。\n"}],[{"row":null,"col":null,"text":"MIMO:空间流"},{"row":null,"col":null,"text":"2×2:2"}],[{"row":null,"col":null,"text":"无线协议"},{"row":null,"col":null,"text":"802.11a/b/g/n/ac/ac wave2"}],[{"row":null,"col":null,"text":"最高速率"},{"row":null,"col":null,"text":"1.267Gbps"}]]}
 other2:

@@ -7,7 +7,7 @@ default_thumbnail_image: images/plant1-lg.jpg
 default_original_image: images/plant1-lg.jpg
 featured: true
 order: 19
-category: src/pages/category/安全.md
+category: src/pages/category/无线局域网.md
 other1: 
   table: {"single":[[{"row":null,"col":null,"text":"参数"},{"row":null,"col":null,"text":"AD9431DN-24X"}],[{"row":null,"col":null,"text":"尺寸（长×宽×高）"},{"row":null,"col":null,"text":"442mm × 310mm × 43.6mm"}],[{"row":null,"col":null,"text":"电源输入"},{"row":null,"col":null,"text":"额定电压：100V～240V AC，50/60Hz\n最大电压范围：90V～264V AC，47Hz～63Hz"}],[{"row":null,"col":null,"text":"最大功耗"},{"row":null,"col":null,"text":"410W（设备功耗30W，PoE供电380W）"}],[{"row":null,"col":null,"text":"端口"},{"row":null,"col":null,"text":"24 x GE + 4 x 10GE SFP"}],[{"row":null,"col":null,"text":"PoE"},{"row":null,"col":null,"text":"24端口PoE"}],[{"row":null,"col":null,"text":"无线用户接入能力"},{"row":null,"col":null,"text":"最大关联用户数：4096\n最大并发用户数：1024"}],[{"row":null,"col":null,"text":"转发能力"},{"row":null,"col":null,"text":"24Gbps"}],[{"row":null,"col":null,"text":"可管理远端单元数"},{"row":null,"col":null,"text":"24（通过交换机可扩展到48个）"}]]}
 other2:
