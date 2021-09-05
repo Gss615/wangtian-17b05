@@ -26,10 +26,10 @@ sections:
   - type: featured_categories_section
     section_id: featured_categories_section
     featured_categories:
-      - src/pages/category/园区交换机.md
+      # - src/pages/category/园区交换机.md
       - src/pages/category/安全.md
       - src/pages/category/路由器.md
-      - src/pages/category/网络监管&分析软件.md
+      # - src/pages/category/网络监管&分析软件.md
       - src/pages/category/无线局域网.md
   - type: testimonials_section
     section_id: testimonials_section
