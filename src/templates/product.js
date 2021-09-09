@@ -20,6 +20,15 @@ export const query = graphql`
 `;
 
 export default class Product extends React.Component {
+    constructor(props){
+        super(props)
+        this.state={imgkey:0}
+
+        this.handleClick = this.handleClick.bind(this)
+    }
+    handleClick(key){
+        this.setState(prevState=>({imgkey:key}))
+    }
     render() {
         let primary_bg_img_opacity_pct = _.get(this.props, 'pageContext.site.siteMetadata.bg_image_primary_opacity', null) || 100;
         let primary_bg_img_opacity = primary_bg_img_opacity_pct * 0.01;
@@ -30,8 +39,7 @@ export default class Product extends React.Component {
             const result = { value, key}
             return result
          })[0];
-        const imgurl = img ? `huawei/image/${img.key}/${img.value[0]}`:'';
-        console.log(img)
+        const imgurl = img ? `huawei/image/${img.key}/${img.value[this.state.imgkey]}`:'';
         return (
             <Layout {...this.props}>
                 <main className="content">
@@ -52,22 +60,18 @@ export default class Product extends React.Component {
                                 查看更多
                             </Link>
                         </div>
-                        {/* <div> */}
-                            <figure className="product__figure">
-                                <div className='detal_img'>
-                                    <PictureBig {...this.props} image={imgurl} alt={_.get(this.props, 'pageContext.frontmatter.title', null)} cssClass={'product__image'} />
-                                </div>
-                                <div className='thum-list'>
-                                    <ul className='item'>
-                                        {_.map(img.value,(item,key)=>{
-                                            return <li key={key}><img src={`/huawei/image/${img.key}/${item}`} alt={key}/></li>
-                                        })}
-                                    </ul>
-                                </div>
-                            </figure>
-                            
-                        {/* </div> */}
-                        
+                        <figure className="product__figure">
+                            <div className='detal_img'>
+                                <PictureBig {...this.props} image={imgurl} alt={_.get(this.props, 'pageContext.frontmatter.title', null)} cssClass={'product__image'} />
+                            </div>
+                            <div className='thum-list'>
+                                <ul className='item'>
+                                    {_.map(img.value,(item,key)=>{
+                                        return <li key={key} className={this.state.imgkey === key ? 'img_active':''} onClick={()=>this.handleClick(key) }><img src={`/huawei/image/${img.key}/${item}`} alt={key}/></li>
+                                    })}
+                                </ul>
+                            </div>
+                        </figure>
                         <div className="product__details">
                             <h1 className="product__title">
                                 {_.get(this.props, 'pageContext.frontmatter.title', null)}
