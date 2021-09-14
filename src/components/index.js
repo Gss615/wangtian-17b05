@@ -12,6 +12,7 @@ import HeroSection from './HeroSection';
 import NavCategories from './NavCategories';
 import Picture from './Picture';
 import PictureBig from './PictureBig';
+import ViewPicture from './ViewPicture';
 import ProductCard from './ProductCard';
 import ProductGrid from './ProductGrid';
 import ProductGridItem from './ProductGridItem';
@@ -36,6 +37,7 @@ export {
     NavCategories,
     Picture,
     PictureBig,
+    ViewPicture,
     ProductCard,
     ProductGrid,
     ProductGridItem,
@@ -61,6 +63,7 @@ export default {
     NavCategories,
     Picture,
     PictureBig,
+    ViewPicture,
     ProductCard,
     ProductGrid,
     ProductGridItem,

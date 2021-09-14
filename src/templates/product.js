@@ -5,9 +5,11 @@ import {graphql} from 'gatsby';
 
 import {Layout} from '../components/index';
 import {toStyleObj, withPrefix, Link, getPageByFilePath, getPages} from '../utils';
-import PictureBig from '../components/PictureBig';
+
 import BuyButton from '../components/BuyButton';
 import ProductGrid from '../components/ProductGrid';
+import Picture from '../components/Picture';
+import ViewPicture from '../components/ViewPicture';
 
 // this minimal GraphQL query ensures that when 'gatsby develop' is running,
 // any changes to content files are reflected in browser
@@ -60,37 +62,39 @@ export default class Product extends React.Component {
                                 查看更多
                             </Link>
                         </div>
-                        {/* <div className='big_box'> */}
-                            <figure className="product__figure">
-                                <div className='detal_img'>
-                                    <PictureBig {...this.props} image={imgurl} alt={_.get(this.props, 'pageContext.frontmatter.title', null)} cssClass={'product__image'} />
-                                </div>
-                                <div className='thum-list'>
-                                    <ul className='item'>
-                                        {_.map(img.value,(item,key)=>{
-                                            return <li key={key} className={this.state.imgkey === key ? 'img_active':''} onClick={()=>this.handleClick(key) }><img src={`/huawei/image/${img.key}/${item}`} alt={key}/></li>
-                                        })}
-                                    </ul>
-                                </div>
-                            </figure>
-                            <div className="product__details">
-                                <h1 className="product__title">
-                                    {_.get(this.props, 'pageContext.frontmatter.title', null)}
-                                </h1>
-                                {_.get(this.props, 'pageContext.frontmatter.category', null) && ((() => {
-                                    let category_page = getPageByFilePath(this.props.pageContext.pages, _.get(this.props, 'pageContext.frontmatter.category', null));
-                                    return (
-                                        <h2 className="product__category">
-                                            <Link to={withPrefix(_.get(category_page, 'url', null))}> {_.get(category_page, 'frontmatter.title', null)} </Link>
-                                        </h2>
-                                    );
-                                })())}
-                                <article className="product__description">
-                                    {_.get(this.props, 'pageContext.frontmatter.description', null)}
-                                </article>
-                                <BuyButton {...this.props} product_page={this.props.pageContext} />
+                        <figure className="product__figure">
+                            <ViewPicture {...this.props} image={imgurl} alt={_.get(this.props, 'pageContext.frontmatter.title', null)} alt={_.get(this.props, 'pageContext.frontmatter.title', null)} cssClass={'product__image'} />
+                        </figure>
+
+                        {/* <figure className="product__figure">
+                            <div className='detal_img'>
+                                <PictureBig {...this.props} image={imgurl} alt={_.get(this.props, 'pageContext.frontmatter.title', null)} cssClass={'product__image'} />
                             </div>
-                        {/* </div> */}
+                            <div className='thum-list'>
+                                <ul className='item'>
+                                    {_.map(img.value, (item, key) => {
+                                        return <li key={key} className={this.state.imgkey === key ? 'img_active' : ''} onClick={() => this.handleClick(key)}><img src={`/huawei/image/${img.key}/${item}`} alt={key} /></li>
+                                    })}
+                                </ul>
+                            </div>
+                        </figure> */}
+                        <div className="product__details">
+                            <h1 className="product__title">
+                                {_.get(this.props, 'pageContext.frontmatter.title', null)}
+                            </h1>
+                            {_.get(this.props, 'pageContext.frontmatter.category', null) && ((() => {
+                                let category_page = getPageByFilePath(this.props.pageContext.pages, _.get(this.props, 'pageContext.frontmatter.category', null));
+                                return (
+                                    <h2 className="product__category">
+                                        <Link to={withPrefix(_.get(category_page, 'url', null))}> {_.get(category_page, 'frontmatter.title', null)} </Link>
+                                    </h2>
+                                );
+                            })())}
+                            <article className="product__description">
+                                {_.get(this.props, 'pageContext.frontmatter.description', null)}
+                            </article>
+                            <BuyButton {...this.props} product_page={this.props.pageContext} />
+                        </div>
                     </section>
                     <section className='content__row features'>
                         {/* <h2>特性</h2> */}
