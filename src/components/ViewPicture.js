@@ -11,7 +11,7 @@ export default class Picture extends React.Component {
         return (
             image && (
                 <div className='view_content'>
-                    <picture>
+                    <picture className='view_picture'>
                         <img src={withPrefix(image)} {...(alt ? ({ alt: alt }) : null)} />
                     </picture>
                 </div>
