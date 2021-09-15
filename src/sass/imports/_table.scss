@@ -158,7 +158,7 @@
       position: absolute;
       bottom: 0;   
       left: 0;   
-      &::before{
+      .view_left{
         content: '<';
         position: absolute;
         left: 5%;
@@ -172,10 +172,10 @@
         align-items: center;
         cursor: pointer;
         color: black;
-        outline: 1px solid red;
+        outline: 1px solid #88dd9b;
         outline-offset: -2px;
     }
-    &::after{
+    .view_right{
         content: '>';
         position: absolute;
         right: 5%;
@@ -189,73 +189,76 @@
         align-items: center;
         cursor: pointer;
         color: black;
-        outline: 1px solid red;
+        outline: 1px solid #88dd9b;
         outline-offset: -2px;
     }
-      ul{
+    .ul_box{
         position: absolute;
         left: 10%;
         bottom: 0;
         width: 80%;
         height: 100%;
-        display: flex;
-        justify-content: start;
-        align-items: center;
         overflow: hidden;
-        li{
-            border:1px solid red;
-            // width: 16%;
-            flex: 0 0 16.6%;
-            box-sizing: border-box;
-            position: relative;
-            overflow: hidden;
-            &::after{
-                content: '';
-                display: block;
-                margin-top: 100%;
-            }
-            // border: 1px solid #88dd9b;
-            cursor: pointer;
-            .img_box{
-                padding: 5px;
-                border: 2px solid #0000ff00;
-                border-top: 0;
-                border-bottom: 0;
-                position: absolute;
-                width: 100%;
-                height: 100%;
-                display: flex;
-                justify-content: center;
-                align-items: center;
-                background-color: white;
-                background-clip: padding-box;
-                img{
-                    max-height: 100%;
-                    max-height: 100%;
+        ul{
+            position: absolute;
+            width: 100%;
+            height: 100%;
+            display: flex;
+            justify-content: start;
+            align-items: center;
+            li{
+                flex: 0 0 16.6%;
+                box-sizing: border-box;
+                position: relative;
+                overflow: hidden;
+                &::after{
+                    content: '';
+                    display: block;
+                    margin-top: 100%;
                 }
-            }
-            .img_active{
-                border: 2px solid #88dd9b;
-            }
-
-           
-            // &::after{
-            //     position: absolute;
-            //     right: 0px;
-            //     content: '>';
-            //     width: 10px;
-            //     font-size: 22px;
-            //     height: 100%;
-            //     display: flex;
-            //     align-items: center;
-            //     cursor: pointer;
-            //     border:1px solid #88dd9b;
-            //     border-radius: 8% 0 0 8%;
-            //     color: black;
-            // }
-      }
-      
+                cursor: pointer;
+                .img_box{
+                    padding: 5px;
+                    border: 2px solid #0000ff00;
+                    border-top: 0;
+                    border-bottom: 0;
+                    position: absolute;
+                    width: 100%;
+                    height: 100%;
+                    display: flex;
+                    justify-content: center;
+                    align-items: center;
+                    background-color: white;
+                    background-clip: padding-box;
+                    img{
+                        max-height: 100%;
+                        max-height: 100%;
+                    }
+                }
+                .img_active{
+                    border: 2px solid #88dd9b;
+                }
+    
+               
+                // &::after{
+                //     position: absolute;
+                //     right: 0px;
+                //     content: '>';
+                //     width: 10px;
+                //     font-size: 22px;
+                //     height: 100%;
+                //     display: flex;
+                //     align-items: center;
+                //     cursor: pointer;
+                //     border:1px solid #88dd9b;
+                //     border-radius: 8% 0 0 8%;
+                //     color: black;
+                // }
+          }
+          
+        }
     }
+   
 
    
   }
