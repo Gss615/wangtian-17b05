@@ -14,7 +14,6 @@ function animate(el,init,final,isLeft){
             el.style.left = `${init}px`
         }else{
             init += 3
-            console.log(init,final)
             if(init > final){
                 el.style.left =`${final}px`
                 return clearInterval(timer)
@@ -31,10 +30,7 @@ export default class Picture extends React.Component {
     }
     hanldClick(e,el){
         let $ul = el.target.parentElement.children[1].firstChild
-        console.dir($ul)
         let {scrollWidth,offsetLeft,offsetWidth} = $ul
-        console.log('scrollWidth',$ul.scrollWidth,'offsetWith',$ul.offsetWidth,'offsetLeft',$ul.offsetLeft)
-
         if(e === 'left'){
             // TODO 为考虑预览图过多且超过两个容器可视宽度的状况
             animate($ul,offsetLeft,-(scrollWidth - offsetWidth),true)
@@ -62,7 +58,7 @@ export default class Picture extends React.Component {
                         </picture>
                     </div>
                     <div className='small_picture'>
-                        <span onClick={(el)=>this.hanldClick('left',el)} className="view_left">{'<'}</span>
+                        <span onClick={(el)=>this.hanldClick('right',el)} className="view_left">{'<'}</span>
                         <div className="ul_box">
                             <ul >
                                 {_.map(list.value, (item, key) => {
@@ -76,7 +72,7 @@ export default class Picture extends React.Component {
                             </ul>
                         </div>
                         
-                        <span onClick={(el)=>this.hanldClick('right',el)} className='view_right'>{'>'}</span>
+                        <span onClick={(el)=>this.hanldClick('left',el)} className='view_right'>{'>'}</span>
                     </div>
                 </div>
 

@@ -29,8 +29,9 @@ export default class Product extends React.Component {
         this.handleClick = this.handleClick.bind(this)
     }
     handleClick(key){
-        console.log(key)
-        this.setState(()=>({activeKey:key}))
+        this.setState((updater)=>{
+            if(updater !== key) return {activeKey:key}
+        })
     }
     render() {
         let primary_bg_img_opacity_pct = _.get(this.props, 'pageContext.site.siteMetadata.bg_image_primary_opacity', null) || 100;

@@ -171,9 +171,14 @@
         display: flex;
         align-items: center;
         cursor: pointer;
-        color: black;
-        outline: 1px solid #88dd9b;
+        color: #6b797aa1;
+        outline: 1px solid #6b797aa1;
+        // background-color: #f4f7f38f;
         outline-offset: -2px;
+        border-radius: 2px;
+        &:hover{
+            color: #88dd9b;
+        }
     }
     .view_right{
         content: '>';
@@ -188,9 +193,12 @@
         display: flex;
         align-items: center;
         cursor: pointer;
-        color: black;
-        outline: 1px solid #88dd9b;
+        color: #6b797aa1;
+        outline: 1px solid #6b797aa1;
         outline-offset: -2px;
+        &:hover{
+            color: #88dd9b;
+        }
     }
     .ul_box{
         position: absolute;
@@ -235,26 +243,13 @@
                         max-height: 100%;
                     }
                 }
-                .img_active{
-                    border: 2px solid #88dd9b;
-                }
-    
-               
-                // &::after{
-                //     position: absolute;
-                //     right: 0px;
-                //     content: '>';
-                //     width: 10px;
-                //     font-size: 22px;
-                //     height: 100%;
-                //     display: flex;
-                //     align-items: center;
-                //     cursor: pointer;
-                //     border:1px solid #88dd9b;
-                //     border-radius: 8% 0 0 8%;
-                //     color: black;
-                // }
           }
+          .img_active{
+            .img_box{
+                border: 2px solid #88dd9b;
+
+            }
+        }
           
         }
     }
@@ -263,52 +258,4 @@
    
   }
    
-}
-
-
-.item{
-    display: flex;
-    padding: 0 15px;
-    position: relative;
-    &::before{
-        position: absolute;
-        left: 0px;
-        content: '<';
-        width: 10px;
-        font-size: 22px;
-        height: 100%;
-        display: flex;
-        align-items: center;
-        cursor: pointer;
-        border:1px solid #88dd9b;
-        border-radius: 8% 0 0 8%;
-        color: black;
-    }
-    &::after{
-        position: absolute;
-        right: 0px;
-        content: '>';
-        width: 10px;
-        font-size: 22px;
-        height: 100%;
-        display: flex;
-        align-items: center;
-        cursor: pointer;
-        border:1px solid #88dd9b;
-        border-radius: 8% 0 0 8%;
-        color: black;
-    }
-    li{
-        width: 30%;
-        border: 1px solid #88dd9b;
-        margin-right: 2px;
-        max-width: 70px;
-        max-height: 60px;
-        cursor: pointer;
-        
-    }
-
-    .img_active{
-        border: 2px solid #88dd9b;
-    }
 }
