@@ -33,21 +33,18 @@ sections:
       - src/pages/category/无线局域网.md
   - type: testimonials_section
     section_id: testimonials_section
-    title: Testimonials
+    title: 客户评价
     testimonials:
       - author:
-          name: John Dope
-          location: 'Colorado, USA'
+          name: 李先生
+          location: '北京'
         text: >-
-          I didn't know the Snipcart guys were into herbs as well! How beautiful
-          is that Planty theme. I'm going to launch a killer JAMstack e-commerce
-          store using this for sure.
+          省心、放心、可靠的合作体验。
       - author:
-          name: Major Payne
-          location: 'VA, USA'
+          name: 赵女士
+          location: '上海'
         text: >-
-          Well I'll be d*mned. These plants really ARE greener than any of my
-          recruits.
+          产品齐全，价格优惠，值得信赖。
   - type: promotion_section
     section_id: promotion_section
     title: A new home interior for summer
