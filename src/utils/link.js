@@ -18,6 +18,7 @@ export default function Link({ children, to, activeClassName, partiallyActive, .
                 activeClassName={activeClassName}
                 partiallyActive={partiallyActive}
                 {...other}
+                target="_blank"
             >
                 {children}
             </GatsbyLink>

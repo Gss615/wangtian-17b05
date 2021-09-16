@@ -1,5 +1,5 @@
 ---
-title: FAQ
+title: 联系我们
 page_css_class: gray-background
 sections:
   - type: header_section
