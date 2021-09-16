@@ -1,33 +1,68 @@
 .features{
-    // margin-top: -50px;
     h2{
         text-align: center;
-        padding: 1em
+        padding: 1em;
     }
     ul{
+        width: 100%;
+        max-width: 900px;
+        margin: 0 auto;
         display: flex;
         background: #f7fafa;
+        overflow-x: auto;
+        justify-content: center;
+        align-items: center;
+        @include smaller-than-tablet {
+            width: 100%;
+            flex-direction: column;
+        }
+
         li{
             flex: 1;
-            margin: .6em;
-            padding: 2em;
+            display: flex;
+            align-items: center;
+            justify-content: flex-start;
+            flex-direction: column;
+            padding: 4%;
             height: 200px;
             text-align: center;
-            border-right: 1px solid #d9dfe0;
-            h3{
+            // border-right: 1px solid #d9dfe0;
+            overflow: hidden;
+            position: relative;
+            &::after{
+                content: '';
+                width: 1px;
+                height: 80%;
+                background-color: #d9dfe0;
+                position: absolute;
+                right: 0;
+                top: 10%;
+                @include smaller-than-tablet {
+                    height: 1px;
+                    width: 100%;
+                    top: 95%;
+                }
+            }
+            @include smaller-than-tablet {
+                flex: 1;
+                max-width: 300px;
+                min-width: 200px;
+                flex: 1 1 190px;
+            }
+            .card_title{
+                font-size: 16px;
                 line-height: 2;
             }
             p{
-                font-size: 16px;
+                font-size: 14px;
                 line-height: 1.2;
             }
         }
-        li:first-child{
-            margin-left: 0;
-        }
         li:last-child{
-            margin-right: 0;
-            border: none;
+            &::after{
+                content: '';
+                width: 0;
+            }
         }
     }
 }

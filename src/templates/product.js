@@ -90,11 +90,11 @@ export default class Product extends React.Component {
                         {/* <h2>特性</h2> */}
                         {features?
                         <ul>
-                            {features.map((item,key)=>{
-                                return <li key={key}>
-                                    <h3>{item.title}</h3>
+                            {features.map((item,i)=>{
+                                return <li key={i+'li'}>
+                                    <h3 className="card_title">{item.title}</h3>
                                     {item.dec.map((text,j)=>{
-                                        return <p key={j}>{text}</p>
+                                        return <p key={j+'p'}>{text}</p>
                                     })}
                                 </li>
                             })}
