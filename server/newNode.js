@@ -1,9 +1,7 @@
 // 华为交换机，资料目录 baseUrl: https://e.huawei.com/cn/products-and-solutions
 const huaweiUrl = ' https://e.huawei.com/cn/products-and-solutions';
-
-// 拿到分类页面的产品型号
-
-
+const fenlei = ['企业网络', '企业光网络', '数据存储', '数据中心', '企业无线', '智能协作', '机器视觉', '数字能源', '服务', '管理系统', '行业使能', '行业']
+// none 智能协作 数字能源 服务 管理系统 行业使能 行业
 
 const puppeteer = require('puppeteer');
 const fs = require("fs");
@@ -14,15 +12,15 @@ const huaweiUrl = ' https://e.huawei.com/cn/products-and-solutions';
 // 数据结构
 let = [
     {
-        tag:'交换机｜园区交换机｜核心/汇聚交换机'
+        tag: '交换机｜园区交换机｜核心/汇聚交换机'
         [
             {//1
-                title:'CloudEngine S12700E系列交换机',
-                url:'https://e.huawei.com/cn/products/enterprise-networking/switches/campus-switches/s12700e'
+                title: 'CloudEngine S12700E系列交换机',
+                url: 'https://e.huawei.com/cn/products/enterprise-networking/switches/campus-switches/s12700e'
             },
             {//2
-                title:'CloudEngine S12700E系列交换机',
-                url:'https://e.huawei.com/cn/products/enterprise-networking/switches/campus-switches/s12700e'
+                title: 'CloudEngine S12700E系列交换机',
+                url: 'https://e.huawei.com/cn/products/enterprise-networking/switches/campus-switches/s12700e'
             }
         ]
     }
