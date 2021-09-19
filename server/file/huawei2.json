@@ -4,7 +4,7 @@
         "title": "CloudEngine S12700E系列交换机",
         "link": "https://e.huawei.com/cn/material/networking/b9f58ad188994a3dbd56580b036230a3",
         "table": {
-            "single": [ 
+            "single": [
                 [
                     {
                         "row": null,
@@ -15454,7 +15454,6 @@
             }
         ]
     },
-    null,
     {
         "tag": "企业网络|无线局域网|室内接入点|AirEngine 6700 系列|AirEngine 6760-X1 & 6760-X1E接入点|airengine-6760-x1-6760-x1e",
         "title": "AirEngine 6760-X1 & 6760-X1E接入点",
@@ -19679,7 +19678,6 @@
             }
         ]
     },
-    null,
     {
         "tag": "企业网络|无线局域网|室内接入点|AP5000系列|AP5050DN-S接入点|ap5050dn-s",
         "title": "AP5050DN-S接入点",
@@ -21941,7 +21939,6 @@
             }
         ]
     },
-    null,
     {
         "tag": "企业网络|无线局域网|室内接入点|AP2000系列|AP2051DN & AP2051DN-E接入点|ap2051dn-ap2051dn-e",
         "title": "AP2051DN & AP2051DN-E接入点",
@@ -22827,7 +22824,6 @@
             }
         ]
     },
-    null,
     {
         "tag": "企业网络|无线局域网|室内接入点|AP2000系列|AP2030DN-S接入点|ap2030dn-s",
         "title": "AP2030DN-S接入点",
@@ -25325,7 +25321,6 @@
             }
         ]
     },
-    null,
     {
         "tag": "企业网络|无线局域网|接入控制器|null|AirEngine 9700-M1接入控制器|airengine-9700-m1",
         "title": "AirEngine 9700-M1接入控制器",
@@ -26880,8 +26875,6 @@
             }
         ]
     },
-    null,
-    null,
     {
         "tag": "企业网络|无线局域网|接入控制器|null|S6720-HI系列全功能万兆路由交换机|s6720-hi",
         "title": "S6720-HI系列全功能万兆路由交换机",
@@ -28910,15 +28903,6 @@
             }
         ]
     },
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
     {
         "tag": "企业网络|网络安全|防火墙及应用安全网关|null|HiSecEngine USG6600E系列AI防火墙(盒式)|usg6600e",
         "title": "HiSecEngine USG6600E系列AI防火墙(盒式)",
@@ -30477,7 +30461,6 @@
             }
         ]
     },
-    null,
     {
         "tag": "企业网络|网络安全|防火墙及应用安全网关|null|华为USG6000E系列视频安全网关|usg6000e",
         "title": "华为USG6000E系列视频安全网关",
@@ -31890,7 +31873,6 @@
             }
         ]
     },
-    null,
     {
         "tag": "企业网络|网络安全|DDoS攻击防御|null|AntiDDoS1000系列DDoS防御系统|1000",
         "title": "AntiDDoS1000系列DDoS防御系统",
@@ -33450,20 +33432,6 @@
             }
         ]
     },
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
     {
         "tag": "企业网络|网络管控&分析软件|园区自动驾驶网络管理控制系统|null|iMaster NCE-Campus|imaster-nce-campus",
         "title": "iMaster NCE-Campus",
@@ -49636,7 +49604,6 @@
         "dec": "OceanStor 100D(原FusionStorage) 是一款可大规模横向扩展的全自研智能分布式存储产品，可为上层应用提供文件存储、大数据存储、对象存储等工业界标准接口，消除烟囱式存储系统构建导致的运营复杂问题，帮助企业实现复杂业务承载更稳、多样性数据使用效率更高、海量数据储存成本更优。\n\n• 文件存储：兼容原生NFS、SMB协议，兼容POSIX和MPI，适用于HPC（High-Performance Computing，高性能计算）等高性能场景。\n\n• 大数据存储：提供基于原生HDFS的大数据存算分离方案，实现存储与计算资源按需配置，提供一致用户体验的同时，助您降低总拥有成本；支持与原有计算存储一体化架构共存。广泛应用于金融大数据、互联网日志留存大数据、政务大数据和智慧城市大数据等场景。\n\n• 对象存储：最大支持单桶1000亿对象承载且性能不降，消除大型应用分桶改造麻烦；自动分级到蓝光介质，免数据迁移省空间。广泛应用于金融电子票据影像和双录（录音/录像）、医疗影像、政企电子文档和车联网场景生产存储、备份或归档。",
         "features": []
     },
-    null,
     {
         "tag": "数据存储|海量存储|null|null|FusionStorage智能分布式存储|fusionstorage",
         "title": "FusionStorage智能分布式存储",
@@ -52533,13 +52500,6 @@
             }
         ]
     },
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
     {
         "tag": "数据中心|数据库|GaussDB A系列|null|GaussDB A150数据库一体机|gaussdb-a150",
         "title": "GaussDB A150数据库一体机",
@@ -52657,12 +52617,6 @@
             }
         ]
     },
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
     {
         "tag": "数据中心|服务器 - 计算|FusionServer Pro智能服务器|FusionServer Pro机架服务器|FusionServer Pro 1288H V5机架服务器|1288h-v5",
         "title": "FusionServer Pro 1288H V5机架服务器",
@@ -57144,7 +57098,6 @@
             }
         ]
     },
-    null,
     {
         "tag": "数据中心|服务器 - 计算|FusionServer Pro智能服务器|FusionServer Pro高密服务器|FusionServer Pro XH321L V5液冷节点|xh321l-v5",
         "title": "FusionServer Pro XH321L V5液冷节点",
@@ -57325,7 +57278,6 @@
             }
         ]
     },
-    null,
     {
         "tag": "数据中心|服务器 - 计算|FusionServer Pro智能服务器|FusionServer Pro高密服务器|FusionServer Pro XH628 V5服务器节点|xh628-v5",
         "title": "FusionServer Pro XH628 V5服务器节点",
@@ -60663,7 +60615,6 @@
             }
         ]
     },
-    null,
     {
         "tag": "数据中心|服务器 - 计算|昇腾计算|null|Atlas 200 DK 开发者套件（型号：3000）|atlas-200",
         "title": "Atlas 200 DK 开发者套件（型号：3000）",
@@ -62725,7 +62676,6 @@
             }
         ]
     },
-    null,
     {
         "tag": "数据中心|服务器 - 计算|昇腾计算|null|FusionServer Pro G530 V5半宽异构计算节点服务器|g530-v5",
         "title": "FusionServer Pro G530 V5半宽异构计算节点",
@@ -63170,9 +63120,6 @@
             }
         ]
     },
-    null,
-    null,
-    null,
     {
         "tag": "数据中心|服务器 - 计算|智能管理软件|null|FusionDirector|fusiondirector",
         "title": "FusionDirector",
@@ -63367,8 +63314,6 @@
         "dec": "FusionDirector是服务器全生命周期智能管理软件，提供智能维护、智能升级、智能发现、智能节能和智能部署五大智能管理功能，运维效率提升30%，实时可视化界面为客户提供极致体验",
         "features": []
     },
-    null,
-    null,
     {
         "tag": "数据中心|服务器 - 计算|智能管理软件|null|FusionServer Tools工具包|tools",
         "title": "FusionServer Tools工具包",
@@ -63643,11 +63588,6 @@
         "dec": "华为管理软件提供了标准化的接口，并且提供了业务主流管理软件相应的插件工具，可以轻易被集成，构建多元化的管理生态。",
         "features": []
     },
-    null,
-    null,
-    null,
-    null,
-    null,
     {
         "tag": "企业无线|eLTE平安方舱解决方案|null|null|EG860 CPE|eg860-cpe",
         "title": "EG860 CPE",
