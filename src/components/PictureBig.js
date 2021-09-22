@@ -1,7 +1,7 @@
 import React from 'react';
 import _ from 'lodash';
 
-import { withPrefix } from '../utils';
+import {withPrefix} from '../utils';
 
 export default class PictureBig extends React.Component {
     render() {
@@ -12,7 +12,7 @@ export default class PictureBig extends React.Component {
             image && (
                 <div class='picture'>
                     <picture class='img'>
-                        <img src={withPrefix(image)} {...(alt ? ({ alt: alt }) : null)}  {...(cssClass ? ({ className: cssClass }) : null)} alt='' />
+                        <img src={withPrefix(image)} {...(alt ? ({ alt: alt }) : null)}  {...(cssClass ? ({ className: cssClass }) : null)} />
                     </picture>
                 </div>
             )

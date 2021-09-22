@@ -2,7 +2,7 @@ import React from 'react';
 import _ from 'lodash';
 
 import Picture from './Picture';
-// import {toStyleObj, withPrefix, Link, classNames} from '../utils';
+import {toStyleObj, withPrefix, Link, classNames} from '../utils';
 
 export default class PromotionSection extends React.Component {
     

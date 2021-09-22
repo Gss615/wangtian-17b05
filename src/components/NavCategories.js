@@ -5,7 +5,7 @@ import {getPages, Link, withPrefix, classNames} from '../utils';
 
 export default class NavCategories extends React.Component {
     render() {
-        // let site = _.get(this.props, 'site', null);
+        let site = _.get(this.props, 'site', null);
         let page = _.get(this.props, 'page', null);
         let category_pages = _.orderBy(getPages(this.props.pageContext.pages, '/category'), 'frontmatter.order');
         return (

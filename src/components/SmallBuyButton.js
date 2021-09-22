@@ -1,7 +1,7 @@
 import React from 'react';
 import _ from 'lodash';
 
-import {getPageByFilePath} from '../utils';
+import {getPageByFilePath, withPrefix} from '../utils';
 
 export default class SmallBuyButton extends React.Component {
     render() {
@@ -16,7 +16,7 @@ export default class SmallBuyButton extends React.Component {
                     let category_page = getPageByFilePath(this.props.pageContext.pages, _.get(product_page, 'frontmatter.category', null));
                     return ({"data-item-categories": _.get(category_page, 'frontmatter.title', null)});
                 })()) : null)}
-                // {...(_.get(product_page, 'frontmatter.default_thumbnail_image', null) ? ({"data-item-image": withPrefix(_.get(product_page, 'frontmatter.default_thumbnail_image', null))}) : null)}
+                {...(_.get(product_page, 'frontmatter.default_thumbnail_image', null) ? ({"data-item-image": withPrefix(_.get(product_page, 'frontmatter.default_thumbnail_image', null))}) : null)}
                 data-item-description={_.get(product_page, 'frontmatter.description', null)}
                 data-item-id={_.get(product_page, 'frontmatter.id', null)}>
                 <svg width="24" height="24" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">

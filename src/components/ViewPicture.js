@@ -65,7 +65,7 @@ export default class Picture extends React.Component {
                                     return (
                                         <li key={key} className={this.props.activeKey === key ? 'img_active' : ''} onClick={() => this.props.activePic(key)}>
                                             <div className='img_box'>
-                                                <img src={`/huawei/images/${list.key}/${item}`} alt={key} alt={item} />
+                                                <img src={`/huawei/images/${list.key}/${item}`} alt={key} />
                                             </div>
                                         </li>)
                                 })}
