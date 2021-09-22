@@ -6,7 +6,7 @@ description: AirEngine 5760-10是华为发布的支持Wi-Fi 6（802.11ax）标�
 default_thumbnail_image: images/plant1-lg.jpg
 default_original_image: images/plant1-lg.jpg
 featured: true
-order: 20
+order: 90
 category: src/pages/category/无线局域网.md
 other1: 
   table: {"single":[[{"row":null,"col":null,"text":"参数"},{"row":null,"col":null,"text":"AirEngine 5760-10"}],[{"row":null,"col":null,"text":"尺寸（宽 x 深 x 高）"},{"row":null,"col":null,"text":"200mm×200mm×47mm"}],[{"row":null,"col":null,"text":"电源输入"},{"row":null,"col":null,"text":"DC：12V±10%\nPoE供电：满足802.3at以太网供电标准"}],[{"row":null,"col":null,"text":"最大功耗"},{"row":null,"col":null,"text":"15.8W（不含USB和IOT）\n说明：实际最大功耗遵照不同国家和地区法规而有所不同。"}],[{"row":null,"col":null,"text":"天线类型"},{"row":null,"col":null,"text":"内置智能天线"}],[{"row":null,"col":null,"text":"可同时在线的用户数量"},{"row":null,"col":null,"text":"≤512\n说明：使用环境不同实际用户数存在差异。"}],[{"row":null,"col":null,"text":"最大发射功率"},{"row":null,"col":null,"text":"2.4G：25dBm（组合功率）\n5G：25dBm（组合功率）\n说明： 实际发射功率遵照不同国家和地区法规而有所不同。"}],[{"row":null,"col":null,"text":"MIMO:空间流"},{"row":null,"col":null,"text":"2.4G:2×2:2  5G:2×2:2"}],[{"row":null,"col":null,"text":"无线协议"},{"row":null,"col":null,"text":"802.11a/b/g/n/ac/ac wave2/11ax"}],[{"row":null,"col":null,"text":"最高速率"},{"row":null,"col":null,"text":"1.775 Gbps"}]]}
@@ -14,7 +14,7 @@ other2:
   features: [{"title":"自适应阵列天线技术","dec":["对终端进行精准覆盖，降低干扰，提升信号质量，信号随用户而动"]},{"title":"物联网扩展","dec":["USB扩展物联网模块，支持RFID、ZigBee等物联协议"]},{"title":"云管理","dec":["可通过华为云管理平台对AP设备及业务进行管理和运维，节省网络运维成本"]}]
 other3: https://e.huawei.com/cn/material/networking/wlan/fa7155bce1d348e292dc96f2e5881ef4
 other4:
-  images: {"AirEngine 5761S-21":["front.png","front_bottom.png","front_left.png","front_right.png","front_top.png","rear.png","rear_top.png"]}
+  images: {"airengine5760-10":{"org":"AirEngine5760-10_pic","img":["bottom.png","front_left.png","front_right.png","front_top.png","rear_top.png","top.png"]}}
 seo:
   title: Nulla suscipit
   description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit'

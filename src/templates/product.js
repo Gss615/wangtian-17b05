@@ -40,10 +40,11 @@ export default class Product extends React.Component {
         const features = _.get(this.props,'pageContext.frontmatter.other2.features')
         const link = _.get(this.props,`pageContext.frontmatter.other3`)
         const img = _.map(_.get(this.props, 'pageContext.frontmatter.other4.images'), (value, key) => {
-            const result = { value, key}
+            const result = { value:value.img, key:value.org}
             return result
          })[0];
-        const imgurl = img ? `huawei/image/${img.key}/${img.value[this.state.activeKey]}`:'';
+         console.log('====',img,_.get(this.props, 'pageContext.frontmatter.other4.images'))
+        const imgurl = img ? `huawei/images/${img.key}/${img.value[this.state.activeKey]}`:'';
         return (
             <Layout {...this.props}>
                 <main className="content">

@@ -86,7 +86,8 @@ function readFile(filaName) {
 (async () => {
     try {
         const fileName = await readFile('./filaName.json')
-        let finalData = await readFile('./final.json')
+        // let finalData = await readFile('./final.json')
+        let finalData = await readFile('./datas/huawei3.json')
         finalData = _.compact(finalData)
         let fileArr = _.keys(fileName)
         let result = finalData.map(item => {
@@ -101,7 +102,7 @@ function readFile(filaName) {
          
             return temp
         })
-        fs.writeFile('final1.json',JSON.stringify(result),(err)=>console.log(err))
+        fs.writeFile('./datas/final1.json',JSON.stringify(result),(err)=>console.log(err))
     } catch (error) {
 
     }

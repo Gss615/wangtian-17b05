@@ -74,11 +74,13 @@ const readFile = (fileName)=>{
         })
     })
 }
-readFile('./final1.json').then((res,err)=>{
+readFile('./datas/huawei3.json').then((res,err)=>{
     if(err) return console.log(err);
     console.log(res);
     _.compact(res).map((list,i)=>{
-        const content = templates(list.title,list.dec,list.tag.imgsUrl,i, `src/pages/category/${list.tag.tag}.md`,list.tag,list.table,list.features,list.link)
+        let imgUrl = list.name === 'title'?list.imgs:{[list.name]:list.imgs}
+        let tag = list.tag.split('|')[1]
+        const content = templates(list.title,list.dec,imgUrl,i, `src/pages/category/${tag}.md`,tag,list.table,list.features,list.link)
         console.log(i)
         writeMD(list.title,content)
     })

@@ -14,10 +14,16 @@ export default class ProductGridItem extends React.Component {
 
         const product_page = _.get(this.props, 'product_page', null);
         const img = _.map(_.get(product_page, 'frontmatter.other4.images'), (value, key) => {
-            const result = { value, key}
+            const result = { value:value.img, key:value.org}
             return result
          })[0];
-        const imgurl = img ? `huawei/image/${img.key}/${img.value[0]}`:'';
+        let head = _.get(img,'value[0]')
+        let imgurl = img ? `huawei/images/${img.key}/${head}`:'';
+        if(_.get(product_page, 'frontmatter.title')==='AirEngine 9700D-M1万兆中心AP'){
+            console.log(img,this.props)
+            // imgurl=imgurl+'.png'
+            console.log(imgurl)
+        }
         return (
             <li className="product-grid__item">
                 <figure className="product-grid__item-figure">

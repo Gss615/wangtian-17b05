@@ -46,7 +46,7 @@ export default class Picture extends React.Component {
         let image = _.get(this.props, 'image', null);
         let alt = _.get(this.props, 'alt', null);
         const list = _.map(_.get(this.props, 'pageContext.frontmatter.other4.images'), (value, key) => {
-            const result = { value, key }
+            const result = { value:value.img, key:value.org}
             return result
         })[0];
         return (
@@ -65,7 +65,7 @@ export default class Picture extends React.Component {
                                     return (
                                         <li key={key} className={this.props.activeKey === key ? 'img_active' : ''} onClick={() => this.props.activePic(key)}>
                                             <div className='img_box'>
-                                                <img src={`/huawei/image/${list.key}/${item}`} alt={key} />
+                                                <img src={`/huawei/images/${list.key}/${item}`} alt={key} />
                                             </div>
                                         </li>)
                                 })}
