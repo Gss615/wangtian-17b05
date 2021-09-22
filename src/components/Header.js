@@ -57,6 +57,7 @@ export default class Header extends React.Component {
                             <div className="hamburger__content"{...(_.get(site, 'siteMetadata.hamburger_background_image', null) ? ({style: toStyleObj('background-image: url(\'' + withPrefix(_.get(site, 'siteMetadata.hamburger_background_image', null)) + '\')')}) : null)}>
                                 <a className="link snipcart-checkout hamburger__checkout"
                                     target="_blank" 
+                                    rel="noreferrer"
                                     href="http://wpa.qq.com/msgrd?v=3&uin=211837069&site=qq&menu=false"
                                 >
                                     在线询价
