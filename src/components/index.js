@@ -15,6 +15,7 @@ import PictureBig from './PictureBig';
 import ViewPicture from './ViewPicture';
 import ProductCard from './ProductCard';
 import ProductGrid from './ProductGrid';
+import ProductGridStore from './ProductGridStore'
 import ProductGridItem from './ProductGridItem';
 import PromotionSection from './PromotionSection';
 import SmallBuyButton from './SmallBuyButton';
@@ -45,6 +46,7 @@ export {
     SmallBuyButton,
     StoreSection,
     TestimonialsSection,
+    ProductGridStore,
     Layout
 };
 
@@ -71,5 +73,6 @@ export default {
     SmallBuyButton,
     StoreSection,
     TestimonialsSection,
+    ProductGridStore,
     Layout
 };

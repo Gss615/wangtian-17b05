@@ -3,7 +3,7 @@ import _ from 'lodash';
 
 import NavCategories from './NavCategories';
 import {getPages} from '../utils';
-import ProductGrid from './ProductGrid';
+import ProductGridStore from './ProductGridStore';
 
 export default class StoreSection extends React.Component {
     render() {
@@ -21,7 +21,7 @@ export default class StoreSection extends React.Component {
                         <NavCategories {...this.props} page={page} site={this.props.pageContext.site} />
                     </nav>
                     <section className="store__products">
-                        <ProductGrid {...this.props} product_pages={product_pages} category_url={category_url} cssClass={'store__product-grid'} site={this.props.pageContext.site} />
+                        <ProductGridStore {...this.props} product_pages={product_pages} category_url={category_url} cssClass={'store__product-grid'} site={this.props.pageContext.site} />
                     </section>
                 </div>
             </section>
