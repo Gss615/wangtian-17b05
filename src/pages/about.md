@@ -31,30 +31,17 @@ sections:
       style: primary
       arrow: true
 seo:
-  title: About
-  description: This is the about page
+  title: 关于我们 | 河南网田
+  description: 
   extra:
     - name: 'og:type'
       value: website
       keyName: property
     - name: 'og:title'
-      value: About
+      value: 关于我们
       keyName: property
     - name: 'og:description'
       value: This is the about page
       keyName: property
-    - name: 'og:image'
-      value: images/header.jpg
-      keyName: property
-      relativeUrl: true
-    - name: 'twitter:card'
-      value: summary_large_image
-    - name: 'twitter:title'
-      value: About
-    - name: 'twitter:description'
-      value: This is the about page
-    - name: 'twitter:image'
-      value: images/header.jpg
-      relativeUrl: true
 template: advanced
 ---

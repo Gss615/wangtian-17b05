@@ -57,8 +57,8 @@ sections:
       style: secondary
       arrow: true
 seo:
-  title: Planty Theme
-  description: The preview of the Planty theme
+  title: 河南网田
+  description: 专注华为产品
   extra:
     - name: 'og:type'
       value: website

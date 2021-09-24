@@ -17,8 +17,8 @@ sections:
     email: 15811219422@qq.com
     mapUrl: 'https://uri.amap.com/marker?position=116.473195,39.993253'
 seo:
-  title: FAQ
-  description: This is the faq page
+  title: 联系我们
+  description: 
   extra:
     - name: 'og:type'
       value: website

@@ -24,8 +24,8 @@ sections:
       style: secondary
       arrow: true
 seo:
-  title: Store
-  description: This is the store page
+  title: 产品
+  description: 华为终端产品
   extra:
     - name: 'og:type'
       value: website
