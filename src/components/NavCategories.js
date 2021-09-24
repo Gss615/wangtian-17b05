@@ -10,7 +10,7 @@ export default class NavCategories extends React.Component {
         return (
             <ul className="store__nav-items">
                 <React.Fragment key={'所有产品' + '.1'}>
-                    <li key={'所有产品'} className="store__nav-item">
+                    <li key={'所有产品'} className="store__nav-item" onClick={()=>this.props.handle('所有产品')}>
                         <Link to={'/store'} className={classNames('store__nav-item-link', { 'store__nav-item-link--active':  (_.get(page, 'url', null) === '/store/') ? (true) : false })}>
                             所有产品
                         </Link>
@@ -18,13 +18,13 @@ export default class NavCategories extends React.Component {
                 </React.Fragment>
                 {_.map(category_pages, (item, item_idx) => {
                     let isCurrentPage = (_.get(page, 'url', null) === _.get(item, 'url', null)) ? (true) : false;
-                    console.log('url',_.get(page, 'url', null))
+             
                     return (<React.Fragment key={item_idx + '.1'}>
-                        <li key={item_idx} className="store__nav-item">
+                        <li key={item_idx} className="store__nav-item" onClick={()=>this.props.handle(_.get(item, 'frontmatter.title', null))}>
                             <Link to={withPrefix(_.get(item, 'url', null))} className={classNames('store__nav-item-link', { 'store__nav-item-link--active': isCurrentPage })}>
                                 {_.get(item, 'frontmatter.title', null)}
                             </Link>
-                        </li>
+                        </li>                                                                                                                                                                                                
                     </React.Fragment>)
                 })}
             </ul>

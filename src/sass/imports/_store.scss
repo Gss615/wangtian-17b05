@@ -1,7 +1,7 @@
 .store {
     &__title {
         font-family: $font_family_primary;
-        font-size: $font_size_xlarge;
+        font-size: $font_size_large;
         line-height: 60px;
         @include smaller-than-tablet { 
             font-size: $font_size_large; 
@@ -21,8 +21,8 @@
     }
     
     &__head {
-        margin-top: $spacing--unit*8;
-        margin-bottom: $spacing--unit*10;
+        margin-top: $spacing--unit*4;
+        margin-bottom: $spacing--unit*6;
         justify-content: space-between;
     }
 

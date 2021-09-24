@@ -8,7 +8,6 @@ export default class FeaturedGrid extends React.Component {
     render() {
         let site = _.get(this.props, 'site', null);
         let products = _.get(this.props, 'products', null);
-        console.log('products',products)
         let listCssClass = _.get(this.props, 'cssClass', null);
         return (
             <ul className={'product-grid ' + (listCssClass ? (listCssClass) : '')}>
