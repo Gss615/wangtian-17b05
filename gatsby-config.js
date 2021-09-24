@@ -8,6 +8,15 @@ module.exports = {
         `gatsby-source-data`,
         `gatsby-transformer-remark`,
         {
+            resolve: `gatsby-plugin-baidu-analytics`,
+            options: {
+                // baidu analytics siteId
+              siteId: "d1c2932ced696bf0ac11e0c37aa70368",
+              // Put analytics script in the head instead of the body [default:false]
+              head: false,
+            },
+          },
+        {
             resolve: `gatsby-source-filesystem`,
             options: {
                 name: `pages`,
