@@ -16,31 +16,20 @@ other3: https://e.huawei.com/cn/material/networking/wlan/e5c2a8ee8d344368b0670ce
 other4:
   images: {"ap5510-w-gp":{"org":"AP5510-W-GP_pic","img":["01-Front.png","02-Left.png","03-Bottom.png","05-Rear.png","06-Front_right_down.png","07-Rear_left_down.png"]}}
 seo:
-  title: Nulla suscipit
-  description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit'
+  title: ap5510-w-gp | AP5510-W-GP接入点 | AP5000系列 | 室内接入点 | 无线局域网 | 企业网络
+  description: 华为AP5510-W-GP是符合802.11ac Wave 2标准协议的千兆面板AP，搭配安装件，可简单快速适配86/118/120多暗盒及非暗盒、挂墙场景。内置智能天线，隐式指示灯，全新“晨露”风格美观大方，支持GPON上行，适用于宿舍房间、酒店房间等体积较小，户型较密集场所。
   extra:
     - name: 'og:type'
       value: website
       keyName: property
     - name: 'og:title'
-      value: Nulla suscipit
+      value: 河南网田
       keyName: property
     - name: 'og:description'
-      value: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit'
+      value: 华为AP5510-W-GP是符合802.11ac Wave 2标准协议的千兆面板AP，搭配安装件，可简单快速适配86/118/120多暗盒及非暗盒、挂墙场景。内置智能天线，隐式指示灯，全新“晨露”风格美观大方，支持GPON上行，适用于宿舍房间、酒店房间等体积较小，户型较密集场所。
       keyName: property
-    - name: 'og:image'
-      value: images/plant1-lg.jpg
-      keyName: property
-      relativeUrl: true
-    - name: 'twitter:card'
-      value: summary_large_image
-    - name: 'twitter:title'
-      value: Nulla suscipit
-    - name: 'twitter:description'
-      value: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit'
-    - name: 'twitter:image'
-      value: images/plant1-lg.jpg
-      relativeUrl: true
+    - name: Robots
+      value: all
 template: product
 ---
 

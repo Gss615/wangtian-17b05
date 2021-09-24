@@ -20,31 +20,28 @@ other3: https://e.huawei.com/cn/material/datacenter/storage/9d6a746ca28d4cf38b3f
 other4:
   images: {"other":{"org":"other","img":["OceanStor 2200 V3.png"]}}
 seo:
-  title: Nulla suscipit
-  description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit'
+  title: oceanstor-2200-v3 | OceanStor 2200 V3存储系统 | null | null | 混合闪存存储 | 数据存储
+  description: 华为OceanStor 2200 V3是面向全闪存设计的企业入门级存储产品，满足中小型企业数据库OLTP/OLAP、Exchange、服务器虚拟化和视频监控等各种应用需求。
+
+采用16Gbps FC、PCI-E 3.0、12Gbps SAS 3.0高速数据传输，高配低投入。
+
+丰富的Smart和Hyper系列功能融于精巧的系统设计，3步1分钟，极简配置体验。
   extra:
     - name: 'og:type'
       value: website
       keyName: property
     - name: 'og:title'
-      value: Nulla suscipit
+      value: 河南网田
       keyName: property
     - name: 'og:description'
-      value: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit'
+      value: 华为OceanStor 2200 V3是面向全闪存设计的企业入门级存储产品，满足中小型企业数据库OLTP/OLAP、Exchange、服务器虚拟化和视频监控等各种应用需求。
+
+采用16Gbps FC、PCI-E 3.0、12Gbps SAS 3.0高速数据传输，高配低投入。
+
+丰富的Smart和Hyper系列功能融于精巧的系统设计，3步1分钟，极简配置体验。
       keyName: property
-    - name: 'og:image'
-      value: images/plant1-lg.jpg
-      keyName: property
-      relativeUrl: true
-    - name: 'twitter:card'
-      value: summary_large_image
-    - name: 'twitter:title'
-      value: Nulla suscipit
-    - name: 'twitter:description'
-      value: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit'
-    - name: 'twitter:image'
-      value: images/plant1-lg.jpg
-      relativeUrl: true
+    - name: Robots
+      value: all
 template: product
 ---
 

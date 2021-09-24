@@ -17,31 +17,22 @@ other3: https://e.huawei.com/cn/material/networking/campus-network/wlan/33dd63cd
 other4:
   images: {"airengine5760-51":{"org":"AirEngine5760-51_pic","img":["bottom.png","front.png","front_left.png","front_right.png","front_top.png","front_top_2.png","rear_top.png","top.png"]}}
 seo:
-  title: Nulla suscipit
-  description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit'
+  title: airengine-5760-51 | AirEngine 5760-51接入点 | AirEngine 5700系列 | 室内接入点 | 无线局域网 | 企业网络
+  description: AirEngine 5760-51是华为发布的支持Wi-Fi 6（802.11ax）标准的新一代室内AP，适合部署在企业办公、零售、制造等场景。
+通过软件定义射频，能够在双频、三频模式灵活切换，可以满足高性能与高密场景的不同诉求。此外通过RTU软件License可提升空间流数量，并支持独立射频扫描，适合于在高干扰场景部署。内置智能天线，有效提升信号的增益，信号随用户而动，覆盖无死角。
   extra:
     - name: 'og:type'
       value: website
       keyName: property
     - name: 'og:title'
-      value: Nulla suscipit
+      value: 河南网田
       keyName: property
     - name: 'og:description'
-      value: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit'
+      value: AirEngine 5760-51是华为发布的支持Wi-Fi 6（802.11ax）标准的新一代室内AP，适合部署在企业办公、零售、制造等场景。
+通过软件定义射频，能够在双频、三频模式灵活切换，可以满足高性能与高密场景的不同诉求。此外通过RTU软件License可提升空间流数量，并支持独立射频扫描，适合于在高干扰场景部署。内置智能天线，有效提升信号的增益，信号随用户而动，覆盖无死角。
       keyName: property
-    - name: 'og:image'
-      value: images/plant1-lg.jpg
-      keyName: property
-      relativeUrl: true
-    - name: 'twitter:card'
-      value: summary_large_image
-    - name: 'twitter:title'
-      value: Nulla suscipit
-    - name: 'twitter:description'
-      value: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit'
-    - name: 'twitter:image'
-      value: images/plant1-lg.jpg
-      relativeUrl: true
+    - name: Robots
+      value: all
 template: product
 ---
 

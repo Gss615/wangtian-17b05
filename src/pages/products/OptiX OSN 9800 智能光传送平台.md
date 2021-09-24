@@ -18,34 +18,27 @@ other3: null
 other4:
   images: {"other":{"org":"other","img":["OptiX OSN 9800 智能光传送平台.png"]}}
 seo:
-  title: Nulla suscipit
-  description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit'
+  title: osn-9800 | OptiX OSN 9800 智能光传送平台 | null | 波分 | 光传送 | 企业光网络
+  description: OptiX OSN 9800是面向100G及超100G时代的新一代大容量、智能化、融合光与分组功能的OTN产品。
+
+基于业界领先的T比特统一交换平台，可灵活处理OTN/VC/PKT各类型颗粒。高集成度，模块化设计，支持2M~400GE任意业务接入；单波100G/200G/400G/800G未来可以平滑到1T/2T大管道传送，并集成MPLS-TP功能，从容应对云时代数据流量的爆发式增长。
   extra:
     - name: 'og:type'
       value: website
       keyName: property
     - name: 'og:title'
-      value: Nulla suscipit
+      value: 河南网田
       keyName: property
     - name: 'og:description'
-      value: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit'
+      value: OptiX OSN 9800是面向100G及超100G时代的新一代大容量、智能化、融合光与分组功能的OTN产品。
+
+基于业界领先的T比特统一交换平台，可灵活处理OTN/VC/PKT各类型颗粒。高集成度，模块化设计，支持2M~400GE任意业务接入；单波100G/200G/400G/800G未来可以平滑到1T/2T大管道传送，并集成MPLS-TP功能，从容应对云时代数据流量的爆发式增长。
       keyName: property
-    - name: 'og:image'
-      value: images/plant1-lg.jpg
-      keyName: property
-      relativeUrl: true
-    - name: 'twitter:card'
-      value: summary_large_image
-    - name: 'twitter:title'
-      value: Nulla suscipit
-    - name: 'twitter:description'
-      value: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit'
-    - name: 'twitter:image'
-      value: images/plant1-lg.jpg
-      relativeUrl: true
+    - name: Robots
+      value: all
 template: product
 ---
 
 # Nulla suscipit
 
-Aliquam quis laoreet lectus. Proin non mattis nulla, quis posuere mi. Mauris venenatis, magna at pellentesque commodo, lectus risus vehicula elit, nec dignissim nisl sapien id leo. Nulla non pretium metus, vitae finibus lectus. Aliquam in posuere risus. Curabitur ultrices ornare magna porttitor commodo. Curabitur eu tempor orci, sed pretium quam. Vestibulum condimentum, arcu nec pulvinar fringilla, lorem odio varius arcu, in porta tellus eros sed neque. Suspendisse efficitur eget erat sit amet efficitur. Proin maximus nibh eu sapien consequat, non porttitor risus consequat. Donec maximus odio sed nibh convallis luctus.ibh convallis luctus.
+Aliquam quis laoreet lectus. Proin non mattis nulla, quis posuere mi. Mauris venenatis, magna at pellentesque commodo, lectus risus vehicula elit, nec dignissim nisl sapien id leo. Nulla non pretium metus, vitae finibus lectus. Aliquam in posuere risus. Curabitur ultrices ornare magna porttitor commodo. Curabitur eu tempor orci, sed pretium quam. Vestibulum condimentum, arcu nec pulvinar fringilla, lorem odio varius arcu, in porta tellus eros sed neque. Suspendisse efficitur eget erat sit amet efficitur. Proin maximus nibh eu sapien consequat, non porttitor risus consequat. Donec maximus odio sed nibh convallis luctus.ec maximus odio sed nibh convallis luctus.

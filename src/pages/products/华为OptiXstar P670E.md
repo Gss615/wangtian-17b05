@@ -18,31 +18,24 @@ other3: null
 other4:
   images: {"other":{"org":"other","img":["华为OptiXstar P670E.png"]}}
 seo:
-  title: Nulla suscipit
-  description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit'
+  title: optixstar-p670e | 华为OptiXstar P670E | null | ONU | 光终端 | 企业光网络
+  description: 华为OptiXstar P670E系列产品是面向企业园区的面板式ONU设备，可简单快速的安装在86型电工盒上。上行提供1个GPON端口，用户侧提供1个GE以太网接口和1个POTS语音接口。
+
+包含P670E(交流供电)和P670E-H(光电复合缆供电)2款产品，其中光电复合缆通过同时提供光纤的高带宽和铜线的供电能力，彻底解决光纤远端设备供电困难的问题。
   extra:
     - name: 'og:type'
       value: website
       keyName: property
     - name: 'og:title'
-      value: Nulla suscipit
+      value: 河南网田
       keyName: property
     - name: 'og:description'
-      value: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit'
+      value: 华为OptiXstar P670E系列产品是面向企业园区的面板式ONU设备，可简单快速的安装在86型电工盒上。上行提供1个GPON端口，用户侧提供1个GE以太网接口和1个POTS语音接口。
+
+包含P670E(交流供电)和P670E-H(光电复合缆供电)2款产品，其中光电复合缆通过同时提供光纤的高带宽和铜线的供电能力，彻底解决光纤远端设备供电困难的问题。
       keyName: property
-    - name: 'og:image'
-      value: images/plant1-lg.jpg
-      keyName: property
-      relativeUrl: true
-    - name: 'twitter:card'
-      value: summary_large_image
-    - name: 'twitter:title'
-      value: Nulla suscipit
-    - name: 'twitter:description'
-      value: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit'
-    - name: 'twitter:image'
-      value: images/plant1-lg.jpg
-      relativeUrl: true
+    - name: Robots
+      value: all
 template: product
 ---
 

@@ -16,31 +16,20 @@ other3: https://e.huawei.com/cn/material/networking/campus-network/wlan/9f5fc389
 other4:
   images: {"airengine6761-21t":{"org":"AirEngine6761-21T_pic","img":["front.png","front_bottom.png","front_left.png","front_right.png","front_top.png","rear.png","rear_top.png"]}}
 seo:
-  title: Nulla suscipit
-  description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit'
+  title: airengine-6761-21t | AirEngine 6761-21T接入点 | AirEngine 6700 系列 | 室内接入点 | 无线局域网 | 企业网络
+  description: AirEngine 6761-21T是华为发布的支持Wi-Fi 6（802.11ax）标准的无线接入点产品。内置智能天线，采用三射频设计，整机速率可达6.575Gbps，适用于移动办公、教育、场馆等人流密集场景。
   extra:
     - name: 'og:type'
       value: website
       keyName: property
     - name: 'og:title'
-      value: Nulla suscipit
+      value: 河南网田
       keyName: property
     - name: 'og:description'
-      value: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit'
+      value: AirEngine 6761-21T是华为发布的支持Wi-Fi 6（802.11ax）标准的无线接入点产品。内置智能天线，采用三射频设计，整机速率可达6.575Gbps，适用于移动办公、教育、场馆等人流密集场景。
       keyName: property
-    - name: 'og:image'
-      value: images/plant1-lg.jpg
-      keyName: property
-      relativeUrl: true
-    - name: 'twitter:card'
-      value: summary_large_image
-    - name: 'twitter:title'
-      value: Nulla suscipit
-    - name: 'twitter:description'
-      value: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit'
-    - name: 'twitter:image'
-      value: images/plant1-lg.jpg
-      relativeUrl: true
+    - name: Robots
+      value: all
 template: product
 ---
 

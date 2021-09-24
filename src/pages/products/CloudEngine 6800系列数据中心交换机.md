@@ -22,31 +22,32 @@ other3: https://e.huawei.com/cn/material/networking/data-center-network/b69f6d1a
 other4:
   images: {"ce6850u-24s2q-hi":{"org":"CE6850U-24S2Q-HI_pic","img":["01.png","02.png","03.png","04.png","08.png","09.png"]}}
 seo:
-  title: Nulla suscipit
-  description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit'
+  title: ce6800 | CloudEngine 6800系列数据中心交换机 | 盒式接入交换机 | 数据中心交换机 | 交换机 | 企业网络
+  description: CloudEngine 6800系列交换机是华为公司面向数据中心推出的新一代高性能、高密度、低时延10GE/25GE以太网交换机。
+
+CloudEngine 6800采用先进的硬件结构设计，提供高密度的10GE/25GE/50GE端口接入，支持40GE/100GE/200GE上行端口，支持丰富的数据中心特性和高性能堆叠，风道方向可以灵活选择。
+
+CloudEngine 6800系列交换机定位于数据中心的高密万兆接入，帮助企业和运营商构建面向云计算时代的数据中心网络平台，也可以用于园区网的核心或汇聚。
+
+CloudEngine 6800可以与华为数据中心核心交换机CloudEngine 16800/CloudEngine 12800配合，构建弹性、简单、开放、安全的云数据中心网络。
   extra:
     - name: 'og:type'
       value: website
       keyName: property
     - name: 'og:title'
-      value: Nulla suscipit
+      value: 河南网田
       keyName: property
     - name: 'og:description'
-      value: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit'
+      value: CloudEngine 6800系列交换机是华为公司面向数据中心推出的新一代高性能、高密度、低时延10GE/25GE以太网交换机。
+
+CloudEngine 6800采用先进的硬件结构设计，提供高密度的10GE/25GE/50GE端口接入，支持40GE/100GE/200GE上行端口，支持丰富的数据中心特性和高性能堆叠，风道方向可以灵活选择。
+
+CloudEngine 6800系列交换机定位于数据中心的高密万兆接入，帮助企业和运营商构建面向云计算时代的数据中心网络平台，也可以用于园区网的核心或汇聚。
+
+CloudEngine 6800可以与华为数据中心核心交换机CloudEngine 16800/CloudEngine 12800配合，构建弹性、简单、开放、安全的云数据中心网络。
       keyName: property
-    - name: 'og:image'
-      value: images/plant1-lg.jpg
-      keyName: property
-      relativeUrl: true
-    - name: 'twitter:card'
-      value: summary_large_image
-    - name: 'twitter:title'
-      value: Nulla suscipit
-    - name: 'twitter:description'
-      value: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit'
-    - name: 'twitter:image'
-      value: images/plant1-lg.jpg
-      relativeUrl: true
+    - name: Robots
+      value: all
 template: product
 ---
 

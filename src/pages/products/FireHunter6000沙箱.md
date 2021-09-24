@@ -18,31 +18,24 @@ other3: null
 other4:
   images: {"other":{"org":"other","img":["FireHunter6000沙箱.png"]}}
 seo:
-  title: Nulla suscipit
-  description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit'
+  title: firehunter6000 | FireHunter6000沙箱 | null | 大数据分析及APT防御 | 网络安全 | 企业网络
+  description: 华为FireHunter6000系列沙箱产品是华为推出的新一代高性能APT威胁检测系统，可以精确识别未知恶意文件渗透和C&C（命令与控制，Command & Control，简称C&C）恶意外联。通过直接还原网络流量并提取文件或依靠下一代防火墙提取的文件，在虚拟的环境内进行分析，实现对未知恶意文件的检测。
+
+华为FireHunter6000系列沙箱产品凭借独有的ADE高级威胁检测引擎，与下一代防火墙配合，面对高级恶意软件，通过信誉扫描、实时行为分析等本地和云端技术，分析和收集软件的静态及动态行为，对“灰度”流量实时检测、阻断和报告呈现，有效避免未知威胁攻击的迅速扩散和企业核心信息资产损失，特别适用于金融、政府机要部门、能源、高科技等关键用户。
   extra:
     - name: 'og:type'
       value: website
       keyName: property
     - name: 'og:title'
-      value: Nulla suscipit
+      value: 河南网田
       keyName: property
     - name: 'og:description'
-      value: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit'
+      value: 华为FireHunter6000系列沙箱产品是华为推出的新一代高性能APT威胁检测系统，可以精确识别未知恶意文件渗透和C&C（命令与控制，Command & Control，简称C&C）恶意外联。通过直接还原网络流量并提取文件或依靠下一代防火墙提取的文件，在虚拟的环境内进行分析，实现对未知恶意文件的检测。
+
+华为FireHunter6000系列沙箱产品凭借独有的ADE高级威胁检测引擎，与下一代防火墙配合，面对高级恶意软件，通过信誉扫描、实时行为分析等本地和云端技术，分析和收集软件的静态及动态行为，对“灰度”流量实时检测、阻断和报告呈现，有效避免未知威胁攻击的迅速扩散和企业核心信息资产损失，特别适用于金融、政府机要部门、能源、高科技等关键用户。
       keyName: property
-    - name: 'og:image'
-      value: images/plant1-lg.jpg
-      keyName: property
-      relativeUrl: true
-    - name: 'twitter:card'
-      value: summary_large_image
-    - name: 'twitter:title'
-      value: Nulla suscipit
-    - name: 'twitter:description'
-      value: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit'
-    - name: 'twitter:image'
-      value: images/plant1-lg.jpg
-      relativeUrl: true
+    - name: Robots
+      value: all
 template: product
 ---
 

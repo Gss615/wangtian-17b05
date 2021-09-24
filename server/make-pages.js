@@ -6,7 +6,8 @@ const readdir = util.promisify(fs.readdir);
 const _ = require('lodash')
 
 
-const templates = (title,dec,img,order,category,template,table,features,link)=>{
+const templates = (title,dec,img,order,category,template,table,features,link,tag)=>{
+  let tags = _.chain(tag).split('|').compact().reverse().join(' | ').value()
   return `---
 id: '1'
 price: '49.40'
@@ -25,31 +26,20 @@ other3: ${link}
 other4:
   images: ${JSON.stringify(img)}
 seo:
-  title: Nulla suscipit
-  description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit'
+  title: ${tags}
+  description: ${dec}
   extra:
     - name: 'og:type'
       value: website
       keyName: property
     - name: 'og:title'
-      value: Nulla suscipit
+      value: 河南网田
       keyName: property
     - name: 'og:description'
-      value: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit'
+      value: ${dec}
       keyName: property
-    - name: 'og:image'
-      value: images/plant1-lg.jpg
-      keyName: property
-      relativeUrl: true
-    - name: 'twitter:card'
-      value: summary_large_image
-    - name: 'twitter:title'
-      value: Nulla suscipit
-    - name: 'twitter:description'
-      value: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit'
-    - name: 'twitter:image'
-      value: images/plant1-lg.jpg
-      relativeUrl: true
+    - name: Robots
+      value: all
 template: product
 ---
 
@@ -80,7 +70,7 @@ readFile('./datas/huawei3.json').then((res,err)=>{
     _.compact(res).map((list,i)=>{
         let imgUrl = list.name === 'title'?list.imgs:{[list.name]:list.imgs}
         let tag = list.tag.split('|')[1]
-        const content = templates(list.title,list.dec,imgUrl,i, `src/pages/category/${tag}.md`,tag,list.table,list.features,list.link)
+        const content = templates(list.title,list.dec,imgUrl,i, `src/pages/category/${tag}.md`,tag,list.table,list.features,list.link,list.tag)
         console.log(i)
         writeMD(list.title,content)
     })

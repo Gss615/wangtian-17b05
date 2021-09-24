@@ -16,31 +16,20 @@ other3: https://e.huawei.com/cn/material/networking/ar/62305c3507d2460ebf85c938e
 other4:
   images: {"ar6120":{"org":"AR6120_pic","img":["front.png","front_left.png","front_right.png","front_top.png","rear.png"]}}
 seo:
-  title: Nulla suscipit
-  description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit'
+  title: new-ar-router | NetEngine AR系列企业路由器 | null | AR系列接入路由器 | 路由器 | 企业网络
+  description: NetEngine AR系列企业路由器是华为面向云化时代推出的首款企业级AR路由器，具备3倍业界转发性能，5G超宽上行，同时融合SD-WAN、云管理、VPN、 MPLS、安全、语音等多种功能，帮助全球客户轻松应对企业上行流量激增和未来业务多元化发展。
   extra:
     - name: 'og:type'
       value: website
       keyName: property
     - name: 'og:title'
-      value: Nulla suscipit
+      value: 河南网田
       keyName: property
     - name: 'og:description'
-      value: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit'
+      value: NetEngine AR系列企业路由器是华为面向云化时代推出的首款企业级AR路由器，具备3倍业界转发性能，5G超宽上行，同时融合SD-WAN、云管理、VPN、 MPLS、安全、语音等多种功能，帮助全球客户轻松应对企业上行流量激增和未来业务多元化发展。
       keyName: property
-    - name: 'og:image'
-      value: images/plant1-lg.jpg
-      keyName: property
-      relativeUrl: true
-    - name: 'twitter:card'
-      value: summary_large_image
-    - name: 'twitter:title'
-      value: Nulla suscipit
-    - name: 'twitter:description'
-      value: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit'
-    - name: 'twitter:image'
-      value: images/plant1-lg.jpg
-      relativeUrl: true
+    - name: Robots
+      value: all
 template: product
 ---
 

@@ -18,31 +18,24 @@ other3: https://e.huawei.com/cn/material/networking/28253e44125248d581ee48b0ff22
 other4:
   images: {"s5720-36c-ei-ac":{"org":"S5720-36C-EI-AC_pic","img":["01.png","02.png","03.png","04.png","07.png","08.png"]}}
 seo:
-  title: Nulla suscipit
-  description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit'
+  title: s5735s-s | CloudEngine S5735S-S系列交换机 | 接入交换机 | 园区交换机 | 交换机 | 企业网络
+  description: CloudEngine S5735S-S系列交换机是华为公司全新研发的标准型千兆接入交换机，可以提供灵活的全千兆接入及固定万兆上行端口。
+
+CloudEngine S5735S-S系列交换机基于新一代高性能硬件和华为公司统一的VRP（Versatile Routing Platform）软件平台，具有增强的三层特性，简易的运行维护，灵活的以太组网，成熟的IPv6特性等特点，广泛应用于企业园区接入和汇聚、数据中心接入等多种应用场景。
   extra:
     - name: 'og:type'
       value: website
       keyName: property
     - name: 'og:title'
-      value: Nulla suscipit
+      value: 河南网田
       keyName: property
     - name: 'og:description'
-      value: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit'
+      value: CloudEngine S5735S-S系列交换机是华为公司全新研发的标准型千兆接入交换机，可以提供灵活的全千兆接入及固定万兆上行端口。
+
+CloudEngine S5735S-S系列交换机基于新一代高性能硬件和华为公司统一的VRP（Versatile Routing Platform）软件平台，具有增强的三层特性，简易的运行维护，灵活的以太组网，成熟的IPv6特性等特点，广泛应用于企业园区接入和汇聚、数据中心接入等多种应用场景。
       keyName: property
-    - name: 'og:image'
-      value: images/plant1-lg.jpg
-      keyName: property
-      relativeUrl: true
-    - name: 'twitter:card'
-      value: summary_large_image
-    - name: 'twitter:title'
-      value: Nulla suscipit
-    - name: 'twitter:description'
-      value: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit'
-    - name: 'twitter:image'
-      value: images/plant1-lg.jpg
-      relativeUrl: true
+    - name: Robots
+      value: all
 template: product
 ---
 

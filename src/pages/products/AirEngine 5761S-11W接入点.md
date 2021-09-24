@@ -16,31 +16,20 @@ other3: https://e.huawei.com/cn/material/networking/campus-network/wlan/3ce9b4ee
 other4:
   images: {"airengine5761s-11w":{"org":"AirEngine5761S-11W_pic","img":["front.png","front_bottom.png","front_left.png","front_right.png","rear.png","rear_bottom.png"]}}
 seo:
-  title: Nulla suscipit
-  description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit'
+  title: airengine-5761s-11w | AirEngine 5761S-11W接入点 | AirEngine 5700系列 | 室内接入点 | 无线局域网 | 企业网络
+  description: AirEngine 5761S-11W是华为面向SMB市场发布的支持802.11ax标准协议的面板AP。内置智能天线，信号随用户而动，极大地增强用户对无线网络的使用体验。支持2×2 MIMO，2.4GHz和5GHz双频同时提供业务，整机速率可达1.775Gbps。适用于酒店、医院、宿舍等房间密集场所。
   extra:
     - name: 'og:type'
       value: website
       keyName: property
     - name: 'og:title'
-      value: Nulla suscipit
+      value: 河南网田
       keyName: property
     - name: 'og:description'
-      value: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit'
+      value: AirEngine 5761S-11W是华为面向SMB市场发布的支持802.11ax标准协议的面板AP。内置智能天线，信号随用户而动，极大地增强用户对无线网络的使用体验。支持2×2 MIMO，2.4GHz和5GHz双频同时提供业务，整机速率可达1.775Gbps。适用于酒店、医院、宿舍等房间密集场所。
       keyName: property
-    - name: 'og:image'
-      value: images/plant1-lg.jpg
-      keyName: property
-      relativeUrl: true
-    - name: 'twitter:card'
-      value: summary_large_image
-    - name: 'twitter:title'
-      value: Nulla suscipit
-    - name: 'twitter:description'
-      value: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit'
-    - name: 'twitter:image'
-      value: images/plant1-lg.jpg
-      relativeUrl: true
+    - name: Robots
+      value: all
 template: product
 ---
 

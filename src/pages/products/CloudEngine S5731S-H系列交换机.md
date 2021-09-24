@@ -18,31 +18,24 @@ other3: https://e.huawei.com/cn/material/networking/campusswitch/7d70e4b31cab42d
 other4:
   images: {"s5720-36c-ei-ac":{"org":"S5720-36C-EI-AC_pic","img":["01.png","02.png","03.png","04.png","07.png","08.png"]}}
 seo:
-  title: Nulla suscipit
-  description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit'
+  title: s5731s-h | CloudEngine S5731S-H系列交换机 | 接入交换机 | 园区交换机 | 交换机 | 企业网络
+  description: CloudEngine S5731S-H系列交换机是华为公司全新研发的面向分销市场的增强型千兆接入交换机，可提供全千兆电口接入及固定千兆或万兆上行端口，部分款型预留1个扩展插槽。
+
+CloudEngine S5731S-H系列交换机具备有线无线深度融合能力，支持随板AC，最多可管理1K AP；具备业务随行能力，提供一致的用户体验；具备VxLAN能力，支持网络虚拟化功能，满足园区网络一网多用的需求；同时，该系列交换机内置安全探针，支持异常流量检测、加密流量的威胁分析，以及全网威胁诱捕等功能，是大中型高端品质园区网分支、小型园区网核心以及数据中心接入的最佳选择。
   extra:
     - name: 'og:type'
       value: website
       keyName: property
     - name: 'og:title'
-      value: Nulla suscipit
+      value: 河南网田
       keyName: property
     - name: 'og:description'
-      value: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit'
+      value: CloudEngine S5731S-H系列交换机是华为公司全新研发的面向分销市场的增强型千兆接入交换机，可提供全千兆电口接入及固定千兆或万兆上行端口，部分款型预留1个扩展插槽。
+
+CloudEngine S5731S-H系列交换机具备有线无线深度融合能力，支持随板AC，最多可管理1K AP；具备业务随行能力，提供一致的用户体验；具备VxLAN能力，支持网络虚拟化功能，满足园区网络一网多用的需求；同时，该系列交换机内置安全探针，支持异常流量检测、加密流量的威胁分析，以及全网威胁诱捕等功能，是大中型高端品质园区网分支、小型园区网核心以及数据中心接入的最佳选择。
       keyName: property
-    - name: 'og:image'
-      value: images/plant1-lg.jpg
-      keyName: property
-      relativeUrl: true
-    - name: 'twitter:card'
-      value: summary_large_image
-    - name: 'twitter:title'
-      value: Nulla suscipit
-    - name: 'twitter:description'
-      value: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit'
-    - name: 'twitter:image'
-      value: images/plant1-lg.jpg
-      relativeUrl: true
+    - name: Robots
+      value: all
 template: product
 ---
 

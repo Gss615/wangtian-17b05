@@ -16,31 +16,20 @@ other3: https://e.huawei.com/cn/material/networking/campus-network/campusswitch/
 other4:
   images: {"s6730-h28y4c":{"org":"S6730-H28Y4C_pic","img":["front.png","front_HD.png","front_left.png","front_left_HD.png","front_right.png","front_right_HD.png","front_top.png","front_top_HD.png","rear_top.png"]}}
 seo:
-  title: Nulla suscipit
-  description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit'
+  title: s6730-h-25ge | CloudEngine S6730-H系列25GE交换机 | 核心/汇聚交换机 | 园区交换机 | 交换机 | 企业网络
+  description: CloudEngine S6730-H系列25GE交换机，是华为公司推出的全新25GE盒式交换机，具备随板AC能力，可管理大规模的AP；具备业务随行能力，提供一致的用户体验；具备VXLAN能力，支持网络虚拟化功能；内置安全探针，支持异常流量检测、加密流量的威胁分析，以及全网威胁诱捕等功能，可广泛应用于企业园区、运营商、高校、政府、数据中心等应用场景。
   extra:
     - name: 'og:type'
       value: website
       keyName: property
     - name: 'og:title'
-      value: Nulla suscipit
+      value: 河南网田
       keyName: property
     - name: 'og:description'
-      value: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit'
+      value: CloudEngine S6730-H系列25GE交换机，是华为公司推出的全新25GE盒式交换机，具备随板AC能力，可管理大规模的AP；具备业务随行能力，提供一致的用户体验；具备VXLAN能力，支持网络虚拟化功能；内置安全探针，支持异常流量检测、加密流量的威胁分析，以及全网威胁诱捕等功能，可广泛应用于企业园区、运营商、高校、政府、数据中心等应用场景。
       keyName: property
-    - name: 'og:image'
-      value: images/plant1-lg.jpg
-      keyName: property
-      relativeUrl: true
-    - name: 'twitter:card'
-      value: summary_large_image
-    - name: 'twitter:title'
-      value: Nulla suscipit
-    - name: 'twitter:description'
-      value: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit'
-    - name: 'twitter:image'
-      value: images/plant1-lg.jpg
-      relativeUrl: true
+    - name: Robots
+      value: all
 template: product
 ---
 

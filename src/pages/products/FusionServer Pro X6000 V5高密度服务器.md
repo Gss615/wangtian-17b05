@@ -16,31 +16,20 @@ other3: https://e.huawei.com/cn/material/datacenter/server/444ecf5920f649eba9df3
 other4:
   images: {"other":{"org":"other","img":["FusionServer Pro X6000 V5高密度服务器.png"]}}
 seo:
-  title: Nulla suscipit
-  description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit'
+  title: x6000 | FusionServer X6000 V5高密度服务器 | FusionServer Pro高密服务器 | FusionServer Pro智能服务器 | 服务器 - 计算 | 数据中心
+  description: FusionServer Pro X6000 V5是华为面向数据中心Scale-out 架构的2U4节点高密服务器，它针对数据中心面临的空间和投资限制，对服务器架构进行全面的密度优化设计，从而可以提升数据中心空间利用率和投资效益，适合于云计算、基于web的应用和高性能计算等多种业务场景。
   extra:
     - name: 'og:type'
       value: website
       keyName: property
     - name: 'og:title'
-      value: Nulla suscipit
+      value: 河南网田
       keyName: property
     - name: 'og:description'
-      value: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit'
+      value: FusionServer Pro X6000 V5是华为面向数据中心Scale-out 架构的2U4节点高密服务器，它针对数据中心面临的空间和投资限制，对服务器架构进行全面的密度优化设计，从而可以提升数据中心空间利用率和投资效益，适合于云计算、基于web的应用和高性能计算等多种业务场景。
       keyName: property
-    - name: 'og:image'
-      value: images/plant1-lg.jpg
-      keyName: property
-      relativeUrl: true
-    - name: 'twitter:card'
-      value: summary_large_image
-    - name: 'twitter:title'
-      value: Nulla suscipit
-    - name: 'twitter:description'
-      value: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit'
-    - name: 'twitter:image'
-      value: images/plant1-lg.jpg
-      relativeUrl: true
+    - name: Robots
+      value: all
 template: product
 ---
 

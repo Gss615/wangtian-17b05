@@ -18,31 +18,24 @@ other3: https://e.huawei.com/cn/material/storage/fusioncube/8fabe9ba738c4c65a713
 other4:
   images: {"other":{"org":"other","img":["FusionCube 1000（虚拟化）与FusionCube 1000（数据）.png"]}}
 seo:
-  title: Nulla suscipit
-  description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit'
+  title: fusioncube-hci | FusionCube 1000虚拟化与数据解决方案 | null | null | 超融合 HCI | 数据存储
+  description: 华为FusionCube 1000（虚拟化）与FusionCube 1000（数据）是基于分布式架构的超融合数据基础设施，为企业提供全栈IT能力。其遵循开放架构标准，融合计算、存储为一体，并预集成分布式存储引擎、虚拟化和云管理软件，资源可按需调配、线性扩展。
+
+FusionCube 1000（虚拟化）与FusionCube 1000（数据）可以根据业务的需求灵活地对计算、存储和I/O弹性配置，适用于主要应用于虚拟化、桌面云、数据库等场景，助力企业极简、高效的完成数字化转型。
   extra:
     - name: 'og:type'
       value: website
       keyName: property
     - name: 'og:title'
-      value: Nulla suscipit
+      value: 河南网田
       keyName: property
     - name: 'og:description'
-      value: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit'
+      value: 华为FusionCube 1000（虚拟化）与FusionCube 1000（数据）是基于分布式架构的超融合数据基础设施，为企业提供全栈IT能力。其遵循开放架构标准，融合计算、存储为一体，并预集成分布式存储引擎、虚拟化和云管理软件，资源可按需调配、线性扩展。
+
+FusionCube 1000（虚拟化）与FusionCube 1000（数据）可以根据业务的需求灵活地对计算、存储和I/O弹性配置，适用于主要应用于虚拟化、桌面云、数据库等场景，助力企业极简、高效的完成数字化转型。
       keyName: property
-    - name: 'og:image'
-      value: images/plant1-lg.jpg
-      keyName: property
-      relativeUrl: true
-    - name: 'twitter:card'
-      value: summary_large_image
-    - name: 'twitter:title'
-      value: Nulla suscipit
-    - name: 'twitter:description'
-      value: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit'
-    - name: 'twitter:image'
-      value: images/plant1-lg.jpg
-      relativeUrl: true
+    - name: Robots
+      value: all
 template: product
 ---
 

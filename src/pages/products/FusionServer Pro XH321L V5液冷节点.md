@@ -16,31 +16,20 @@ other3: https://e.huawei.com/cn/material/datacenter/server/444ecf5920f649eba9df3
 other4:
   images: {"other":{"org":"other","img":["FusionServer Pro XH321L V5液冷节点.png"]}}
 seo:
-  title: Nulla suscipit
-  description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit'
+  title: xh321l-v5 | FusionServer Pro XH321L V5液冷节点 | FusionServer Pro高密服务器 | FusionServer Pro智能服务器 | 服务器 - 计算 | 数据中心
+  description: FusionServer Pro XH321L V5是华为最新一代1U半宽双路服务器液冷节点，支持CPU和内存液冷散热，支持50度温水散热，液冷散热比例高达80%，PUE≤1.1。
   extra:
     - name: 'og:type'
       value: website
       keyName: property
     - name: 'og:title'
-      value: Nulla suscipit
+      value: 河南网田
       keyName: property
     - name: 'og:description'
-      value: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit'
+      value: FusionServer Pro XH321L V5是华为最新一代1U半宽双路服务器液冷节点，支持CPU和内存液冷散热，支持50度温水散热，液冷散热比例高达80%，PUE≤1.1。
       keyName: property
-    - name: 'og:image'
-      value: images/plant1-lg.jpg
-      keyName: property
-      relativeUrl: true
-    - name: 'twitter:card'
-      value: summary_large_image
-    - name: 'twitter:title'
-      value: Nulla suscipit
-    - name: 'twitter:description'
-      value: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit'
-    - name: 'twitter:image'
-      value: images/plant1-lg.jpg
-      relativeUrl: true
+    - name: Robots
+      value: all
 template: product
 ---
 

@@ -18,31 +18,24 @@ other3: null
 other4:
   images: {"other":{"org":"other","img":["OceanStor Pacific 9520分布式存储.png"]}}
 seo:
-  title: Nulla suscipit
-  description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit'
+  title: oceanstor-pacific-9520 | OceanStor Pacific 9520分布式存储 | 容量型 | OceanStor Pacific 系列存储 | 海量存储 | 数据存储
+  description: OceanStor Pacific 9520是华为全新推出的每机箱2U、1节点形态的分布式存储，每节点可提供48 TB至168 TB裸容量、灵活的部件配置组合，以满足广泛的结构化与非结构化业务负载访问诉求。
+
+OceanStor Pacific 9520分布式存储可为虚拟化/云资源池、数据库、大数据分析、海量数据备份与归档等场景提供灵活的数据存取服务。
   extra:
     - name: 'og:type'
       value: website
       keyName: property
     - name: 'og:title'
-      value: Nulla suscipit
+      value: 河南网田
       keyName: property
     - name: 'og:description'
-      value: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit'
+      value: OceanStor Pacific 9520是华为全新推出的每机箱2U、1节点形态的分布式存储，每节点可提供48 TB至168 TB裸容量、灵活的部件配置组合，以满足广泛的结构化与非结构化业务负载访问诉求。
+
+OceanStor Pacific 9520分布式存储可为虚拟化/云资源池、数据库、大数据分析、海量数据备份与归档等场景提供灵活的数据存取服务。
       keyName: property
-    - name: 'og:image'
-      value: images/plant1-lg.jpg
-      keyName: property
-      relativeUrl: true
-    - name: 'twitter:card'
-      value: summary_large_image
-    - name: 'twitter:title'
-      value: Nulla suscipit
-    - name: 'twitter:description'
-      value: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit'
-    - name: 'twitter:image'
-      value: images/plant1-lg.jpg
-      relativeUrl: true
+    - name: Robots
+      value: all
 template: product
 ---
 

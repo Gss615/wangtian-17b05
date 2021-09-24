@@ -16,31 +16,20 @@ other3: https://e.huawei.com/cn/material/networking/networksecurity/0b7e9317893b
 other4:
   images: {"antiddos8030":{"org":"AntiDDoS8030_pic","img":["01-Front.png","02-Front_looking_down.png","03-Front_left_down.png","04-Front_right_down.png","08-Rear_looking_down.png","09-Rear_left_down.png","10-Rear_right_down.png"]}}
 seo:
-  title: Nulla suscipit
-  description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit'
+  title: 8000 | AntiDDoS8000系列DDoS防御系统 | null | DDoS攻击防御 | 网络安全 | 企业网络
+  description: 华为AntiDDoS8000系列DDoS防御系统，运用大数据分析技术，针对60多种网络流量进行抽象建模，可以实现T级防护性能，秒级攻击响应速度和超百种攻击的全面防御。通过与华为云清洗中心联动，可以实现分层清洗，为用户提供从网络链路带宽到在线业务的全面防护。
   extra:
     - name: 'og:type'
       value: website
       keyName: property
     - name: 'og:title'
-      value: Nulla suscipit
+      value: 河南网田
       keyName: property
     - name: 'og:description'
-      value: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit'
+      value: 华为AntiDDoS8000系列DDoS防御系统，运用大数据分析技术，针对60多种网络流量进行抽象建模，可以实现T级防护性能，秒级攻击响应速度和超百种攻击的全面防御。通过与华为云清洗中心联动，可以实现分层清洗，为用户提供从网络链路带宽到在线业务的全面防护。
       keyName: property
-    - name: 'og:image'
-      value: images/plant1-lg.jpg
-      keyName: property
-      relativeUrl: true
-    - name: 'twitter:card'
-      value: summary_large_image
-    - name: 'twitter:title'
-      value: Nulla suscipit
-    - name: 'twitter:description'
-      value: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit'
-    - name: 'twitter:image'
-      value: images/plant1-lg.jpg
-      relativeUrl: true
+    - name: Robots
+      value: all
 template: product
 ---
 

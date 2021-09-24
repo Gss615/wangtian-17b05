@@ -16,31 +16,20 @@ other3: null
 other4:
   images: {"other":{"org":"other","img":["iMaster NCE-Campus.png"]}}
 seo:
-  title: Nulla suscipit
-  description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit'
+  title: imaster-nce-campus | iMaster NCE-Campus | null | 园区自动驾驶网络管理控制系统 | 网络管控&分析软件 | 企业网络
+  description: iMaster NCE-Campus 是华为面向园区网络的新 一代自动驾驶网络管理控制系统，是集管理、控制、分析和 AI 智能功能于一体的网络自动化与智能化平台，提供园区网络的全生命周期自动化、基于大数据和AI的故障智能闭环能力，帮助企业降低OPEX运维成本，加速企业云化与数字化转型，让网络管理更自动、网络运维更智能。
   extra:
     - name: 'og:type'
       value: website
       keyName: property
     - name: 'og:title'
-      value: Nulla suscipit
+      value: 河南网田
       keyName: property
     - name: 'og:description'
-      value: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit'
+      value: iMaster NCE-Campus 是华为面向园区网络的新 一代自动驾驶网络管理控制系统，是集管理、控制、分析和 AI 智能功能于一体的网络自动化与智能化平台，提供园区网络的全生命周期自动化、基于大数据和AI的故障智能闭环能力，帮助企业降低OPEX运维成本，加速企业云化与数字化转型，让网络管理更自动、网络运维更智能。
       keyName: property
-    - name: 'og:image'
-      value: images/plant1-lg.jpg
-      keyName: property
-      relativeUrl: true
-    - name: 'twitter:card'
-      value: summary_large_image
-    - name: 'twitter:title'
-      value: Nulla suscipit
-    - name: 'twitter:description'
-      value: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit'
-    - name: 'twitter:image'
-      value: images/plant1-lg.jpg
-      relativeUrl: true
+    - name: Robots
+      value: all
 template: product
 ---
 

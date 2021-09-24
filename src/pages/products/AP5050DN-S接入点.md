@@ -18,31 +18,24 @@ other3: https://e.huawei.com/cn/material/networking/wlan/0ac04447cf6f4e6c85e79c9
 other4:
   images: {"ap5130dn":{"org":"AP5130DN_pic","img":["01.png","02.png","03.png","04.png","05.png"]}}
 seo:
-  title: Nulla suscipit
-  description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit'
+  title: ap5050dn-s | AP5050DN-S接入点 | AP5000系列 | 室内接入点 | 无线局域网 | 企业网络
+  description: 华为AP5050DN-S接入点支持802.11ac wave2标准，2.4G支持3×3MIMO和三条空间流，5G支持4×4MIMO和四条空间流，整机最高速率可达2.33Gbps。支持11n到11ac标准平滑过渡，可充分满足高清视频流、多媒体、桌面云应用等大带宽业务服务质量要求，让企业用户畅享优质无线业务。
+
+AP5050DN-S是面向中小企业分销级市场推出的无线AP产品，适用于移动办公、高密度、普教、高教等大中型高密场景。
   extra:
     - name: 'og:type'
       value: website
       keyName: property
     - name: 'og:title'
-      value: Nulla suscipit
+      value: 河南网田
       keyName: property
     - name: 'og:description'
-      value: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit'
+      value: 华为AP5050DN-S接入点支持802.11ac wave2标准，2.4G支持3×3MIMO和三条空间流，5G支持4×4MIMO和四条空间流，整机最高速率可达2.33Gbps。支持11n到11ac标准平滑过渡，可充分满足高清视频流、多媒体、桌面云应用等大带宽业务服务质量要求，让企业用户畅享优质无线业务。
+
+AP5050DN-S是面向中小企业分销级市场推出的无线AP产品，适用于移动办公、高密度、普教、高教等大中型高密场景。
       keyName: property
-    - name: 'og:image'
-      value: images/plant1-lg.jpg
-      keyName: property
-      relativeUrl: true
-    - name: 'twitter:card'
-      value: summary_large_image
-    - name: 'twitter:title'
-      value: Nulla suscipit
-    - name: 'twitter:description'
-      value: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit'
-    - name: 'twitter:image'
-      value: images/plant1-lg.jpg
-      relativeUrl: true
+    - name: Robots
+      value: all
 template: product
 ---
 

@@ -18,31 +18,24 @@ other3: https://e.huawei.com/cn/material/networking/wlan/445569ca6d9747db9429ffb
 other4:
   images: {"ap8050tn-hd":{"org":"AP8050TN-HD_pic","img":["bottom.png","front.png","front_left.png","front_right.png","front_top.png","left.png","rear.png","rear_top.png","right.png","top.png"]}}
 seo:
-  title: Nulla suscipit
-  description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit'
+  title: ap8050tn-hd | AP8050TN-HD接入点 | AP8000 系列 | 室外接入点 | 无线局域网 | 企业网络
+  description: AP8050TN-HD是华为推出的802.11ac Wave 2无线接入点设备，三射频设计。2.4G频段支持2×2 MIMO和2条空间流，5G频段两个射频，均支持2×2 MIMO和2条空间流，整机6条流，整机速率2.134Gbps。
+
+AP8050TN-HD内置智能高密天线，无线覆盖更为精准，适用于体育场馆、室外比赛场地等高密环境。
   extra:
     - name: 'og:type'
       value: website
       keyName: property
     - name: 'og:title'
-      value: Nulla suscipit
+      value: 河南网田
       keyName: property
     - name: 'og:description'
-      value: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit'
+      value: AP8050TN-HD是华为推出的802.11ac Wave 2无线接入点设备，三射频设计。2.4G频段支持2×2 MIMO和2条空间流，5G频段两个射频，均支持2×2 MIMO和2条空间流，整机6条流，整机速率2.134Gbps。
+
+AP8050TN-HD内置智能高密天线，无线覆盖更为精准，适用于体育场馆、室外比赛场地等高密环境。
       keyName: property
-    - name: 'og:image'
-      value: images/plant1-lg.jpg
-      keyName: property
-      relativeUrl: true
-    - name: 'twitter:card'
-      value: summary_large_image
-    - name: 'twitter:title'
-      value: Nulla suscipit
-    - name: 'twitter:description'
-      value: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit'
-    - name: 'twitter:image'
-      value: images/plant1-lg.jpg
-      relativeUrl: true
+    - name: Robots
+      value: all
 template: product
 ---
 

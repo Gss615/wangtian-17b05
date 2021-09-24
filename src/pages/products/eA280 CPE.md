@@ -18,31 +18,24 @@ other3: null
 other4:
   images: {"other":{"org":"other","img":["eA280 CPE.png"]}}
 seo:
-  title: Nulla suscipit
-  description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit'
+  title: ea280-lte-cpe | eA280 CPE | null | 终端 | eLTE综合接入解决方案 | 企业无线
+  description: 华为eA280 LTE CPE（Long Term Evolution）室内无线网关CPE（Customer Premises Equipment）承担LTE无线广域网数据、本地有线无线局域网数据之间的转换任务，具备回传功能，可独立使用。
+
+eA280支持LTE R11/12标准。支持有线和无线网络接入。
   extra:
     - name: 'og:type'
       value: website
       keyName: property
     - name: 'og:title'
-      value: Nulla suscipit
+      value: 河南网田
       keyName: property
     - name: 'og:description'
-      value: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit'
+      value: 华为eA280 LTE CPE（Long Term Evolution）室内无线网关CPE（Customer Premises Equipment）承担LTE无线广域网数据、本地有线无线局域网数据之间的转换任务，具备回传功能，可独立使用。
+
+eA280支持LTE R11/12标准。支持有线和无线网络接入。
       keyName: property
-    - name: 'og:image'
-      value: images/plant1-lg.jpg
-      keyName: property
-      relativeUrl: true
-    - name: 'twitter:card'
-      value: summary_large_image
-    - name: 'twitter:title'
-      value: Nulla suscipit
-    - name: 'twitter:description'
-      value: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit'
-    - name: 'twitter:image'
-      value: images/plant1-lg.jpg
-      relativeUrl: true
+    - name: Robots
+      value: all
 template: product
 ---
 

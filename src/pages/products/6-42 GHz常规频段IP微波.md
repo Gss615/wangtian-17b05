@@ -16,31 +16,20 @@ other3:
 other4:
   images: {"other":{"org":"other","img":["6-42 GHz常规频段IP微波.png"]}}
 seo:
-  title: Nulla suscipit
-  description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit'
+  title: traditional-band | 6-42 GHz常规频段IP微波 | null | null | 企业微波解决方案 | 企业无线
+  description: 华为6-42 GHz常规频段IP微波具有单载波最大2 Gbit/s，单天线最大16 Gbit/s的传输能力，是业界首个同一平台支持TDM/Hybrid/Packet/Routing四种业务的IP微波系统，满足行业大容量IP业务传输和传统PDH/SDH微波IP化改造的需要，提供分体式、全室外、全室内任意场景部署的灵活架构，设备可靠性高，支持端到端的统一运维管理，被广泛应用于政府、广电、油气、教育、电力等各个行业领域的宽带无线传输。
   extra:
     - name: 'og:type'
       value: website
       keyName: property
     - name: 'og:title'
-      value: Nulla suscipit
+      value: 河南网田
       keyName: property
     - name: 'og:description'
-      value: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit'
+      value: 华为6-42 GHz常规频段IP微波具有单载波最大2 Gbit/s，单天线最大16 Gbit/s的传输能力，是业界首个同一平台支持TDM/Hybrid/Packet/Routing四种业务的IP微波系统，满足行业大容量IP业务传输和传统PDH/SDH微波IP化改造的需要，提供分体式、全室外、全室内任意场景部署的灵活架构，设备可靠性高，支持端到端的统一运维管理，被广泛应用于政府、广电、油气、教育、电力等各个行业领域的宽带无线传输。
       keyName: property
-    - name: 'og:image'
-      value: images/plant1-lg.jpg
-      keyName: property
-      relativeUrl: true
-    - name: 'twitter:card'
-      value: summary_large_image
-    - name: 'twitter:title'
-      value: Nulla suscipit
-    - name: 'twitter:description'
-      value: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit'
-    - name: 'twitter:image'
-      value: images/plant1-lg.jpg
-      relativeUrl: true
+    - name: Robots
+      value: all
 template: product
 ---
 

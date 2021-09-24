@@ -18,31 +18,24 @@ other3: https://e.huawei.com/cn/material/datacenter/server/82d4d43165554139ad1af
 other4:
   images: {"other":{"org":"other","img":["FusionServer Pro 2488H V5机架服务器.png"]}}
 seo:
-  title: Nulla suscipit
-  description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit'
+  title: 2488h-v5 | FusionServer Pro 2488H V5机架服务器 | FusionServer Pro机架服务器 | FusionServer Pro智能服务器 | 服务器 - 计算 | 数据中心
+  description: 华为FusionServer Pro 2488H V5是一款2U4路机架服务器，适用于虚拟化、高性能计算(HPC)、数据库、SAP HANA等计算密集型场景，相比于2台传统2U2路机架服务器，在虚拟化应用场景中1台2488H V5可以带来约32%的OPEX节省*。2488H V5在2U空间内可配置4个处理器，48条DDR4内存，以及最多25*2.5”的本地存储资源（可配置8个NVMe SSD）。集成DEMT智能功耗管理、FDM智能故障管理等专利技术，可选配华为FusionDirector全生命周期管理软件，能够有效降低运营成本、提升投资回报。
+
+*Source: 华为全球计算创新中心测试结果，2017Q2
   extra:
     - name: 'og:type'
       value: website
       keyName: property
     - name: 'og:title'
-      value: Nulla suscipit
+      value: 河南网田
       keyName: property
     - name: 'og:description'
-      value: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit'
+      value: 华为FusionServer Pro 2488H V5是一款2U4路机架服务器，适用于虚拟化、高性能计算(HPC)、数据库、SAP HANA等计算密集型场景，相比于2台传统2U2路机架服务器，在虚拟化应用场景中1台2488H V5可以带来约32%的OPEX节省*。2488H V5在2U空间内可配置4个处理器，48条DDR4内存，以及最多25*2.5”的本地存储资源（可配置8个NVMe SSD）。集成DEMT智能功耗管理、FDM智能故障管理等专利技术，可选配华为FusionDirector全生命周期管理软件，能够有效降低运营成本、提升投资回报。
+
+*Source: 华为全球计算创新中心测试结果，2017Q2
       keyName: property
-    - name: 'og:image'
-      value: images/plant1-lg.jpg
-      keyName: property
-      relativeUrl: true
-    - name: 'twitter:card'
-      value: summary_large_image
-    - name: 'twitter:title'
-      value: Nulla suscipit
-    - name: 'twitter:description'
-      value: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit'
-    - name: 'twitter:image'
-      value: images/plant1-lg.jpg
-      relativeUrl: true
+    - name: Robots
+      value: all
 template: product
 ---
 

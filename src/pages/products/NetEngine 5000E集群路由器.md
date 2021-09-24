@@ -16,31 +16,20 @@ other3: https://e.huawei.com/cn/material/networking/core-routers/2137eb014b0041e
 other4:
   images: {"other":{"org":"other","img":["NetEngine 5000E集群路由器.png"]}}
 seo:
-  title: Nulla suscipit
-  description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit'
+  title: ne5000e | NetEngine5000E集群 | 云骨干路由器 | NE系列路由器 | 路由器 | 企业网络
+  description: 华为NetEngine5000E核心路由器是面向企业骨干网、城域网核心节点、数据中心互联节点和国际网关等推出的核心路由器产品，具有大容量、高可靠、绿色、智能等特点，支持单框、背靠背和多框集群模式，实现按需扩展，帮助企业用户轻松应对互联网流量快速增长和未来业务发展。
   extra:
     - name: 'og:type'
       value: website
       keyName: property
     - name: 'og:title'
-      value: Nulla suscipit
+      value: 河南网田
       keyName: property
     - name: 'og:description'
-      value: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit'
+      value: 华为NetEngine5000E核心路由器是面向企业骨干网、城域网核心节点、数据中心互联节点和国际网关等推出的核心路由器产品，具有大容量、高可靠、绿色、智能等特点，支持单框、背靠背和多框集群模式，实现按需扩展，帮助企业用户轻松应对互联网流量快速增长和未来业务发展。
       keyName: property
-    - name: 'og:image'
-      value: images/plant1-lg.jpg
-      keyName: property
-      relativeUrl: true
-    - name: 'twitter:card'
-      value: summary_large_image
-    - name: 'twitter:title'
-      value: Nulla suscipit
-    - name: 'twitter:description'
-      value: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit'
-    - name: 'twitter:image'
-      value: images/plant1-lg.jpg
-      relativeUrl: true
+    - name: Robots
+      value: all
 template: product
 ---
 

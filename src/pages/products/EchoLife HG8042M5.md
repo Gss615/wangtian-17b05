@@ -16,31 +16,20 @@ other3: null
 other4:
   images: {"other":{"org":"other","img":["EchoLife HG8042M5.png"]}}
 seo:
-  title: Nulla suscipit
-  description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit'
+  title: echolife-hg8042m5 | EchoLife HG8042M5  | null | ONT | 光终端 | 企业光网络
+  description: 华为HG8042M5定位于国内广电系统，应用于双纤三波接入场景。HG8042M5网络侧接口提供CATV和GPON/EPON方式接入，承载有线电视与互联网业务。HG8042M5用户侧口提供1GE+3FE+RF，满足千兆接入应用和CATV电视业务。有线电视业务和互联网业务分别在不同的纤芯进行传输，可以有效避免两种业务之间的相互影响，提升用户体验。
   extra:
     - name: 'og:type'
       value: website
       keyName: property
     - name: 'og:title'
-      value: Nulla suscipit
+      value: 河南网田
       keyName: property
     - name: 'og:description'
-      value: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit'
+      value: 华为HG8042M5定位于国内广电系统，应用于双纤三波接入场景。HG8042M5网络侧接口提供CATV和GPON/EPON方式接入，承载有线电视与互联网业务。HG8042M5用户侧口提供1GE+3FE+RF，满足千兆接入应用和CATV电视业务。有线电视业务和互联网业务分别在不同的纤芯进行传输，可以有效避免两种业务之间的相互影响，提升用户体验。
       keyName: property
-    - name: 'og:image'
-      value: images/plant1-lg.jpg
-      keyName: property
-      relativeUrl: true
-    - name: 'twitter:card'
-      value: summary_large_image
-    - name: 'twitter:title'
-      value: Nulla suscipit
-    - name: 'twitter:description'
-      value: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit'
-    - name: 'twitter:image'
-      value: images/plant1-lg.jpg
-      relativeUrl: true
+    - name: Robots
+      value: all
 template: product
 ---
 

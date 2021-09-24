@@ -16,31 +16,20 @@ other3: null
 other4:
   images: {"other":{"org":"other","img":["eService 云端智能运维平台.png"]}}
 seo:
-  title: Nulla suscipit
-  description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit'
+  title: eservice | eService 云端智能运维平台 | null | null | 数据管理 | 数据存储
+  description: 华为eService云端智能运维平台，利用大数据分析和AI技术，为华为服务器、存储等数据基础设施提供故障自动上报、容量预测、性能预测、硬盘故障预测、问题处理进展跟踪等服务。
   extra:
     - name: 'og:type'
       value: website
       keyName: property
     - name: 'og:title'
-      value: Nulla suscipit
+      value: 河南网田
       keyName: property
     - name: 'og:description'
-      value: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit'
+      value: 华为eService云端智能运维平台，利用大数据分析和AI技术，为华为服务器、存储等数据基础设施提供故障自动上报、容量预测、性能预测、硬盘故障预测、问题处理进展跟踪等服务。
       keyName: property
-    - name: 'og:image'
-      value: images/plant1-lg.jpg
-      keyName: property
-      relativeUrl: true
-    - name: 'twitter:card'
-      value: summary_large_image
-    - name: 'twitter:title'
-      value: Nulla suscipit
-    - name: 'twitter:description'
-      value: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit'
-    - name: 'twitter:image'
-      value: images/plant1-lg.jpg
-      relativeUrl: true
+    - name: Robots
+      value: all
 template: product
 ---
 

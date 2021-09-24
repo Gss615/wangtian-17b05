@@ -16,31 +16,20 @@ other3: https://e.huawei.com/cn/material/networking/campus-network/wlan/1d1ecaee
 other4:
   images: {"other":{"org":"other","img":["AirEngine 5762-12接入点.png"]}}
 seo:
-  title: Nulla suscipit
-  description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit'
+  title: airengine-5762-12 | AirEngine 5762-12接入点 | AirEngine 5700系列 | 室内接入点 | 无线局域网 | 企业网络
+  description: AirEngine 5762-12是华为发布的支持Wi-Fi 6（802.11ax）标准的室内AP。支持2.4GHz（2x2）和5GHz（2x2）双频同时提供业务，整机速率可达2.975Gbps。支持高带宽、高并发且体积小巧，便于客户灵活部署，有效节约客户投资，适用于中小型企业办公、医院、咖啡厅等室内覆盖场景。
   extra:
     - name: 'og:type'
       value: website
       keyName: property
     - name: 'og:title'
-      value: Nulla suscipit
+      value: 河南网田
       keyName: property
     - name: 'og:description'
-      value: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit'
+      value: AirEngine 5762-12是华为发布的支持Wi-Fi 6（802.11ax）标准的室内AP。支持2.4GHz（2x2）和5GHz（2x2）双频同时提供业务，整机速率可达2.975Gbps。支持高带宽、高并发且体积小巧，便于客户灵活部署，有效节约客户投资，适用于中小型企业办公、医院、咖啡厅等室内覆盖场景。
       keyName: property
-    - name: 'og:image'
-      value: images/plant1-lg.jpg
-      keyName: property
-      relativeUrl: true
-    - name: 'twitter:card'
-      value: summary_large_image
-    - name: 'twitter:title'
-      value: Nulla suscipit
-    - name: 'twitter:description'
-      value: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit'
-    - name: 'twitter:image'
-      value: images/plant1-lg.jpg
-      relativeUrl: true
+    - name: Robots
+      value: all
 template: product
 ---
 

@@ -16,31 +16,20 @@ other3: null
 other4:
   images: {"other":{"org":"other","img":["EchoLife EG8247H5智能路由型ONT.png"]}}
 seo:
-  title: Nulla suscipit
-  description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit'
+  title: echolife-eg8247h5 | EchoLife EG8247H5智能路由型ONT | null | ONT | 光终端 | 企业光网络
+  description: EchoLife EG8247H5是路由型ONT，用户侧提供4个GE以太接口、2个POTS语音接口、1个CATV接口，1个USB接口、支持2.4GWi-Fi无线接入功能，为用户提供全业务接入解决方案。
   extra:
     - name: 'og:type'
       value: website
       keyName: property
     - name: 'og:title'
-      value: Nulla suscipit
+      value: 河南网田
       keyName: property
     - name: 'og:description'
-      value: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit'
+      value: EchoLife EG8247H5是路由型ONT，用户侧提供4个GE以太接口、2个POTS语音接口、1个CATV接口，1个USB接口、支持2.4GWi-Fi无线接入功能，为用户提供全业务接入解决方案。
       keyName: property
-    - name: 'og:image'
-      value: images/plant1-lg.jpg
-      keyName: property
-      relativeUrl: true
-    - name: 'twitter:card'
-      value: summary_large_image
-    - name: 'twitter:title'
-      value: Nulla suscipit
-    - name: 'twitter:description'
-      value: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit'
-    - name: 'twitter:image'
-      value: images/plant1-lg.jpg
-      relativeUrl: true
+    - name: Robots
+      value: all
 template: product
 ---
 

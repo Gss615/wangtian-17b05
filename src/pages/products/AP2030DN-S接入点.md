@@ -18,31 +18,24 @@ other3: https://e.huawei.com/cn/material/networking/wlan/169c93f6d32b4d0eaf1c670
 other4:
   images: {"ap2030dn-s":{"org":"AP2030DN-S_pic","img":["bottom.png","front_left.png","front_right.png","front_top.png","rear_top.png","right.png","stand_left.png","stand_right.png","top.png"]}}
 seo:
-  title: Nulla suscipit
-  description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit'
+  title: ap2030dn-s | AP2030DN-S接入点 | AP2000系列 | 室内接入点 | 无线局域网 | 企业网络
+  description: 华为AP2030DN-S接入点是中小企业分销级市场推出的经济型面板AP产品，匹配国标86mm面板设计，可简单快速的安装在86盒上，适用于酒店、公寓、办公室等场所。
+
+AP2030DN-S支持802.11ac标准协议，采用2.4GHz和5GHz双频设计，内置天线，隐式指示灯，滑动面板，美观大方，是构建室内分布式网络的理想产品。
   extra:
     - name: 'og:type'
       value: website
       keyName: property
     - name: 'og:title'
-      value: Nulla suscipit
+      value: 河南网田
       keyName: property
     - name: 'og:description'
-      value: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit'
+      value: 华为AP2030DN-S接入点是中小企业分销级市场推出的经济型面板AP产品，匹配国标86mm面板设计，可简单快速的安装在86盒上，适用于酒店、公寓、办公室等场所。
+
+AP2030DN-S支持802.11ac标准协议，采用2.4GHz和5GHz双频设计，内置天线，隐式指示灯，滑动面板，美观大方，是构建室内分布式网络的理想产品。
       keyName: property
-    - name: 'og:image'
-      value: images/plant1-lg.jpg
-      keyName: property
-      relativeUrl: true
-    - name: 'twitter:card'
-      value: summary_large_image
-    - name: 'twitter:title'
-      value: Nulla suscipit
-    - name: 'twitter:description'
-      value: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit'
-    - name: 'twitter:image'
-      value: images/plant1-lg.jpg
-      relativeUrl: true
+    - name: Robots
+      value: all
 template: product
 ---
 

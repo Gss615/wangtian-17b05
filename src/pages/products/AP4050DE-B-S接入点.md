@@ -16,31 +16,20 @@ other3: https://e.huawei.com/cn/material/networking/wlan/25a7f5e3b2974178b701ae7
 other4:
   images: {"ap4050de-b-s":{"org":"AP4050DE-B-S_pic","img":["01.png","02.png","03.png","04.png","05.png"]}}
 seo:
-  title: Nulla suscipit
-  description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit'
+  title: ap4050de-b-s | AP4050DE-B-S接入点 | AP4000系列 | 室内接入点 | 无线局域网 | 企业网络
+  description: AP4050DE-B-S是华为面向SMB发布的支持802.11ac wave 2标准的无线接入点产品，支持2×2MIMO和2条空间流，具有完善的业务支持能力，高可靠性，高安全性，网络部署简单，自动上线和配置，实时管理和维护等特点，满足网络部署要求。内置智能天线，同时支持11n和11ac协议，可使无线网络带宽突破千兆，极大地增强用户对无线网络的使用体验，适合部署在中小型企业，机场车站、体育场馆、咖啡厅、休闲中心等商业环境。
   extra:
     - name: 'og:type'
       value: website
       keyName: property
     - name: 'og:title'
-      value: Nulla suscipit
+      value: 河南网田
       keyName: property
     - name: 'og:description'
-      value: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit'
+      value: AP4050DE-B-S是华为面向SMB发布的支持802.11ac wave 2标准的无线接入点产品，支持2×2MIMO和2条空间流，具有完善的业务支持能力，高可靠性，高安全性，网络部署简单，自动上线和配置，实时管理和维护等特点，满足网络部署要求。内置智能天线，同时支持11n和11ac协议，可使无线网络带宽突破千兆，极大地增强用户对无线网络的使用体验，适合部署在中小型企业，机场车站、体育场馆、咖啡厅、休闲中心等商业环境。
       keyName: property
-    - name: 'og:image'
-      value: images/plant1-lg.jpg
-      keyName: property
-      relativeUrl: true
-    - name: 'twitter:card'
-      value: summary_large_image
-    - name: 'twitter:title'
-      value: Nulla suscipit
-    - name: 'twitter:description'
-      value: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit'
-    - name: 'twitter:image'
-      value: images/plant1-lg.jpg
-      relativeUrl: true
+    - name: Robots
+      value: all
 template: product
 ---
 

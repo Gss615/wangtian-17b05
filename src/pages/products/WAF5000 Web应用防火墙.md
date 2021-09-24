@@ -18,31 +18,24 @@ other3: null
 other4:
   images: {"waf5110":{"org":"WAF5110_pic","img":["front.png","front_left.png","front_right.png","front_top.png","left.png","rear.png","rear_left.png","rear_right.png","rear_top.png","right.png"]}}
 seo:
-  title: Nulla suscipit
-  description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit'
+  title: waf | WAF5000 Web应用防火墙 | null | 防火墙及应用安全网关 | 网络安全 | 企业网络
+  description: WAF5000 Web应用防火墙采用独创的行为状态链检测技术，有效应对盗链、跨站请求伪造等Web特殊攻击。智能联动ms级锁定功能可有效降低入侵风险，以满足各类法律法规如PCI、等级保护、企业内部控制规范等要求，全方位保障客户的Web应用业务安全运行。
+
+WAF5000系列产品是华为面向政府、企业和ISP推出的专业级Web应用防火墙。
   extra:
     - name: 'og:type'
       value: website
       keyName: property
     - name: 'og:title'
-      value: Nulla suscipit
+      value: 河南网田
       keyName: property
     - name: 'og:description'
-      value: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit'
+      value: WAF5000 Web应用防火墙采用独创的行为状态链检测技术，有效应对盗链、跨站请求伪造等Web特殊攻击。智能联动ms级锁定功能可有效降低入侵风险，以满足各类法律法规如PCI、等级保护、企业内部控制规范等要求，全方位保障客户的Web应用业务安全运行。
+
+WAF5000系列产品是华为面向政府、企业和ISP推出的专业级Web应用防火墙。
       keyName: property
-    - name: 'og:image'
-      value: images/plant1-lg.jpg
-      keyName: property
-      relativeUrl: true
-    - name: 'twitter:card'
-      value: summary_large_image
-    - name: 'twitter:title'
-      value: Nulla suscipit
-    - name: 'twitter:description'
-      value: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit'
-    - name: 'twitter:image'
-      value: images/plant1-lg.jpg
-      relativeUrl: true
+    - name: Robots
+      value: all
 template: product
 ---
 

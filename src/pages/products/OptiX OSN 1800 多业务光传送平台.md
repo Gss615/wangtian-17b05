@@ -18,34 +18,27 @@ other3: null
 other4:
   images: {"other":{"org":"other","img":["OptiX OSN 1800 多业务光传送平台.png"]}}
 seo:
-  title: Nulla suscipit
-  description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit'
+  title: osn-1800 | OptiX OSN 1800 多业务光传送平台 | null | 波分 | 光传送 | 企业光网络
+  description: OptiX OSN 1800 多业务光传送平台是新一代分组增强型多业务光传送平台，较高的集成度填补了城域设备形态的需求。
+
+支持OTN/PKT/SDH统一交换功能，以太网、TDM、专线等2M~100G全业务接入，并集成MPLS-TP功能，解决城域网络以下光纤资源不足的问题，为金融，媒资，政府，能源，教育等提供了低成本、高效的业务传输方案。
   extra:
     - name: 'og:type'
       value: website
       keyName: property
     - name: 'og:title'
-      value: Nulla suscipit
+      value: 河南网田
       keyName: property
     - name: 'og:description'
-      value: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit'
+      value: OptiX OSN 1800 多业务光传送平台是新一代分组增强型多业务光传送平台，较高的集成度填补了城域设备形态的需求。
+
+支持OTN/PKT/SDH统一交换功能，以太网、TDM、专线等2M~100G全业务接入，并集成MPLS-TP功能，解决城域网络以下光纤资源不足的问题，为金融，媒资，政府，能源，教育等提供了低成本、高效的业务传输方案。
       keyName: property
-    - name: 'og:image'
-      value: images/plant1-lg.jpg
-      keyName: property
-      relativeUrl: true
-    - name: 'twitter:card'
-      value: summary_large_image
-    - name: 'twitter:title'
-      value: Nulla suscipit
-    - name: 'twitter:description'
-      value: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit'
-    - name: 'twitter:image'
-      value: images/plant1-lg.jpg
-      relativeUrl: true
+    - name: Robots
+      value: all
 template: product
 ---
 
 # Nulla suscipit
 
-Aliquam quis laoreet lectus. Proin non mattis nulla, quis posuere mi. Mauris venenatis, magna at pellentesque commodo, lectus risus vehicula elit, nec dignissim nisl sapien id leo. Nulla non pretium metus, vitae finibus lectus. Aliquam in posuere risus. Curabitur ultrices ornare magna porttitor commodo. Curabitur eu tempor orci, sed pretium quam. Vestibulum condimentum, arcu nec pulvinar fringilla, lorem odio varius arcu, in porta tellus eros sed neque. Suspendisse efficitur eget erat sit amet efficitur. Proin maximus nibh eu sapien consequat, non porttitor risus consequat. Donec maximus odio sed nibh convallis luctus.ibh convallis luctus.
+Aliquam quis laoreet lectus. Proin non mattis nulla, quis posuere mi. Mauris venenatis, magna at pellentesque commodo, lectus risus vehicula elit, nec dignissim nisl sapien id leo. Nulla non pretium metus, vitae finibus lectus. Aliquam in posuere risus. Curabitur ultrices ornare magna porttitor commodo. Curabitur eu tempor orci, sed pretium quam. Vestibulum condimentum, arcu nec pulvinar fringilla, lorem odio varius arcu, in porta tellus eros sed neque. Suspendisse efficitur eget erat sit amet efficitur. Proin maximus nibh eu sapien consequat, non porttitor risus consequat. Donec maximus odio sed nibh convallis luctus.ec maximus odio sed nibh convallis luctus.

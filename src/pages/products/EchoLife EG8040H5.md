@@ -16,31 +16,20 @@ other3: null
 other4:
   images: {"other":{"org":"other","img":["EchoLife EG8040H5.png"]}}
 seo:
-  title: Nulla suscipit
-  description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit'
+  title: echolife-eg8040h5 | EchoLife EG8040H5		 | null | ONT | 光终端 | 企业光网络
+  description: EchoLife EG8040H5是室内型光网络终端（ONT）。通过GPON技术， 为家庭 和企业用户提供超宽带接入。EG8040H5提供四个GE以太网接口。EG8040H5 具有高性能的业务转发能力，保证了互联网和高清视频业务的良好体验。因此，EG8040H5为网络提供了完善的终端解决方案和面向未来的业务支撑能力。
   extra:
     - name: 'og:type'
       value: website
       keyName: property
     - name: 'og:title'
-      value: Nulla suscipit
+      value: 河南网田
       keyName: property
     - name: 'og:description'
-      value: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit'
+      value: EchoLife EG8040H5是室内型光网络终端（ONT）。通过GPON技术， 为家庭 和企业用户提供超宽带接入。EG8040H5提供四个GE以太网接口。EG8040H5 具有高性能的业务转发能力，保证了互联网和高清视频业务的良好体验。因此，EG8040H5为网络提供了完善的终端解决方案和面向未来的业务支撑能力。
       keyName: property
-    - name: 'og:image'
-      value: images/plant1-lg.jpg
-      keyName: property
-      relativeUrl: true
-    - name: 'twitter:card'
-      value: summary_large_image
-    - name: 'twitter:title'
-      value: Nulla suscipit
-    - name: 'twitter:description'
-      value: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit'
-    - name: 'twitter:image'
-      value: images/plant1-lg.jpg
-      relativeUrl: true
+    - name: Robots
+      value: all
 template: product
 ---
 

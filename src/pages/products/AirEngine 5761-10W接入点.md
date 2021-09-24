@@ -16,31 +16,20 @@ other3: https://e.huawei.com/cn/material/networking/campus-network/wlan/c23036b5
 other4:
   images: {"airengine5761-10w":{"org":"AirEngine5761-10W_pic","img":["front_bottom.png","front_top.png","top.png"]}}
 seo:
-  title: Nulla suscipit
-  description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit'
+  title: airengine-5761-10w | AirEngine 5761-10W接入点 | AirEngine 5700系列 | 室内接入点 | 无线局域网 | 企业网络
+  description: 新一代Wi-Fi 6 （802.11ax）标准面板式接入点设备（AP），2.4GHz频段支持 2x2 MU-MIMO和2条空间流，5GHz频段支持 2x2 MU-MIMO和2条空间流，整机速率达1.77Gbps。适用于酒店、宿舍等房间密集场所。
   extra:
     - name: 'og:type'
       value: website
       keyName: property
     - name: 'og:title'
-      value: Nulla suscipit
+      value: 河南网田
       keyName: property
     - name: 'og:description'
-      value: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit'
+      value: 新一代Wi-Fi 6 （802.11ax）标准面板式接入点设备（AP），2.4GHz频段支持 2x2 MU-MIMO和2条空间流，5GHz频段支持 2x2 MU-MIMO和2条空间流，整机速率达1.77Gbps。适用于酒店、宿舍等房间密集场所。
       keyName: property
-    - name: 'og:image'
-      value: images/plant1-lg.jpg
-      keyName: property
-      relativeUrl: true
-    - name: 'twitter:card'
-      value: summary_large_image
-    - name: 'twitter:title'
-      value: Nulla suscipit
-    - name: 'twitter:description'
-      value: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit'
-    - name: 'twitter:image'
-      value: images/plant1-lg.jpg
-      relativeUrl: true
+    - name: Robots
+      value: all
 template: product
 ---
 

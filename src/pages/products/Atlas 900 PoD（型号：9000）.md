@@ -16,31 +16,20 @@ other3: null
 other4:
   images: {"other":{"org":"other","img":["Atlas 900 PoD（型号：9000）.png"]}}
 seo:
-  title: Nulla suscipit
-  description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit'
+  title: atlas-900-pod-9000 | Atlas 900 PoD（型号：9000） | null | 昇腾计算 | 服务器 - 计算 | 数据中心
+  description: Atlas 900 PoD（型号：9000）是基于华为昇腾910+ 鲲鹏920 处理器的AI训练集群基础单元，具有超强AI算力、更优AI能效、最佳AI拓展等特点。该基础单元广泛应用于深度学习模型开发和训练，适用于智慧城市、智慧医疗、天文探索、石油勘探等需要大AI算力的领域。
   extra:
     - name: 'og:type'
       value: website
       keyName: property
     - name: 'og:title'
-      value: Nulla suscipit
+      value: 河南网田
       keyName: property
     - name: 'og:description'
-      value: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit'
+      value: Atlas 900 PoD（型号：9000）是基于华为昇腾910+ 鲲鹏920 处理器的AI训练集群基础单元，具有超强AI算力、更优AI能效、最佳AI拓展等特点。该基础单元广泛应用于深度学习模型开发和训练，适用于智慧城市、智慧医疗、天文探索、石油勘探等需要大AI算力的领域。
       keyName: property
-    - name: 'og:image'
-      value: images/plant1-lg.jpg
-      keyName: property
-      relativeUrl: true
-    - name: 'twitter:card'
-      value: summary_large_image
-    - name: 'twitter:title'
-      value: Nulla suscipit
-    - name: 'twitter:description'
-      value: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit'
-    - name: 'twitter:image'
-      value: images/plant1-lg.jpg
-      relativeUrl: true
+    - name: Robots
+      value: all
 template: product
 ---
 

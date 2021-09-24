@@ -16,31 +16,20 @@ other3: null
 other4:
   images: {"ar6300-s":{"org":"AR6300-S_pic","img":["front.png","front_left.png","front_right.png","front_top.png","rear.png","rear_left.png","rear_right.png","rear_top.png"]}}
 seo:
-  title: Nulla suscipit
-  description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit'
+  title: ar6000-s | NetEngine AR6000-S & AR600-S 新一代系列企业路由器 | AR 商业系列企业路由器 (中国区） | AR系列接入路由器 | 路由器 | 企业网络
+  description: 华为新一代NetEngine AR6000-S为不同行业、规模、应用场景提供多样化的企业路由器产品选择，包括适用于HQ /大型分支机构的NetEngine AR6300-S，适用于中型分支机构的NetEngine AR6140-S和NetEngine AR6120-S，适用于小型分支机构的NetEngine AR651F-Lite。基于创新CPU+NP异构转发架构，融合了路由、交换、VPN、安全、MPLS等多种功能，满足了企业业务多元化和云化趋势下对网络设备高性能的需求。
   extra:
     - name: 'og:type'
       value: website
       keyName: property
     - name: 'og:title'
-      value: Nulla suscipit
+      value: 河南网田
       keyName: property
     - name: 'og:description'
-      value: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit'
+      value: 华为新一代NetEngine AR6000-S为不同行业、规模、应用场景提供多样化的企业路由器产品选择，包括适用于HQ /大型分支机构的NetEngine AR6300-S，适用于中型分支机构的NetEngine AR6140-S和NetEngine AR6120-S，适用于小型分支机构的NetEngine AR651F-Lite。基于创新CPU+NP异构转发架构，融合了路由、交换、VPN、安全、MPLS等多种功能，满足了企业业务多元化和云化趋势下对网络设备高性能的需求。
       keyName: property
-    - name: 'og:image'
-      value: images/plant1-lg.jpg
-      keyName: property
-      relativeUrl: true
-    - name: 'twitter:card'
-      value: summary_large_image
-    - name: 'twitter:title'
-      value: Nulla suscipit
-    - name: 'twitter:description'
-      value: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit'
-    - name: 'twitter:image'
-      value: images/plant1-lg.jpg
-      relativeUrl: true
+    - name: Robots
+      value: all
 template: product
 ---
 

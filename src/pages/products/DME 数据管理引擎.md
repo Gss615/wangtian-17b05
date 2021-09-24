@@ -16,31 +16,20 @@ other3: null
 other4:
   images: {"other":{"org":"other","img":["DME 数据管理引擎.png"]}}
 seo:
-  title: Nulla suscipit
-  description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit'
+  title: data-management-engine | DME Storage 数据管理引擎 | null | null | 数据管理 | 数据存储
+  description: 数据管理引擎是面向全场景的智能存储管理平台，具备融合、智能、开放三大优势，简化存储管理与运维，提升数据中心运营效率，使能存储全生命周期自动驾驶。
   extra:
     - name: 'og:type'
       value: website
       keyName: property
     - name: 'og:title'
-      value: Nulla suscipit
+      value: 河南网田
       keyName: property
     - name: 'og:description'
-      value: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit'
+      value: 数据管理引擎是面向全场景的智能存储管理平台，具备融合、智能、开放三大优势，简化存储管理与运维，提升数据中心运营效率，使能存储全生命周期自动驾驶。
       keyName: property
-    - name: 'og:image'
-      value: images/plant1-lg.jpg
-      keyName: property
-      relativeUrl: true
-    - name: 'twitter:card'
-      value: summary_large_image
-    - name: 'twitter:title'
-      value: Nulla suscipit
-    - name: 'twitter:description'
-      value: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit'
-    - name: 'twitter:image'
-      value: images/plant1-lg.jpg
-      relativeUrl: true
+    - name: Robots
+      value: all
 template: product
 ---
 

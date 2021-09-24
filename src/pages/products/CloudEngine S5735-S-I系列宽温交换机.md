@@ -16,31 +16,20 @@ other3: null
 other4:
   images: {"s5720-36c-ei-ac":{"org":"S5720-36C-EI-AC_pic","img":["01.png","02.png","03.png","04.png","07.png","08.png"]}}
 seo:
-  title: Nulla suscipit
-  description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit'
+  title: s5735-s-i-wide-temperature-switches | CloudEngine S5735-S-I系列宽温交换机 | 行业专用交换机 | 园区交换机 | 交换机 | 企业网络
+  description: CloudEngine S5735-S-I系列宽温交换机，可提供灵活的全千兆接入和10GE上行链路端口。支持工业级工作温度范围和专业的户外防雷，可适应条件恶劣的户外机柜环境。
   extra:
     - name: 'og:type'
       value: website
       keyName: property
     - name: 'og:title'
-      value: Nulla suscipit
+      value: 河南网田
       keyName: property
     - name: 'og:description'
-      value: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit'
+      value: CloudEngine S5735-S-I系列宽温交换机，可提供灵活的全千兆接入和10GE上行链路端口。支持工业级工作温度范围和专业的户外防雷，可适应条件恶劣的户外机柜环境。
       keyName: property
-    - name: 'og:image'
-      value: images/plant1-lg.jpg
-      keyName: property
-      relativeUrl: true
-    - name: 'twitter:card'
-      value: summary_large_image
-    - name: 'twitter:title'
-      value: Nulla suscipit
-    - name: 'twitter:description'
-      value: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit'
-    - name: 'twitter:image'
-      value: images/plant1-lg.jpg
-      relativeUrl: true
+    - name: Robots
+      value: all
 template: product
 ---
 

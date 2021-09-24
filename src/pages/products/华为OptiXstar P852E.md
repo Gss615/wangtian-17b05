@@ -16,31 +16,20 @@ other3: null
 other4:
   images: {"other":{"org":"other","img":["华为OptiXstar P852E.png"]}}
 seo:
-  title: Nulla suscipit
-  description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit'
+  title: optixstar-p852e | 华为OptiXstar P852E  | null | ONU | 光终端 | 企业光网络
+  description: 华为OptiXstar P852E产品是面向交通、安平场景设计的ONU设备，网络侧支撑XGS-PON接入，用户侧支撑4个GE接口和1个GPON接口，为全光交通路口、道路等提供高清的视频回传、信号控制、物联网接入等服务。
   extra:
     - name: 'og:type'
       value: website
       keyName: property
     - name: 'og:title'
-      value: Nulla suscipit
+      value: 河南网田
       keyName: property
     - name: 'og:description'
-      value: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit'
+      value: 华为OptiXstar P852E产品是面向交通、安平场景设计的ONU设备，网络侧支撑XGS-PON接入，用户侧支撑4个GE接口和1个GPON接口，为全光交通路口、道路等提供高清的视频回传、信号控制、物联网接入等服务。
       keyName: property
-    - name: 'og:image'
-      value: images/plant1-lg.jpg
-      keyName: property
-      relativeUrl: true
-    - name: 'twitter:card'
-      value: summary_large_image
-    - name: 'twitter:title'
-      value: Nulla suscipit
-    - name: 'twitter:description'
-      value: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit'
-    - name: 'twitter:image'
-      value: images/plant1-lg.jpg
-      relativeUrl: true
+    - name: Robots
+      value: all
 template: product
 ---
 

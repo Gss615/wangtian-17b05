@@ -16,31 +16,20 @@ other3: https://e.huawei.com/cn/material/networking/5ca35b9b95a94fbaad20de9f14fc
 other4:
   images: {"s6700-24-ei":{"org":"S6700-24-EI_pic","img":["01.png","02.png","03.png","04.png","08.png"]}}
 seo:
-  title: Nulla suscipit
-  description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit'
+  title: s6730-s | CloudEngine S6730-S系列交换机 | 核心/汇聚交换机 | 园区交换机 | 交换机 | 企业网络
+  description: CloudEngine S6730-S系列交换机是华为公司自主开发的新一代万兆盒式交换机，提供全线速万兆接入接口和40GE上行接口。同时支持丰富的业务特性、完善的安全控制策略、丰富的QoS等特性以满足园区和数据中心网络的可扩展性、可靠性、可管理性及安全性等诸多挑战。
   extra:
     - name: 'og:type'
       value: website
       keyName: property
     - name: 'og:title'
-      value: Nulla suscipit
+      value: 河南网田
       keyName: property
     - name: 'og:description'
-      value: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit'
+      value: CloudEngine S6730-S系列交换机是华为公司自主开发的新一代万兆盒式交换机，提供全线速万兆接入接口和40GE上行接口。同时支持丰富的业务特性、完善的安全控制策略、丰富的QoS等特性以满足园区和数据中心网络的可扩展性、可靠性、可管理性及安全性等诸多挑战。
       keyName: property
-    - name: 'og:image'
-      value: images/plant1-lg.jpg
-      keyName: property
-      relativeUrl: true
-    - name: 'twitter:card'
-      value: summary_large_image
-    - name: 'twitter:title'
-      value: Nulla suscipit
-    - name: 'twitter:description'
-      value: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit'
-    - name: 'twitter:image'
-      value: images/plant1-lg.jpg
-      relativeUrl: true
+    - name: Robots
+      value: all
 template: product
 ---
 

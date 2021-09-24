@@ -16,31 +16,20 @@ other3: https://e.huawei.com/cn/material/networking/campus-network/wlan/c118f27d
 other4:
   images: {"airengine8760-x1-pro":{"org":"AirEngine8760-X1-PRO_pic","img":["bottom.png","front.png","front_left.png","front_right.png","front_top.png","front_top_2.png","rear_top.png","top.png"]}}
 seo:
-  title: Nulla suscipit
-  description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit'
+  title: airengine-8760-x1-pro | AirEngine 8760-X1-PRO接入点 | AirEngine 8700系列 | 室内接入点 | 无线局域网 | 企业网络
+  description: AirEngine 8760-X1-PRO是华为面向大型企业高密、高带宽场景打造的，符合Wi-Fi 6（802.11ax）标准，且拥有16天线的室内旗舰AP。它将适用于企业办公、政府、高教、普教等各行业的场景。 AirEngine 8760内置双频智能天线，高达16条空间流让整机速率达到10.75Gbps，享受光纤般的无线体验。默认支持软件定义射频，可以在双频，三频，以及双频+独立扫描射频三种模式间切换，以灵活满足高干扰或高密接入等多种场景的需要。经过独特设计的双频智能天线，有效提升信号的增益，且让信号随用户而动，让信号覆盖无死角。
   extra:
     - name: 'og:type'
       value: website
       keyName: property
     - name: 'og:title'
-      value: Nulla suscipit
+      value: 河南网田
       keyName: property
     - name: 'og:description'
-      value: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit'
+      value: AirEngine 8760-X1-PRO是华为面向大型企业高密、高带宽场景打造的，符合Wi-Fi 6（802.11ax）标准，且拥有16天线的室内旗舰AP。它将适用于企业办公、政府、高教、普教等各行业的场景。 AirEngine 8760内置双频智能天线，高达16条空间流让整机速率达到10.75Gbps，享受光纤般的无线体验。默认支持软件定义射频，可以在双频，三频，以及双频+独立扫描射频三种模式间切换，以灵活满足高干扰或高密接入等多种场景的需要。经过独特设计的双频智能天线，有效提升信号的增益，且让信号随用户而动，让信号覆盖无死角。
       keyName: property
-    - name: 'og:image'
-      value: images/plant1-lg.jpg
-      keyName: property
-      relativeUrl: true
-    - name: 'twitter:card'
-      value: summary_large_image
-    - name: 'twitter:title'
-      value: Nulla suscipit
-    - name: 'twitter:description'
-      value: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit'
-    - name: 'twitter:image'
-      value: images/plant1-lg.jpg
-      relativeUrl: true
+    - name: Robots
+      value: all
 template: product
 ---
 

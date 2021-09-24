@@ -20,31 +20,28 @@ other3: null
 other4:
   images: {"other":{"org":"other","img":["iMaster NCE-Fabric.png"]}}
 seo:
-  title: Nulla suscipit
-  description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit'
+  title: imaster-nce-fabric | iMaster NCE-Fabric | null | 数据中心自动驾驶网络管理控制系统 | 网络管控&分析软件 | 企业网络
+  description: iMaster NCE-Fabric控制器是华为CloudFabric云数据中心网解决方案的核心组件，可实现对网络资源的统一控制和动态调度，快速部署云业务。华为CloudFabric云数据中心网解决方案为客户提供极简网络部署、智能化网络运维、超宽互联和开放生态的下一代数据中心网络，支持企业云业务高速发展。
+
+iMaster NCE-Fabric采用开放架构，开放丰富的标准接口，北向支持与业界主流OpenStack云平台实现L2~L7层对接，南向支持管理物理交换机、虚拟交换机、防火墙等物理和虚拟网络设备。iMaster NCE-Fabric通过北向接口接收以用户为中心的业务诉求，并将其转换为网络配置、批量下发，实现网络自动化。在没有云平台的场景下，iMaster NCE-Fabric提供独立业务发放GUI。
+
+iMaster NCE-Fabric提供高可靠集群能力，系统采用负载分担方式对南北向业务进行处理，同时支持主备集群部署，实现异地容灾，满足数据中心业务的高可靠性要求。
   extra:
     - name: 'og:type'
       value: website
       keyName: property
     - name: 'og:title'
-      value: Nulla suscipit
+      value: 河南网田
       keyName: property
     - name: 'og:description'
-      value: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit'
+      value: iMaster NCE-Fabric控制器是华为CloudFabric云数据中心网解决方案的核心组件，可实现对网络资源的统一控制和动态调度，快速部署云业务。华为CloudFabric云数据中心网解决方案为客户提供极简网络部署、智能化网络运维、超宽互联和开放生态的下一代数据中心网络，支持企业云业务高速发展。
+
+iMaster NCE-Fabric采用开放架构，开放丰富的标准接口，北向支持与业界主流OpenStack云平台实现L2~L7层对接，南向支持管理物理交换机、虚拟交换机、防火墙等物理和虚拟网络设备。iMaster NCE-Fabric通过北向接口接收以用户为中心的业务诉求，并将其转换为网络配置、批量下发，实现网络自动化。在没有云平台的场景下，iMaster NCE-Fabric提供独立业务发放GUI。
+
+iMaster NCE-Fabric提供高可靠集群能力，系统采用负载分担方式对南北向业务进行处理，同时支持主备集群部署，实现异地容灾，满足数据中心业务的高可靠性要求。
       keyName: property
-    - name: 'og:image'
-      value: images/plant1-lg.jpg
-      keyName: property
-      relativeUrl: true
-    - name: 'twitter:card'
-      value: summary_large_image
-    - name: 'twitter:title'
-      value: Nulla suscipit
-    - name: 'twitter:description'
-      value: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit'
-    - name: 'twitter:image'
-      value: images/plant1-lg.jpg
-      relativeUrl: true
+    - name: Robots
+      value: all
 template: product
 ---
 

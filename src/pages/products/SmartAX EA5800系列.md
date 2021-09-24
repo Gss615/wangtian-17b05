@@ -20,31 +20,28 @@ other3: null
 other4:
   images: {"other":{"org":"other","img":["SmartAX EA5800系列.png"]}}
 seo:
-  title: Nulla suscipit
-  description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit'
+  title: ea5800 | SmartAX EA5800系列 | null | OLT | 光接入 | 企业光网络
+  description: 构建超宽、绿色、智能的汇聚型接入网络：
+
+基于分布式架构，为用户提供宽带、无线、视频、监控等多业务 统一承载平台；
+提供GPON、XG-PON、XGS-PON、GE和10GE接入，支持包括POL、FTTH、FTTB、FTTC 在内 的多种建网模式，实现一张光纤网覆盖全业务，简化网络架构，降低OPEX；
+支持大、中、小三种产品规格，满足不同场景需求。
   extra:
     - name: 'og:type'
       value: website
       keyName: property
     - name: 'og:title'
-      value: Nulla suscipit
+      value: 河南网田
       keyName: property
     - name: 'og:description'
-      value: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit'
+      value: 构建超宽、绿色、智能的汇聚型接入网络：
+
+基于分布式架构，为用户提供宽带、无线、视频、监控等多业务 统一承载平台；
+提供GPON、XG-PON、XGS-PON、GE和10GE接入，支持包括POL、FTTH、FTTB、FTTC 在内 的多种建网模式，实现一张光纤网覆盖全业务，简化网络架构，降低OPEX；
+支持大、中、小三种产品规格，满足不同场景需求。
       keyName: property
-    - name: 'og:image'
-      value: images/plant1-lg.jpg
-      keyName: property
-      relativeUrl: true
-    - name: 'twitter:card'
-      value: summary_large_image
-    - name: 'twitter:title'
-      value: Nulla suscipit
-    - name: 'twitter:description'
-      value: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit'
-    - name: 'twitter:image'
-      value: images/plant1-lg.jpg
-      relativeUrl: true
+    - name: Robots
+      value: all
 template: product
 ---
 

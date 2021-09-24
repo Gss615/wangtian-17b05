@@ -16,31 +16,20 @@ other3: https://e.huawei.com/cn/material/networking/campus-network/wlan/4e7718ab
 other4:
   images: {"airengine5760-22w":{"org":"AirEngine5760-22W_pic","img":["bottom.png","front.png","front_left.png","front_right.png","rear_bottom.png","rear_top.png","top.png"]}}
 seo:
-  title: Nulla suscipit
-  description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit'
+  title: airengine-5760-22w | AirEngine 5760-22W接入点 | AirEngine 5700系列 | 室内接入点 | 无线局域网 | 企业网络
+  description: AirEngine 5760-22W是华为发布的支持Wi-Fi 6（802.11ax）标准的Wi-Fi 6面板AP。支持2.4GHz（2×2）和5GHz （4×4）双频同时提供业务，整机速率可达5.37Gbps。内置智能天线，信号随用户而动，极大地增强用户对无线网络的使用体验，适用于酒店客房、学生宿舍、医院病房、小型办公室等房间面积较小，户型较密集场景。
   extra:
     - name: 'og:type'
       value: website
       keyName: property
     - name: 'og:title'
-      value: Nulla suscipit
+      value: 河南网田
       keyName: property
     - name: 'og:description'
-      value: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit'
+      value: AirEngine 5760-22W是华为发布的支持Wi-Fi 6（802.11ax）标准的Wi-Fi 6面板AP。支持2.4GHz（2×2）和5GHz （4×4）双频同时提供业务，整机速率可达5.37Gbps。内置智能天线，信号随用户而动，极大地增强用户对无线网络的使用体验，适用于酒店客房、学生宿舍、医院病房、小型办公室等房间面积较小，户型较密集场景。
       keyName: property
-    - name: 'og:image'
-      value: images/plant1-lg.jpg
-      keyName: property
-      relativeUrl: true
-    - name: 'twitter:card'
-      value: summary_large_image
-    - name: 'twitter:title'
-      value: Nulla suscipit
-    - name: 'twitter:description'
-      value: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit'
-    - name: 'twitter:image'
-      value: images/plant1-lg.jpg
-      relativeUrl: true
+    - name: Robots
+      value: all
 template: product
 ---
 

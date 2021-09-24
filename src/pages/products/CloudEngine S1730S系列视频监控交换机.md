@@ -16,31 +16,20 @@ other3:
 other4:
   images: {"s1720-28gwr-4p":{"org":"S1720-28GWR-4P_pic","img":["front.png","front_left.png","front_right.png","front_top.png","rear.png","rear_top.png"]}}
 seo:
-  title: Nulla suscipit
-  description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit'
+  title: cloudengine-s1730s | CloudEngine S1730S系列视频监控交换机 | 行业专用交换机 | 园区交换机 | 交换机 | 企业网络
+  description: CloudEngine S视频监控交换机，是华为公司面向安平市场的视频监控场景推出的全新交换机系列。
   extra:
     - name: 'og:type'
       value: website
       keyName: property
     - name: 'og:title'
-      value: Nulla suscipit
+      value: 河南网田
       keyName: property
     - name: 'og:description'
-      value: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit'
+      value: CloudEngine S视频监控交换机，是华为公司面向安平市场的视频监控场景推出的全新交换机系列。
       keyName: property
-    - name: 'og:image'
-      value: images/plant1-lg.jpg
-      keyName: property
-      relativeUrl: true
-    - name: 'twitter:card'
-      value: summary_large_image
-    - name: 'twitter:title'
-      value: Nulla suscipit
-    - name: 'twitter:description'
-      value: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit'
-    - name: 'twitter:image'
-      value: images/plant1-lg.jpg
-      relativeUrl: true
+    - name: Robots
+      value: all
 template: product
 ---
 

@@ -16,31 +16,20 @@ other3:
 other4:
   images: {"other":{"org":"other","img":["OceanStor SNS 交换机.png"]}}
 seo:
-  title: Nulla suscipit
-  description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit'
+  title: oceanstor-sns | OceanStor SNS 交换机 | null | null | 存储网络 Storage Network  | 数据存储
+  description: 华为OceanStor SNS 交换机，为存储业务量身打造的网络连接设备，满足超大规模虚拟化、更大型的云基础架构及不断增长的闪存存储环境业务需求。
   extra:
     - name: 'og:type'
       value: website
       keyName: property
     - name: 'og:title'
-      value: Nulla suscipit
+      value: 河南网田
       keyName: property
     - name: 'og:description'
-      value: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit'
+      value: 华为OceanStor SNS 交换机，为存储业务量身打造的网络连接设备，满足超大规模虚拟化、更大型的云基础架构及不断增长的闪存存储环境业务需求。
       keyName: property
-    - name: 'og:image'
-      value: images/plant1-lg.jpg
-      keyName: property
-      relativeUrl: true
-    - name: 'twitter:card'
-      value: summary_large_image
-    - name: 'twitter:title'
-      value: Nulla suscipit
-    - name: 'twitter:description'
-      value: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit'
-    - name: 'twitter:image'
-      value: images/plant1-lg.jpg
-      relativeUrl: true
+    - name: Robots
+      value: all
 template: product
 ---
 

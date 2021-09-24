@@ -16,31 +16,20 @@ other3: https://e.huawei.com/cn/material/networking/dcswitch/56bd18285f654c68b0c
 other4:
   images: {"ce16804":{"org":"CE16804_pic","img":["front.png","front_left.png","front_right.png","front_top.png","left.png","rear.png","rear_left.png","rear_right.png","right.png"]}}
 seo:
-  title: Nulla suscipit
-  description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit'
+  title: ce16800 | CloudEngine 16800系列数据中心交换机 | 框式核心交换机 | 数据中心交换机 | 交换机 | 企业网络
+  description: CloudEngine 16800是华为推出的面向智能时代的数据中心交换机。承载独创的iLossless 智能无损交换算法，对全网流量进行实时的学习训练，实现网络0丢包，达到最高吞吐量。
   extra:
     - name: 'og:type'
       value: website
       keyName: property
     - name: 'og:title'
-      value: Nulla suscipit
+      value: 河南网田
       keyName: property
     - name: 'og:description'
-      value: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit'
+      value: CloudEngine 16800是华为推出的面向智能时代的数据中心交换机。承载独创的iLossless 智能无损交换算法，对全网流量进行实时的学习训练，实现网络0丢包，达到最高吞吐量。
       keyName: property
-    - name: 'og:image'
-      value: images/plant1-lg.jpg
-      keyName: property
-      relativeUrl: true
-    - name: 'twitter:card'
-      value: summary_large_image
-    - name: 'twitter:title'
-      value: Nulla suscipit
-    - name: 'twitter:description'
-      value: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit'
-    - name: 'twitter:image'
-      value: images/plant1-lg.jpg
-      relativeUrl: true
+    - name: Robots
+      value: all
 template: product
 ---
 

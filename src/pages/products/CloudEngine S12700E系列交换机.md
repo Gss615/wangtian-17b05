@@ -16,31 +16,20 @@ other3: https://e.huawei.com/cn/material/networking/b9f58ad188994a3dbd56580b0362
 other4:
   images: {"s12700e-4":{"org":"S12700E-4_pic","img":["front.png","front_HD.png","front_left.png","front_left_HD.png","front_right.png","front_right_HD.png","front_top.png","front_top_HD.png","rear_top.png","rear_top_HD.png"]}}
 seo:
-  title: Nulla suscipit
-  description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit'
+  title: s12700e | CloudEngine S12700E系列交换机 | 核心/汇聚交换机 | 园区交换机 | 交换机 | 企业网络
+  description: CloudEngine S12700E系列交换机是华为面向Wi-Fi 6全无线时代高端园区网络推出的全新一代旗舰级核心交换机，具备领先的数据交换能力及海量的终端接入能力，同时提供随板AC、VxLAN、业务随行、智能HQoS、iPCA、SVF等创新特性，是构建Wi-Fi 6时代高品质园区网络核心交换机的理想选择，助力全球客户数字化转型。
   extra:
     - name: 'og:type'
       value: website
       keyName: property
     - name: 'og:title'
-      value: Nulla suscipit
+      value: 河南网田
       keyName: property
     - name: 'og:description'
-      value: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit'
+      value: CloudEngine S12700E系列交换机是华为面向Wi-Fi 6全无线时代高端园区网络推出的全新一代旗舰级核心交换机，具备领先的数据交换能力及海量的终端接入能力，同时提供随板AC、VxLAN、业务随行、智能HQoS、iPCA、SVF等创新特性，是构建Wi-Fi 6时代高品质园区网络核心交换机的理想选择，助力全球客户数字化转型。
       keyName: property
-    - name: 'og:image'
-      value: images/plant1-lg.jpg
-      keyName: property
-      relativeUrl: true
-    - name: 'twitter:card'
-      value: summary_large_image
-    - name: 'twitter:title'
-      value: Nulla suscipit
-    - name: 'twitter:description'
-      value: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit'
-    - name: 'twitter:image'
-      value: images/plant1-lg.jpg
-      relativeUrl: true
+    - name: Robots
+      value: all
 template: product
 ---
 

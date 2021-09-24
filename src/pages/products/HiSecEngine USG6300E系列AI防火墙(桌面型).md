@@ -16,31 +16,20 @@ other3: https://e.huawei.com/cn/material/networking/networksecurity/0374cc5117bb
 other4:
   images: {"usg6307e":{"org":"USG6307E_pic","img":["front.png","front_top.png","rear_left.png","rear_top.png"]}}
 seo:
-  title: Nulla suscipit
-  description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit'
+  title: usg6300e-desktop | HiSecEngine USG6300E系列AI防火墙(桌面型) | null | 防火墙及应用安全网关 | 网络安全 | 企业网络
+  description: 华为HiSecEngine USG6300E系列（桌面型）是为小型企业、行业分支、连锁商业机构设计开发的安全网关产品。除了传统防火墙管理模式，还支持云管模式。云管模式为大量分支机构安全接入网络提供了即插即用、业务配置自动化、运维自动化可视化和网络大数据分析等优势。产品提供模式匹配以及加解密业务处理加速能力，使得防火墙处理内容安全检测、IPSec等业务的性能显著提升。
   extra:
     - name: 'og:type'
       value: website
       keyName: property
     - name: 'og:title'
-      value: Nulla suscipit
+      value: 河南网田
       keyName: property
     - name: 'og:description'
-      value: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit'
+      value: 华为HiSecEngine USG6300E系列（桌面型）是为小型企业、行业分支、连锁商业机构设计开发的安全网关产品。除了传统防火墙管理模式，还支持云管模式。云管模式为大量分支机构安全接入网络提供了即插即用、业务配置自动化、运维自动化可视化和网络大数据分析等优势。产品提供模式匹配以及加解密业务处理加速能力，使得防火墙处理内容安全检测、IPSec等业务的性能显著提升。
       keyName: property
-    - name: 'og:image'
-      value: images/plant1-lg.jpg
-      keyName: property
-      relativeUrl: true
-    - name: 'twitter:card'
-      value: summary_large_image
-    - name: 'twitter:title'
-      value: Nulla suscipit
-    - name: 'twitter:description'
-      value: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit'
-    - name: 'twitter:image'
-      value: images/plant1-lg.jpg
-      relativeUrl: true
+    - name: Robots
+      value: all
 template: product
 ---
 

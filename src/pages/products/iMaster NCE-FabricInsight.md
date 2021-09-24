@@ -18,31 +18,24 @@ other3:
 other4:
   images: {"other":{"org":"other","img":["iMaster NCE-FabricInsight.png"]}}
 seo:
-  title: Nulla suscipit
-  description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit'
+  title: FabricInsight | iMaster NCE-FabricInsight | null | 数据中心自动驾驶网络管理控制系统 | 网络管控&分析软件 | 企业网络
+  description: 华为iMaster NCE-FabricInsight是面向数据中心网络的智能分析平台，基于大数据分析技术，为用户提供无处不在的网络应用分析与可视化呈现，打通应用和网络的边界。
+
+iMaster NCE-FabricInsight通过Telemetry采集网络全场景数据，实时呈现网络质量，帮助客户实现快速识别故障，并在业务产生影响前主动识别风险。
   extra:
     - name: 'og:type'
       value: website
       keyName: property
     - name: 'og:title'
-      value: Nulla suscipit
+      value: 河南网田
       keyName: property
     - name: 'og:description'
-      value: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit'
+      value: 华为iMaster NCE-FabricInsight是面向数据中心网络的智能分析平台，基于大数据分析技术，为用户提供无处不在的网络应用分析与可视化呈现，打通应用和网络的边界。
+
+iMaster NCE-FabricInsight通过Telemetry采集网络全场景数据，实时呈现网络质量，帮助客户实现快速识别故障，并在业务产生影响前主动识别风险。
       keyName: property
-    - name: 'og:image'
-      value: images/plant1-lg.jpg
-      keyName: property
-      relativeUrl: true
-    - name: 'twitter:card'
-      value: summary_large_image
-    - name: 'twitter:title'
-      value: Nulla suscipit
-    - name: 'twitter:description'
-      value: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit'
-    - name: 'twitter:image'
-      value: images/plant1-lg.jpg
-      relativeUrl: true
+    - name: Robots
+      value: all
 template: product
 ---
 

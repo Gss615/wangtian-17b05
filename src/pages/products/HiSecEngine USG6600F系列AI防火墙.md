@@ -16,31 +16,20 @@ other3: null
 other4:
   images: {"usg6615f":{"org":"USG6615F_pic","img":["front.png","front_left.png","front_right.png","front_top.png","rear.png","rear_left.png","rear_right.png","rear_top.png"]}}
 seo:
-  title: Nulla suscipit
-  description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit'
+  title: usg6600f | HiSecEngine USG6600F系列AI防火墙 | null | 防火墙及应用安全网关 | 网络安全 | 企业网络
+  description: 华为HiSecEngine USG6600F系列是华为面向下一代数据中心推出的万兆AI防火墙。HiSecEngine USG6600F系列基于最新软硬件平台，提供IPv4/IPv6共栈能力，业务性能大幅提升；使用智能技术有效检测高级威胁，增强边界防护能力。
   extra:
     - name: 'og:type'
       value: website
       keyName: property
     - name: 'og:title'
-      value: Nulla suscipit
+      value: 河南网田
       keyName: property
     - name: 'og:description'
-      value: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit'
+      value: 华为HiSecEngine USG6600F系列是华为面向下一代数据中心推出的万兆AI防火墙。HiSecEngine USG6600F系列基于最新软硬件平台，提供IPv4/IPv6共栈能力，业务性能大幅提升；使用智能技术有效检测高级威胁，增强边界防护能力。
       keyName: property
-    - name: 'og:image'
-      value: images/plant1-lg.jpg
-      keyName: property
-      relativeUrl: true
-    - name: 'twitter:card'
-      value: summary_large_image
-    - name: 'twitter:title'
-      value: Nulla suscipit
-    - name: 'twitter:description'
-      value: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit'
-    - name: 'twitter:image'
-      value: images/plant1-lg.jpg
-      relativeUrl: true
+    - name: Robots
+      value: all
 template: product
 ---
 

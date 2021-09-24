@@ -16,31 +16,20 @@ other3: null
 other4:
   images: {"other":{"org":"other","img":["华为OptiXstar P812E.png"]}}
 seo:
-  title: Nulla suscipit
-  description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit'
+  title: optixstar-p812e | 华为OptiXstar P812E  | null | ONU | 光终端 | 企业光网络
+  description: 华为OptiXstar P812E产品是面向企业园区、视频回传等场景设计的ONU设备，支持XGS-PON上行，可以提供4个GE接口和1个2.5GE接口，PoE/PoE+功能满足了设备的灵活供电，为用户带来高质量的语音、数据和高清视频等业务体验。
   extra:
     - name: 'og:type'
       value: website
       keyName: property
     - name: 'og:title'
-      value: Nulla suscipit
+      value: 河南网田
       keyName: property
     - name: 'og:description'
-      value: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit'
+      value: 华为OptiXstar P812E产品是面向企业园区、视频回传等场景设计的ONU设备，支持XGS-PON上行，可以提供4个GE接口和1个2.5GE接口，PoE/PoE+功能满足了设备的灵活供电，为用户带来高质量的语音、数据和高清视频等业务体验。
       keyName: property
-    - name: 'og:image'
-      value: images/plant1-lg.jpg
-      keyName: property
-      relativeUrl: true
-    - name: 'twitter:card'
-      value: summary_large_image
-    - name: 'twitter:title'
-      value: Nulla suscipit
-    - name: 'twitter:description'
-      value: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit'
-    - name: 'twitter:image'
-      value: images/plant1-lg.jpg
-      relativeUrl: true
+    - name: Robots
+      value: all
 template: product
 ---
 

@@ -18,31 +18,24 @@ other3: null
 other4:
   images: {"other":{"org":"other","img":["华为OptiXstar HN8346X6.png"]}}
 seo:
-  title: Nulla suscipit
-  description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit'
+  title: optixstar-hn8346x6 | 华为OptiXstar HN8346X6 | null | ONT | 光终端 | 企业光网络
+  description: 华为OptiXstar HN8346X6是华为全光接入解决方案的Wi-Fi 6万兆ONT，通过XG-PON或非对称10G EPON技术实现用户的超宽带接入。
+
+提供4个千兆以太网接口，1个POTS语音接口，2个USB接口，1个2.4G Wi-Fi接口和5G Wi-Fi接口，通过高性能的转发能力有效保障语音、数据和4K/VR的业务体验，为客户提供理想的全光接入解决方案和面向未来的业务支撑能力。
   extra:
     - name: 'og:type'
       value: website
       keyName: property
     - name: 'og:title'
-      value: Nulla suscipit
+      value: 河南网田
       keyName: property
     - name: 'og:description'
-      value: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit'
+      value: 华为OptiXstar HN8346X6是华为全光接入解决方案的Wi-Fi 6万兆ONT，通过XG-PON或非对称10G EPON技术实现用户的超宽带接入。
+
+提供4个千兆以太网接口，1个POTS语音接口，2个USB接口，1个2.4G Wi-Fi接口和5G Wi-Fi接口，通过高性能的转发能力有效保障语音、数据和4K/VR的业务体验，为客户提供理想的全光接入解决方案和面向未来的业务支撑能力。
       keyName: property
-    - name: 'og:image'
-      value: images/plant1-lg.jpg
-      keyName: property
-      relativeUrl: true
-    - name: 'twitter:card'
-      value: summary_large_image
-    - name: 'twitter:title'
-      value: Nulla suscipit
-    - name: 'twitter:description'
-      value: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit'
-    - name: 'twitter:image'
-      value: images/plant1-lg.jpg
-      relativeUrl: true
+    - name: Robots
+      value: all
 template: product
 ---
 

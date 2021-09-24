@@ -16,31 +16,20 @@ other3: null
 other4:
   images: {"other":{"org":"other","img":["Echolife EG8040P.png"]}}
 seo:
-  title: Nulla suscipit
-  description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit'
+  title: echolife-eg8040p | EchoLife EG8040P | null | ONU | 光终端 | 企业光网络
+  description: EchoLife EG8040P是华为Agile POL解决方案的路由型ONU，通过GPON技术实现超宽带接入。网络侧提供GPON端口，用户侧提供4个GE以太网接口，通过高性能的转发能力有效保障数据和高清视频的业务体验，为企业园区网络部署提供理想的解决方案和面向未来的业务支撑能力。
   extra:
     - name: 'og:type'
       value: website
       keyName: property
     - name: 'og:title'
-      value: Nulla suscipit
+      value: 河南网田
       keyName: property
     - name: 'og:description'
-      value: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit'
+      value: EchoLife EG8040P是华为Agile POL解决方案的路由型ONU，通过GPON技术实现超宽带接入。网络侧提供GPON端口，用户侧提供4个GE以太网接口，通过高性能的转发能力有效保障数据和高清视频的业务体验，为企业园区网络部署提供理想的解决方案和面向未来的业务支撑能力。
       keyName: property
-    - name: 'og:image'
-      value: images/plant1-lg.jpg
-      keyName: property
-      relativeUrl: true
-    - name: 'twitter:card'
-      value: summary_large_image
-    - name: 'twitter:title'
-      value: Nulla suscipit
-    - name: 'twitter:description'
-      value: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit'
-    - name: 'twitter:image'
-      value: images/plant1-lg.jpg
-      relativeUrl: true
+    - name: Robots
+      value: all
 template: product
 ---
 

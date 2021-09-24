@@ -20,31 +20,28 @@ other3: null
 other4:
   images: {"other":{"org":"other","img":["FusionStorage智能分布式存储.png"]}}
 seo:
-  title: Nulla suscipit
-  description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit'
+  title: fusionstorage | FusionStorage智能分布式存储 | null | null | 海量存储 | 数据存储
+  description: 华为FusionStorage是一款可大规模横向扩展的智能分布式存储产品，是既具备云基础架构的弹性按需服务能力，又满足企业关键业务需求的全自研存储系统。
+
+可向上层应用提供块存储、对象存储、大数据存储或文件存储资源，且提供极致的性能和丰富的企业级特性；结合华为鲲鹏系列ARM处理器深度优化，实现相同硬件配置下的IOPS提升与功耗降低。
+
+基于华为FusionStorage存储系统，构建高效、可靠和智能的新型存储服务平台，轻松应对智能时代大规模数据敏捷存取需求。
   extra:
     - name: 'og:type'
       value: website
       keyName: property
     - name: 'og:title'
-      value: Nulla suscipit
+      value: 河南网田
       keyName: property
     - name: 'og:description'
-      value: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit'
+      value: 华为FusionStorage是一款可大规模横向扩展的智能分布式存储产品，是既具备云基础架构的弹性按需服务能力，又满足企业关键业务需求的全自研存储系统。
+
+可向上层应用提供块存储、对象存储、大数据存储或文件存储资源，且提供极致的性能和丰富的企业级特性；结合华为鲲鹏系列ARM处理器深度优化，实现相同硬件配置下的IOPS提升与功耗降低。
+
+基于华为FusionStorage存储系统，构建高效、可靠和智能的新型存储服务平台，轻松应对智能时代大规模数据敏捷存取需求。
       keyName: property
-    - name: 'og:image'
-      value: images/plant1-lg.jpg
-      keyName: property
-      relativeUrl: true
-    - name: 'twitter:card'
-      value: summary_large_image
-    - name: 'twitter:title'
-      value: Nulla suscipit
-    - name: 'twitter:description'
-      value: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit'
-    - name: 'twitter:image'
-      value: images/plant1-lg.jpg
-      relativeUrl: true
+    - name: Robots
+      value: all
 template: product
 ---
 

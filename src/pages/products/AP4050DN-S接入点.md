@@ -16,31 +16,20 @@ other3: null
 other4:
   images: {"ap4050dn-s":{"org":"AP4050DN-S_pic","img":["01.png","02.png","03.png","04.png","05.png","06.png","07.png"]}}
 seo:
-  title: Nulla suscipit
-  description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit'
+  title: ap4050dn-s | AP4050DN-S接入点 | AP4000系列 | 室内接入点 | 无线局域网 | 企业网络
+  description: AP4050DN-S是华为面向分销市场发布的支持802.11ac wave 2标准的无线接入点产品，支持2×2MIMO和2条空间流，同时支持11n和11ac协议，可使无线网络带宽突破千兆，极大地增强用户对无线网络的使用体验，适合部署在中小型企业、机场车站、体育场馆、咖啡厅、休闲中心等场景。
   extra:
     - name: 'og:type'
       value: website
       keyName: property
     - name: 'og:title'
-      value: Nulla suscipit
+      value: 河南网田
       keyName: property
     - name: 'og:description'
-      value: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit'
+      value: AP4050DN-S是华为面向分销市场发布的支持802.11ac wave 2标准的无线接入点产品，支持2×2MIMO和2条空间流，同时支持11n和11ac协议，可使无线网络带宽突破千兆，极大地增强用户对无线网络的使用体验，适合部署在中小型企业、机场车站、体育场馆、咖啡厅、休闲中心等场景。
       keyName: property
-    - name: 'og:image'
-      value: images/plant1-lg.jpg
-      keyName: property
-      relativeUrl: true
-    - name: 'twitter:card'
-      value: summary_large_image
-    - name: 'twitter:title'
-      value: Nulla suscipit
-    - name: 'twitter:description'
-      value: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit'
-    - name: 'twitter:image'
-      value: images/plant1-lg.jpg
-      relativeUrl: true
+    - name: Robots
+      value: all
 template: product
 ---
 

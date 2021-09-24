@@ -16,31 +16,20 @@ other3: null
 other4:
   images: {"other":{"org":"other","img":["FusionServer Pro 2298 V5机架服务器.png"]}}
 seo:
-  title: Nulla suscipit
-  description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit'
+  title: 2298-v5 | FusionServer Pro 2298 V5机架服务器  | FusionServer Pro机架服务器 | FusionServer Pro智能服务器 | 服务器 - 计算 | 数据中心
+  description: 华为FusionServer Pro 2298 V5是一款2U2路机架服务器，混合存储架构，数据分级存储。该机架服务器适用于热温冷数据分级部署、历史数据归档等业务需求，凭借高效设计，在确保卓越计算性能的同时，提供灵活、超大容量的本地存储扩展能力，降低数据存储成本。
   extra:
     - name: 'og:type'
       value: website
       keyName: property
     - name: 'og:title'
-      value: Nulla suscipit
+      value: 河南网田
       keyName: property
     - name: 'og:description'
-      value: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit'
+      value: 华为FusionServer Pro 2298 V5是一款2U2路机架服务器，混合存储架构，数据分级存储。该机架服务器适用于热温冷数据分级部署、历史数据归档等业务需求，凭借高效设计，在确保卓越计算性能的同时，提供灵活、超大容量的本地存储扩展能力，降低数据存储成本。
       keyName: property
-    - name: 'og:image'
-      value: images/plant1-lg.jpg
-      keyName: property
-      relativeUrl: true
-    - name: 'twitter:card'
-      value: summary_large_image
-    - name: 'twitter:title'
-      value: Nulla suscipit
-    - name: 'twitter:description'
-      value: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit'
-    - name: 'twitter:image'
-      value: images/plant1-lg.jpg
-      relativeUrl: true
+    - name: Robots
+      value: all
 template: product
 ---
 

@@ -16,31 +16,20 @@ other3: null
 other4:
   images: {"other":{"org":"other","img":["华为OptiXtrans E6600 多业务光传送平台.png"]}}
 seo:
-  title: Nulla suscipit
-  description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit'
+  title: optiXtrans-e6600 | 华为OptiXtrans E6600 多业务光传送平台 | null | 波分 | 光传送 | 企业光网络
+  description: 基于MS-OTN架构，支持PCM、SDH、分组和OTN业务的4-in-1高集成度光电融合平台，并支持向下一代传送技术Liquid OTN平滑演进，为能源，交通，政府，银行等行业提供高效的传输解决方案。
   extra:
     - name: 'og:type'
       value: website
       keyName: property
     - name: 'og:title'
-      value: Nulla suscipit
+      value: 河南网田
       keyName: property
     - name: 'og:description'
-      value: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit'
+      value: 基于MS-OTN架构，支持PCM、SDH、分组和OTN业务的4-in-1高集成度光电融合平台，并支持向下一代传送技术Liquid OTN平滑演进，为能源，交通，政府，银行等行业提供高效的传输解决方案。
       keyName: property
-    - name: 'og:image'
-      value: images/plant1-lg.jpg
-      keyName: property
-      relativeUrl: true
-    - name: 'twitter:card'
-      value: summary_large_image
-    - name: 'twitter:title'
-      value: Nulla suscipit
-    - name: 'twitter:description'
-      value: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit'
-    - name: 'twitter:image'
-      value: images/plant1-lg.jpg
-      relativeUrl: true
+    - name: Robots
+      value: all
 template: product
 ---
 

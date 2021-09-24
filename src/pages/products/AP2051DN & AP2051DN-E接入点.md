@@ -16,31 +16,20 @@ other3: https://e.huawei.com/cn/material/networking/wlan/fa048e900592402aac7c83c
 other4:
   images: {"ap2010dn":{"org":"AP2010DN_pic","img":["01.png","02.png","03.png","04.png","05.png","06.png"]}}
 seo:
-  title: Nulla suscipit
-  description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit'
+  title: ap2051dn-ap2051dn-e | AP2051DN & AP2051DN-E接入点 | AP2000系列 | 室内接入点 | 无线局域网 | 企业网络
+  description: AP2051DN&AP2051DN-E是华为发布的支持802.11ac wave2标准的面板型无线接入点，内置智能天线，可有效提升覆盖范围，支持2×2MIMO和两条空间流，整机速率1.267Gbps，适用于酒店客房、学生宿舍、医院病房、小型办公室等房间面积较小，户型较密集场景。
   extra:
     - name: 'og:type'
       value: website
       keyName: property
     - name: 'og:title'
-      value: Nulla suscipit
+      value: 河南网田
       keyName: property
     - name: 'og:description'
-      value: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit'
+      value: AP2051DN&AP2051DN-E是华为发布的支持802.11ac wave2标准的面板型无线接入点，内置智能天线，可有效提升覆盖范围，支持2×2MIMO和两条空间流，整机速率1.267Gbps，适用于酒店客房、学生宿舍、医院病房、小型办公室等房间面积较小，户型较密集场景。
       keyName: property
-    - name: 'og:image'
-      value: images/plant1-lg.jpg
-      keyName: property
-      relativeUrl: true
-    - name: 'twitter:card'
-      value: summary_large_image
-    - name: 'twitter:title'
-      value: Nulla suscipit
-    - name: 'twitter:description'
-      value: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit'
-    - name: 'twitter:image'
-      value: images/plant1-lg.jpg
-      relativeUrl: true
+    - name: Robots
+      value: all
 template: product
 ---
 

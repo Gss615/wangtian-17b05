@@ -22,31 +22,32 @@ other3: null
 other4:
   images: {"other":{"org":"other","img":["OceanStor 100D.png"]}}
 seo:
-  title: Nulla suscipit
-  description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit'
+  title: oceanstor-100d | OceanStor 100D | null | null | 海量存储 | 数据存储
+  description: OceanStor 100D(原FusionStorage) 是一款可大规模横向扩展的全自研智能分布式存储产品，可为上层应用提供文件存储、大数据存储、对象存储等工业界标准接口，消除烟囱式存储系统构建导致的运营复杂问题，帮助企业实现复杂业务承载更稳、多样性数据使用效率更高、海量数据储存成本更优。
+
+• 文件存储：兼容原生NFS、SMB协议，兼容POSIX和MPI，适用于HPC（High-Performance Computing，高性能计算）等高性能场景。
+
+• 大数据存储：提供基于原生HDFS的大数据存算分离方案，实现存储与计算资源按需配置，提供一致用户体验的同时，助您降低总拥有成本；支持与原有计算存储一体化架构共存。广泛应用于金融大数据、互联网日志留存大数据、政务大数据和智慧城市大数据等场景。
+
+• 对象存储：最大支持单桶1000亿对象承载且性能不降，消除大型应用分桶改造麻烦；自动分级到蓝光介质，免数据迁移省空间。广泛应用于金融电子票据影像和双录（录音/录像）、医疗影像、政企电子文档和车联网场景生产存储、备份或归档。
   extra:
     - name: 'og:type'
       value: website
       keyName: property
     - name: 'og:title'
-      value: Nulla suscipit
+      value: 河南网田
       keyName: property
     - name: 'og:description'
-      value: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit'
+      value: OceanStor 100D(原FusionStorage) 是一款可大规模横向扩展的全自研智能分布式存储产品，可为上层应用提供文件存储、大数据存储、对象存储等工业界标准接口，消除烟囱式存储系统构建导致的运营复杂问题，帮助企业实现复杂业务承载更稳、多样性数据使用效率更高、海量数据储存成本更优。
+
+• 文件存储：兼容原生NFS、SMB协议，兼容POSIX和MPI，适用于HPC（High-Performance Computing，高性能计算）等高性能场景。
+
+• 大数据存储：提供基于原生HDFS的大数据存算分离方案，实现存储与计算资源按需配置，提供一致用户体验的同时，助您降低总拥有成本；支持与原有计算存储一体化架构共存。广泛应用于金融大数据、互联网日志留存大数据、政务大数据和智慧城市大数据等场景。
+
+• 对象存储：最大支持单桶1000亿对象承载且性能不降，消除大型应用分桶改造麻烦；自动分级到蓝光介质，免数据迁移省空间。广泛应用于金融电子票据影像和双录（录音/录像）、医疗影像、政企电子文档和车联网场景生产存储、备份或归档。
       keyName: property
-    - name: 'og:image'
-      value: images/plant1-lg.jpg
-      keyName: property
-      relativeUrl: true
-    - name: 'twitter:card'
-      value: summary_large_image
-    - name: 'twitter:title'
-      value: Nulla suscipit
-    - name: 'twitter:description'
-      value: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit'
-    - name: 'twitter:image'
-      value: images/plant1-lg.jpg
-      relativeUrl: true
+    - name: Robots
+      value: all
 template: product
 ---
 

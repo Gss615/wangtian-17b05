@@ -22,31 +22,32 @@ other3: null
 other4:
   images: {"other":{"org":"other","img":["OceanStor Pacific 9950高密性能型分布式存储.png"]}}
 seo:
-  title: Nulla suscipit
-  description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit'
+  title: oceanstor-pacific-9950 | OceanStor Pacific 9950高密性能型分布式存储 | 性能型 | OceanStor Pacific 系列存储 | 海量存储 | 数据存储
+  description: 华为OceanStor Pacific 9950高密高性能存储系统，每个5U机箱里可容纳8个存储节点，采用全NVMe SSD主存，结合全PCIe 4.0设计，每机箱可提供128TB至614.4TB裸容量，以及高达160GB/s带宽、200万IOPS领先性能，相较业界其他同类产品每U性能密度高30%。关键特点：
+
+• Half-Palm高密形态NVMe SSD，单位空间多容纳33%全闪介质；
+• 每节点32GB专属备电设计，关键数据内存级时延；
+• 前端、数据和介质接口1 : 1 : 1.25最优带宽比设计，充分释放处理器潜能。
+
+OceanStor Pacific 9950凭借业界领先的性能，可为高性能计算、AI应用、大数据分析等场景提供高效数据访问服务。
   extra:
     - name: 'og:type'
       value: website
       keyName: property
     - name: 'og:title'
-      value: Nulla suscipit
+      value: 河南网田
       keyName: property
     - name: 'og:description'
-      value: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit'
+      value: 华为OceanStor Pacific 9950高密高性能存储系统，每个5U机箱里可容纳8个存储节点，采用全NVMe SSD主存，结合全PCIe 4.0设计，每机箱可提供128TB至614.4TB裸容量，以及高达160GB/s带宽、200万IOPS领先性能，相较业界其他同类产品每U性能密度高30%。关键特点：
+
+• Half-Palm高密形态NVMe SSD，单位空间多容纳33%全闪介质；
+• 每节点32GB专属备电设计，关键数据内存级时延；
+• 前端、数据和介质接口1 : 1 : 1.25最优带宽比设计，充分释放处理器潜能。
+
+OceanStor Pacific 9950凭借业界领先的性能，可为高性能计算、AI应用、大数据分析等场景提供高效数据访问服务。
       keyName: property
-    - name: 'og:image'
-      value: images/plant1-lg.jpg
-      keyName: property
-      relativeUrl: true
-    - name: 'twitter:card'
-      value: summary_large_image
-    - name: 'twitter:title'
-      value: Nulla suscipit
-    - name: 'twitter:description'
-      value: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit'
-    - name: 'twitter:image'
-      value: images/plant1-lg.jpg
-      relativeUrl: true
+    - name: Robots
+      value: all
 template: product
 ---
 

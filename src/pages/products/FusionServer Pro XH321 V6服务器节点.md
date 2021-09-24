@@ -16,31 +16,20 @@ other3: null
 other4:
   images: {"other":{"org":"other","img":["FusionServer Pro XH321 V6服务器节点.png"]}}
 seo:
-  title: Nulla suscipit
-  description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit'
+  title: xh321-v6 | FusionServer Pro XH321 V6服务器节点 | FusionServer Pro高密服务器 | FusionServer Pro智能服务器 | 服务器 - 计算 | 数据中心
+  description: FusionServer Pro XH321 V6是华为新一代1U半宽双路服务器节点，为突破能源限制、提升系统存储密度进行创新设计，具有强大的计算能力、超高的存储密度、易管理易维护等特点。
   extra:
     - name: 'og:type'
       value: website
       keyName: property
     - name: 'og:title'
-      value: Nulla suscipit
+      value: 河南网田
       keyName: property
     - name: 'og:description'
-      value: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit'
+      value: FusionServer Pro XH321 V6是华为新一代1U半宽双路服务器节点，为突破能源限制、提升系统存储密度进行创新设计，具有强大的计算能力、超高的存储密度、易管理易维护等特点。
       keyName: property
-    - name: 'og:image'
-      value: images/plant1-lg.jpg
-      keyName: property
-      relativeUrl: true
-    - name: 'twitter:card'
-      value: summary_large_image
-    - name: 'twitter:title'
-      value: Nulla suscipit
-    - name: 'twitter:description'
-      value: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit'
-    - name: 'twitter:image'
-      value: images/plant1-lg.jpg
-      relativeUrl: true
+    - name: Robots
+      value: all
 template: product
 ---
 

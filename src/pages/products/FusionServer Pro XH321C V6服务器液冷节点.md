@@ -16,31 +16,20 @@ other3: null
 other4:
   images: {"other":{"org":"other","img":["FusionServer Pro XH321C V6服务器液冷节点.png"]}}
 seo:
-  title: Nulla suscipit
-  description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit'
+  title: xh321c-v6 | FusionServer Pro XH321C V6服务器液冷节点 | FusionServer Pro高密服务器 | FusionServer Pro智能服务器 | 服务器 - 计算 | 数据中心
+  description: FusionServer Pro XH321C V6是华为最新一代1U半宽双路服务器液冷节点，支持CPU和内存液冷散热，支持45ºC温水散热。全液冷方案，散热比高达100%，PUE≤1.05；板级液冷方案，散热比高达80%，PUE≤1.1。
   extra:
     - name: 'og:type'
       value: website
       keyName: property
     - name: 'og:title'
-      value: Nulla suscipit
+      value: 河南网田
       keyName: property
     - name: 'og:description'
-      value: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit'
+      value: FusionServer Pro XH321C V6是华为最新一代1U半宽双路服务器液冷节点，支持CPU和内存液冷散热，支持45ºC温水散热。全液冷方案，散热比高达100%，PUE≤1.05；板级液冷方案，散热比高达80%，PUE≤1.1。
       keyName: property
-    - name: 'og:image'
-      value: images/plant1-lg.jpg
-      keyName: property
-      relativeUrl: true
-    - name: 'twitter:card'
-      value: summary_large_image
-    - name: 'twitter:title'
-      value: Nulla suscipit
-    - name: 'twitter:description'
-      value: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit'
-    - name: 'twitter:image'
-      value: images/plant1-lg.jpg
-      relativeUrl: true
+    - name: Robots
+      value: all
 template: product
 ---
 

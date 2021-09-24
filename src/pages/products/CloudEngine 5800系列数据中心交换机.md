@@ -20,31 +20,28 @@ other3: https://e.huawei.com/cn/material/networking/data-center-network/aad5ec0c
 other4:
   images: {"ce5850-48t4s2q-hi":{"org":"CE5850-48T4S2Q-HI_pic","img":["01.png","02.png","03.png","04.png","07.png","08.png"]}}
 seo:
-  title: Nulla suscipit
-  description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit'
+  title: ce5800 | CloudEngine 5800系列数据中心交换机 | 盒式接入交换机 | 数据中心交换机 | 交换机 | 企业网络
+  description: CloudEngine 5800是支持40GE上行接口的千兆接入交换机，最大支持9台堆叠，风道方向可以灵活选择，满足云网络高密千兆接入需求。
+
+CloudEngine 5800系列交换机定位于数据中心的高密千兆接入，帮助企业和运营商构建面向云计算时代的数据中心网络平台，也可以用于园区网的汇聚或接入。
+
+CloudEngine 5800可以与华为新一代核心交换机CloudEngine 16800/CloudEngine 12800配合，构建弹性、简单、开放、安全的云数据中心网络。
   extra:
     - name: 'og:type'
       value: website
       keyName: property
     - name: 'og:title'
-      value: Nulla suscipit
+      value: 河南网田
       keyName: property
     - name: 'og:description'
-      value: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit'
+      value: CloudEngine 5800是支持40GE上行接口的千兆接入交换机，最大支持9台堆叠，风道方向可以灵活选择，满足云网络高密千兆接入需求。
+
+CloudEngine 5800系列交换机定位于数据中心的高密千兆接入，帮助企业和运营商构建面向云计算时代的数据中心网络平台，也可以用于园区网的汇聚或接入。
+
+CloudEngine 5800可以与华为新一代核心交换机CloudEngine 16800/CloudEngine 12800配合，构建弹性、简单、开放、安全的云数据中心网络。
       keyName: property
-    - name: 'og:image'
-      value: images/plant1-lg.jpg
-      keyName: property
-      relativeUrl: true
-    - name: 'twitter:card'
-      value: summary_large_image
-    - name: 'twitter:title'
-      value: Nulla suscipit
-    - name: 'twitter:description'
-      value: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit'
-    - name: 'twitter:image'
-      value: images/plant1-lg.jpg
-      relativeUrl: true
+    - name: Robots
+      value: all
 template: product
 ---
 

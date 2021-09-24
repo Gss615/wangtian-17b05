@@ -16,31 +16,20 @@ other3: https://e.huawei.com/cn/material/networking/wlan/0b51783f181a40ddba757df
 other4:
   images: {"ap2050dn-e":{"org":"AP2050DN-E_pic","img":["01.png","02.png","03.png","04.png","05.png","06.png","07.png","08.png","09.png","10.png","11.png"]}}
 seo:
-  title: Nulla suscipit
-  description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit'
+  title: ap2050dn-e | AP2050DN-E接入点 | AP2000系列 | 室内接入点 | 无线局域网 | 企业网络
+  description: AP2050DN-E是华为发布的支持802.11ac wave2标准的面板型无线接入点，支持2×2MIMO和两条空间流，整机速率1.267Gbps，适用于酒店客房、学生宿舍、医院病房、小型办公室等房间面积较小，户型较密集场景。内置蓝牙天线，可实现基于蓝牙技术的物联网应用，如蓝牙终端定位。
   extra:
     - name: 'og:type'
       value: website
       keyName: property
     - name: 'og:title'
-      value: Nulla suscipit
+      value: 河南网田
       keyName: property
     - name: 'og:description'
-      value: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit'
+      value: AP2050DN-E是华为发布的支持802.11ac wave2标准的面板型无线接入点，支持2×2MIMO和两条空间流，整机速率1.267Gbps，适用于酒店客房、学生宿舍、医院病房、小型办公室等房间面积较小，户型较密集场景。内置蓝牙天线，可实现基于蓝牙技术的物联网应用，如蓝牙终端定位。
       keyName: property
-    - name: 'og:image'
-      value: images/plant1-lg.jpg
-      keyName: property
-      relativeUrl: true
-    - name: 'twitter:card'
-      value: summary_large_image
-    - name: 'twitter:title'
-      value: Nulla suscipit
-    - name: 'twitter:description'
-      value: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit'
-    - name: 'twitter:image'
-      value: images/plant1-lg.jpg
-      relativeUrl: true
+    - name: Robots
+      value: all
 template: product
 ---
 

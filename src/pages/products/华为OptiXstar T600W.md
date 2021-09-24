@@ -16,31 +16,20 @@ other3: null
 other4:
   images: {"other":{"org":"other","img":["华为OptiXstar T600W.png"]}}
 seo:
-  title: Nulla suscipit
-  description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit'
+  title: optixstar-t600w | 华为OptiXstar T600W | null | ONU | 光终端 | 企业光网络
+  description: 华为OptiXstar T600W产品是面向企业园区的挂杆式外置远程终端(RT)，上行提供一个GE接口，用户侧提供Wi-Fi接入和1个GE以太网接口，为用户提供高清的视频回传服务。
   extra:
     - name: 'og:type'
       value: website
       keyName: property
     - name: 'og:title'
-      value: Nulla suscipit
+      value: 河南网田
       keyName: property
     - name: 'og:description'
-      value: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit'
+      value: 华为OptiXstar T600W产品是面向企业园区的挂杆式外置远程终端(RT)，上行提供一个GE接口，用户侧提供Wi-Fi接入和1个GE以太网接口，为用户提供高清的视频回传服务。
       keyName: property
-    - name: 'og:image'
-      value: images/plant1-lg.jpg
-      keyName: property
-      relativeUrl: true
-    - name: 'twitter:card'
-      value: summary_large_image
-    - name: 'twitter:title'
-      value: Nulla suscipit
-    - name: 'twitter:description'
-      value: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit'
-    - name: 'twitter:image'
-      value: images/plant1-lg.jpg
-      relativeUrl: true
+    - name: Robots
+      value: all
 template: product
 ---
 

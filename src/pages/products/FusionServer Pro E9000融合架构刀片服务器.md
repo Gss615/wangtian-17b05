@@ -18,31 +18,24 @@ other3: https://e.huawei.com/cn/material/datacenter/server/70999e0267bd4e46993e5
 other4:
   images: {"other":{"org":"other","img":["FusionServer Pro E9000融合架构刀片服务器.png"]}}
 seo:
-  title: Nulla suscipit
-  description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit'
+  title: e9000-server-chassis | FusionServer E9000融合架构刀片服务器 | FusionServer刀片服务器 | FusionServer Pro智能服务器 | 服务器 - 计算 | 数据中心
+  description: 华为FusionServer Pro E9000融合架构刀片服务器继承华为在ICT领域的多年技术积累，实现计算、存储、网络、管理的融合，支撑运营商、企业高端核心应用， 是虚拟化、关键业务、高性能计算的理想选择。
+
+E9000机箱采用12U/16刀片结构，供电、散热、管理、交换等全冗余模块化设计，空间布局合理，利用率高，可安装于标准19英寸、深度1000mm及以上机柜。
   extra:
     - name: 'og:type'
       value: website
       keyName: property
     - name: 'og:title'
-      value: Nulla suscipit
+      value: 河南网田
       keyName: property
     - name: 'og:description'
-      value: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit'
+      value: 华为FusionServer Pro E9000融合架构刀片服务器继承华为在ICT领域的多年技术积累，实现计算、存储、网络、管理的融合，支撑运营商、企业高端核心应用， 是虚拟化、关键业务、高性能计算的理想选择。
+
+E9000机箱采用12U/16刀片结构，供电、散热、管理、交换等全冗余模块化设计，空间布局合理，利用率高，可安装于标准19英寸、深度1000mm及以上机柜。
       keyName: property
-    - name: 'og:image'
-      value: images/plant1-lg.jpg
-      keyName: property
-      relativeUrl: true
-    - name: 'twitter:card'
-      value: summary_large_image
-    - name: 'twitter:title'
-      value: Nulla suscipit
-    - name: 'twitter:description'
-      value: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit'
-    - name: 'twitter:image'
-      value: images/plant1-lg.jpg
-      relativeUrl: true
+    - name: Robots
+      value: all
 template: product
 ---
 

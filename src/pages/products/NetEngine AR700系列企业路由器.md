@@ -16,31 +16,20 @@ other3: null
 other4:
   images: {"ar720":{"org":"AR720_pic","img":["front.png","front_left.png","front_right.png","front_top.png","rear.png","rear_left.png","rear_right.png","rear_top.png"]}}
 seo:
-  title: Nulla suscipit
-  description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit'
+  title: ar700 | NetEngine AR700系列企业路由器 | AR 商业系列企业路由器 (中国区） | AR系列接入路由器 | 路由器 | 企业网络
+  description: 为面向企业中小型分支推出的框式系列产品，提供业界覆盖范围最广泛的业务插槽类型，集5G、路由、交换、VPN、安全、MPLS等丰富业务特性于一体，满足企业业务多元化和云化趋势下对网络设备高性能的需求。
   extra:
     - name: 'og:type'
       value: website
       keyName: property
     - name: 'og:title'
-      value: Nulla suscipit
+      value: 河南网田
       keyName: property
     - name: 'og:description'
-      value: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit'
+      value: 为面向企业中小型分支推出的框式系列产品，提供业界覆盖范围最广泛的业务插槽类型，集5G、路由、交换、VPN、安全、MPLS等丰富业务特性于一体，满足企业业务多元化和云化趋势下对网络设备高性能的需求。
       keyName: property
-    - name: 'og:image'
-      value: images/plant1-lg.jpg
-      keyName: property
-      relativeUrl: true
-    - name: 'twitter:card'
-      value: summary_large_image
-    - name: 'twitter:title'
-      value: Nulla suscipit
-    - name: 'twitter:description'
-      value: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit'
-    - name: 'twitter:image'
-      value: images/plant1-lg.jpg
-      relativeUrl: true
+    - name: Robots
+      value: all
 template: product
 ---
 

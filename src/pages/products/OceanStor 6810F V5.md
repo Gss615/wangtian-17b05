@@ -18,31 +18,24 @@ other3: null
 other4:
   images: {"other":{"org":"other","img":["OceanStor 6810F V5.png"]}}
 seo:
-  title: Nulla suscipit
-  description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit'
+  title: oceanstor-6810f-v5 | OceanStor 6810F V5 | null | null | 全闪存存储 | 数据存储
+  description: 华为OceanStor 6810F V5是基于华为自研多核处理器的高端智能全闪存存储系统，为企业提供最高水平的数据服务。
+具备创新的高可靠SmartMatrix架构、灵活的扩展性、全闪存设计的高性能以及面向混合云的演进方案，是企业核心应用的信赖之选。
+满足了大型数据库OLTP/OLAP、云计算等各种应用的数据存储需求，广泛适用于金融、政府、运营商、制造、交通等行业。
   extra:
     - name: 'og:type'
       value: website
       keyName: property
     - name: 'og:title'
-      value: Nulla suscipit
+      value: 河南网田
       keyName: property
     - name: 'og:description'
-      value: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit'
+      value: 华为OceanStor 6810F V5是基于华为自研多核处理器的高端智能全闪存存储系统，为企业提供最高水平的数据服务。
+具备创新的高可靠SmartMatrix架构、灵活的扩展性、全闪存设计的高性能以及面向混合云的演进方案，是企业核心应用的信赖之选。
+满足了大型数据库OLTP/OLAP、云计算等各种应用的数据存储需求，广泛适用于金融、政府、运营商、制造、交通等行业。
       keyName: property
-    - name: 'og:image'
-      value: images/plant1-lg.jpg
-      keyName: property
-      relativeUrl: true
-    - name: 'twitter:card'
-      value: summary_large_image
-    - name: 'twitter:title'
-      value: Nulla suscipit
-    - name: 'twitter:description'
-      value: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit'
-    - name: 'twitter:image'
-      value: images/plant1-lg.jpg
-      relativeUrl: true
+    - name: Robots
+      value: all
 template: product
 ---
 

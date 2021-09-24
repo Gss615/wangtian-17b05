@@ -18,31 +18,24 @@ other3: null
 other4:
   images: {"vscan1506":{"org":"VSCAN1506_pic","img":["front.png","front_left.png","front_right.png","front_top.png","rear.png","rear_left.png","rear_right.png","rear_top.png"]}}
 seo:
-  title: Nulla suscipit
-  description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit'
+  title: vscan1000 | VSCAN1000系列漏洞扫描器 | null | 防火墙及应用安全网关 | 网络安全 | 企业网络
+  description: 华为VSCAN1000系列漏洞扫描器主要用于发现和评估网络设备、Web应用、数据库等存在的安全漏洞并提供相应解决建议的产品。
+
+VSCAN1000支持智能主机服务发现，智能化爬虫和SQL注入状态检测等技术，并以智能便利规则库为基础，采用深度主机服务探测、Web智能化爬虫、SQL注入状态检测、主机配置检查以及弱口令检查等方式相结合的技术，实现Web漏洞扫描、系统漏洞扫描、数据库漏洞扫描、基线安全检查与口令猜解五大扫描能力，让漏洞风险评估尽在掌握。
   extra:
     - name: 'og:type'
       value: website
       keyName: property
     - name: 'og:title'
-      value: Nulla suscipit
+      value: 河南网田
       keyName: property
     - name: 'og:description'
-      value: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit'
+      value: 华为VSCAN1000系列漏洞扫描器主要用于发现和评估网络设备、Web应用、数据库等存在的安全漏洞并提供相应解决建议的产品。
+
+VSCAN1000支持智能主机服务发现，智能化爬虫和SQL注入状态检测等技术，并以智能便利规则库为基础，采用深度主机服务探测、Web智能化爬虫、SQL注入状态检测、主机配置检查以及弱口令检查等方式相结合的技术，实现Web漏洞扫描、系统漏洞扫描、数据库漏洞扫描、基线安全检查与口令猜解五大扫描能力，让漏洞风险评估尽在掌握。
       keyName: property
-    - name: 'og:image'
-      value: images/plant1-lg.jpg
-      keyName: property
-      relativeUrl: true
-    - name: 'twitter:card'
-      value: summary_large_image
-    - name: 'twitter:title'
-      value: Nulla suscipit
-    - name: 'twitter:description'
-      value: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit'
-    - name: 'twitter:image'
-      value: images/plant1-lg.jpg
-      relativeUrl: true
+    - name: Robots
+      value: all
 template: product
 ---
 

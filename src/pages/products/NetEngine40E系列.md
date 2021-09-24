@@ -18,31 +18,24 @@ other3:
 other4:
   images: {"ne40e-x8":{"org":"NE40E-X8_pic","img":["front_left_NE40E-X8.png"]}}
 seo:
-  title: Nulla suscipit
-  description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit'
+  title: ne40e | NetEngine40E系列 | 业务汇聚路由器 | NE系列路由器 | 路由器 | 企业网络
+  description: NetEngine 40E高端全业务路由器基于2T硬件平台设计，大容量的2T路由线卡，成熟的广域SDN方案，可编程的NP芯片和VRP软件平台，具备高性能、低功耗、可演进等特性，领先的SRv6技术实现网络的智能连接，可应用于企业广域网核心节点、大型企业接入节点、园区互联与汇聚节点和各种大型IDC网络出口。
+
+NetEngine40E产品技术领航、性能稳定，多次获得国际金奖，广泛部署于电力、交通、政府、广电、金融等各行业。
   extra:
     - name: 'og:type'
       value: website
       keyName: property
     - name: 'og:title'
-      value: Nulla suscipit
+      value: 河南网田
       keyName: property
     - name: 'og:description'
-      value: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit'
+      value: NetEngine 40E高端全业务路由器基于2T硬件平台设计，大容量的2T路由线卡，成熟的广域SDN方案，可编程的NP芯片和VRP软件平台，具备高性能、低功耗、可演进等特性，领先的SRv6技术实现网络的智能连接，可应用于企业广域网核心节点、大型企业接入节点、园区互联与汇聚节点和各种大型IDC网络出口。
+
+NetEngine40E产品技术领航、性能稳定，多次获得国际金奖，广泛部署于电力、交通、政府、广电、金融等各行业。
       keyName: property
-    - name: 'og:image'
-      value: images/plant1-lg.jpg
-      keyName: property
-      relativeUrl: true
-    - name: 'twitter:card'
-      value: summary_large_image
-    - name: 'twitter:title'
-      value: Nulla suscipit
-    - name: 'twitter:description'
-      value: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit'
-    - name: 'twitter:image'
-      value: images/plant1-lg.jpg
-      relativeUrl: true
+    - name: Robots
+      value: all
 template: product
 ---
 

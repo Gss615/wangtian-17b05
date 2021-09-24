@@ -22,31 +22,32 @@ other3: null
 other4:
   images: {"other":{"org":"other","img":["OceanStor Pacific 9550高密容量型分布式存储.png"]}}
 seo:
-  title: Nulla suscipit
-  description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit'
+  title: oceanstor-pacific-9550 | OceanStor Pacific 9550高密容量型分布式存储 | 容量型 | OceanStor Pacific 系列存储 | 海量存储 | 数据存储
+  description: 华为OceanStor Pacific 9550高密容量型存储系统，可为用户提供极致性价比的数据存储服务。在每个5U的机箱中集成2个存储节点，采用HDD大容量主存，每机箱可提供720TB至1680TB超大裸容量，相比通用存储型服务器可降低62.5%的机柜空间占用。它广泛适用于海量非结构化数据存储，且可与OceanStor Pacific 9950高密性能型存储配合形成数据分级存储方案，最大程度帮助用户优化投资。关键特点：
+
+• 双层风道设计结合对旋增压风扇，器件失效率相较传统方式降低50%；
+• 碳纤维导热垫结合VC相变散热，整机散热能力相较传统方式提升20%；
+• 全FRU(Field Replaceable Unit) 设计，7x24小时不停机维护。
+
+OceanStor Pacific 9550凭借业界领先的容量密度，可为高性能计算、AI应用、大数据分析、海量数据长期备份与归档等场景提供高可用数据存取服务。
   extra:
     - name: 'og:type'
       value: website
       keyName: property
     - name: 'og:title'
-      value: Nulla suscipit
+      value: 河南网田
       keyName: property
     - name: 'og:description'
-      value: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit'
+      value: 华为OceanStor Pacific 9550高密容量型存储系统，可为用户提供极致性价比的数据存储服务。在每个5U的机箱中集成2个存储节点，采用HDD大容量主存，每机箱可提供720TB至1680TB超大裸容量，相比通用存储型服务器可降低62.5%的机柜空间占用。它广泛适用于海量非结构化数据存储，且可与OceanStor Pacific 9950高密性能型存储配合形成数据分级存储方案，最大程度帮助用户优化投资。关键特点：
+
+• 双层风道设计结合对旋增压风扇，器件失效率相较传统方式降低50%；
+• 碳纤维导热垫结合VC相变散热，整机散热能力相较传统方式提升20%；
+• 全FRU(Field Replaceable Unit) 设计，7x24小时不停机维护。
+
+OceanStor Pacific 9550凭借业界领先的容量密度，可为高性能计算、AI应用、大数据分析、海量数据长期备份与归档等场景提供高可用数据存取服务。
       keyName: property
-    - name: 'og:image'
-      value: images/plant1-lg.jpg
-      keyName: property
-      relativeUrl: true
-    - name: 'twitter:card'
-      value: summary_large_image
-    - name: 'twitter:title'
-      value: Nulla suscipit
-    - name: 'twitter:description'
-      value: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit'
-    - name: 'twitter:image'
-      value: images/plant1-lg.jpg
-      relativeUrl: true
+    - name: Robots
+      value: all
 template: product
 ---
 

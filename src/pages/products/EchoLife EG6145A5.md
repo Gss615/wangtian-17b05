@@ -17,31 +17,22 @@ other3: null
 other4:
   images: {"other":{"org":"other","img":["EchoLife EG6145A5.png"]}}
 seo:
-  title: Nulla suscipit
-  description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit'
+  title: echolife-eg6145a5 | EchoLife EG6145A5 | null | ONT | 光终端 | 企业光网络
+  description: 华为EchoLife EG6145A5是智能网关设备，提供1个POTS语音接口、1个GE/FE自适应以太端口，3个FE以太端口，1个USB端口和2.4GHz Wi-Fi。应用灵活，支持即插即用、远程诊断、绿色节能等特性。
+EG6145A5支持GPON技术，实现FTTH组网场景下家庭用户的超宽带接入，其高性能的转发能力有效保障话音、数据和高清视频的业务体验，为FTTH部署提供理想的终端解决方案和面向未来的业务支撑能力。
   extra:
     - name: 'og:type'
       value: website
       keyName: property
     - name: 'og:title'
-      value: Nulla suscipit
+      value: 河南网田
       keyName: property
     - name: 'og:description'
-      value: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit'
+      value: 华为EchoLife EG6145A5是智能网关设备，提供1个POTS语音接口、1个GE/FE自适应以太端口，3个FE以太端口，1个USB端口和2.4GHz Wi-Fi。应用灵活，支持即插即用、远程诊断、绿色节能等特性。
+EG6145A5支持GPON技术，实现FTTH组网场景下家庭用户的超宽带接入，其高性能的转发能力有效保障话音、数据和高清视频的业务体验，为FTTH部署提供理想的终端解决方案和面向未来的业务支撑能力。
       keyName: property
-    - name: 'og:image'
-      value: images/plant1-lg.jpg
-      keyName: property
-      relativeUrl: true
-    - name: 'twitter:card'
-      value: summary_large_image
-    - name: 'twitter:title'
-      value: Nulla suscipit
-    - name: 'twitter:description'
-      value: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit'
-    - name: 'twitter:image'
-      value: images/plant1-lg.jpg
-      relativeUrl: true
+    - name: Robots
+      value: all
 template: product
 ---
 

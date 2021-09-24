@@ -22,31 +22,32 @@ other3: https://e.huawei.com/cn/material/networking/campus-network/wlan/30b80550
 other4:
   images: {"airengine6760-51ei":{"org":"AirEngine6760-51EI_pic","img":["front_left.png","front_right.png","front_top.png","left.png","rear_left.png","rear_right.png","rear_top.png","right.png","top.png"]}}
 seo:
-  title: Nulla suscipit
-  description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit'
+  title: airengine-6760-x1-6760-x1e | AirEngine 6760-X1 & 6760-X1E接入点 | AirEngine 6700 系列 | 室内接入点 | 无线局域网 | 企业网络
+  description: AirEngine 6760-X1 & AirEngine 6760-X1E是华为发布的支持Wi-Fi 6（802.11ax）标准的室内AP。适用于中大型企业办公、教育、制造等场景。
+
+整机10条空间流，可通过RTU软件License升级为12条空间流，支持软件定义射频，在双频、三频以及双频+独立扫描射频三种模式间切换，以灵活满足高干扰或高密接入等多种场景的需求。 支持10GE光/电上行，便于客户灵活部署，有效节约客户投资。
+
+AirEngine 6760-X1内置智能天线，有效提升信号的增益，信号随用户而动，让覆盖无死角。
+
+AirEngine 6760-X1E可搭配多种外置天线，满足狭长走廊、楼层较高等特殊场景部署需要。
   extra:
     - name: 'og:type'
       value: website
       keyName: property
     - name: 'og:title'
-      value: Nulla suscipit
+      value: 河南网田
       keyName: property
     - name: 'og:description'
-      value: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit'
+      value: AirEngine 6760-X1 & AirEngine 6760-X1E是华为发布的支持Wi-Fi 6（802.11ax）标准的室内AP。适用于中大型企业办公、教育、制造等场景。
+
+整机10条空间流，可通过RTU软件License升级为12条空间流，支持软件定义射频，在双频、三频以及双频+独立扫描射频三种模式间切换，以灵活满足高干扰或高密接入等多种场景的需求。 支持10GE光/电上行，便于客户灵活部署，有效节约客户投资。
+
+AirEngine 6760-X1内置智能天线，有效提升信号的增益，信号随用户而动，让覆盖无死角。
+
+AirEngine 6760-X1E可搭配多种外置天线，满足狭长走廊、楼层较高等特殊场景部署需要。
       keyName: property
-    - name: 'og:image'
-      value: images/plant1-lg.jpg
-      keyName: property
-      relativeUrl: true
-    - name: 'twitter:card'
-      value: summary_large_image
-    - name: 'twitter:title'
-      value: Nulla suscipit
-    - name: 'twitter:description'
-      value: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit'
-    - name: 'twitter:image'
-      value: images/plant1-lg.jpg
-      relativeUrl: true
+    - name: Robots
+      value: all
 template: product
 ---
 

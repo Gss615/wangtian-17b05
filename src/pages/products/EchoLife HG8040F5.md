@@ -16,31 +16,20 @@ other3: null
 other4:
   images: {"other":{"org":"other","img":["EchoLife HG8040F5.png"]}}
 seo:
-  title: Nulla suscipit
-  description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit'
+  title: echolife-hg8040f5 | EchoLife HG8040F5 | null | ONT | 光终端 | 企业光网络
+  description: 华为EchoLife HG8040F5是华为全光接入解决方案的路由型ONT，通过GPON/EPON技术实现用户的超宽带接入。
   extra:
     - name: 'og:type'
       value: website
       keyName: property
     - name: 'og:title'
-      value: Nulla suscipit
+      value: 河南网田
       keyName: property
     - name: 'og:description'
-      value: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit'
+      value: 华为EchoLife HG8040F5是华为全光接入解决方案的路由型ONT，通过GPON/EPON技术实现用户的超宽带接入。
       keyName: property
-    - name: 'og:image'
-      value: images/plant1-lg.jpg
-      keyName: property
-      relativeUrl: true
-    - name: 'twitter:card'
-      value: summary_large_image
-    - name: 'twitter:title'
-      value: Nulla suscipit
-    - name: 'twitter:description'
-      value: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit'
-    - name: 'twitter:image'
-      value: images/plant1-lg.jpg
-      relativeUrl: true
+    - name: Robots
+      value: all
 template: product
 ---
 

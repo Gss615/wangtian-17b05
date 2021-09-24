@@ -16,31 +16,20 @@ other3: null
 other4:
   images: {"other":{"org":"other","img":["华为OptiXstar T863E.png"]}}
 seo:
-  title: Nulla suscipit
-  description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit'
+  title: optixstar-t863e | 华为OptiXstar T863E | null | ONU | 光终端 | 企业光网络
+  description: 华为OptiXstar T863E产品是华为工业光网解决方案的ORE，面向矿业、油气、电力、交通等工业场景，网络侧提供GPON、XGS-PON双上行接口，用户侧提供8个GE以太网接口。
   extra:
     - name: 'og:type'
       value: website
       keyName: property
     - name: 'og:title'
-      value: Nulla suscipit
+      value: 河南网田
       keyName: property
     - name: 'og:description'
-      value: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit'
+      value: 华为OptiXstar T863E产品是华为工业光网解决方案的ORE，面向矿业、油气、电力、交通等工业场景，网络侧提供GPON、XGS-PON双上行接口，用户侧提供8个GE以太网接口。
       keyName: property
-    - name: 'og:image'
-      value: images/plant1-lg.jpg
-      keyName: property
-      relativeUrl: true
-    - name: 'twitter:card'
-      value: summary_large_image
-    - name: 'twitter:title'
-      value: Nulla suscipit
-    - name: 'twitter:description'
-      value: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit'
-    - name: 'twitter:image'
-      value: images/plant1-lg.jpg
-      relativeUrl: true
+    - name: Robots
+      value: all
 template: product
 ---
 

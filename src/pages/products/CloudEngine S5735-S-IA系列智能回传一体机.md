@@ -16,31 +16,20 @@ other3: https://e.huawei.com/cn/material/networking/campusswitch/d221fa82295a463
 other4:
   images: {"s5720-36c-ei-ac":{"org":"S5720-36C-EI-AC_pic","img":["01.png","02.png","03.png","04.png","07.png","08.png"]}}
 seo:
-  title: Nulla suscipit
-  description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit'
+  title: s5735-s-i | CloudEngine S5735-S-IA系列智能回传一体机 | 行业专用交换机 | 园区交换机 | 交换机 | 企业网络
+  description: CloudEngine S5735-S-IA系列智能回传一体机是华为自主研发的适用于户外场景的一体机，集成宽温交换机、防雷器、多路电源输出、熔纤盒、防护外壳等多个模块为一体，支持工业级工作温度范围和专业的室外防雷，具备IP55等级防护和防盐雾能力，适应条件恶劣的室外环境，可实现室外接入点一站式交付。
   extra:
     - name: 'og:type'
       value: website
       keyName: property
     - name: 'og:title'
-      value: Nulla suscipit
+      value: 河南网田
       keyName: property
     - name: 'og:description'
-      value: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit'
+      value: CloudEngine S5735-S-IA系列智能回传一体机是华为自主研发的适用于户外场景的一体机，集成宽温交换机、防雷器、多路电源输出、熔纤盒、防护外壳等多个模块为一体，支持工业级工作温度范围和专业的室外防雷，具备IP55等级防护和防盐雾能力，适应条件恶劣的室外环境，可实现室外接入点一站式交付。
       keyName: property
-    - name: 'og:image'
-      value: images/plant1-lg.jpg
-      keyName: property
-      relativeUrl: true
-    - name: 'twitter:card'
-      value: summary_large_image
-    - name: 'twitter:title'
-      value: Nulla suscipit
-    - name: 'twitter:description'
-      value: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit'
-    - name: 'twitter:image'
-      value: images/plant1-lg.jpg
-      relativeUrl: true
+    - name: Robots
+      value: all
 template: product
 ---
 

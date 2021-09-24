@@ -16,31 +16,20 @@ other3: null
 other4:
   images: {"other":{"org":"other","img":["华为OptiXstar T672E-150G1.png"]}}
 seo:
-  title: Nulla suscipit
-  description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit'
+  title: optixstar-t672e-150g1 | 华为OptiXstar T672E-150G1 | null | ONU | 光终端 | 企业光网络
+  description: 华为T672E-150G1（PowerCube 500) 一体化视频站点解决方案，电源和网络回传高度集成，广泛应用于智慧交通等场景。方案采用高性能功率模块、智能OSS，为视频监控系统提供持续供电，极大提高了系统可靠性和运维效率。
   extra:
     - name: 'og:type'
       value: website
       keyName: property
     - name: 'og:title'
-      value: Nulla suscipit
+      value: 河南网田
       keyName: property
     - name: 'og:description'
-      value: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit'
+      value: 华为T672E-150G1（PowerCube 500) 一体化视频站点解决方案，电源和网络回传高度集成，广泛应用于智慧交通等场景。方案采用高性能功率模块、智能OSS，为视频监控系统提供持续供电，极大提高了系统可靠性和运维效率。
       keyName: property
-    - name: 'og:image'
-      value: images/plant1-lg.jpg
-      keyName: property
-      relativeUrl: true
-    - name: 'twitter:card'
-      value: summary_large_image
-    - name: 'twitter:title'
-      value: Nulla suscipit
-    - name: 'twitter:description'
-      value: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit'
-    - name: 'twitter:image'
-      value: images/plant1-lg.jpg
-      relativeUrl: true
+    - name: Robots
+      value: all
 template: product
 ---
 

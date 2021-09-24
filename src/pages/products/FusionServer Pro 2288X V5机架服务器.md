@@ -16,31 +16,20 @@ other3: null
 other4:
   images: {"other":{"org":"other","img":["FusionServer Pro 2288X V5机架服务器.png"]}}
 seo:
-  title: Nulla suscipit
-  description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit'
+  title: 2288x-v5 | FusionServer Pro 2288X V5机架服务器 | FusionServer Pro机架服务器 | FusionServer Pro智能服务器 | 服务器 - 计算 | 数据中心
+  description: 华为FusionServer Pro 2288X V5是一款2U2路机架服务器，配置灵活，可广泛适用于云计算、虚拟化、数据库、大数据等负载。2288X V5可配置2路英特尔®至强®可扩展处理器、24条 DDR4内存、11个 PCIe扩展槽、支持大容量的本地存储资源。集成DEMT智能功耗管理、FDM智能故障管理等专利技术，可选配华为eSight或FusionDirector全生命周期管理软件，能够有效降低运营成本、提升投资回报。
   extra:
     - name: 'og:type'
       value: website
       keyName: property
     - name: 'og:title'
-      value: Nulla suscipit
+      value: 河南网田
       keyName: property
     - name: 'og:description'
-      value: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit'
+      value: 华为FusionServer Pro 2288X V5是一款2U2路机架服务器，配置灵活，可广泛适用于云计算、虚拟化、数据库、大数据等负载。2288X V5可配置2路英特尔®至强®可扩展处理器、24条 DDR4内存、11个 PCIe扩展槽、支持大容量的本地存储资源。集成DEMT智能功耗管理、FDM智能故障管理等专利技术，可选配华为eSight或FusionDirector全生命周期管理软件，能够有效降低运营成本、提升投资回报。
       keyName: property
-    - name: 'og:image'
-      value: images/plant1-lg.jpg
-      keyName: property
-      relativeUrl: true
-    - name: 'twitter:card'
-      value: summary_large_image
-    - name: 'twitter:title'
-      value: Nulla suscipit
-    - name: 'twitter:description'
-      value: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit'
-    - name: 'twitter:image'
-      value: images/plant1-lg.jpg
-      relativeUrl: true
+    - name: Robots
+      value: all
 template: product
 ---
 

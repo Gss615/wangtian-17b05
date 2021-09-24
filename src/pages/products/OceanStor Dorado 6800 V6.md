@@ -20,31 +20,28 @@ other3: null
 other4:
   images: {"other":{"org":"other","img":["OceanStor Dorado 6800 V6.png"]}}
 seo:
-  title: Nulla suscipit
-  description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit'
+  title: oceanstor-dorado-6800-V6 | OceanStor Dorado 6800 V6 | null | null | 全闪存存储 | 数据存储
+  description: 华为OceanStor Dorado 6800 V6高端入门级全闪存存储系统，可提供业界领先的性能，6个9级别的可靠性（99.9999 ％）和智能加速，满足企业核心业务日益提高的数据服务要求。
+
+OceanStor Dorado 6800 V6 高端存储系统采用华为全新的硬件平台和SmartMatrix的全互联架构,在行业内树立了新的可靠性标杆，可容忍8个控制器中的7个发生故障，业务不中断。此外，存储系统还使用FlashLink®智能算法为存储系统加速，支持端到端NVMe体系结构，提供更高IOPS,更低时延的数据存储服务。
+
+OceanStor Dorado 6800 V6可以满足大中型企业核心业务的可靠性和性能需求，广泛运用于政府、金融、运营商、制造等行业。
   extra:
     - name: 'og:type'
       value: website
       keyName: property
     - name: 'og:title'
-      value: Nulla suscipit
+      value: 河南网田
       keyName: property
     - name: 'og:description'
-      value: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit'
+      value: 华为OceanStor Dorado 6800 V6高端入门级全闪存存储系统，可提供业界领先的性能，6个9级别的可靠性（99.9999 ％）和智能加速，满足企业核心业务日益提高的数据服务要求。
+
+OceanStor Dorado 6800 V6 高端存储系统采用华为全新的硬件平台和SmartMatrix的全互联架构,在行业内树立了新的可靠性标杆，可容忍8个控制器中的7个发生故障，业务不中断。此外，存储系统还使用FlashLink®智能算法为存储系统加速，支持端到端NVMe体系结构，提供更高IOPS,更低时延的数据存储服务。
+
+OceanStor Dorado 6800 V6可以满足大中型企业核心业务的可靠性和性能需求，广泛运用于政府、金融、运营商、制造等行业。
       keyName: property
-    - name: 'og:image'
-      value: images/plant1-lg.jpg
-      keyName: property
-      relativeUrl: true
-    - name: 'twitter:card'
-      value: summary_large_image
-    - name: 'twitter:title'
-      value: Nulla suscipit
-    - name: 'twitter:description'
-      value: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit'
-    - name: 'twitter:image'
-      value: images/plant1-lg.jpg
-      relativeUrl: true
+    - name: Robots
+      value: all
 template: product
 ---
 

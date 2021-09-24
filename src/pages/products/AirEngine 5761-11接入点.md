@@ -16,31 +16,20 @@ other3: https://e.huawei.com/cn/material/networking/campus-network/wlan/71234825
 other4:
   images: {"airengine5761-11":{"org":"AirEngine5761-11_pic","img":["front.png","front_bottom.png","front_left.png","front_right.png","front_top.png","rear.png","rear_top.png"]}}
 seo:
-  title: Nulla suscipit
-  description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit'
+  title: airengine-5761-11 | AirEngine 5761-11接入点 | AirEngine 5700系列 | 室内接入点 | 无线局域网 | 企业网络
+  description: AirEngine 5761-11是华为发布的支持Wi-Fi 6（802.11ax）标准的无线接入点产品。内置智能天线，信号随用户而动，带来更好的覆盖效果。支持2×2 MIMO，2.4GHz和5GHz双频同时提供业务，整机速率可达1.775Gbps，适用于中小型企业办公、医院、咖啡厅等室内覆盖场景。
   extra:
     - name: 'og:type'
       value: website
       keyName: property
     - name: 'og:title'
-      value: Nulla suscipit
+      value: 河南网田
       keyName: property
     - name: 'og:description'
-      value: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit'
+      value: AirEngine 5761-11是华为发布的支持Wi-Fi 6（802.11ax）标准的无线接入点产品。内置智能天线，信号随用户而动，带来更好的覆盖效果。支持2×2 MIMO，2.4GHz和5GHz双频同时提供业务，整机速率可达1.775Gbps，适用于中小型企业办公、医院、咖啡厅等室内覆盖场景。
       keyName: property
-    - name: 'og:image'
-      value: images/plant1-lg.jpg
-      keyName: property
-      relativeUrl: true
-    - name: 'twitter:card'
-      value: summary_large_image
-    - name: 'twitter:title'
-      value: Nulla suscipit
-    - name: 'twitter:description'
-      value: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit'
-    - name: 'twitter:image'
-      value: images/plant1-lg.jpg
-      relativeUrl: true
+    - name: Robots
+      value: all
 template: product
 ---
 

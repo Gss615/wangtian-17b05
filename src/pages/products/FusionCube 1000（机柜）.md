@@ -16,31 +16,20 @@ other3: https://e.huawei.com/cn/material/storage/fusioncube/25d05b02b749437eac96
 other4:
   images: {"other":{"org":"other","img":["FusionCube 1000（机柜）.png"]}}
 seo:
-  title: Nulla suscipit
-  description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit'
+  title: fusioncube-1000 | FusionCube 1000（机柜） | null | null | 超融合 HCI | 数据存储
+  description: 华为FusionCube 1000（机柜）是全栈一体化解决方案，融合了计算、存储、网络、虚拟化、UPS资源等企业数字化的必要资源，可根据客户规划事先完成预连线预配置，整柜交付，客户开箱即可用；并通过FusionCube Center Vision实现远程集中管理，远程运维，降低企业运维成本。华为FusionCube 1000（机柜）是智慧园区、企业分支机构、企业边缘场景的理想数字化基础设施。
   extra:
     - name: 'og:type'
       value: website
       keyName: property
     - name: 'og:title'
-      value: Nulla suscipit
+      value: 河南网田
       keyName: property
     - name: 'og:description'
-      value: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit'
+      value: 华为FusionCube 1000（机柜）是全栈一体化解决方案，融合了计算、存储、网络、虚拟化、UPS资源等企业数字化的必要资源，可根据客户规划事先完成预连线预配置，整柜交付，客户开箱即可用；并通过FusionCube Center Vision实现远程集中管理，远程运维，降低企业运维成本。华为FusionCube 1000（机柜）是智慧园区、企业分支机构、企业边缘场景的理想数字化基础设施。
       keyName: property
-    - name: 'og:image'
-      value: images/plant1-lg.jpg
-      keyName: property
-      relativeUrl: true
-    - name: 'twitter:card'
-      value: summary_large_image
-    - name: 'twitter:title'
-      value: Nulla suscipit
-    - name: 'twitter:description'
-      value: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit'
-    - name: 'twitter:image'
-      value: images/plant1-lg.jpg
-      relativeUrl: true
+    - name: Robots
+      value: all
 template: product
 ---
 

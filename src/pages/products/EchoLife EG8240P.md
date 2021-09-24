@@ -18,31 +18,24 @@ other3: null
 other4:
   images: {"other":{"org":"other","img":["EchoLife EG8240P.png"]}}
 seo:
-  title: Nulla suscipit
-  description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit'
+  title: echolife-eg8240p | EchoLife EG8240P | null | ONU | 光终端 | 企业光网络
+  description: Echolife EG8240P是路由型ONU，用户侧提供4个GE以太接口、2个POTS语音接口，同时提供POE供电功能，最大支持单端口30W、总功率60W的供电输出。
+
+可满足酒店，办公室等房间内LAN+POTS业务接入需求，适用于桌面或挂墙安装。
   extra:
     - name: 'og:type'
       value: website
       keyName: property
     - name: 'og:title'
-      value: Nulla suscipit
+      value: 河南网田
       keyName: property
     - name: 'og:description'
-      value: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit'
+      value: Echolife EG8240P是路由型ONU，用户侧提供4个GE以太接口、2个POTS语音接口，同时提供POE供电功能，最大支持单端口30W、总功率60W的供电输出。
+
+可满足酒店，办公室等房间内LAN+POTS业务接入需求，适用于桌面或挂墙安装。
       keyName: property
-    - name: 'og:image'
-      value: images/plant1-lg.jpg
-      keyName: property
-      relativeUrl: true
-    - name: 'twitter:card'
-      value: summary_large_image
-    - name: 'twitter:title'
-      value: Nulla suscipit
-    - name: 'twitter:description'
-      value: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit'
-    - name: 'twitter:image'
-      value: images/plant1-lg.jpg
-      relativeUrl: true
+    - name: Robots
+      value: all
 template: product
 ---
 

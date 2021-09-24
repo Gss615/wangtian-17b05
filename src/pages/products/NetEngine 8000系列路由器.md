@@ -18,31 +18,24 @@ other3:
 other4:
   images: {"other":{"org":"other","img":["NetEngine 8000系列路由器.png"]}}
 seo:
-  title: Nulla suscipit
-  description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit'
+  title: ne8000 | NetEngine 8000系列路由器 | 业务汇聚路由器 | NE系列路由器 | 路由器 | 企业网络
+  description: NetEngine 8000 系列路由器是华为推出的面向云时代的全业务智能路由器平台，超宽的管道打造极简的网络，领先的SR/SRv6使能智能连接，新一代的智慧大脑实现全生命周期自动化、引领主动运维。系列产品涵盖大型框式、紧凑插卡盒式和固定盒式设备，完全满足核心、汇聚、接入等不同的网络场景，具备高性能、高可靠、低功耗、可演进等特性，可应用于企业广域网核心节点、大型企业接入节点、DC互联、园区互联与汇聚节点和各种大型IDC网络出口。
+
+NetEngine 8000 系列是全新一代的领航产品，一上市便斩获多项国际大奖和业界认可，以“智简”为核心理念，以客户意图为驱动，以高品质业务承载为己任，解放客户双手，释放网络潜能，全面迈向自动驾驶的网络，助力各行各业的企业客户完成数字化转型。
   extra:
     - name: 'og:type'
       value: website
       keyName: property
     - name: 'og:title'
-      value: Nulla suscipit
+      value: 河南网田
       keyName: property
     - name: 'og:description'
-      value: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit'
+      value: NetEngine 8000 系列路由器是华为推出的面向云时代的全业务智能路由器平台，超宽的管道打造极简的网络，领先的SR/SRv6使能智能连接，新一代的智慧大脑实现全生命周期自动化、引领主动运维。系列产品涵盖大型框式、紧凑插卡盒式和固定盒式设备，完全满足核心、汇聚、接入等不同的网络场景，具备高性能、高可靠、低功耗、可演进等特性，可应用于企业广域网核心节点、大型企业接入节点、DC互联、园区互联与汇聚节点和各种大型IDC网络出口。
+
+NetEngine 8000 系列是全新一代的领航产品，一上市便斩获多项国际大奖和业界认可，以“智简”为核心理念，以客户意图为驱动，以高品质业务承载为己任，解放客户双手，释放网络潜能，全面迈向自动驾驶的网络，助力各行各业的企业客户完成数字化转型。
       keyName: property
-    - name: 'og:image'
-      value: images/plant1-lg.jpg
-      keyName: property
-      relativeUrl: true
-    - name: 'twitter:card'
-      value: summary_large_image
-    - name: 'twitter:title'
-      value: Nulla suscipit
-    - name: 'twitter:description'
-      value: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit'
-    - name: 'twitter:image'
-      value: images/plant1-lg.jpg
-      relativeUrl: true
+    - name: Robots
+      value: all
 template: product
 ---
 

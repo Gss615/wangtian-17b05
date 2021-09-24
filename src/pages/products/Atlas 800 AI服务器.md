@@ -16,31 +16,20 @@ other3: null
 other4:
   images: {"other":{"org":"other","img":["Atlas 800 AI服务器.png"]}}
 seo:
-  title: Nulla suscipit
-  description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit'
+  title: atlas-800-ai-server | Atlas 800 AI服务器 | null | 昇腾计算 | 服务器 - 计算 | 数据中心
+  description: Atlas 800 AI服务器主要应用于AI推理和训练场景，具有超强性能，为推理和训练场景构建高效能、低功耗的AI计算平台。支持多个Atlas 300 AI加速卡或板载加速模块，适应各种视频图像分析场景。主要应用于视频分析、深度学习训练等推理、训练场景中。
   extra:
     - name: 'og:type'
       value: website
       keyName: property
     - name: 'og:title'
-      value: Nulla suscipit
+      value: 河南网田
       keyName: property
     - name: 'og:description'
-      value: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit'
+      value: Atlas 800 AI服务器主要应用于AI推理和训练场景，具有超强性能，为推理和训练场景构建高效能、低功耗的AI计算平台。支持多个Atlas 300 AI加速卡或板载加速模块，适应各种视频图像分析场景。主要应用于视频分析、深度学习训练等推理、训练场景中。
       keyName: property
-    - name: 'og:image'
-      value: images/plant1-lg.jpg
-      keyName: property
-      relativeUrl: true
-    - name: 'twitter:card'
-      value: summary_large_image
-    - name: 'twitter:title'
-      value: Nulla suscipit
-    - name: 'twitter:description'
-      value: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit'
-    - name: 'twitter:image'
-      value: images/plant1-lg.jpg
-      relativeUrl: true
+    - name: Robots
+      value: all
 template: product
 ---
 

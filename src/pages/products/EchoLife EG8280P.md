@@ -16,31 +16,20 @@ other3: null
 other4:
   images: {"other":{"org":"other","img":["EchoLife EG8280P.png"]}}
 seo:
-  title: Nulla suscipit
-  description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit'
+  title: echolife-eg8280p | EchoLife EG8280P | null | ONU | 光终端 | 企业光网络
+  description: Echolife EG8280P支持GPON/XG-PON/XGS-PON上行，适用于光纤到房间多业务接入场景，用户侧提供8个GE以太接口、2个POTS语音接口，支持单端口POE供电功率30W，整机支持120W功率输出。
   extra:
     - name: 'og:type'
       value: website
       keyName: property
     - name: 'og:title'
-      value: Nulla suscipit
+      value: 河南网田
       keyName: property
     - name: 'og:description'
-      value: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit'
+      value: Echolife EG8280P支持GPON/XG-PON/XGS-PON上行，适用于光纤到房间多业务接入场景，用户侧提供8个GE以太接口、2个POTS语音接口，支持单端口POE供电功率30W，整机支持120W功率输出。
       keyName: property
-    - name: 'og:image'
-      value: images/plant1-lg.jpg
-      keyName: property
-      relativeUrl: true
-    - name: 'twitter:card'
-      value: summary_large_image
-    - name: 'twitter:title'
-      value: Nulla suscipit
-    - name: 'twitter:description'
-      value: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit'
-    - name: 'twitter:image'
-      value: images/plant1-lg.jpg
-      relativeUrl: true
+    - name: Robots
+      value: all
 template: product
 ---
 

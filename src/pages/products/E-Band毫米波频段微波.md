@@ -16,31 +16,20 @@ other3: null
 other4:
   images: {"other":{"org":"other","img":["E-Band毫米波频段微波.png"]}}
 seo:
-  title: Nulla suscipit
-  description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit'
+  title: e-Band-millimeter | E-Band毫米波频段微波 | null | null | 企业微波解决方案 | 企业无线
+  description: 华为E-Band微波系列RTN380/380H，工作在71-86 GHz的毫米波频段，频谱费用低，资源丰富，具有高达10 Gbit/s的超大传输容量，适用于大带宽IP业务汇聚传输和光传送网的微波补网。全室外设备形态和极简的运维特性有利于城区的密集部署，充分满足企业专线互联、ISP固定宽带回传等多种场景大带宽无线传输的需求。
   extra:
     - name: 'og:type'
       value: website
       keyName: property
     - name: 'og:title'
-      value: Nulla suscipit
+      value: 河南网田
       keyName: property
     - name: 'og:description'
-      value: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit'
+      value: 华为E-Band微波系列RTN380/380H，工作在71-86 GHz的毫米波频段，频谱费用低，资源丰富，具有高达10 Gbit/s的超大传输容量，适用于大带宽IP业务汇聚传输和光传送网的微波补网。全室外设备形态和极简的运维特性有利于城区的密集部署，充分满足企业专线互联、ISP固定宽带回传等多种场景大带宽无线传输的需求。
       keyName: property
-    - name: 'og:image'
-      value: images/plant1-lg.jpg
-      keyName: property
-      relativeUrl: true
-    - name: 'twitter:card'
-      value: summary_large_image
-    - name: 'twitter:title'
-      value: Nulla suscipit
-    - name: 'twitter:description'
-      value: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit'
-    - name: 'twitter:image'
-      value: images/plant1-lg.jpg
-      relativeUrl: true
+    - name: Robots
+      value: all
 template: product
 ---
 

@@ -18,31 +18,24 @@ other3: null
 other4:
   images: {"other":{"org":"other","img":["EG860 CPE.png"]}}
 seo:
-  title: Nulla suscipit
-  description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit'
+  title: eg860-cpe | EG860 CPE | null | 终端 | eLTE宽带集群解决方案 | 企业无线
+  description: EG860 CPE是基于TD-LTE技术的宽带无线路由器，主要实现行业宽带数据接入。
+
+EG860 CPE支持通过网口有线方式或WiFi无线方式接入到LTE无线网络，完成各种数据业务转换功能，可部署在室外，也可部署在室内。可广泛应用于各行业，进行固定或车载等数据采集、无线高清视频监控。
   extra:
     - name: 'og:type'
       value: website
       keyName: property
     - name: 'og:title'
-      value: Nulla suscipit
+      value: 河南网田
       keyName: property
     - name: 'og:description'
-      value: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit'
+      value: EG860 CPE是基于TD-LTE技术的宽带无线路由器，主要实现行业宽带数据接入。
+
+EG860 CPE支持通过网口有线方式或WiFi无线方式接入到LTE无线网络，完成各种数据业务转换功能，可部署在室外，也可部署在室内。可广泛应用于各行业，进行固定或车载等数据采集、无线高清视频监控。
       keyName: property
-    - name: 'og:image'
-      value: images/plant1-lg.jpg
-      keyName: property
-      relativeUrl: true
-    - name: 'twitter:card'
-      value: summary_large_image
-    - name: 'twitter:title'
-      value: Nulla suscipit
-    - name: 'twitter:description'
-      value: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit'
-    - name: 'twitter:image'
-      value: images/plant1-lg.jpg
-      relativeUrl: true
+    - name: Robots
+      value: all
 template: product
 ---
 

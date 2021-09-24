@@ -16,31 +16,20 @@ other3: null
 other4:
   images: {"other":{"org":"other","img":["FusionServer Pro X6000 V6高密服务器.png"]}}
 seo:
-  title: Nulla suscipit
-  description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit'
+  title: x6000-v6 | FusionServer Pro X6000 V6高密服务器 | FusionServer Pro高密服务器 | FusionServer Pro智能服务器 | 服务器 - 计算 | 数据中心
+  description: FusionServer Pro X6000 V6服务器是针对互联网、HPC、云计算、数据中心等业务应用需求而推出的新一代2U高密度服务器产品，对软件定义存储、大数据和SDI基础架构等进行优化和架构创新，满足服务器大规模部署。
   extra:
     - name: 'og:type'
       value: website
       keyName: property
     - name: 'og:title'
-      value: Nulla suscipit
+      value: 河南网田
       keyName: property
     - name: 'og:description'
-      value: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit'
+      value: FusionServer Pro X6000 V6服务器是针对互联网、HPC、云计算、数据中心等业务应用需求而推出的新一代2U高密度服务器产品，对软件定义存储、大数据和SDI基础架构等进行优化和架构创新，满足服务器大规模部署。
       keyName: property
-    - name: 'og:image'
-      value: images/plant1-lg.jpg
-      keyName: property
-      relativeUrl: true
-    - name: 'twitter:card'
-      value: summary_large_image
-    - name: 'twitter:title'
-      value: Nulla suscipit
-    - name: 'twitter:description'
-      value: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit'
-    - name: 'twitter:image'
-      value: images/plant1-lg.jpg
-      relativeUrl: true
+    - name: Robots
+      value: all
 template: product
 ---
 

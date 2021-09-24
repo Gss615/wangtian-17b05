@@ -18,31 +18,24 @@ other3: null
 other4:
   images: {"other":{"org":"other","img":["华为OptiXstar A800盒式OTN CPE设备.png"]}}
 seo:
-  title: Nulla suscipit
-  description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit'
+  title: optixstar-a800 | 华为OptiXstar A800盒式OTN CPE设备 | null | CPE | 光终端 | 企业光网络
+  description: 华为OptiXstar A800产品是固定盒式OTN客户终端设备(CPE)，主要应用在CPE末端接入场景，为政府、企业等提供可靠的OTN高品质专线解决方案。
+
+当前华为OptiXstar A800产品的具体型号为OptiXstar A810 A，设备1U高，支持E1、FE/GE多业务接入，线路侧最大速率为2.5Gbit/s上行。
   extra:
     - name: 'og:type'
       value: website
       keyName: property
     - name: 'og:title'
-      value: Nulla suscipit
+      value: 河南网田
       keyName: property
     - name: 'og:description'
-      value: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit'
+      value: 华为OptiXstar A800产品是固定盒式OTN客户终端设备(CPE)，主要应用在CPE末端接入场景，为政府、企业等提供可靠的OTN高品质专线解决方案。
+
+当前华为OptiXstar A800产品的具体型号为OptiXstar A810 A，设备1U高，支持E1、FE/GE多业务接入，线路侧最大速率为2.5Gbit/s上行。
       keyName: property
-    - name: 'og:image'
-      value: images/plant1-lg.jpg
-      keyName: property
-      relativeUrl: true
-    - name: 'twitter:card'
-      value: summary_large_image
-    - name: 'twitter:title'
-      value: Nulla suscipit
-    - name: 'twitter:description'
-      value: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit'
-    - name: 'twitter:image'
-      value: images/plant1-lg.jpg
-      relativeUrl: true
+    - name: Robots
+      value: all
 template: product
 ---
 

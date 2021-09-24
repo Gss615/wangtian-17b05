@@ -16,31 +16,20 @@ other3: null
 other4:
   images: {"other":{"org":"other","img":["华为OptiXstar W626E.png"]}}
 seo:
-  title: Nulla suscipit
-  description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit'
+  title: optixstar-w626e | 华为OptiXstar W626E | null | ONT | 光终端 | 企业光网络
+  description: 华为OptiXstar W626E是智能GPON和Wi-Fi 6路由型 ONT，提供1个 POTS 语音接口、4 个千兆以太网接口，1个USB接口和 2.4GHz和5GHz Wi-Fi 6技术。华为OptiXstar W626E实现FTTH组网场景下家庭用户的超宽带接入，其高性能的转发能力有效保障话音、数据和高清视频的业务体验，为FTTH部署提供理想的终端解决方案和面向未来的业务支撑能力。
   extra:
     - name: 'og:type'
       value: website
       keyName: property
     - name: 'og:title'
-      value: Nulla suscipit
+      value: 河南网田
       keyName: property
     - name: 'og:description'
-      value: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit'
+      value: 华为OptiXstar W626E是智能GPON和Wi-Fi 6路由型 ONT，提供1个 POTS 语音接口、4 个千兆以太网接口，1个USB接口和 2.4GHz和5GHz Wi-Fi 6技术。华为OptiXstar W626E实现FTTH组网场景下家庭用户的超宽带接入，其高性能的转发能力有效保障话音、数据和高清视频的业务体验，为FTTH部署提供理想的终端解决方案和面向未来的业务支撑能力。
       keyName: property
-    - name: 'og:image'
-      value: images/plant1-lg.jpg
-      keyName: property
-      relativeUrl: true
-    - name: 'twitter:card'
-      value: summary_large_image
-    - name: 'twitter:title'
-      value: Nulla suscipit
-    - name: 'twitter:description'
-      value: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit'
-    - name: 'twitter:image'
-      value: images/plant1-lg.jpg
-      relativeUrl: true
+    - name: Robots
+      value: all
 template: product
 ---
 

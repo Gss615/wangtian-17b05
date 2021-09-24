@@ -24,31 +24,36 @@ other3: null
 other4:
   images: {"other":{"org":"other","img":["华为OptiXstar MA5621E.png"]}}
 seo:
-  title: Nulla suscipit
-  description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit'
+  title: optixstar-ma5621e | 华为OptiXstar MA5621E | null | ONU | 光终端 | 企业光网络
+  description: 华为 OptiXstar MA5621E是华为工业光网解决方案的盒式ONU，网络侧提供GPON或EPON双上行接口，用户侧提供8个GE以太网接口，通过高性能的转发能力，为电力、制造、交通等工业生产场景提供理想的网络解决方案。
+
+工业级设计，高可靠，高防护
+• 双GPON/EPON上行
+• Type B/Type C/Type D保护
+• 网口共模6kV防雷能力
+• 简易部署，轻松运维
+• 室内桌面平放、19寸机柜或网络箱安装
+• eSight集中管理
   extra:
     - name: 'og:type'
       value: website
       keyName: property
     - name: 'og:title'
-      value: Nulla suscipit
+      value: 河南网田
       keyName: property
     - name: 'og:description'
-      value: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit'
+      value: 华为 OptiXstar MA5621E是华为工业光网解决方案的盒式ONU，网络侧提供GPON或EPON双上行接口，用户侧提供8个GE以太网接口，通过高性能的转发能力，为电力、制造、交通等工业生产场景提供理想的网络解决方案。
+
+工业级设计，高可靠，高防护
+• 双GPON/EPON上行
+• Type B/Type C/Type D保护
+• 网口共模6kV防雷能力
+• 简易部署，轻松运维
+• 室内桌面平放、19寸机柜或网络箱安装
+• eSight集中管理
       keyName: property
-    - name: 'og:image'
-      value: images/plant1-lg.jpg
-      keyName: property
-      relativeUrl: true
-    - name: 'twitter:card'
-      value: summary_large_image
-    - name: 'twitter:title'
-      value: Nulla suscipit
-    - name: 'twitter:description'
-      value: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit'
-    - name: 'twitter:image'
-      value: images/plant1-lg.jpg
-      relativeUrl: true
+    - name: Robots
+      value: all
 template: product
 ---
 

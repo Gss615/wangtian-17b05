@@ -18,31 +18,24 @@ other3: https://e.huawei.com/cn/material/networking/networksecurity/167dffb906bc
 other4:
   images: {"other":{"org":"other","img":["SecoManager安全控制器.png"]}}
 seo:
-  title: Nulla suscipit
-  description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit'
+  title: secomanager | SecoManager安全控制器 | null | 安全管理 | 网络安全 | 企业网络
+  description: SecoManager是华为面向数据中心、园区等不同场景推出的安全控制器，可实现全网安全策略集中管理、安全业务编排和高性能日志管理。
+
+SecoManager通过用户业务分区和应用的业务编排，自动完成安全策略的生成与部署，实现安全业务分钟级部署，有效降低安全运维成本。SecoManager协同SDN控制器和HiSec Insight安全态势感知系统联动，将威胁分钟级闭环处置，大幅提升企业网络的威胁防御能力，帮助企业构建全网主动防御体系。
   extra:
     - name: 'og:type'
       value: website
       keyName: property
     - name: 'og:title'
-      value: Nulla suscipit
+      value: 河南网田
       keyName: property
     - name: 'og:description'
-      value: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit'
+      value: SecoManager是华为面向数据中心、园区等不同场景推出的安全控制器，可实现全网安全策略集中管理、安全业务编排和高性能日志管理。
+
+SecoManager通过用户业务分区和应用的业务编排，自动完成安全策略的生成与部署，实现安全业务分钟级部署，有效降低安全运维成本。SecoManager协同SDN控制器和HiSec Insight安全态势感知系统联动，将威胁分钟级闭环处置，大幅提升企业网络的威胁防御能力，帮助企业构建全网主动防御体系。
       keyName: property
-    - name: 'og:image'
-      value: images/plant1-lg.jpg
-      keyName: property
-      relativeUrl: true
-    - name: 'twitter:card'
-      value: summary_large_image
-    - name: 'twitter:title'
-      value: Nulla suscipit
-    - name: 'twitter:description'
-      value: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit'
-    - name: 'twitter:image'
-      value: images/plant1-lg.jpg
-      relativeUrl: true
+    - name: Robots
+      value: all
 template: product
 ---
 

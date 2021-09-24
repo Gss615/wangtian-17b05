@@ -16,31 +16,20 @@ other3: null
 other4:
   images: {"ar301":{"org":"AR301_pic","img":["front_left.png","front_right.png","front_top.png","rear.png"]}}
 seo:
-  title: Nulla suscipit
-  description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit'
+  title: ar300 | NetEngine AR300系列企业路由器 | AR 商业系列企业路由器 (中国区） | AR系列接入路由器 | 路由器 | 企业网络
+  description: NetEngine AR300系列企业路由器是华为面向SMB和微型企业推出的新一代盒式系列产品，集路由、交换、安全等丰富业务特性于一体，满足企业客户的业务多元化和高性能需求。
   extra:
     - name: 'og:type'
       value: website
       keyName: property
     - name: 'og:title'
-      value: Nulla suscipit
+      value: 河南网田
       keyName: property
     - name: 'og:description'
-      value: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit'
+      value: NetEngine AR300系列企业路由器是华为面向SMB和微型企业推出的新一代盒式系列产品，集路由、交换、安全等丰富业务特性于一体，满足企业客户的业务多元化和高性能需求。
       keyName: property
-    - name: 'og:image'
-      value: images/plant1-lg.jpg
-      keyName: property
-      relativeUrl: true
-    - name: 'twitter:card'
-      value: summary_large_image
-    - name: 'twitter:title'
-      value: Nulla suscipit
-    - name: 'twitter:description'
-      value: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit'
-    - name: 'twitter:image'
-      value: images/plant1-lg.jpg
-      relativeUrl: true
+    - name: Robots
+      value: all
 template: product
 ---
 

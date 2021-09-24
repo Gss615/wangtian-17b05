@@ -16,31 +16,20 @@ other3: https://e.huawei.com/cn/material/networking/wlan/45ff526a8f1f4bb7b5f6bd2
 other4:
   images: {"ap2051dn-s":{"org":"AP2051DN-S_pic","img":["bottom.png","front_left.png","front_right.png","front_top.png","rear.png","rear_top.png","right.png","stand_left.png","stand_right.png","top.png"]}}
 seo:
-  title: Nulla suscipit
-  description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit'
+  title: ap2051dn-s | AP2051DN-S接入点 | AP2000系列 | 室内接入点 | 无线局域网 | 企业网络
+  description: 华为AP2051DN-S接入点是面向中小企业分销级市场的新一代智能面板AP产品，支持802.11ac Wave 2标准协议，内置智能天线，可有效提升覆盖范围，支持2×2MIMO和两条空间流，整机速率1.267Gbps，适用于酒店客房、学生宿舍、医院病房、小型办公室等房间面积较小，户型较密集场景。
   extra:
     - name: 'og:type'
       value: website
       keyName: property
     - name: 'og:title'
-      value: Nulla suscipit
+      value: 河南网田
       keyName: property
     - name: 'og:description'
-      value: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit'
+      value: 华为AP2051DN-S接入点是面向中小企业分销级市场的新一代智能面板AP产品，支持802.11ac Wave 2标准协议，内置智能天线，可有效提升覆盖范围，支持2×2MIMO和两条空间流，整机速率1.267Gbps，适用于酒店客房、学生宿舍、医院病房、小型办公室等房间面积较小，户型较密集场景。
       keyName: property
-    - name: 'og:image'
-      value: images/plant1-lg.jpg
-      keyName: property
-      relativeUrl: true
-    - name: 'twitter:card'
-      value: summary_large_image
-    - name: 'twitter:title'
-      value: Nulla suscipit
-    - name: 'twitter:description'
-      value: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit'
-    - name: 'twitter:image'
-      value: images/plant1-lg.jpg
-      relativeUrl: true
+    - name: Robots
+      value: all
 template: product
 ---
 

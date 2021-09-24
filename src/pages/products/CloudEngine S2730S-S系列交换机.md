@@ -18,31 +18,24 @@ other3: https://e.huawei.com/cn/material/networking/campus-network/campusswitch/
 other4:
   images: {"s2730s-s8ft4s-a":{"org":"S2730S-S8FT4S-A_pic","img":["front.png","front_left.png","front_right.png","front_top.png","rear.png","rear_top.png"]}}
 seo:
-  title: Nulla suscipit
-  description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit'
+  title: s2730s-s | CloudEngine S2730S-S系列交换机 | SMB交换机 | 园区交换机 | 交换机 | 企业网络
+  description: CloudEngine S2730S-S系列交换机是华为公司推出的新一代绿色节能的以太智能百兆/千兆接入交换机。
+
+它基于新一代高性能硬件和华为公司统一的VRP（Versatile Routing Platform）软件平台，灵活的以太组网，多样的安全控制等特点，支持多种三层路由协议，具备更高性能和更丰富的业务处理能力，广泛应用于企业园区接入，百兆、千兆到桌面等多种应用场景。
   extra:
     - name: 'og:type'
       value: website
       keyName: property
     - name: 'og:title'
-      value: Nulla suscipit
+      value: 河南网田
       keyName: property
     - name: 'og:description'
-      value: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit'
+      value: CloudEngine S2730S-S系列交换机是华为公司推出的新一代绿色节能的以太智能百兆/千兆接入交换机。
+
+它基于新一代高性能硬件和华为公司统一的VRP（Versatile Routing Platform）软件平台，灵活的以太组网，多样的安全控制等特点，支持多种三层路由协议，具备更高性能和更丰富的业务处理能力，广泛应用于企业园区接入，百兆、千兆到桌面等多种应用场景。
       keyName: property
-    - name: 'og:image'
-      value: images/plant1-lg.jpg
-      keyName: property
-      relativeUrl: true
-    - name: 'twitter:card'
-      value: summary_large_image
-    - name: 'twitter:title'
-      value: Nulla suscipit
-    - name: 'twitter:description'
-      value: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit'
-    - name: 'twitter:image'
-      value: images/plant1-lg.jpg
-      relativeUrl: true
+    - name: Robots
+      value: all
 template: product
 ---
 

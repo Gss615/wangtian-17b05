@@ -16,31 +16,20 @@ other3: null
 other4:
   images: {"other":{"org":"other","img":["HiSec Insight安全态势感知系统（原CIS）.png"]}}
 seo:
-  title: Nulla suscipit
-  description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit'
+  title: cis | HiSec Insight安全态势感知系统 | null | 大数据分析及APT防御 | 网络安全 | 企业网络
+  description: HiSec Insight安全态势感知（原CIS）基于成熟自研商用大数据平台FusionInsight开发，结合智能检测算法可进行多维度海量数据关联分析，主动实时的发现各类安全威胁事件，还原出整个APT攻击链攻击行为。同时华为安全态势感知可采集和存储多类网络信息数据，帮助用户在发现威胁后调查取证以及处置问责。华为安全态势感知以发现威胁、阻断威胁、取证、溯源、响应、处置的思路设计，助力用户完成全流程威胁事件闭环。
   extra:
     - name: 'og:type'
       value: website
       keyName: property
     - name: 'og:title'
-      value: Nulla suscipit
+      value: 河南网田
       keyName: property
     - name: 'og:description'
-      value: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit'
+      value: HiSec Insight安全态势感知（原CIS）基于成熟自研商用大数据平台FusionInsight开发，结合智能检测算法可进行多维度海量数据关联分析，主动实时的发现各类安全威胁事件，还原出整个APT攻击链攻击行为。同时华为安全态势感知可采集和存储多类网络信息数据，帮助用户在发现威胁后调查取证以及处置问责。华为安全态势感知以发现威胁、阻断威胁、取证、溯源、响应、处置的思路设计，助力用户完成全流程威胁事件闭环。
       keyName: property
-    - name: 'og:image'
-      value: images/plant1-lg.jpg
-      keyName: property
-      relativeUrl: true
-    - name: 'twitter:card'
-      value: summary_large_image
-    - name: 'twitter:title'
-      value: Nulla suscipit
-    - name: 'twitter:description'
-      value: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit'
-    - name: 'twitter:image'
-      value: images/plant1-lg.jpg
-      relativeUrl: true
+    - name: Robots
+      value: all
 template: product
 ---
 

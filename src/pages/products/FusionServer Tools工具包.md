@@ -16,31 +16,20 @@ other3: null
 other4:
   images: {"other":{"org":"other","img":["FusionServer Tools工具包.png"]}}
 seo:
-  title: Nulla suscipit
-  description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit'
+  title: tools | FusionServer Tools工具包 | null | 智能管理软件 | 服务器 - 计算 | 数据中心
+  description: FusionServer Tools工具包提供了带内带外服务器快捷运维的小工具，能够帮助客户在单机场景或者没有上层管理软件的场景，也能够快速便携的对服务器进行配置，故障诊断、例行巡检、系统部署。
   extra:
     - name: 'og:type'
       value: website
       keyName: property
     - name: 'og:title'
-      value: Nulla suscipit
+      value: 河南网田
       keyName: property
     - name: 'og:description'
-      value: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit'
+      value: FusionServer Tools工具包提供了带内带外服务器快捷运维的小工具，能够帮助客户在单机场景或者没有上层管理软件的场景，也能够快速便携的对服务器进行配置，故障诊断、例行巡检、系统部署。
       keyName: property
-    - name: 'og:image'
-      value: images/plant1-lg.jpg
-      keyName: property
-      relativeUrl: true
-    - name: 'twitter:card'
-      value: summary_large_image
-    - name: 'twitter:title'
-      value: Nulla suscipit
-    - name: 'twitter:description'
-      value: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit'
-    - name: 'twitter:image'
-      value: images/plant1-lg.jpg
-      relativeUrl: true
+    - name: Robots
+      value: all
 template: product
 ---
 

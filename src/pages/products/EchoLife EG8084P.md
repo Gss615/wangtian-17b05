@@ -16,31 +16,20 @@ other3: null
 other4:
   images: {"other":{"org":"other","img":["EchoLife EG8084P.png"]}}
 seo:
-  title: Nulla suscipit
-  description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit'
+  title: eg8084p | EchoLife EG8084P | null | ONU | 光终端 | 企业光网络
+  description: EchoLife EG8084P是针对政企，交通和大型园区等行业推出的工业型ONU，支持高性能转发功能，以确保良好的互联网和视频回传体验，可以安装在室内或室外的机架和网络箱中，也可以竖挂或安装到DIN导轨。
   extra:
     - name: 'og:type'
       value: website
       keyName: property
     - name: 'og:title'
-      value: Nulla suscipit
+      value: 河南网田
       keyName: property
     - name: 'og:description'
-      value: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit'
+      value: EchoLife EG8084P是针对政企，交通和大型园区等行业推出的工业型ONU，支持高性能转发功能，以确保良好的互联网和视频回传体验，可以安装在室内或室外的机架和网络箱中，也可以竖挂或安装到DIN导轨。
       keyName: property
-    - name: 'og:image'
-      value: images/plant1-lg.jpg
-      keyName: property
-      relativeUrl: true
-    - name: 'twitter:card'
-      value: summary_large_image
-    - name: 'twitter:title'
-      value: Nulla suscipit
-    - name: 'twitter:description'
-      value: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit'
-    - name: 'twitter:image'
-      value: images/plant1-lg.jpg
-      relativeUrl: true
+    - name: Robots
+      value: all
 template: product
 ---
 

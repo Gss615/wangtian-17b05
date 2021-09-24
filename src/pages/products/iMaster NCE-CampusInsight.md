@@ -16,31 +16,20 @@ other3:
 other4:
   images: {"other":{"org":"other","img":["iMaster NCE-CampusInsight.png"]}}
 seo:
-  title: Nulla suscipit
-  description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit'
+  title: campusinsight | iMaster NCE-CampusInsight园区网络分析器 | null | 园区自动驾驶网络管理控制系统 | 网络管控&分析软件 | 企业网络
+  description: 华为iMaster NCE-CampusInsight园区网络分析器，颠覆传统聚焦资源状态的监控方式，通过Telemetry技术实时采集网络数据，利用大数据分析、机器学习算法学习网络行为并识别故障模式，帮助运维人员主动发现85%的网络问题，打造卓越的网络服务保障体验。
   extra:
     - name: 'og:type'
       value: website
       keyName: property
     - name: 'og:title'
-      value: Nulla suscipit
+      value: 河南网田
       keyName: property
     - name: 'og:description'
-      value: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit'
+      value: 华为iMaster NCE-CampusInsight园区网络分析器，颠覆传统聚焦资源状态的监控方式，通过Telemetry技术实时采集网络数据，利用大数据分析、机器学习算法学习网络行为并识别故障模式，帮助运维人员主动发现85%的网络问题，打造卓越的网络服务保障体验。
       keyName: property
-    - name: 'og:image'
-      value: images/plant1-lg.jpg
-      keyName: property
-      relativeUrl: true
-    - name: 'twitter:card'
-      value: summary_large_image
-    - name: 'twitter:title'
-      value: Nulla suscipit
-    - name: 'twitter:description'
-      value: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit'
-    - name: 'twitter:image'
-      value: images/plant1-lg.jpg
-      relativeUrl: true
+    - name: Robots
+      value: all
 template: product
 ---
 

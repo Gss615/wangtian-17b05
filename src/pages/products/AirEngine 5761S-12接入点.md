@@ -16,31 +16,20 @@ other3: https://e.huawei.com/cn/material/networking/campus-network/wlan/029c6564
 other4:
   images: {"airengine5761s-12":{"org":"AirEngine5761S-12_pic","img":["front.png","front_bottom.png","front_left.png","front_right.png","front_top.png","rear.png","rear_top.png"]}}
 seo:
-  title: Nulla suscipit
-  description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit'
+  title: airengine-5761s-12 | AirEngine 5761S-12接入点 | AirEngine 5700系列 | 室内接入点 | 无线局域网 | 企业网络
+  description: AirEngine 5761S-12 是华为面向SMB市场发布的支持 Wi-Fi 6（802.11ax）标准的室内 AP。支持 2.4GHz（2x2）和 5GHz（2x2）双频同时提供业务，整机速率可达 1.775Gbps。内置智能天线，信号随用户而动，极大地增强用户对无线网络的使用体验。支持高带宽、高并发且体积小巧，便于客户灵活部署，有效节约客户投资，适用于中小型企业办公、医院、咖啡厅等室内覆盖场景。
   extra:
     - name: 'og:type'
       value: website
       keyName: property
     - name: 'og:title'
-      value: Nulla suscipit
+      value: 河南网田
       keyName: property
     - name: 'og:description'
-      value: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit'
+      value: AirEngine 5761S-12 是华为面向SMB市场发布的支持 Wi-Fi 6（802.11ax）标准的室内 AP。支持 2.4GHz（2x2）和 5GHz（2x2）双频同时提供业务，整机速率可达 1.775Gbps。内置智能天线，信号随用户而动，极大地增强用户对无线网络的使用体验。支持高带宽、高并发且体积小巧，便于客户灵活部署，有效节约客户投资，适用于中小型企业办公、医院、咖啡厅等室内覆盖场景。
       keyName: property
-    - name: 'og:image'
-      value: images/plant1-lg.jpg
-      keyName: property
-      relativeUrl: true
-    - name: 'twitter:card'
-      value: summary_large_image
-    - name: 'twitter:title'
-      value: Nulla suscipit
-    - name: 'twitter:description'
-      value: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit'
-    - name: 'twitter:image'
-      value: images/plant1-lg.jpg
-      relativeUrl: true
+    - name: Robots
+      value: all
 template: product
 ---
 

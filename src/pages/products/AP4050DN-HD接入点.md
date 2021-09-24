@@ -16,31 +16,20 @@ other3: null
 other4:
   images: {"other":{"org":"other","img":["AP4050DN-HD接入点.png"]}}
 seo:
-  title: Nulla suscipit
-  description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit'
+  title: ap4050dn-hd | AP4050DN-HD接入点 | AP4000系列 | 室内接入点 | 无线局域网 | 企业网络
+  description: AP4050DN-HD无线接入点支持802.11ac wave2标准，2×2MIMO和两条空间流，整机速率1.267Gbps，内置智能高密天线，适合部署在室内场馆高密度场景。
   extra:
     - name: 'og:type'
       value: website
       keyName: property
     - name: 'og:title'
-      value: Nulla suscipit
+      value: 河南网田
       keyName: property
     - name: 'og:description'
-      value: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit'
+      value: AP4050DN-HD无线接入点支持802.11ac wave2标准，2×2MIMO和两条空间流，整机速率1.267Gbps，内置智能高密天线，适合部署在室内场馆高密度场景。
       keyName: property
-    - name: 'og:image'
-      value: images/plant1-lg.jpg
-      keyName: property
-      relativeUrl: true
-    - name: 'twitter:card'
-      value: summary_large_image
-    - name: 'twitter:title'
-      value: Nulla suscipit
-    - name: 'twitter:description'
-      value: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit'
-    - name: 'twitter:image'
-      value: images/plant1-lg.jpg
-      relativeUrl: true
+    - name: Robots
+      value: all
 template: product
 ---
 

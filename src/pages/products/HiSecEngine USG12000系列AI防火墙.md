@@ -20,31 +20,28 @@ other3: null
 other4:
   images: {"usg12004":{"org":"USG12004_pic","img":["front.png","front_left.png","front_right.png","front_top.png","rear.png"]}}
 seo:
-  title: Nulla suscipit
-  description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit'
+  title: usg12000 | HiSecEngine USG12000系列AI防火墙 | null | 防火墙及应用安全网关 | 网络安全 | 企业网络
+  description: HiSecEngine USG12000系列防火墙（以下简称USG12000系列）是华为公司推出的首款T级AI防火墙，在网络边界实时防护已知与未知威胁，为大型数据中心、园区网络提供领先的安全防护能力。USG12000系列采用先进的硬件架构设计，应用多种绿色节能创新技术，大幅降低设备能源消耗。提供全类型接口板，单槽位接口密度最高可达18x100GE，满足大流量需求。
+
+提供高达T级的业务处理性能，集成NAT、CGN、VPN、虚拟化以及内容安全等多种安全特性，应对新时代大流量、多业务威胁防御场景。
+
+具备完善的运营商级高可靠性架构和方案，支持双主控、双机热备、NSR、GR等多种可靠性机制。采用基于硬件的软件完整性校验，避免非法软件运行，打造安全基石。USG12000系列包含USG12004和USG12008型号，用户可以根据不同的网络需求进行灵活的选择。
   extra:
     - name: 'og:type'
       value: website
       keyName: property
     - name: 'og:title'
-      value: Nulla suscipit
+      value: 河南网田
       keyName: property
     - name: 'og:description'
-      value: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit'
+      value: HiSecEngine USG12000系列防火墙（以下简称USG12000系列）是华为公司推出的首款T级AI防火墙，在网络边界实时防护已知与未知威胁，为大型数据中心、园区网络提供领先的安全防护能力。USG12000系列采用先进的硬件架构设计，应用多种绿色节能创新技术，大幅降低设备能源消耗。提供全类型接口板，单槽位接口密度最高可达18x100GE，满足大流量需求。
+
+提供高达T级的业务处理性能，集成NAT、CGN、VPN、虚拟化以及内容安全等多种安全特性，应对新时代大流量、多业务威胁防御场景。
+
+具备完善的运营商级高可靠性架构和方案，支持双主控、双机热备、NSR、GR等多种可靠性机制。采用基于硬件的软件完整性校验，避免非法软件运行，打造安全基石。USG12000系列包含USG12004和USG12008型号，用户可以根据不同的网络需求进行灵活的选择。
       keyName: property
-    - name: 'og:image'
-      value: images/plant1-lg.jpg
-      keyName: property
-      relativeUrl: true
-    - name: 'twitter:card'
-      value: summary_large_image
-    - name: 'twitter:title'
-      value: Nulla suscipit
-    - name: 'twitter:description'
-      value: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit'
-    - name: 'twitter:image'
-      value: images/plant1-lg.jpg
-      relativeUrl: true
+    - name: Robots
+      value: all
 template: product
 ---
 

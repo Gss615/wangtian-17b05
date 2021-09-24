@@ -20,31 +20,28 @@ other3: https://e.huawei.com/cn/material/datacenter/storage/7874912beeb14506aed0
 other4:
   images: {"other":{"org":"other","img":["OceanStor 6800 V5.png"]}}
 seo:
-  title: Nulla suscipit
-  description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit'
+  title: 6800-v5 | OceanStor 6800 V5高端混合闪存存储系统 | null | null | 混合闪存存储 | 数据存储
+  description: 华为OceanStor 6800 V5是全新一代高端混合闪存存储系统，为企业核心业务提供最高水平的数据服务。
+
+面向云架构的存储操作系统、闪存优化的强劲性能和智能的管理软件，在功能、性能、效率、可靠性和易用性上都达到业界领先水平。同时提供高效、灵活、丰富的备份、容灾解决方案，有效保证用户业务连续性和数据安全，为用户提供卓越的存储服务。
+
+满足了大型数据库OLTP/OLAP、云计算等各种应用的数据存储需求，助力企业平滑向云转型，广泛适用于政府、金融、运营商，制造等行业。
   extra:
     - name: 'og:type'
       value: website
       keyName: property
     - name: 'og:title'
-      value: Nulla suscipit
+      value: 河南网田
       keyName: property
     - name: 'og:description'
-      value: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit'
+      value: 华为OceanStor 6800 V5是全新一代高端混合闪存存储系统，为企业核心业务提供最高水平的数据服务。
+
+面向云架构的存储操作系统、闪存优化的强劲性能和智能的管理软件，在功能、性能、效率、可靠性和易用性上都达到业界领先水平。同时提供高效、灵活、丰富的备份、容灾解决方案，有效保证用户业务连续性和数据安全，为用户提供卓越的存储服务。
+
+满足了大型数据库OLTP/OLAP、云计算等各种应用的数据存储需求，助力企业平滑向云转型，广泛适用于政府、金融、运营商，制造等行业。
       keyName: property
-    - name: 'og:image'
-      value: images/plant1-lg.jpg
-      keyName: property
-      relativeUrl: true
-    - name: 'twitter:card'
-      value: summary_large_image
-    - name: 'twitter:title'
-      value: Nulla suscipit
-    - name: 'twitter:description'
-      value: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit'
-    - name: 'twitter:image'
-      value: images/plant1-lg.jpg
-      relativeUrl: true
+    - name: Robots
+      value: all
 template: product
 ---
 

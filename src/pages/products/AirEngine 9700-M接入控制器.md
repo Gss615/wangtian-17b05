@@ -16,31 +16,20 @@ other3: https://e.huawei.com/cn/material/networking/wlan/f6b9164c443e4ea3ad9a523
 other4:
   images: {"airengine9700-m":{"org":"AirEngine9700-M_pic","img":["front.png","front_left.png","front_right.png","front_top.png","left.png","rear.png","rear_top.png","right.png"]}}
 seo:
-  title: Nulla suscipit
-  description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit'
+  title: airengine-9700-m | AirEngine 9700-M接入控制器 | null | 接入控制器 | 无线局域网 | 企业网络
+  description: AirEngine 9700-M是华为面向中大型企业园区、企业分支和校园推出的无线接入控制器（Access controller），最大可管理2048个AP，转发能力最高120Gbps。配合华为全系列802.11ac/802.11ax无线接入点，可组建中大型园区网络、企业办公网络、无线城域网络、热点覆盖等应用环境。
   extra:
     - name: 'og:type'
       value: website
       keyName: property
     - name: 'og:title'
-      value: Nulla suscipit
+      value: 河南网田
       keyName: property
     - name: 'og:description'
-      value: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit'
+      value: AirEngine 9700-M是华为面向中大型企业园区、企业分支和校园推出的无线接入控制器（Access controller），最大可管理2048个AP，转发能力最高120Gbps。配合华为全系列802.11ac/802.11ax无线接入点，可组建中大型园区网络、企业办公网络、无线城域网络、热点覆盖等应用环境。
       keyName: property
-    - name: 'og:image'
-      value: images/plant1-lg.jpg
-      keyName: property
-      relativeUrl: true
-    - name: 'twitter:card'
-      value: summary_large_image
-    - name: 'twitter:title'
-      value: Nulla suscipit
-    - name: 'twitter:description'
-      value: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit'
-    - name: 'twitter:image'
-      value: images/plant1-lg.jpg
-      relativeUrl: true
+    - name: Robots
+      value: all
 template: product
 ---
 

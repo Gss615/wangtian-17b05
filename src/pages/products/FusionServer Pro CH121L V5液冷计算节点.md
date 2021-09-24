@@ -16,31 +16,20 @@ other3: https://e.huawei.com/cn/material/datacenter/server/70999e0267bd4e46993e5
 other4:
   images: {"other":{"org":"other","img":["FusionServer Pro CH121L V5液冷计算节点.png"]}}
 seo:
-  title: Nulla suscipit
-  description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit'
+  title: ch121l-v5-node | FusionServer CH121L V5液冷计算节点 | FusionServer刀片服务器 | FusionServer Pro智能服务器 | 服务器 - 计算 | 数据中心
+  description: CH121L V5为CH121 V5刀片的液冷版本，针对虚拟化、云计算、HPC、NFV等业务需求进行优化设计，具有高密度计算能力和超大内存容量，可支持全系列CPU(最高功耗达205W)，提供24个DDR4 DIMM插槽，并支持2个2.5寸硬盘或4个M.2 SSD存储。
   extra:
     - name: 'og:type'
       value: website
       keyName: property
     - name: 'og:title'
-      value: Nulla suscipit
+      value: 河南网田
       keyName: property
     - name: 'og:description'
-      value: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit'
+      value: CH121L V5为CH121 V5刀片的液冷版本，针对虚拟化、云计算、HPC、NFV等业务需求进行优化设计，具有高密度计算能力和超大内存容量，可支持全系列CPU(最高功耗达205W)，提供24个DDR4 DIMM插槽，并支持2个2.5寸硬盘或4个M.2 SSD存储。
       keyName: property
-    - name: 'og:image'
-      value: images/plant1-lg.jpg
-      keyName: property
-      relativeUrl: true
-    - name: 'twitter:card'
-      value: summary_large_image
-    - name: 'twitter:title'
-      value: Nulla suscipit
-    - name: 'twitter:description'
-      value: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit'
-    - name: 'twitter:image'
-      value: images/plant1-lg.jpg
-      relativeUrl: true
+    - name: Robots
+      value: all
 template: product
 ---
 

@@ -16,31 +16,20 @@ other3: null
 other4:
   images: {"other":{"org":"other","img":["GaussDB A150数据库一体机.png"]}}
 seo:
-  title: Nulla suscipit
-  description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit'
+  title: gaussdb-a150 | GaussDB A150数据库一体机 | null | GaussDB A系列 | 数据库 | 数据中心
+  description: 华为GaussDB A150 均衡型数据库一体机是GaussDB A软件基于Kunpeng硬件架构的一体机产品，采用分布式数据库集群部署方式，主要适用于通用分析型业务需求。
   extra:
     - name: 'og:type'
       value: website
       keyName: property
     - name: 'og:title'
-      value: Nulla suscipit
+      value: 河南网田
       keyName: property
     - name: 'og:description'
-      value: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit'
+      value: 华为GaussDB A150 均衡型数据库一体机是GaussDB A软件基于Kunpeng硬件架构的一体机产品，采用分布式数据库集群部署方式，主要适用于通用分析型业务需求。
       keyName: property
-    - name: 'og:image'
-      value: images/plant1-lg.jpg
-      keyName: property
-      relativeUrl: true
-    - name: 'twitter:card'
-      value: summary_large_image
-    - name: 'twitter:title'
-      value: Nulla suscipit
-    - name: 'twitter:description'
-      value: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit'
-    - name: 'twitter:image'
-      value: images/plant1-lg.jpg
-      relativeUrl: true
+    - name: Robots
+      value: all
 template: product
 ---
 

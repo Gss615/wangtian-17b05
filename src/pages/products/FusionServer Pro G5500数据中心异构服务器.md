@@ -16,34 +16,23 @@ other3: https://e.huawei.com/cn/material/datacenter/server/9fa928714de8405099ebd
 other4:
   images: {"other":{"org":"other","img":["FusionServer Pro G5500数据中心异构服务器.png"]}}
 seo:
-  title: Nulla suscipit
-  description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit'
+  title: g5500 | FusionServer Pro G5500数据中心异构服务器 | null | 昇腾计算 | 服务器 - 计算 | 数据中心
+  description: 华为FusionServer Pro G5500是面向数据中心部署的异构服务器，具有高密的异构计算能力，支持GPUDirect RDMA和P2P；支持一键切换异构拓扑，为多样化应用负载提供最优的异构拓扑配置；基于全模块化设计，支持CPU和异构部件的长期演进。FusionServer Pro G5500是适配AI、HPC、智能云、视频分析和数据库加速等应用场景的最佳异构计算平台。
   extra:
     - name: 'og:type'
       value: website
       keyName: property
     - name: 'og:title'
-      value: Nulla suscipit
+      value: 河南网田
       keyName: property
     - name: 'og:description'
-      value: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit'
+      value: 华为FusionServer Pro G5500是面向数据中心部署的异构服务器，具有高密的异构计算能力，支持GPUDirect RDMA和P2P；支持一键切换异构拓扑，为多样化应用负载提供最优的异构拓扑配置；基于全模块化设计，支持CPU和异构部件的长期演进。FusionServer Pro G5500是适配AI、HPC、智能云、视频分析和数据库加速等应用场景的最佳异构计算平台。
       keyName: property
-    - name: 'og:image'
-      value: images/plant1-lg.jpg
-      keyName: property
-      relativeUrl: true
-    - name: 'twitter:card'
-      value: summary_large_image
-    - name: 'twitter:title'
-      value: Nulla suscipit
-    - name: 'twitter:description'
-      value: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit'
-    - name: 'twitter:image'
-      value: images/plant1-lg.jpg
-      relativeUrl: true
+    - name: Robots
+      value: all
 template: product
 ---
 
 # Nulla suscipit
 
-Aliquam quis laoreet lectus. Proin non mattis nulla, quis posuere mi. Mauris venenatis, magna at pellentesque commodo, lectus risus vehicula elit, nec dignissim nisl sapien id leo. Nulla non pretium metus, vitae finibus lectus. Aliquam in posuere risus. Curabitur ultrices ornare magna porttitor commodo. Curabitur eu tempor orci, sed pretium quam. Vestibulum condimentum, arcu nec pulvinar fringilla, lorem odio varius arcu, in porta tellus eros sed neque. Suspendisse efficitur eget erat sit amet efficitur. Proin maximus nibh eu sapien consequat, non porttitor risus consequat. Donec maximus odio sed nibh convallis luctus.
+Aliquam quis laoreet lectus. Proin non mattis nulla, quis posuere mi. Mauris venenatis, magna at pellentesque commodo, lectus risus vehicula elit, nec dignissim nisl sapien id leo. Nulla non pretium metus, vitae finibus lectus. Aliquam in posuere risus. Curabitur ultrices ornare magna porttitor commodo. Curabitur eu tempor orci, sed pretium quam. Vestibulum condimentum, arcu nec pulvinar fringilla, lorem odio varius arcu, in porta tellus eros sed neque. Suspendisse efficitur eget erat sit amet efficitur. Proin maximus nibh eu sapien consequat, non porttitor risus consequat. Donec maximus odio sed nibh convallis luctus.dio sed nibh convallis luctus.

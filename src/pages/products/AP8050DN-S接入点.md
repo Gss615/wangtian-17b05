@@ -20,31 +20,28 @@ other3: https://e.huawei.com/cn/material/networking/wlan/7bb86f7baf964d6fb56b1ae
 other4:
   images: {"ap8050dn-s":{"org":"AP8050DN-S_pic","img":["bottom.png","front.png","front_left.png","front_right.png","front_top.png","rear.png","rear_bottom.png","right.png","top.png"]}}
 seo:
-  title: Nulla suscipit
-  description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit'
+  title: ap8050dn-s | AP8050DN-S接入点 | AP8000 系列 | 室外接入点 | 无线局域网 | 企业网络
+  description: AP8050DN-S是华为最新一代802.11ac Wave 2室外型双频无线接入点设备，支持2×2 MU-MIMO和2条空间流，具有卓越的室外覆盖性能及超强的硬件防护，支持2.4GHz和5GHz频率，支持无线网桥，内置蓝牙，兼容IEEE 802.11a/b/g/n/ac标准。
+
+双频同时提供业务时可提供更高的接入容量，使室外无线网络带宽突破千兆，同时具备完善的业务支持能力、高可靠性、高安全性、网络部署简单、自动上线和配置、实时管理和维护等特点，满足室外无线网络部署要求。
+
+适用于高密场馆、广场、步行街、游乐场等覆盖场景，或者无线港口、无线数据回传、无线视频监控、车地回传等桥接场景。
   extra:
     - name: 'og:type'
       value: website
       keyName: property
     - name: 'og:title'
-      value: Nulla suscipit
+      value: 河南网田
       keyName: property
     - name: 'og:description'
-      value: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit'
+      value: AP8050DN-S是华为最新一代802.11ac Wave 2室外型双频无线接入点设备，支持2×2 MU-MIMO和2条空间流，具有卓越的室外覆盖性能及超强的硬件防护，支持2.4GHz和5GHz频率，支持无线网桥，内置蓝牙，兼容IEEE 802.11a/b/g/n/ac标准。
+
+双频同时提供业务时可提供更高的接入容量，使室外无线网络带宽突破千兆，同时具备完善的业务支持能力、高可靠性、高安全性、网络部署简单、自动上线和配置、实时管理和维护等特点，满足室外无线网络部署要求。
+
+适用于高密场馆、广场、步行街、游乐场等覆盖场景，或者无线港口、无线数据回传、无线视频监控、车地回传等桥接场景。
       keyName: property
-    - name: 'og:image'
-      value: images/plant1-lg.jpg
-      keyName: property
-      relativeUrl: true
-    - name: 'twitter:card'
-      value: summary_large_image
-    - name: 'twitter:title'
-      value: Nulla suscipit
-    - name: 'twitter:description'
-      value: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit'
-    - name: 'twitter:image'
-      value: images/plant1-lg.jpg
-      relativeUrl: true
+    - name: Robots
+      value: all
 template: product
 ---
 

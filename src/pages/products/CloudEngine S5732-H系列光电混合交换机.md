@@ -18,31 +18,24 @@ other3: https://e.huawei.com/cn/material/networking/campus-network/campusswitch/
 other4:
   images: {"s5732-h48xum2cc":{"org":"S5732-H48XUM2CC_pic","img":["front.png","front_HD.png","front_left.png","front_left_HD.png","front_right.png","front_right_HD.png","front_top.png","front_top_HD.png","rear_top.png","rear_top_HD.png"]}}
 seo:
-  title: Nulla suscipit
-  description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit'
+  title: s5732-h-hybrid-optical-electrical | CloudEngine S5732-H系列光电混合交换机 | 接入交换机 | 园区交换机 | 交换机 | 企业网络
+  description: CloudEngine S5732-H系列全万兆光电混合以太网交换机，可提供24口万兆光口及24口万兆多速率电口混合接入，上行4个25GE及2个40GE，或2个100GE端口，支持一个扩展卡插槽。
+
+CloudEngine S5732-H基于华为公司统一的VRP（Versatile Routing Platform）软件平台，具备有线无线深度融合能力，支持随板AC，最多可管理1K AP；具备业务随行能力，提供一致的用户体验。该交换机提供光电独立工作和光电协同工作模式，适用于中大型园区网络汇聚，小微型数据中心接入及长距离接入场景。
   extra:
     - name: 'og:type'
       value: website
       keyName: property
     - name: 'og:title'
-      value: Nulla suscipit
+      value: 河南网田
       keyName: property
     - name: 'og:description'
-      value: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit'
+      value: CloudEngine S5732-H系列全万兆光电混合以太网交换机，可提供24口万兆光口及24口万兆多速率电口混合接入，上行4个25GE及2个40GE，或2个100GE端口，支持一个扩展卡插槽。
+
+CloudEngine S5732-H基于华为公司统一的VRP（Versatile Routing Platform）软件平台，具备有线无线深度融合能力，支持随板AC，最多可管理1K AP；具备业务随行能力，提供一致的用户体验。该交换机提供光电独立工作和光电协同工作模式，适用于中大型园区网络汇聚，小微型数据中心接入及长距离接入场景。
       keyName: property
-    - name: 'og:image'
-      value: images/plant1-lg.jpg
-      keyName: property
-      relativeUrl: true
-    - name: 'twitter:card'
-      value: summary_large_image
-    - name: 'twitter:title'
-      value: Nulla suscipit
-    - name: 'twitter:description'
-      value: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit'
-    - name: 'twitter:image'
-      value: images/plant1-lg.jpg
-      relativeUrl: true
+    - name: Robots
+      value: all
 template: product
 ---
 

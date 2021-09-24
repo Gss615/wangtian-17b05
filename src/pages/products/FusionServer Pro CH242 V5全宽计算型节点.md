@@ -16,31 +16,20 @@ other3: https://e.huawei.com/cn/material/datacenter/server/70999e0267bd4e46993e5
 other4:
   images: {"other":{"org":"other","img":["FusionServer Pro CH242 V5全宽计算型节点.png"]}}
 seo:
-  title: Nulla suscipit
-  description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit'
+  title: ch242-v5-node | FusionServer CH242 V5全宽计算型节点 | FusionServer刀片服务器 | FusionServer Pro智能服务器 | 服务器 - 计算 | 数据中心
+  description: CH242 V5四路全宽计算节点为虚拟化、数据库、ERP、HPC等业务需求进行优化设计，具有超高处理性能、可扩展性和可靠性，满足企业关键业务所需。CH242 V5可支持全系列CPU(最高功耗达205W)，提供48个DDR4 DIMM插槽，并支持8个M.2 SSD存储。
   extra:
     - name: 'og:type'
       value: website
       keyName: property
     - name: 'og:title'
-      value: Nulla suscipit
+      value: 河南网田
       keyName: property
     - name: 'og:description'
-      value: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit'
+      value: CH242 V5四路全宽计算节点为虚拟化、数据库、ERP、HPC等业务需求进行优化设计，具有超高处理性能、可扩展性和可靠性，满足企业关键业务所需。CH242 V5可支持全系列CPU(最高功耗达205W)，提供48个DDR4 DIMM插槽，并支持8个M.2 SSD存储。
       keyName: property
-    - name: 'og:image'
-      value: images/plant1-lg.jpg
-      keyName: property
-      relativeUrl: true
-    - name: 'twitter:card'
-      value: summary_large_image
-    - name: 'twitter:title'
-      value: Nulla suscipit
-    - name: 'twitter:description'
-      value: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit'
-    - name: 'twitter:image'
-      value: images/plant1-lg.jpg
-      relativeUrl: true
+    - name: Robots
+      value: all
 template: product
 ---
 

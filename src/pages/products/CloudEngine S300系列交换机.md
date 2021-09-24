@@ -16,31 +16,20 @@ other3: https://e.huawei.com/cn/material/networking/campus-network/campusswitch/
 other4:
   images: {"s300-8t4s":{"org":"S300-8T4S_pic","img":["front.png","front_left.png","front_right.png","front_top.png","rear.png","rear_top.png"]}}
 seo:
-  title: Nulla suscipit
-  description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit'
+  title: s300 | CloudEngine S300系列交换机 | 接入交换机 | 园区交换机 | 交换机 | 企业网络
+  description: CloudEngine S300系列交换机，是华为专为中小型企业设计的简单、灵活和可靠的新一代全管理型交换机，可广泛用于企业办公、生产等场景，助力企业实现数字化转型。
   extra:
     - name: 'og:type'
       value: website
       keyName: property
     - name: 'og:title'
-      value: Nulla suscipit
+      value: 河南网田
       keyName: property
     - name: 'og:description'
-      value: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit'
+      value: CloudEngine S300系列交换机，是华为专为中小型企业设计的简单、灵活和可靠的新一代全管理型交换机，可广泛用于企业办公、生产等场景，助力企业实现数字化转型。
       keyName: property
-    - name: 'og:image'
-      value: images/plant1-lg.jpg
-      keyName: property
-      relativeUrl: true
-    - name: 'twitter:card'
-      value: summary_large_image
-    - name: 'twitter:title'
-      value: Nulla suscipit
-    - name: 'twitter:description'
-      value: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit'
-    - name: 'twitter:image'
-      value: images/plant1-lg.jpg
-      relativeUrl: true
+    - name: Robots
+      value: all
 template: product
 ---
 

@@ -16,31 +16,20 @@ other3: https://e.huawei.com/cn/material/datacenter/storage/c0178337e60e4502bfd6
 other4:
   images: {"other":{"org":"other","img":["OceanStor 2810 V5.png"]}}
 seo:
-  title: Nulla suscipit
-  description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit'
+  title: 2810-v5 | OceanStor 2810 V5 | null | null | 混合闪存存储 | 数据存储
+  description: 华为OceanStor 2810 V5存算一体化平台是根据存储产品应用现状和存储技术未来发展趋势，推出的新一代专用高性能融合存储设备。存储控制器在继承华为OceanStor 企业存储特性的同时提供开放融合数据平台，充分发挥控制器的富余计算能力。用户可将原先部署在物理服务器上的应用迁移到存储控制器内，并提供一体化集成虚拟机、应用隔离、资源控制、高可靠高可用等关键特性。易于快速集成ISV业务平台，显著降低用户TCO。
   extra:
     - name: 'og:type'
       value: website
       keyName: property
     - name: 'og:title'
-      value: Nulla suscipit
+      value: 河南网田
       keyName: property
     - name: 'og:description'
-      value: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit'
+      value: 华为OceanStor 2810 V5存算一体化平台是根据存储产品应用现状和存储技术未来发展趋势，推出的新一代专用高性能融合存储设备。存储控制器在继承华为OceanStor 企业存储特性的同时提供开放融合数据平台，充分发挥控制器的富余计算能力。用户可将原先部署在物理服务器上的应用迁移到存储控制器内，并提供一体化集成虚拟机、应用隔离、资源控制、高可靠高可用等关键特性。易于快速集成ISV业务平台，显著降低用户TCO。
       keyName: property
-    - name: 'og:image'
-      value: images/plant1-lg.jpg
-      keyName: property
-      relativeUrl: true
-    - name: 'twitter:card'
-      value: summary_large_image
-    - name: 'twitter:title'
-      value: Nulla suscipit
-    - name: 'twitter:description'
-      value: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit'
-    - name: 'twitter:image'
-      value: images/plant1-lg.jpg
-      relativeUrl: true
+    - name: Robots
+      value: all
 template: product
 ---
 

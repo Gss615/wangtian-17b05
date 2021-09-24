@@ -16,31 +16,20 @@ other3: null
 other4:
   images: {"antiddos12004":{"org":"AntiDDoS12004_pic","img":["front.png","front_left.png","front_right.png","front_top.png","rear.png"]}}
 seo:
-  title: Nulla suscipit
-  description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit'
+  title: 12000 | AntiDDoS12000系列DDoS防御系统 | null | DDoS攻击防御 | 网络安全 | 企业网络
+  description: 华为HiSecEngine AntiDDoS12000提供最高2T+安全防护性能和拓展能力，有效应对大流量DDoS攻击；针对上百种复杂攻击，秒级甚至毫秒级防御，有效阻断攻击，保护客户业务永续。
   extra:
     - name: 'og:type'
       value: website
       keyName: property
     - name: 'og:title'
-      value: Nulla suscipit
+      value: 河南网田
       keyName: property
     - name: 'og:description'
-      value: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit'
+      value: 华为HiSecEngine AntiDDoS12000提供最高2T+安全防护性能和拓展能力，有效应对大流量DDoS攻击；针对上百种复杂攻击，秒级甚至毫秒级防御，有效阻断攻击，保护客户业务永续。
       keyName: property
-    - name: 'og:image'
-      value: images/plant1-lg.jpg
-      keyName: property
-      relativeUrl: true
-    - name: 'twitter:card'
-      value: summary_large_image
-    - name: 'twitter:title'
-      value: Nulla suscipit
-    - name: 'twitter:description'
-      value: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit'
-    - name: 'twitter:image'
-      value: images/plant1-lg.jpg
-      relativeUrl: true
+    - name: Robots
+      value: all
 template: product
 ---
 

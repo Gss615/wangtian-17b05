@@ -21,31 +21,30 @@ other3: null
 other4:
   images: {"other":{"org":"other","img":["Rapid.png"]}}
 seo:
-  title: Nulla suscipit
-  description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit'
+  title: elte-rapid | Rapid | null | Rapid快速部署系统 | eLTE宽带集群解决方案 | 企业无线
+  description: eLTE快速部署系统集成了基站、核心网、调度系统等功能，具有一体化、小型化的特点，特别适合紧急情况下需要快速部署的场景，比如网络瘫痪及大事件等情况。
+
+eLTE快速部署系统能够快速部署，在一定范围内提供通讯保障，为现场人员提供语音、调度、数据传输、视频监控等业务，并支持微波和卫星等多种回传方式。
+
+
+
   extra:
     - name: 'og:type'
       value: website
       keyName: property
     - name: 'og:title'
-      value: Nulla suscipit
+      value: 河南网田
       keyName: property
     - name: 'og:description'
-      value: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit'
+      value: eLTE快速部署系统集成了基站、核心网、调度系统等功能，具有一体化、小型化的特点，特别适合紧急情况下需要快速部署的场景，比如网络瘫痪及大事件等情况。
+
+eLTE快速部署系统能够快速部署，在一定范围内提供通讯保障，为现场人员提供语音、调度、数据传输、视频监控等业务，并支持微波和卫星等多种回传方式。
+
+
+
       keyName: property
-    - name: 'og:image'
-      value: images/plant1-lg.jpg
-      keyName: property
-      relativeUrl: true
-    - name: 'twitter:card'
-      value: summary_large_image
-    - name: 'twitter:title'
-      value: Nulla suscipit
-    - name: 'twitter:description'
-      value: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit'
-    - name: 'twitter:image'
-      value: images/plant1-lg.jpg
-      relativeUrl: true
+    - name: Robots
+      value: all
 template: product
 ---
 

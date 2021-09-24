@@ -16,31 +16,20 @@ other3: null
 other4:
   images: {"other":{"org":"other","img":["华为OptiXstar T620W.png"]}}
 seo:
-  title: Nulla suscipit
-  description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit'
+  title: optixstar-t620w | 华为OptiXstar T620W | null | ONU | 光终端 | 企业光网络
+  description: 华为OptiXstar T620W系列产品是面向企业园区的挂杆式AP设备，网络侧提供1个GPON接口和一个GE接口，用户侧提供1个GE以太网接口，为用户提供高清的视频回传服务。T620W系列产品包含T620W-45（内置 45°水平波宽天线）与T620W-90（内置 90°水平波宽天线）两款产品。
   extra:
     - name: 'og:type'
       value: website
       keyName: property
     - name: 'og:title'
-      value: Nulla suscipit
+      value: 河南网田
       keyName: property
     - name: 'og:description'
-      value: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit'
+      value: 华为OptiXstar T620W系列产品是面向企业园区的挂杆式AP设备，网络侧提供1个GPON接口和一个GE接口，用户侧提供1个GE以太网接口，为用户提供高清的视频回传服务。T620W系列产品包含T620W-45（内置 45°水平波宽天线）与T620W-90（内置 90°水平波宽天线）两款产品。
       keyName: property
-    - name: 'og:image'
-      value: images/plant1-lg.jpg
-      keyName: property
-      relativeUrl: true
-    - name: 'twitter:card'
-      value: summary_large_image
-    - name: 'twitter:title'
-      value: Nulla suscipit
-    - name: 'twitter:description'
-      value: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit'
-    - name: 'twitter:image'
-      value: images/plant1-lg.jpg
-      relativeUrl: true
+    - name: Robots
+      value: all
 template: product
 ---
 

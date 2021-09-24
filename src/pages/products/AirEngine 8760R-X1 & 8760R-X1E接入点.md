@@ -16,31 +16,20 @@ other3: https://e.huawei.com/cn/material/networking/campus-network/wlan/dcfd74d8
 other4:
   images: {"airengine8760-x1-pro":{"org":"AirEngine8760-X1-PRO_pic","img":["bottom.png","front.png","front_left.png","front_right.png","front_top.png","front_top_2.png","rear_top.png","top.png"]}}
 seo:
-  title: Nulla suscipit
-  description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit'
+  title: airengine-8760r-x1-8760r-x1e | AirEngine 8760R-X1 & 8760R-X1E接入点 | AirEngine 8700R系列 | 室外接入点 | 无线局域网 | 企业网络
+  description: AirEngine 8760R-X1 & AirEngine 8760R-X1E是支持802.11ax(Wi-Fi 6)标准的新一代旗舰型室外AP。整机支持16条空间流，速率可达10.75Gbps 。独家支持2.4GHz频段8T8R，具有卓越的室外覆盖性能以及超强的IP68防水防尘和6KV/6KA防雷电能力。适用于高密场馆、广场、体育场馆、游乐场等室外覆盖场景。
   extra:
     - name: 'og:type'
       value: website
       keyName: property
     - name: 'og:title'
-      value: Nulla suscipit
+      value: 河南网田
       keyName: property
     - name: 'og:description'
-      value: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit'
+      value: AirEngine 8760R-X1 & AirEngine 8760R-X1E是支持802.11ax(Wi-Fi 6)标准的新一代旗舰型室外AP。整机支持16条空间流，速率可达10.75Gbps 。独家支持2.4GHz频段8T8R，具有卓越的室外覆盖性能以及超强的IP68防水防尘和6KV/6KA防雷电能力。适用于高密场馆、广场、体育场馆、游乐场等室外覆盖场景。
       keyName: property
-    - name: 'og:image'
-      value: images/plant1-lg.jpg
-      keyName: property
-      relativeUrl: true
-    - name: 'twitter:card'
-      value: summary_large_image
-    - name: 'twitter:title'
-      value: Nulla suscipit
-    - name: 'twitter:description'
-      value: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit'
-    - name: 'twitter:image'
-      value: images/plant1-lg.jpg
-      relativeUrl: true
+    - name: Robots
+      value: all
 template: product
 ---
 

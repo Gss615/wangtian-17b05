@@ -16,31 +16,20 @@ other3: https://e.huawei.com/cn/material/networking/wlan/208e70c908694650aae1d14
 other4:
   images: {"ap2051dn-l-s":{"org":"AP2051DN-L-S_pic","img":["01.png","02.png","03.png","04.png"]}}
 seo:
-  title: Nulla suscipit
-  description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit'
+  title: ap2051dn-l-s | AP2051DN-L-S接入点 | AP2000系列 | 室内接入点 | 无线局域网 | 企业网络
+  description: AP2051DN-L-S是华为面向SMB市场发布的支持802.11ac Wave 2标准协议的面板AP，匹配标准86×86mm面板设计，可简单快速的安装在86型面板暗盒上。内置天线，隐式指示灯，滑动面板，美观大方，适用于酒店客房、学生宿舍、医院病房、小型办公室等房间体积较小，户型较密集场所。
   extra:
     - name: 'og:type'
       value: website
       keyName: property
     - name: 'og:title'
-      value: Nulla suscipit
+      value: 河南网田
       keyName: property
     - name: 'og:description'
-      value: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit'
+      value: AP2051DN-L-S是华为面向SMB市场发布的支持802.11ac Wave 2标准协议的面板AP，匹配标准86×86mm面板设计，可简单快速的安装在86型面板暗盒上。内置天线，隐式指示灯，滑动面板，美观大方，适用于酒店客房、学生宿舍、医院病房、小型办公室等房间体积较小，户型较密集场所。
       keyName: property
-    - name: 'og:image'
-      value: images/plant1-lg.jpg
-      keyName: property
-      relativeUrl: true
-    - name: 'twitter:card'
-      value: summary_large_image
-    - name: 'twitter:title'
-      value: Nulla suscipit
-    - name: 'twitter:description'
-      value: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit'
-    - name: 'twitter:image'
-      value: images/plant1-lg.jpg
-      relativeUrl: true
+    - name: Robots
+      value: all
 template: product
 ---
 

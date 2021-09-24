@@ -22,31 +22,32 @@ other3: null
 other4:
   images: {"other":{"org":"other","img":["OceanStor Pacific 9540分布式存储.png"]}}
 seo:
-  title: Nulla suscipit
-  description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit'
+  title: oceanstor-pacific-9540 | OceanStor Pacific 9540分布式存储  | 容量型 | OceanStor Pacific 系列存储 | 海量存储 | 数据存储
+  description: OceanStor Pacific 9540是华为全新推出的每机箱4U、1节点形态分布式存储，每节点提供大容量和灵活的部件配置组合，以满足广泛的结构化与非结构化业务负载访问诉求。关键特点：
+
+• 每节点144 TB至504TB裸容量；
+• 最大22+2的EC冗余配比，91.6%硬盘空间利用率；
+• 可与OceanStor Pacific 9920组合构建数据分级存储方案。
+
+OceanStor Pacific 9540凭借优越的性价比，为虚拟化/云资源池、高性能计算、AI应用、大数据分析、海量数据长期备份与归档等场景提供灵活的数据存取服务。
   extra:
     - name: 'og:type'
       value: website
       keyName: property
     - name: 'og:title'
-      value: Nulla suscipit
+      value: 河南网田
       keyName: property
     - name: 'og:description'
-      value: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit'
+      value: OceanStor Pacific 9540是华为全新推出的每机箱4U、1节点形态分布式存储，每节点提供大容量和灵活的部件配置组合，以满足广泛的结构化与非结构化业务负载访问诉求。关键特点：
+
+• 每节点144 TB至504TB裸容量；
+• 最大22+2的EC冗余配比，91.6%硬盘空间利用率；
+• 可与OceanStor Pacific 9920组合构建数据分级存储方案。
+
+OceanStor Pacific 9540凭借优越的性价比，为虚拟化/云资源池、高性能计算、AI应用、大数据分析、海量数据长期备份与归档等场景提供灵活的数据存取服务。
       keyName: property
-    - name: 'og:image'
-      value: images/plant1-lg.jpg
-      keyName: property
-      relativeUrl: true
-    - name: 'twitter:card'
-      value: summary_large_image
-    - name: 'twitter:title'
-      value: Nulla suscipit
-    - name: 'twitter:description'
-      value: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit'
-    - name: 'twitter:image'
-      value: images/plant1-lg.jpg
-      relativeUrl: true
+    - name: Robots
+      value: all
 template: product
 ---
 

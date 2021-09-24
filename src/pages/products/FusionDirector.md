@@ -16,31 +16,20 @@ other3: null
 other4:
   images: {"other":{"org":"other","img":["FusionDirector.png"]}}
 seo:
-  title: Nulla suscipit
-  description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit'
+  title: fusiondirector | FusionDirector | null | 智能管理软件 | 服务器 - 计算 | 数据中心
+  description: FusionDirector是服务器全生命周期智能管理软件，提供智能维护、智能升级、智能发现、智能节能和智能部署五大智能管理功能，运维效率提升30%，实时可视化界面为客户提供极致体验
   extra:
     - name: 'og:type'
       value: website
       keyName: property
     - name: 'og:title'
-      value: Nulla suscipit
+      value: 河南网田
       keyName: property
     - name: 'og:description'
-      value: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit'
+      value: FusionDirector是服务器全生命周期智能管理软件，提供智能维护、智能升级、智能发现、智能节能和智能部署五大智能管理功能，运维效率提升30%，实时可视化界面为客户提供极致体验
       keyName: property
-    - name: 'og:image'
-      value: images/plant1-lg.jpg
-      keyName: property
-      relativeUrl: true
-    - name: 'twitter:card'
-      value: summary_large_image
-    - name: 'twitter:title'
-      value: Nulla suscipit
-    - name: 'twitter:description'
-      value: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit'
-    - name: 'twitter:image'
-      value: images/plant1-lg.jpg
-      relativeUrl: true
+    - name: Robots
+      value: all
 template: product
 ---
 

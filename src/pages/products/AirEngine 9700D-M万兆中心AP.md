@@ -16,31 +16,20 @@ other3: https://e.huawei.com/cn/material/networking/campus-network/wlan/e6dc5aa8
 other4:
   images: {"airengine9700d-m":{"org":"AirEngine9700D-M_pic","img":["front.png","front_left.png","front_right.png","front_top.png","rear.png","rear_top.png"]}}
 seo:
-  title: Nulla suscipit
-  description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit'
+  title: airengine-9700d-m | AirEngine 9700D-M万兆中心AP | null | 场景化产品系列 | 无线局域网 | 企业网络
+  description: AirEngine 9700D-M是华为分布式Wi-Fi方案中的中心AP，支持4个万兆上行接口，可以直连多个Wi-Fi 6远端单元部署到室内。万兆中心AP和Wi-Fi 6远端单元之间使用网线连接，集中处理业务转发。适用于学校、酒店、医院以及办公会议室等房间密度大、墙体结构复杂、业务带宽高的场景。
   extra:
     - name: 'og:type'
       value: website
       keyName: property
     - name: 'og:title'
-      value: Nulla suscipit
+      value: 河南网田
       keyName: property
     - name: 'og:description'
-      value: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit'
+      value: AirEngine 9700D-M是华为分布式Wi-Fi方案中的中心AP，支持4个万兆上行接口，可以直连多个Wi-Fi 6远端单元部署到室内。万兆中心AP和Wi-Fi 6远端单元之间使用网线连接，集中处理业务转发。适用于学校、酒店、医院以及办公会议室等房间密度大、墙体结构复杂、业务带宽高的场景。
       keyName: property
-    - name: 'og:image'
-      value: images/plant1-lg.jpg
-      keyName: property
-      relativeUrl: true
-    - name: 'twitter:card'
-      value: summary_large_image
-    - name: 'twitter:title'
-      value: Nulla suscipit
-    - name: 'twitter:description'
-      value: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit'
-    - name: 'twitter:image'
-      value: images/plant1-lg.jpg
-      relativeUrl: true
+    - name: Robots
+      value: all
 template: product
 ---
 

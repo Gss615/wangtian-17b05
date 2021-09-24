@@ -16,31 +16,20 @@ other3: https://e.huawei.com/cn/material/networking/wlan/4fdd9607b3b54f779967411
 other4:
   images: {"ap4050dn-e":{"org":"AP4050DN-E_pic","img":["01.png","02.png","03.png","04.png","05.png","06.png","07.png","08.png"]}}
 seo:
-  title: Nulla suscipit
-  description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit'
+  title: ap4050dn-e | AP4050DN-E接入点 | AP4000系列 | 室内接入点 | 无线局域网 | 企业网络
+  description: AP4050DN-E接入点是支持802.11ac wave2标准的物联网型无线接入点，支持2×2MIMO和两条空间流，整机速率1.267Gbps，适合部署在商超、医疗、仓储、制造、物流等场景。
   extra:
     - name: 'og:type'
       value: website
       keyName: property
     - name: 'og:title'
-      value: Nulla suscipit
+      value: 河南网田
       keyName: property
     - name: 'og:description'
-      value: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit'
+      value: AP4050DN-E接入点是支持802.11ac wave2标准的物联网型无线接入点，支持2×2MIMO和两条空间流，整机速率1.267Gbps，适合部署在商超、医疗、仓储、制造、物流等场景。
       keyName: property
-    - name: 'og:image'
-      value: images/plant1-lg.jpg
-      keyName: property
-      relativeUrl: true
-    - name: 'twitter:card'
-      value: summary_large_image
-    - name: 'twitter:title'
-      value: Nulla suscipit
-    - name: 'twitter:description'
-      value: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit'
-    - name: 'twitter:image'
-      value: images/plant1-lg.jpg
-      relativeUrl: true
+    - name: Robots
+      value: all
 template: product
 ---
 

@@ -16,31 +16,20 @@ other3: https://e.huawei.com/cn/material/networking/campus-network/wlan/f1d91ebe
 other4:
   images: {"airengine6760-51ei":{"org":"AirEngine6760-51EI_pic","img":["front_left.png","front_right.png","front_top.png","left.png","rear_left.png","rear_right.png","rear_top.png","right.png","top.png"]}}
 seo:
-  title: Nulla suscipit
-  description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit'
+  title: airengine-6760-51ei | AirEngine 6760-51EI接入点 | null | 场景化产品系列 | 无线局域网 | 企业网络
+  description: AirEngine 6760-51EI是华为发布的支持Wi-Fi 6（802.11ax）标准的轨道交通无线接入点产品。支持4条空间流，整机速率可达4.8Gbps。该产品满足EN50155车载电子设备标准要求，适用于交通行业车地回传场景。
   extra:
     - name: 'og:type'
       value: website
       keyName: property
     - name: 'og:title'
-      value: Nulla suscipit
+      value: 河南网田
       keyName: property
     - name: 'og:description'
-      value: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit'
+      value: AirEngine 6760-51EI是华为发布的支持Wi-Fi 6（802.11ax）标准的轨道交通无线接入点产品。支持4条空间流，整机速率可达4.8Gbps。该产品满足EN50155车载电子设备标准要求，适用于交通行业车地回传场景。
       keyName: property
-    - name: 'og:image'
-      value: images/plant1-lg.jpg
-      keyName: property
-      relativeUrl: true
-    - name: 'twitter:card'
-      value: summary_large_image
-    - name: 'twitter:title'
-      value: Nulla suscipit
-    - name: 'twitter:description'
-      value: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit'
-    - name: 'twitter:image'
-      value: images/plant1-lg.jpg
-      relativeUrl: true
+    - name: Robots
+      value: all
 template: product
 ---
 

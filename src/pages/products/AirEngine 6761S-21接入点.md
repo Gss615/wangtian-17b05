@@ -16,31 +16,20 @@ other3: https://e.huawei.com/cn/material/networking/campus-network/wlan/60951361
 other4:
   images: {"airengine6761s-21":{"org":"AirEngine6761S-21_pic","img":["bottom.png","front.png","front_left.png","front_right.png","rear.png","rear_top.png","top.png"]}}
 seo:
-  title: Nulla suscipit
-  description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit'
+  title: airengine-6761s-21 | AirEngine 6761S-21接入点 | AirEngine 6700 系列 | 室内接入点 | 无线局域网 | 企业网络
+  description: AirEngine 6761S-21是华为面向SMB市场发布的的支持Wi-Fi 6（802.11ax）标准的无线接入点产品。支持2.4GHz（4x4）和5GHz（4x4）及独立射频扫描，整机速率可达3.55Gbps。内置动态变焦智能天线，可随接入用户密集程度，动态调整智能天线覆盖范围，极大地增强用户对无线网络的使用体验。适用于移动办公、教育、场馆等人流密集场景。
   extra:
     - name: 'og:type'
       value: website
       keyName: property
     - name: 'og:title'
-      value: Nulla suscipit
+      value: 河南网田
       keyName: property
     - name: 'og:description'
-      value: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit'
+      value: AirEngine 6761S-21是华为面向SMB市场发布的的支持Wi-Fi 6（802.11ax）标准的无线接入点产品。支持2.4GHz（4x4）和5GHz（4x4）及独立射频扫描，整机速率可达3.55Gbps。内置动态变焦智能天线，可随接入用户密集程度，动态调整智能天线覆盖范围，极大地增强用户对无线网络的使用体验。适用于移动办公、教育、场馆等人流密集场景。
       keyName: property
-    - name: 'og:image'
-      value: images/plant1-lg.jpg
-      keyName: property
-      relativeUrl: true
-    - name: 'twitter:card'
-      value: summary_large_image
-    - name: 'twitter:title'
-      value: Nulla suscipit
-    - name: 'twitter:description'
-      value: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit'
-    - name: 'twitter:image'
-      value: images/plant1-lg.jpg
-      relativeUrl: true
+    - name: Robots
+      value: all
 template: product
 ---
 

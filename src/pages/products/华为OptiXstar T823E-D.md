@@ -16,31 +16,20 @@ other3: null
 other4:
   images: {"other":{"org":"other","img":["华为OptiXstar T823E-D.png"]}}
 seo:
-  title: Nulla suscipit
-  description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit'
+  title: optixstar-t823e-d | 华为OptiXstar T823E-D | null | ONU | 光终端 | 企业光网络
+  description: 华为 OptiXstar T823E-D是华为工业光网解决方案的工业型ONU，网络侧提供XGS-PON或GPON双上行接口，用户侧提供8个GE以太网接口并支持PoE++功能，通过高性能的转发能力，为各类工业场景如交通、电力等提供理想的工业生产网络解决方案。
   extra:
     - name: 'og:type'
       value: website
       keyName: property
     - name: 'og:title'
-      value: Nulla suscipit
+      value: 河南网田
       keyName: property
     - name: 'og:description'
-      value: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit'
+      value: 华为 OptiXstar T823E-D是华为工业光网解决方案的工业型ONU，网络侧提供XGS-PON或GPON双上行接口，用户侧提供8个GE以太网接口并支持PoE++功能，通过高性能的转发能力，为各类工业场景如交通、电力等提供理想的工业生产网络解决方案。
       keyName: property
-    - name: 'og:image'
-      value: images/plant1-lg.jpg
-      keyName: property
-      relativeUrl: true
-    - name: 'twitter:card'
-      value: summary_large_image
-    - name: 'twitter:title'
-      value: Nulla suscipit
-    - name: 'twitter:description'
-      value: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit'
-    - name: 'twitter:image'
-      value: images/plant1-lg.jpg
-      relativeUrl: true
+    - name: Robots
+      value: all
 template: product
 ---
 
