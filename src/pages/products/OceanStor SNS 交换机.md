@@ -2,9 +2,7 @@
 id: '1'
 price: '49.40'
 title: OceanStor SNS 交换机
-description: 华为OceanStor SNS 交换机，为存储业务量身打造的网络连接设备，满足超大规模虚拟化、更大型的云基础架构及不断增长的闪存存储环境业务需求。
-default_thumbnail_image: images/plant1-lg.jpg
-default_original_image: images/plant1-lg.jpg
+description:  '华为OceanStor SNS 交换机，为存储业务量身打造的网络连接设备，满足超大规模虚拟化、更大型的云基础架构及不断增长的闪存存储环境业务需求。'
 featured: true
 order: 280
 category: src/pages/category/存储网络 Storage Network .md
@@ -17,7 +15,7 @@ other4:
   images: {"other":{"org":"other","img":["OceanStor SNS 交换机.png"]}}
 seo:
   title: oceanstor-sns | OceanStor SNS 交换机 | null | null | 存储网络 Storage Network  | 数据存储
-  description: 华为OceanStor SNS 交换机，为存储业务量身打造的网络连接设备，满足超大规模虚拟化、更大型的云基础架构及不断增长的闪存存储环境业务需求。
+  description: '华为OceanStor SNS 交换机，为存储业务量身打造的网络连接设备，满足超大规模虚拟化、更大型的云基础架构及不断增长的闪存存储环境业务需求。'
   extra:
     - name: 'og:type'
       value: website
@@ -26,7 +24,7 @@ seo:
       value: 河南网田
       keyName: property
     - name: 'og:description'
-      value: 华为OceanStor SNS 交换机，为存储业务量身打造的网络连接设备，满足超大规模虚拟化、更大型的云基础架构及不断增长的闪存存储环境业务需求。
+      value: '华为OceanStor SNS 交换机，为存储业务量身打造的网络连接设备，满足超大规模虚拟化、更大型的云基础架构及不断增长的闪存存储环境业务需求。'
       keyName: property
     - name: Robots
       value: all

@@ -2,9 +2,7 @@
 id: '1'
 price: '49.40'
 title: 华为OptiXstar T600W
-description: 华为OptiXstar T600W产品是面向企业园区的挂杆式外置远程终端(RT)，上行提供一个GE接口，用户侧提供Wi-Fi接入和1个GE以太网接口，为用户提供高清的视频回传服务。
-default_thumbnail_image: images/plant1-lg.jpg
-default_original_image: images/plant1-lg.jpg
+description:  '华为OptiXstar T600W产品是面向企业园区的挂杆式外置远程终端(RT)，上行提供一个GE接口，用户侧提供Wi-Fi接入和1个GE以太网接口，为用户提供高清的视频回传服务。'
 featured: true
 order: 214
 category: src/pages/category/光终端.md
@@ -17,7 +15,7 @@ other4:
   images: {"other":{"org":"other","img":["华为OptiXstar T600W.png"]}}
 seo:
   title: optixstar-t600w | 华为OptiXstar T600W | null | ONU | 光终端 | 企业光网络
-  description: 华为OptiXstar T600W产品是面向企业园区的挂杆式外置远程终端(RT)，上行提供一个GE接口，用户侧提供Wi-Fi接入和1个GE以太网接口，为用户提供高清的视频回传服务。
+  description: '华为OptiXstar T600W产品是面向企业园区的挂杆式外置远程终端(RT)，上行提供一个GE接口，用户侧提供Wi-Fi接入和1个GE以太网接口，为用户提供高清的视频回传服务。'
   extra:
     - name: 'og:type'
       value: website
@@ -26,7 +24,7 @@ seo:
       value: 河南网田
       keyName: property
     - name: 'og:description'
-      value: 华为OptiXstar T600W产品是面向企业园区的挂杆式外置远程终端(RT)，上行提供一个GE接口，用户侧提供Wi-Fi接入和1个GE以太网接口，为用户提供高清的视频回传服务。
+      value: '华为OptiXstar T600W产品是面向企业园区的挂杆式外置远程终端(RT)，上行提供一个GE接口，用户侧提供Wi-Fi接入和1个GE以太网接口，为用户提供高清的视频回传服务。'
       keyName: property
     - name: Robots
       value: all

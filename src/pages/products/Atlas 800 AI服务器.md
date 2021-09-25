@@ -2,9 +2,7 @@
 id: '1'
 price: '49.40'
 title: Atlas 800 AI服务器
-description: Atlas 800 AI服务器主要应用于AI推理和训练场景，具有超强性能，为推理和训练场景构建高效能、低功耗的AI计算平台。支持多个Atlas 300 AI加速卡或板载加速模块，适应各种视频图像分析场景。主要应用于视频分析、深度学习训练等推理、训练场景中。
-default_thumbnail_image: images/plant1-lg.jpg
-default_original_image: images/plant1-lg.jpg
+description:  'Atlas 800 AI服务器主要应用于AI推理和训练场景，具有超强性能，为推理和训练场景构建高效能、低功耗的AI计算平台。支持多个Atlas 300 AI加速卡或板载加速模块，适应各种视频图像分析场景。主要应用于视频分析、深度学习训练等推理、训练场景中。'
 featured: true
 order: 333
 category: src/pages/category/服务器 - 计算.md
@@ -17,7 +15,7 @@ other4:
   images: {"other":{"org":"other","img":["Atlas 800 AI服务器.png"]}}
 seo:
   title: atlas-800-ai-server | Atlas 800 AI服务器 | null | 昇腾计算 | 服务器 - 计算 | 数据中心
-  description: Atlas 800 AI服务器主要应用于AI推理和训练场景，具有超强性能，为推理和训练场景构建高效能、低功耗的AI计算平台。支持多个Atlas 300 AI加速卡或板载加速模块，适应各种视频图像分析场景。主要应用于视频分析、深度学习训练等推理、训练场景中。
+  description: 'Atlas 800 AI服务器主要应用于AI推理和训练场景，具有超强性能，为推理和训练场景构建高效能、低功耗的AI计算平台。支持多个Atlas 300 AI加速卡或板载加速模块，适应各种视频图像分析场景。主要应用于视频分析、深度学习训练等推理、训练场景中。'
   extra:
     - name: 'og:type'
       value: website
@@ -26,7 +24,7 @@ seo:
       value: 河南网田
       keyName: property
     - name: 'og:description'
-      value: Atlas 800 AI服务器主要应用于AI推理和训练场景，具有超强性能，为推理和训练场景构建高效能、低功耗的AI计算平台。支持多个Atlas 300 AI加速卡或板载加速模块，适应各种视频图像分析场景。主要应用于视频分析、深度学习训练等推理、训练场景中。
+      value: 'Atlas 800 AI服务器主要应用于AI推理和训练场景，具有超强性能，为推理和训练场景构建高效能、低功耗的AI计算平台。支持多个Atlas 300 AI加速卡或板载加速模块，适应各种视频图像分析场景。主要应用于视频分析、深度学习训练等推理、训练场景中。'
       keyName: property
     - name: Robots
       value: all

@@ -2,11 +2,9 @@
 id: '1'
 price: '49.40'
 title: iMaster NCE-FabricInsight
-description: 华为iMaster NCE-FabricInsight是面向数据中心网络的智能分析平台，基于大数据分析技术，为用户提供无处不在的网络应用分析与可视化呈现，打通应用和网络的边界。
+description:  '华为iMaster NCE-FabricInsight是面向数据中心网络的智能分析平台，基于大数据分析技术，为用户提供无处不在的网络应用分析与可视化呈现，打通应用和网络的边界。
 
-iMaster NCE-FabricInsight通过Telemetry采集网络全场景数据，实时呈现网络质量，帮助客户实现快速识别故障，并在业务产生影响前主动识别风险。
-default_thumbnail_image: images/plant1-lg.jpg
-default_original_image: images/plant1-lg.jpg
+iMaster NCE-FabricInsight通过Telemetry采集网络全场景数据，实时呈现网络质量，帮助客户实现快速识别故障，并在业务产生影响前主动识别风险。'
 featured: true
 order: 191
 category: src/pages/category/网络管控&分析软件.md
@@ -19,9 +17,9 @@ other4:
   images: {"other":{"org":"other","img":["iMaster NCE-FabricInsight.png"]}}
 seo:
   title: FabricInsight | iMaster NCE-FabricInsight | null | 数据中心自动驾驶网络管理控制系统 | 网络管控&分析软件 | 企业网络
-  description: 华为iMaster NCE-FabricInsight是面向数据中心网络的智能分析平台，基于大数据分析技术，为用户提供无处不在的网络应用分析与可视化呈现，打通应用和网络的边界。
+  description: '华为iMaster NCE-FabricInsight是面向数据中心网络的智能分析平台，基于大数据分析技术，为用户提供无处不在的网络应用分析与可视化呈现，打通应用和网络的边界。
 
-iMaster NCE-FabricInsight通过Telemetry采集网络全场景数据，实时呈现网络质量，帮助客户实现快速识别故障，并在业务产生影响前主动识别风险。
+iMaster NCE-FabricInsight通过Telemetry采集网络全场景数据，实时呈现网络质量，帮助客户实现快速识别故障，并在业务产生影响前主动识别风险。'
   extra:
     - name: 'og:type'
       value: website
@@ -30,9 +28,9 @@ iMaster NCE-FabricInsight通过Telemetry采集网络全场景数据，实时呈�
       value: 河南网田
       keyName: property
     - name: 'og:description'
-      value: 华为iMaster NCE-FabricInsight是面向数据中心网络的智能分析平台，基于大数据分析技术，为用户提供无处不在的网络应用分析与可视化呈现，打通应用和网络的边界。
+      value: '华为iMaster NCE-FabricInsight是面向数据中心网络的智能分析平台，基于大数据分析技术，为用户提供无处不在的网络应用分析与可视化呈现，打通应用和网络的边界。
 
-iMaster NCE-FabricInsight通过Telemetry采集网络全场景数据，实时呈现网络质量，帮助客户实现快速识别故障，并在业务产生影响前主动识别风险。
+iMaster NCE-FabricInsight通过Telemetry采集网络全场景数据，实时呈现网络质量，帮助客户实现快速识别故障，并在业务产生影响前主动识别风险。'
       keyName: property
     - name: Robots
       value: all

@@ -2,9 +2,7 @@
 id: '1'
 price: '49.40'
 title: FusionServer Pro 1288H V5机架服务器
-description: 华为FusionServer Pro 1288H V5是一款1U2路机架服务器，适用于云计算虚拟化、高性能计算(HPC)、大数据处理等负载的高密度部署，提升数据中心空间利用率。1288H V5在1U空间里可配置2路处理器、24条DDR4内存及4*3.5”或10*2.5”的本地存储资源（可配置4/8个NVMe SSD硬盘）。 集成DEMT智能功耗管理、FDM智能故障管理等专利技术，可选配华为FusionDirector全生命周期管理软件，能够有效降低运营成本、提升投资回报。
-default_thumbnail_image: images/plant1-lg.jpg
-default_original_image: images/plant1-lg.jpg
+description:  '华为FusionServer Pro 1288H V5是一款1U2路机架服务器，适用于云计算虚拟化、高性能计算(HPC)、大数据处理等负载的高密度部署，提升数据中心空间利用率。1288H V5在1U空间里可配置2路处理器、24条DDR4内存及4*3.5”或10*2.5”的本地存储资源（可配置4/8个NVMe SSD硬盘）。 集成DEMT智能功耗管理、FDM智能故障管理等专利技术，可选配华为FusionDirector全生命周期管理软件，能够有效降低运营成本、提升投资回报。'
 featured: true
 order: 282
 category: src/pages/category/服务器 - 计算.md
@@ -17,7 +15,7 @@ other4:
   images: {"other":{"org":"other","img":["FusionServer Pro 1288H V5机架服务器.png"]}}
 seo:
   title: 1288h-v5 | FusionServer Pro 1288H V5机架服务器 | FusionServer Pro机架服务器 | FusionServer Pro智能服务器 | 服务器 - 计算 | 数据中心
-  description: 华为FusionServer Pro 1288H V5是一款1U2路机架服务器，适用于云计算虚拟化、高性能计算(HPC)、大数据处理等负载的高密度部署，提升数据中心空间利用率。1288H V5在1U空间里可配置2路处理器、24条DDR4内存及4*3.5”或10*2.5”的本地存储资源（可配置4/8个NVMe SSD硬盘）。 集成DEMT智能功耗管理、FDM智能故障管理等专利技术，可选配华为FusionDirector全生命周期管理软件，能够有效降低运营成本、提升投资回报。
+  description: '华为FusionServer Pro 1288H V5是一款1U2路机架服务器，适用于云计算虚拟化、高性能计算(HPC)、大数据处理等负载的高密度部署，提升数据中心空间利用率。1288H V5在1U空间里可配置2路处理器、24条DDR4内存及4*3.5”或10*2.5”的本地存储资源（可配置4/8个NVMe SSD硬盘）。 集成DEMT智能功耗管理、FDM智能故障管理等专利技术，可选配华为FusionDirector全生命周期管理软件，能够有效降低运营成本、提升投资回报。'
   extra:
     - name: 'og:type'
       value: website
@@ -26,7 +24,7 @@ seo:
       value: 河南网田
       keyName: property
     - name: 'og:description'
-      value: 华为FusionServer Pro 1288H V5是一款1U2路机架服务器，适用于云计算虚拟化、高性能计算(HPC)、大数据处理等负载的高密度部署，提升数据中心空间利用率。1288H V5在1U空间里可配置2路处理器、24条DDR4内存及4*3.5”或10*2.5”的本地存储资源（可配置4/8个NVMe SSD硬盘）。 集成DEMT智能功耗管理、FDM智能故障管理等专利技术，可选配华为FusionDirector全生命周期管理软件，能够有效降低运营成本、提升投资回报。
+      value: '华为FusionServer Pro 1288H V5是一款1U2路机架服务器，适用于云计算虚拟化、高性能计算(HPC)、大数据处理等负载的高密度部署，提升数据中心空间利用率。1288H V5在1U空间里可配置2路处理器、24条DDR4内存及4*3.5”或10*2.5”的本地存储资源（可配置4/8个NVMe SSD硬盘）。 集成DEMT智能功耗管理、FDM智能故障管理等专利技术，可选配华为FusionDirector全生命周期管理软件，能够有效降低运营成本、提升投资回报。'
       keyName: property
     - name: Robots
       value: all

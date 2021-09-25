@@ -2,9 +2,7 @@
 id: '1'
 price: '49.40'
 title: AirEngine 5761-11WD远端单元
-description: AirEngine 5761-11WD是华为新一代敏捷分布式解决方案远端单元。支持Wi-Fi 6 （802.11ax）标准。内置智能天线，信号随用户而动，带来更好的覆盖效果。支持2×2 MIMO，2.4GHz和5GHz双频同时提供业务，整机速率可达1.775Gbps，适用于酒店、宿舍、医院等室内覆盖场景。
-default_thumbnail_image: images/plant1-lg.jpg
-default_original_image: images/plant1-lg.jpg
+description:  'AirEngine 5761-11WD是华为新一代敏捷分布式解决方案远端单元。支持Wi-Fi 6 （802.11ax）标准。内置智能天线，信号随用户而动，带来更好的覆盖效果。支持2×2 MIMO，2.4GHz和5GHz双频同时提供业务，整机速率可达1.775Gbps，适用于酒店、宿舍、医院等室内覆盖场景。'
 featured: true
 order: 153
 category: src/pages/category/无线局域网.md
@@ -17,7 +15,7 @@ other4:
   images: {"airengine5761-11wd":{"org":"AirEngine5761-11WD_pic","img":["front.png","front_bottom.png","front_left.png","front_right.png","rear.png","rear_bottom.png"]}}
 seo:
   title: airengine-5761-11wd | AirEngine 5761-11WD远端单元 | null | 场景化产品系列 | 无线局域网 | 企业网络
-  description: AirEngine 5761-11WD是华为新一代敏捷分布式解决方案远端单元。支持Wi-Fi 6 （802.11ax）标准。内置智能天线，信号随用户而动，带来更好的覆盖效果。支持2×2 MIMO，2.4GHz和5GHz双频同时提供业务，整机速率可达1.775Gbps，适用于酒店、宿舍、医院等室内覆盖场景。
+  description: 'AirEngine 5761-11WD是华为新一代敏捷分布式解决方案远端单元。支持Wi-Fi 6 （802.11ax）标准。内置智能天线，信号随用户而动，带来更好的覆盖效果。支持2×2 MIMO，2.4GHz和5GHz双频同时提供业务，整机速率可达1.775Gbps，适用于酒店、宿舍、医院等室内覆盖场景。'
   extra:
     - name: 'og:type'
       value: website
@@ -26,7 +24,7 @@ seo:
       value: 河南网田
       keyName: property
     - name: 'og:description'
-      value: AirEngine 5761-11WD是华为新一代敏捷分布式解决方案远端单元。支持Wi-Fi 6 （802.11ax）标准。内置智能天线，信号随用户而动，带来更好的覆盖效果。支持2×2 MIMO，2.4GHz和5GHz双频同时提供业务，整机速率可达1.775Gbps，适用于酒店、宿舍、医院等室内覆盖场景。
+      value: 'AirEngine 5761-11WD是华为新一代敏捷分布式解决方案远端单元。支持Wi-Fi 6 （802.11ax）标准。内置智能天线，信号随用户而动，带来更好的覆盖效果。支持2×2 MIMO，2.4GHz和5GHz双频同时提供业务，整机速率可达1.775Gbps，适用于酒店、宿舍、医院等室内覆盖场景。'
       keyName: property
     - name: Robots
       value: all

@@ -2,9 +2,7 @@
 id: '1'
 price: '49.40'
 title: 华为OptiXstar W826E
-description: 华为OptiXstar W826E 是一款企业千兆Wi-Fi ONT，支持通过光电复合缆技术实现超宽带接入，解决终端取电困难问题，为用户提供语音、千兆网口及千兆双频 Wi-Fi 6 接入方式。
-default_thumbnail_image: images/plant1-lg.jpg
-default_original_image: images/plant1-lg.jpg
+description:  '华为OptiXstar W826E 是一款企业千兆Wi-Fi ONT，支持通过光电复合缆技术实现超宽带接入，解决终端取电困难问题，为用户提供语音、千兆网口及千兆双频 Wi-Fi 6 接入方式。'
 featured: true
 order: 235
 category: src/pages/category/光终端.md
@@ -17,7 +15,7 @@ other4:
   images: {"other":{"org":"other","img":["华为OptiXstar W826E.png"]}}
 seo:
   title: optixstar-w826e | 华为OptiXstar W826E | null | ONT | 光终端 | 企业光网络
-  description: 华为OptiXstar W826E 是一款企业千兆Wi-Fi ONT，支持通过光电复合缆技术实现超宽带接入，解决终端取电困难问题，为用户提供语音、千兆网口及千兆双频 Wi-Fi 6 接入方式。
+  description: '华为OptiXstar W826E 是一款企业千兆Wi-Fi ONT，支持通过光电复合缆技术实现超宽带接入，解决终端取电困难问题，为用户提供语音、千兆网口及千兆双频 Wi-Fi 6 接入方式。'
   extra:
     - name: 'og:type'
       value: website
@@ -26,7 +24,7 @@ seo:
       value: 河南网田
       keyName: property
     - name: 'og:description'
-      value: 华为OptiXstar W826E 是一款企业千兆Wi-Fi ONT，支持通过光电复合缆技术实现超宽带接入，解决终端取电困难问题，为用户提供语音、千兆网口及千兆双频 Wi-Fi 6 接入方式。
+      value: '华为OptiXstar W826E 是一款企业千兆Wi-Fi ONT，支持通过光电复合缆技术实现超宽带接入，解决终端取电困难问题，为用户提供语音、千兆网口及千兆双频 Wi-Fi 6 接入方式。'
       keyName: property
     - name: Robots
       value: all

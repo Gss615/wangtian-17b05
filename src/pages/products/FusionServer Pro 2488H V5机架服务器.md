@@ -2,11 +2,9 @@
 id: '1'
 price: '49.40'
 title: FusionServer Pro 2488H V5机架服务器
-description: 华为FusionServer Pro 2488H V5是一款2U4路机架服务器，适用于虚拟化、高性能计算(HPC)、数据库、SAP HANA等计算密集型场景，相比于2台传统2U2路机架服务器，在虚拟化应用场景中1台2488H V5可以带来约32%的OPEX节省*。2488H V5在2U空间内可配置4个处理器，48条DDR4内存，以及最多25*2.5”的本地存储资源（可配置8个NVMe SSD）。集成DEMT智能功耗管理、FDM智能故障管理等专利技术，可选配华为FusionDirector全生命周期管理软件，能够有效降低运营成本、提升投资回报。
+description:  '华为FusionServer Pro 2488H V5是一款2U4路机架服务器，适用于虚拟化、高性能计算(HPC)、数据库、SAP HANA等计算密集型场景，相比于2台传统2U2路机架服务器，在虚拟化应用场景中1台2488H V5可以带来约32%的OPEX节省*。2488H V5在2U空间内可配置4个处理器，48条DDR4内存，以及最多25*2.5”的本地存储资源（可配置8个NVMe SSD）。集成DEMT智能功耗管理、FDM智能故障管理等专利技术，可选配华为FusionDirector全生命周期管理软件，能够有效降低运营成本、提升投资回报。
 
-*Source: 华为全球计算创新中心测试结果，2017Q2
-default_thumbnail_image: images/plant1-lg.jpg
-default_original_image: images/plant1-lg.jpg
+*Source: 华为全球计算创新中心测试结果，2017Q2'
 featured: true
 order: 291
 category: src/pages/category/服务器 - 计算.md
@@ -19,9 +17,9 @@ other4:
   images: {"other":{"org":"other","img":["FusionServer Pro 2488H V5机架服务器.png"]}}
 seo:
   title: 2488h-v5 | FusionServer Pro 2488H V5机架服务器 | FusionServer Pro机架服务器 | FusionServer Pro智能服务器 | 服务器 - 计算 | 数据中心
-  description: 华为FusionServer Pro 2488H V5是一款2U4路机架服务器，适用于虚拟化、高性能计算(HPC)、数据库、SAP HANA等计算密集型场景，相比于2台传统2U2路机架服务器，在虚拟化应用场景中1台2488H V5可以带来约32%的OPEX节省*。2488H V5在2U空间内可配置4个处理器，48条DDR4内存，以及最多25*2.5”的本地存储资源（可配置8个NVMe SSD）。集成DEMT智能功耗管理、FDM智能故障管理等专利技术，可选配华为FusionDirector全生命周期管理软件，能够有效降低运营成本、提升投资回报。
+  description: '华为FusionServer Pro 2488H V5是一款2U4路机架服务器，适用于虚拟化、高性能计算(HPC)、数据库、SAP HANA等计算密集型场景，相比于2台传统2U2路机架服务器，在虚拟化应用场景中1台2488H V5可以带来约32%的OPEX节省*。2488H V5在2U空间内可配置4个处理器，48条DDR4内存，以及最多25*2.5”的本地存储资源（可配置8个NVMe SSD）。集成DEMT智能功耗管理、FDM智能故障管理等专利技术，可选配华为FusionDirector全生命周期管理软件，能够有效降低运营成本、提升投资回报。
 
-*Source: 华为全球计算创新中心测试结果，2017Q2
+*Source: 华为全球计算创新中心测试结果，2017Q2'
   extra:
     - name: 'og:type'
       value: website
@@ -30,9 +28,9 @@ seo:
       value: 河南网田
       keyName: property
     - name: 'og:description'
-      value: 华为FusionServer Pro 2488H V5是一款2U4路机架服务器，适用于虚拟化、高性能计算(HPC)、数据库、SAP HANA等计算密集型场景，相比于2台传统2U2路机架服务器，在虚拟化应用场景中1台2488H V5可以带来约32%的OPEX节省*。2488H V5在2U空间内可配置4个处理器，48条DDR4内存，以及最多25*2.5”的本地存储资源（可配置8个NVMe SSD）。集成DEMT智能功耗管理、FDM智能故障管理等专利技术，可选配华为FusionDirector全生命周期管理软件，能够有效降低运营成本、提升投资回报。
+      value: '华为FusionServer Pro 2488H V5是一款2U4路机架服务器，适用于虚拟化、高性能计算(HPC)、数据库、SAP HANA等计算密集型场景，相比于2台传统2U2路机架服务器，在虚拟化应用场景中1台2488H V5可以带来约32%的OPEX节省*。2488H V5在2U空间内可配置4个处理器，48条DDR4内存，以及最多25*2.5”的本地存储资源（可配置8个NVMe SSD）。集成DEMT智能功耗管理、FDM智能故障管理等专利技术，可选配华为FusionDirector全生命周期管理软件，能够有效降低运营成本、提升投资回报。
 
-*Source: 华为全球计算创新中心测试结果，2017Q2
+*Source: 华为全球计算创新中心测试结果，2017Q2'
       keyName: property
     - name: Robots
       value: all

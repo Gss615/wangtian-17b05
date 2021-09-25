@@ -2,9 +2,7 @@
 id: '1'
 price: '49.40'
 title: HiSec LogAuditor1500系列日志审计系统
-description: 华为HiSec LogAuditor1500系列日志审计系统作为统一的日志采集与审计平台，通过对网络设备、安全设备、主机和应用系统曰志进行全面标准化处理，及时发现各种安全威胁和异常行为事件；基于标准化关联分析引擎，提供全维度、跨设备、细粒度的关联分析，确保事件可追溯；支持资产统一管理和实时监控，全面审计系统安全状况。
-default_thumbnail_image: images/plant1-lg.jpg
-default_original_image: images/plant1-lg.jpg
+description:  '华为HiSec LogAuditor1500系列日志审计系统作为统一的日志采集与审计平台，通过对网络设备、安全设备、主机和应用系统曰志进行全面标准化处理，及时发现各种安全威胁和异常行为事件；基于标准化关联分析引擎，提供全维度、跨设备、细粒度的关联分析，确保事件可追溯；支持资产统一管理和实时监控，全面审计系统安全状况。'
 featured: true
 order: 185
 category: src/pages/category/网络安全.md
@@ -17,7 +15,7 @@ other4:
   images: {"other":{"org":"other","img":["HiSec LogAuditor1500系列日志审计系统.png"]}}
 seo:
   title: hisec-logauditor1500 | HiSec LogAuditor1500系列日志审计系统 | null | 安全管理 | 网络安全 | 企业网络
-  description: 华为HiSec LogAuditor1500系列日志审计系统作为统一的日志采集与审计平台，通过对网络设备、安全设备、主机和应用系统曰志进行全面标准化处理，及时发现各种安全威胁和异常行为事件；基于标准化关联分析引擎，提供全维度、跨设备、细粒度的关联分析，确保事件可追溯；支持资产统一管理和实时监控，全面审计系统安全状况。
+  description: '华为HiSec LogAuditor1500系列日志审计系统作为统一的日志采集与审计平台，通过对网络设备、安全设备、主机和应用系统曰志进行全面标准化处理，及时发现各种安全威胁和异常行为事件；基于标准化关联分析引擎，提供全维度、跨设备、细粒度的关联分析，确保事件可追溯；支持资产统一管理和实时监控，全面审计系统安全状况。'
   extra:
     - name: 'og:type'
       value: website
@@ -26,7 +24,7 @@ seo:
       value: 河南网田
       keyName: property
     - name: 'og:description'
-      value: 华为HiSec LogAuditor1500系列日志审计系统作为统一的日志采集与审计平台，通过对网络设备、安全设备、主机和应用系统曰志进行全面标准化处理，及时发现各种安全威胁和异常行为事件；基于标准化关联分析引擎，提供全维度、跨设备、细粒度的关联分析，确保事件可追溯；支持资产统一管理和实时监控，全面审计系统安全状况。
+      value: '华为HiSec LogAuditor1500系列日志审计系统作为统一的日志采集与审计平台，通过对网络设备、安全设备、主机和应用系统曰志进行全面标准化处理，及时发现各种安全威胁和异常行为事件；基于标准化关联分析引擎，提供全维度、跨设备、细粒度的关联分析，确保事件可追溯；支持资产统一管理和实时监控，全面审计系统安全状况。'
       keyName: property
     - name: Robots
       value: all

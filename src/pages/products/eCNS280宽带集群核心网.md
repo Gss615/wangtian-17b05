@@ -2,11 +2,9 @@
 id: '1'
 price: '49.40'
 title: eCNS280宽带集群核心网
-description: eCNS280宽带集群核心网是无线宽带集群系统的核心网设备，基于网络功能虚拟化(Network Functions Virtualization，NFV)和云化架构设计，提供传统核心网的网络功能外，还通过将网元功能虚拟化、在多网元间共享标准化硬件资源，来给各网元提供可根据实际应用的容量配置，提高网络扩容减容效率，提升业务上线效率。
+description:  'eCNS280宽带集群核心网是无线宽带集群系统的核心网设备，基于网络功能虚拟化(Network Functions Virtualization，NFV)和云化架构设计，提供传统核心网的网络功能外，还通过将网元功能虚拟化、在多网元间共享标准化硬件资源，来给各网元提供可根据实际应用的容量配置，提高网络扩容减容效率，提升业务上线效率。
 
-eCNS280(3U)具有硬件简单、功耗低、易部署、快速交付的特点。
-default_thumbnail_image: images/plant1-lg.jpg
-default_original_image: images/plant1-lg.jpg
+eCNS280(3U)具有硬件简单、功耗低、易部署、快速交付的特点。'
 featured: true
 order: 344
 category: src/pages/category/eLTE宽带集群解决方案.md
@@ -19,9 +17,9 @@ other4:
   images: {"other":{"org":"other","img":["eCNS280宽带集群核心网.png"]}}
 seo:
   title: ecns280 | eCNS280宽带集群核心网 | 核心网 | 网络设备（B-TrunC） | eLTE宽带集群解决方案 | 企业无线
-  description: eCNS280宽带集群核心网是无线宽带集群系统的核心网设备，基于网络功能虚拟化(Network Functions Virtualization，NFV)和云化架构设计，提供传统核心网的网络功能外，还通过将网元功能虚拟化、在多网元间共享标准化硬件资源，来给各网元提供可根据实际应用的容量配置，提高网络扩容减容效率，提升业务上线效率。
+  description: 'eCNS280宽带集群核心网是无线宽带集群系统的核心网设备，基于网络功能虚拟化(Network Functions Virtualization，NFV)和云化架构设计，提供传统核心网的网络功能外，还通过将网元功能虚拟化、在多网元间共享标准化硬件资源，来给各网元提供可根据实际应用的容量配置，提高网络扩容减容效率，提升业务上线效率。
 
-eCNS280(3U)具有硬件简单、功耗低、易部署、快速交付的特点。
+eCNS280(3U)具有硬件简单、功耗低、易部署、快速交付的特点。'
   extra:
     - name: 'og:type'
       value: website
@@ -30,9 +28,9 @@ eCNS280(3U)具有硬件简单、功耗低、易部署、快速交付的特点。
       value: 河南网田
       keyName: property
     - name: 'og:description'
-      value: eCNS280宽带集群核心网是无线宽带集群系统的核心网设备，基于网络功能虚拟化(Network Functions Virtualization，NFV)和云化架构设计，提供传统核心网的网络功能外，还通过将网元功能虚拟化、在多网元间共享标准化硬件资源，来给各网元提供可根据实际应用的容量配置，提高网络扩容减容效率，提升业务上线效率。
+      value: 'eCNS280宽带集群核心网是无线宽带集群系统的核心网设备，基于网络功能虚拟化(Network Functions Virtualization，NFV)和云化架构设计，提供传统核心网的网络功能外，还通过将网元功能虚拟化、在多网元间共享标准化硬件资源，来给各网元提供可根据实际应用的容量配置，提高网络扩容减容效率，提升业务上线效率。
 
-eCNS280(3U)具有硬件简单、功耗低、易部署、快速交付的特点。
+eCNS280(3U)具有硬件简单、功耗低、易部署、快速交付的特点。'
       keyName: property
     - name: Robots
       value: all

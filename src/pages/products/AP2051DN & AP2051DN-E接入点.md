@@ -2,9 +2,7 @@
 id: '1'
 price: '49.40'
 title: AP2051DN & AP2051DN-E接入点
-description: AP2051DN&AP2051DN-E是华为发布的支持802.11ac wave2标准的面板型无线接入点，内置智能天线，可有效提升覆盖范围，支持2×2MIMO和两条空间流，整机速率1.267Gbps，适用于酒店客房、学生宿舍、医院病房、小型办公室等房间面积较小，户型较密集场景。
-default_thumbnail_image: images/plant1-lg.jpg
-default_original_image: images/plant1-lg.jpg
+description:  'AP2051DN&AP2051DN-E是华为发布的支持802.11ac wave2标准的面板型无线接入点，内置智能天线，可有效提升覆盖范围，支持2×2MIMO和两条空间流，整机速率1.267Gbps，适用于酒店客房、学生宿舍、医院病房、小型办公室等房间面积较小，户型较密集场景。'
 featured: true
 order: 121
 category: src/pages/category/无线局域网.md
@@ -17,7 +15,7 @@ other4:
   images: {"ap2010dn":{"org":"AP2010DN_pic","img":["01.png","02.png","03.png","04.png","05.png","06.png"]}}
 seo:
   title: ap2051dn-ap2051dn-e | AP2051DN & AP2051DN-E接入点 | AP2000系列 | 室内接入点 | 无线局域网 | 企业网络
-  description: AP2051DN&AP2051DN-E是华为发布的支持802.11ac wave2标准的面板型无线接入点，内置智能天线，可有效提升覆盖范围，支持2×2MIMO和两条空间流，整机速率1.267Gbps，适用于酒店客房、学生宿舍、医院病房、小型办公室等房间面积较小，户型较密集场景。
+  description: 'AP2051DN&AP2051DN-E是华为发布的支持802.11ac wave2标准的面板型无线接入点，内置智能天线，可有效提升覆盖范围，支持2×2MIMO和两条空间流，整机速率1.267Gbps，适用于酒店客房、学生宿舍、医院病房、小型办公室等房间面积较小，户型较密集场景。'
   extra:
     - name: 'og:type'
       value: website
@@ -26,7 +24,7 @@ seo:
       value: 河南网田
       keyName: property
     - name: 'og:description'
-      value: AP2051DN&AP2051DN-E是华为发布的支持802.11ac wave2标准的面板型无线接入点，内置智能天线，可有效提升覆盖范围，支持2×2MIMO和两条空间流，整机速率1.267Gbps，适用于酒店客房、学生宿舍、医院病房、小型办公室等房间面积较小，户型较密集场景。
+      value: 'AP2051DN&AP2051DN-E是华为发布的支持802.11ac wave2标准的面板型无线接入点，内置智能天线，可有效提升覆盖范围，支持2×2MIMO和两条空间流，整机速率1.267Gbps，适用于酒店客房、学生宿舍、医院病房、小型办公室等房间面积较小，户型较密集场景。'
       keyName: property
     - name: Robots
       value: all

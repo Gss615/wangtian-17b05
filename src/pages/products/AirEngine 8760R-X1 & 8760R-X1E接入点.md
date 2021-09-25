@@ -2,9 +2,7 @@
 id: '1'
 price: '49.40'
 title: AirEngine 8760R-X1 & 8760R-X1E接入点
-description: AirEngine 8760R-X1 & AirEngine 8760R-X1E是支持802.11ax(Wi-Fi 6)标准的新一代旗舰型室外AP。整机支持16条空间流，速率可达10.75Gbps 。独家支持2.4GHz频段8T8R，具有卓越的室外覆盖性能以及超强的IP68防水防尘和6KV/6KA防雷电能力。适用于高密场馆、广场、体育场馆、游乐场等室外覆盖场景。
-default_thumbnail_image: images/plant1-lg.jpg
-default_original_image: images/plant1-lg.jpg
+description:  'AirEngine 8760R-X1 & AirEngine 8760R-X1E是支持802.11ax(Wi-Fi 6)标准的新一代旗舰型室外AP。整机支持16条空间流，速率可达10.75Gbps 。独家支持2.4GHz频段8T8R，具有卓越的室外覆盖性能以及超强的IP68防水防尘和6KV/6KA防雷电能力。适用于高密场馆、广场、体育场馆、游乐场等室外覆盖场景。'
 featured: true
 order: 136
 category: src/pages/category/无线局域网.md
@@ -17,7 +15,7 @@ other4:
   images: {"airengine8760-x1-pro":{"org":"AirEngine8760-X1-PRO_pic","img":["bottom.png","front.png","front_left.png","front_right.png","front_top.png","front_top_2.png","rear_top.png","top.png"]}}
 seo:
   title: airengine-8760r-x1-8760r-x1e | AirEngine 8760R-X1 & 8760R-X1E接入点 | AirEngine 8700R系列 | 室外接入点 | 无线局域网 | 企业网络
-  description: AirEngine 8760R-X1 & AirEngine 8760R-X1E是支持802.11ax(Wi-Fi 6)标准的新一代旗舰型室外AP。整机支持16条空间流，速率可达10.75Gbps 。独家支持2.4GHz频段8T8R，具有卓越的室外覆盖性能以及超强的IP68防水防尘和6KV/6KA防雷电能力。适用于高密场馆、广场、体育场馆、游乐场等室外覆盖场景。
+  description: 'AirEngine 8760R-X1 & AirEngine 8760R-X1E是支持802.11ax(Wi-Fi 6)标准的新一代旗舰型室外AP。整机支持16条空间流，速率可达10.75Gbps 。独家支持2.4GHz频段8T8R，具有卓越的室外覆盖性能以及超强的IP68防水防尘和6KV/6KA防雷电能力。适用于高密场馆、广场、体育场馆、游乐场等室外覆盖场景。'
   extra:
     - name: 'og:type'
       value: website
@@ -26,7 +24,7 @@ seo:
       value: 河南网田
       keyName: property
     - name: 'og:description'
-      value: AirEngine 8760R-X1 & AirEngine 8760R-X1E是支持802.11ax(Wi-Fi 6)标准的新一代旗舰型室外AP。整机支持16条空间流，速率可达10.75Gbps 。独家支持2.4GHz频段8T8R，具有卓越的室外覆盖性能以及超强的IP68防水防尘和6KV/6KA防雷电能力。适用于高密场馆、广场、体育场馆、游乐场等室外覆盖场景。
+      value: 'AirEngine 8760R-X1 & AirEngine 8760R-X1E是支持802.11ax(Wi-Fi 6)标准的新一代旗舰型室外AP。整机支持16条空间流，速率可达10.75Gbps 。独家支持2.4GHz频段8T8R，具有卓越的室外覆盖性能以及超强的IP68防水防尘和6KV/6KA防雷电能力。适用于高密场馆、广场、体育场馆、游乐场等室外覆盖场景。'
       keyName: property
     - name: Robots
       value: all

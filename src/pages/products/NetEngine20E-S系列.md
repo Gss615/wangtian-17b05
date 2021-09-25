@@ -2,16 +2,14 @@
 id: '1'
 price: '49.40'
 title: NetEngine20E-S系列
-description: 华为NetEngine20E-S系列综合业务承载路由器可适用于企业各种类型和规模的网络：
+description:  '华为NetEngine20E-S系列综合业务承载路由器可适用于企业各种类型和规模的网络：
 
 -40ºC~ 65ºC 宽温可适应严酷恶劣环境；
 采用功能强大的华为自研NP芯片，提供高性能业务承载服务；
 华为创新的IP硬管道技术，提供高品质的IP专线服务；
 支持华为创新的IP FPM技术和硬件BFD等，提供快速精确的故障定位和检测服务；
 支持硬件和软件全面高可靠技术， 提供99.999%的电信级可靠性；
-基于创新的SDN架构设计，能够解决网络流量负载不均，提高网络带宽利用率。
-default_thumbnail_image: images/plant1-lg.jpg
-default_original_image: images/plant1-lg.jpg
+基于创新的SDN架构设计，能够解决网络流量负载不均，提高网络带宽利用率。'
 featured: true
 order: 61
 category: src/pages/category/路由器.md
@@ -24,14 +22,14 @@ other4:
   images: {"other":{"org":"other","img":["NetEngine20E-S系列.png"]}}
 seo:
   title: ne20e-s | NetEngine20E系列 | 业务汇聚路由器 | NE系列路由器 | 路由器 | 企业网络
-  description: 华为NetEngine20E-S系列综合业务承载路由器可适用于企业各种类型和规模的网络：
+  description: '华为NetEngine20E-S系列综合业务承载路由器可适用于企业各种类型和规模的网络：
 
 -40ºC~ 65ºC 宽温可适应严酷恶劣环境；
 采用功能强大的华为自研NP芯片，提供高性能业务承载服务；
 华为创新的IP硬管道技术，提供高品质的IP专线服务；
 支持华为创新的IP FPM技术和硬件BFD等，提供快速精确的故障定位和检测服务；
 支持硬件和软件全面高可靠技术， 提供99.999%的电信级可靠性；
-基于创新的SDN架构设计，能够解决网络流量负载不均，提高网络带宽利用率。
+基于创新的SDN架构设计，能够解决网络流量负载不均，提高网络带宽利用率。'
   extra:
     - name: 'og:type'
       value: website
@@ -40,14 +38,14 @@ seo:
       value: 河南网田
       keyName: property
     - name: 'og:description'
-      value: 华为NetEngine20E-S系列综合业务承载路由器可适用于企业各种类型和规模的网络：
+      value: '华为NetEngine20E-S系列综合业务承载路由器可适用于企业各种类型和规模的网络：
 
 -40ºC~ 65ºC 宽温可适应严酷恶劣环境；
 采用功能强大的华为自研NP芯片，提供高性能业务承载服务；
 华为创新的IP硬管道技术，提供高品质的IP专线服务；
 支持华为创新的IP FPM技术和硬件BFD等，提供快速精确的故障定位和检测服务；
 支持硬件和软件全面高可靠技术， 提供99.999%的电信级可靠性；
-基于创新的SDN架构设计，能够解决网络流量负载不均，提高网络带宽利用率。
+基于创新的SDN架构设计，能够解决网络流量负载不均，提高网络带宽利用率。'
       keyName: property
     - name: Robots
       value: all

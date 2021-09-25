@@ -2,9 +2,7 @@
 id: '1'
 price: '49.40'
 title: Atlas 900 PoD（型号：9000）
-description: Atlas 900 PoD（型号：9000）是基于华为昇腾910+ 鲲鹏920 处理器的AI训练集群基础单元，具有超强AI算力、更优AI能效、最佳AI拓展等特点。该基础单元广泛应用于深度学习模型开发和训练，适用于智慧城市、智慧医疗、天文探索、石油勘探等需要大AI算力的领域。
-default_thumbnail_image: images/plant1-lg.jpg
-default_original_image: images/plant1-lg.jpg
+description:  'Atlas 900 PoD（型号：9000）是基于华为昇腾910+ 鲲鹏920 处理器的AI训练集群基础单元，具有超强AI算力、更优AI能效、最佳AI拓展等特点。该基础单元广泛应用于深度学习模型开发和训练，适用于智慧城市、智慧医疗、天文探索、石油勘探等需要大AI算力的领域。'
 featured: true
 order: 334
 category: src/pages/category/服务器 - 计算.md
@@ -17,7 +15,7 @@ other4:
   images: {"other":{"org":"other","img":["Atlas 900 PoD（型号：9000）.png"]}}
 seo:
   title: atlas-900-pod-9000 | Atlas 900 PoD（型号：9000） | null | 昇腾计算 | 服务器 - 计算 | 数据中心
-  description: Atlas 900 PoD（型号：9000）是基于华为昇腾910+ 鲲鹏920 处理器的AI训练集群基础单元，具有超强AI算力、更优AI能效、最佳AI拓展等特点。该基础单元广泛应用于深度学习模型开发和训练，适用于智慧城市、智慧医疗、天文探索、石油勘探等需要大AI算力的领域。
+  description: 'Atlas 900 PoD（型号：9000）是基于华为昇腾910+ 鲲鹏920 处理器的AI训练集群基础单元，具有超强AI算力、更优AI能效、最佳AI拓展等特点。该基础单元广泛应用于深度学习模型开发和训练，适用于智慧城市、智慧医疗、天文探索、石油勘探等需要大AI算力的领域。'
   extra:
     - name: 'og:type'
       value: website
@@ -26,7 +24,7 @@ seo:
       value: 河南网田
       keyName: property
     - name: 'og:description'
-      value: Atlas 900 PoD（型号：9000）是基于华为昇腾910+ 鲲鹏920 处理器的AI训练集群基础单元，具有超强AI算力、更优AI能效、最佳AI拓展等特点。该基础单元广泛应用于深度学习模型开发和训练，适用于智慧城市、智慧医疗、天文探索、石油勘探等需要大AI算力的领域。
+      value: 'Atlas 900 PoD（型号：9000）是基于华为昇腾910+ 鲲鹏920 处理器的AI训练集群基础单元，具有超强AI算力、更优AI能效、最佳AI拓展等特点。该基础单元广泛应用于深度学习模型开发和训练，适用于智慧城市、智慧医疗、天文探索、石油勘探等需要大AI算力的领域。'
       keyName: property
     - name: Robots
       value: all

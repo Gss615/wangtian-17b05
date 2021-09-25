@@ -2,9 +2,7 @@
 id: '1'
 price: '49.40'
 title: CloudEngine S500系列交换机
-description: CloudEngine S500系列交换机，是华为专为中小型企业设计的简单、灵活和可靠的新一代全管理型交换机，可广泛用于企业办公、生产等场景，助力企业实现数字化转型。
-default_thumbnail_image: images/plant1-lg.jpg
-default_original_image: images/plant1-lg.jpg
+description:  'CloudEngine S500系列交换机，是华为专为中小型企业设计的简单、灵活和可靠的新一代全管理型交换机，可广泛用于企业办公、生产等场景，助力企业实现数字化转型。'
 featured: true
 order: 21
 category: src/pages/category/交换机.md
@@ -17,7 +15,7 @@ other4:
   images: {"s500-8t4s":{"org":"S500-8T4S_pic","img":["front.png","front_left.png","front_right.png","front_top.png","rear.png","rear_top.png"]}}
 seo:
   title: s500 | CloudEngine S500系列交换机 | 接入交换机 | 园区交换机 | 交换机 | 企业网络
-  description: CloudEngine S500系列交换机，是华为专为中小型企业设计的简单、灵活和可靠的新一代全管理型交换机，可广泛用于企业办公、生产等场景，助力企业实现数字化转型。
+  description: 'CloudEngine S500系列交换机，是华为专为中小型企业设计的简单、灵活和可靠的新一代全管理型交换机，可广泛用于企业办公、生产等场景，助力企业实现数字化转型。'
   extra:
     - name: 'og:type'
       value: website
@@ -26,7 +24,7 @@ seo:
       value: 河南网田
       keyName: property
     - name: 'og:description'
-      value: CloudEngine S500系列交换机，是华为专为中小型企业设计的简单、灵活和可靠的新一代全管理型交换机，可广泛用于企业办公、生产等场景，助力企业实现数字化转型。
+      value: 'CloudEngine S500系列交换机，是华为专为中小型企业设计的简单、灵活和可靠的新一代全管理型交换机，可广泛用于企业办公、生产等场景，助力企业实现数字化转型。'
       keyName: property
     - name: Robots
       value: all

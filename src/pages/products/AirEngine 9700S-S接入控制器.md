@@ -2,9 +2,7 @@
 id: '1'
 price: '49.40'
 title: AirEngine 9700S-S接入控制器
-description: AirEngine 9700S-S是华为推出的面向中小型企业的小型盒式无线接入控制器（Access controller），最大可管理64个AP，同时集成千兆以太网交换机功能，实现有线无线一体化的接入方式。可灵活配置无线接入点的管理数量，具有良好的可扩展性。配合华为全系列802.11n/802.11ac/802.11ax无线接入点，可组建中小型园区网络、企业办公网络、无线城域网络、热点覆盖等应用环境。
-default_thumbnail_image: images/plant1-lg.jpg
-default_original_image: images/plant1-lg.jpg
+description:  'AirEngine 9700S-S是华为推出的面向中小型企业的小型盒式无线接入控制器（Access controller），最大可管理64个AP，同时集成千兆以太网交换机功能，实现有线无线一体化的接入方式。可灵活配置无线接入点的管理数量，具有良好的可扩展性。配合华为全系列802.11n/802.11ac/802.11ax无线接入点，可组建中小型园区网络、企业办公网络、无线城域网络、热点覆盖等应用环境。'
 featured: true
 order: 150
 category: src/pages/category/无线局域网.md
@@ -17,7 +15,7 @@ other4:
   images: {"airengine9700-m":{"org":"AirEngine9700-M_pic","img":["front.png","front_left.png","front_right.png","front_top.png","left.png","rear.png","rear_top.png","right.png"]}}
 seo:
   title: airengine-9700s-s | AirEngine 9700S-S接入控制器 | null | 接入控制器 | 无线局域网 | 企业网络
-  description: AirEngine 9700S-S是华为推出的面向中小型企业的小型盒式无线接入控制器（Access controller），最大可管理64个AP，同时集成千兆以太网交换机功能，实现有线无线一体化的接入方式。可灵活配置无线接入点的管理数量，具有良好的可扩展性。配合华为全系列802.11n/802.11ac/802.11ax无线接入点，可组建中小型园区网络、企业办公网络、无线城域网络、热点覆盖等应用环境。
+  description: 'AirEngine 9700S-S是华为推出的面向中小型企业的小型盒式无线接入控制器（Access controller），最大可管理64个AP，同时集成千兆以太网交换机功能，实现有线无线一体化的接入方式。可灵活配置无线接入点的管理数量，具有良好的可扩展性。配合华为全系列802.11n/802.11ac/802.11ax无线接入点，可组建中小型园区网络、企业办公网络、无线城域网络、热点覆盖等应用环境。'
   extra:
     - name: 'og:type'
       value: website
@@ -26,7 +24,7 @@ seo:
       value: 河南网田
       keyName: property
     - name: 'og:description'
-      value: AirEngine 9700S-S是华为推出的面向中小型企业的小型盒式无线接入控制器（Access controller），最大可管理64个AP，同时集成千兆以太网交换机功能，实现有线无线一体化的接入方式。可灵活配置无线接入点的管理数量，具有良好的可扩展性。配合华为全系列802.11n/802.11ac/802.11ax无线接入点，可组建中小型园区网络、企业办公网络、无线城域网络、热点覆盖等应用环境。
+      value: 'AirEngine 9700S-S是华为推出的面向中小型企业的小型盒式无线接入控制器（Access controller），最大可管理64个AP，同时集成千兆以太网交换机功能，实现有线无线一体化的接入方式。可灵活配置无线接入点的管理数量，具有良好的可扩展性。配合华为全系列802.11n/802.11ac/802.11ax无线接入点，可组建中小型园区网络、企业办公网络、无线城域网络、热点覆盖等应用环境。'
       keyName: property
     - name: Robots
       value: all

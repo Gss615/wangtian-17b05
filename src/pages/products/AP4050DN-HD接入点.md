@@ -2,9 +2,7 @@
 id: '1'
 price: '49.40'
 title: AP4050DN-HD接入点
-description: AP4050DN-HD无线接入点支持802.11ac wave2标准，2×2MIMO和两条空间流，整机速率1.267Gbps，内置智能高密天线，适合部署在室内场馆高密度场景。
-default_thumbnail_image: images/plant1-lg.jpg
-default_original_image: images/plant1-lg.jpg
+description:  'AP4050DN-HD无线接入点支持802.11ac wave2标准，2×2MIMO和两条空间流，整机速率1.267Gbps，内置智能高密天线，适合部署在室内场馆高密度场景。'
 featured: true
 order: 112
 category: src/pages/category/无线局域网.md
@@ -17,7 +15,7 @@ other4:
   images: {"other":{"org":"other","img":["AP4050DN-HD接入点.png"]}}
 seo:
   title: ap4050dn-hd | AP4050DN-HD接入点 | AP4000系列 | 室内接入点 | 无线局域网 | 企业网络
-  description: AP4050DN-HD无线接入点支持802.11ac wave2标准，2×2MIMO和两条空间流，整机速率1.267Gbps，内置智能高密天线，适合部署在室内场馆高密度场景。
+  description: 'AP4050DN-HD无线接入点支持802.11ac wave2标准，2×2MIMO和两条空间流，整机速率1.267Gbps，内置智能高密天线，适合部署在室内场馆高密度场景。'
   extra:
     - name: 'og:type'
       value: website
@@ -26,7 +24,7 @@ seo:
       value: 河南网田
       keyName: property
     - name: 'og:description'
-      value: AP4050DN-HD无线接入点支持802.11ac wave2标准，2×2MIMO和两条空间流，整机速率1.267Gbps，内置智能高密天线，适合部署在室内场馆高密度场景。
+      value: 'AP4050DN-HD无线接入点支持802.11ac wave2标准，2×2MIMO和两条空间流，整机速率1.267Gbps，内置智能高密天线，适合部署在室内场馆高密度场景。'
       keyName: property
     - name: Robots
       value: all

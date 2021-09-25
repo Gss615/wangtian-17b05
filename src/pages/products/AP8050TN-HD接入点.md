@@ -2,11 +2,9 @@
 id: '1'
 price: '49.40'
 title: AP8050TN-HD接入点
-description: AP8050TN-HD是华为推出的802.11ac Wave 2无线接入点设备，三射频设计。2.4G频段支持2×2 MIMO和2条空间流，5G频段两个射频，均支持2×2 MIMO和2条空间流，整机6条流，整机速率2.134Gbps。
+description:  'AP8050TN-HD是华为推出的802.11ac Wave 2无线接入点设备，三射频设计。2.4G频段支持2×2 MIMO和2条空间流，5G频段两个射频，均支持2×2 MIMO和2条空间流，整机6条流，整机速率2.134Gbps。
 
-AP8050TN-HD内置智能高密天线，无线覆盖更为精准，适用于体育场馆、室外比赛场地等高密环境。
-default_thumbnail_image: images/plant1-lg.jpg
-default_original_image: images/plant1-lg.jpg
+AP8050TN-HD内置智能高密天线，无线覆盖更为精准，适用于体育场馆、室外比赛场地等高密环境。'
 featured: true
 order: 138
 category: src/pages/category/无线局域网.md
@@ -19,9 +17,9 @@ other4:
   images: {"ap8050tn-hd":{"org":"AP8050TN-HD_pic","img":["bottom.png","front.png","front_left.png","front_right.png","front_top.png","left.png","rear.png","rear_top.png","right.png","top.png"]}}
 seo:
   title: ap8050tn-hd | AP8050TN-HD接入点 | AP8000 系列 | 室外接入点 | 无线局域网 | 企业网络
-  description: AP8050TN-HD是华为推出的802.11ac Wave 2无线接入点设备，三射频设计。2.4G频段支持2×2 MIMO和2条空间流，5G频段两个射频，均支持2×2 MIMO和2条空间流，整机6条流，整机速率2.134Gbps。
+  description: 'AP8050TN-HD是华为推出的802.11ac Wave 2无线接入点设备，三射频设计。2.4G频段支持2×2 MIMO和2条空间流，5G频段两个射频，均支持2×2 MIMO和2条空间流，整机6条流，整机速率2.134Gbps。
 
-AP8050TN-HD内置智能高密天线，无线覆盖更为精准，适用于体育场馆、室外比赛场地等高密环境。
+AP8050TN-HD内置智能高密天线，无线覆盖更为精准，适用于体育场馆、室外比赛场地等高密环境。'
   extra:
     - name: 'og:type'
       value: website
@@ -30,9 +28,9 @@ AP8050TN-HD内置智能高密天线，无线覆盖更为精准，适用于体育
       value: 河南网田
       keyName: property
     - name: 'og:description'
-      value: AP8050TN-HD是华为推出的802.11ac Wave 2无线接入点设备，三射频设计。2.4G频段支持2×2 MIMO和2条空间流，5G频段两个射频，均支持2×2 MIMO和2条空间流，整机6条流，整机速率2.134Gbps。
+      value: 'AP8050TN-HD是华为推出的802.11ac Wave 2无线接入点设备，三射频设计。2.4G频段支持2×2 MIMO和2条空间流，5G频段两个射频，均支持2×2 MIMO和2条空间流，整机6条流，整机速率2.134Gbps。
 
-AP8050TN-HD内置智能高密天线，无线覆盖更为精准，适用于体育场馆、室外比赛场地等高密环境。
+AP8050TN-HD内置智能高密天线，无线覆盖更为精准，适用于体育场馆、室外比赛场地等高密环境。'
       keyName: property
     - name: Robots
       value: all

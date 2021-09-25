@@ -2,11 +2,9 @@
 id: '1'
 price: '49.40'
 title: AP2030DN-S接入点
-description: 华为AP2030DN-S接入点是中小企业分销级市场推出的经济型面板AP产品，匹配国标86mm面板设计，可简单快速的安装在86盒上，适用于酒店、公寓、办公室等场所。
+description:  '华为AP2030DN-S接入点是中小企业分销级市场推出的经济型面板AP产品，匹配国标86mm面板设计，可简单快速的安装在86盒上，适用于酒店、公寓、办公室等场所。
 
-AP2030DN-S支持802.11ac标准协议，采用2.4GHz和5GHz双频设计，内置天线，隐式指示灯，滑动面板，美观大方，是构建室内分布式网络的理想产品。
-default_thumbnail_image: images/plant1-lg.jpg
-default_original_image: images/plant1-lg.jpg
+AP2030DN-S支持802.11ac标准协议，采用2.4GHz和5GHz双频设计，内置天线，隐式指示灯，滑动面板，美观大方，是构建室内分布式网络的理想产品。'
 featured: true
 order: 126
 category: src/pages/category/无线局域网.md
@@ -19,9 +17,9 @@ other4:
   images: {"ap2030dn-s":{"org":"AP2030DN-S_pic","img":["bottom.png","front_left.png","front_right.png","front_top.png","rear_top.png","right.png","stand_left.png","stand_right.png","top.png"]}}
 seo:
   title: ap2030dn-s | AP2030DN-S接入点 | AP2000系列 | 室内接入点 | 无线局域网 | 企业网络
-  description: 华为AP2030DN-S接入点是中小企业分销级市场推出的经济型面板AP产品，匹配国标86mm面板设计，可简单快速的安装在86盒上，适用于酒店、公寓、办公室等场所。
+  description: '华为AP2030DN-S接入点是中小企业分销级市场推出的经济型面板AP产品，匹配国标86mm面板设计，可简单快速的安装在86盒上，适用于酒店、公寓、办公室等场所。
 
-AP2030DN-S支持802.11ac标准协议，采用2.4GHz和5GHz双频设计，内置天线，隐式指示灯，滑动面板，美观大方，是构建室内分布式网络的理想产品。
+AP2030DN-S支持802.11ac标准协议，采用2.4GHz和5GHz双频设计，内置天线，隐式指示灯，滑动面板，美观大方，是构建室内分布式网络的理想产品。'
   extra:
     - name: 'og:type'
       value: website
@@ -30,9 +28,9 @@ AP2030DN-S支持802.11ac标准协议，采用2.4GHz和5GHz双频设计，内置�
       value: 河南网田
       keyName: property
     - name: 'og:description'
-      value: 华为AP2030DN-S接入点是中小企业分销级市场推出的经济型面板AP产品，匹配国标86mm面板设计，可简单快速的安装在86盒上，适用于酒店、公寓、办公室等场所。
+      value: '华为AP2030DN-S接入点是中小企业分销级市场推出的经济型面板AP产品，匹配国标86mm面板设计，可简单快速的安装在86盒上，适用于酒店、公寓、办公室等场所。
 
-AP2030DN-S支持802.11ac标准协议，采用2.4GHz和5GHz双频设计，内置天线，隐式指示灯，滑动面板，美观大方，是构建室内分布式网络的理想产品。
+AP2030DN-S支持802.11ac标准协议，采用2.4GHz和5GHz双频设计，内置天线，隐式指示灯，滑动面板，美观大方，是构建室内分布式网络的理想产品。'
       keyName: property
     - name: Robots
       value: all

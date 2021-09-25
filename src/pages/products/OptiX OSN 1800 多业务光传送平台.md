@@ -2,11 +2,9 @@
 id: '1'
 price: '49.40'
 title: OptiX OSN 1800 多业务光传送平台
-description: OptiX OSN 1800 多业务光传送平台是新一代分组增强型多业务光传送平台，较高的集成度填补了城域设备形态的需求。
+description:  'OptiX OSN 1800 多业务光传送平台是新一代分组增强型多业务光传送平台，较高的集成度填补了城域设备形态的需求。
 
-支持OTN/PKT/SDH统一交换功能，以太网、TDM、专线等2M~100G全业务接入，并集成MPLS-TP功能，解决城域网络以下光纤资源不足的问题，为金融，媒资，政府，能源，教育等提供了低成本、高效的业务传输方案。
-default_thumbnail_image: images/plant1-lg.jpg
-default_original_image: images/plant1-lg.jpg
+支持OTN/PKT/SDH统一交换功能，以太网、TDM、专线等2M~100G全业务接入，并集成MPLS-TP功能，解决城域网络以下光纤资源不足的问题，为金融，媒资，政府，能源，教育等提供了低成本、高效的业务传输方案。'
 featured: true
 order: 205
 category: src/pages/category/光传送.md
@@ -19,9 +17,9 @@ other4:
   images: {"other":{"org":"other","img":["OptiX OSN 1800 多业务光传送平台.png"]}}
 seo:
   title: osn-1800 | OptiX OSN 1800 多业务光传送平台 | null | 波分 | 光传送 | 企业光网络
-  description: OptiX OSN 1800 多业务光传送平台是新一代分组增强型多业务光传送平台，较高的集成度填补了城域设备形态的需求。
+  description: 'OptiX OSN 1800 多业务光传送平台是新一代分组增强型多业务光传送平台，较高的集成度填补了城域设备形态的需求。
 
-支持OTN/PKT/SDH统一交换功能，以太网、TDM、专线等2M~100G全业务接入，并集成MPLS-TP功能，解决城域网络以下光纤资源不足的问题，为金融，媒资，政府，能源，教育等提供了低成本、高效的业务传输方案。
+支持OTN/PKT/SDH统一交换功能，以太网、TDM、专线等2M~100G全业务接入，并集成MPLS-TP功能，解决城域网络以下光纤资源不足的问题，为金融，媒资，政府，能源，教育等提供了低成本、高效的业务传输方案。'
   extra:
     - name: 'og:type'
       value: website
@@ -30,9 +28,9 @@ seo:
       value: 河南网田
       keyName: property
     - name: 'og:description'
-      value: OptiX OSN 1800 多业务光传送平台是新一代分组增强型多业务光传送平台，较高的集成度填补了城域设备形态的需求。
+      value: 'OptiX OSN 1800 多业务光传送平台是新一代分组增强型多业务光传送平台，较高的集成度填补了城域设备形态的需求。
 
-支持OTN/PKT/SDH统一交换功能，以太网、TDM、专线等2M~100G全业务接入，并集成MPLS-TP功能，解决城域网络以下光纤资源不足的问题，为金融，媒资，政府，能源，教育等提供了低成本、高效的业务传输方案。
+支持OTN/PKT/SDH统一交换功能，以太网、TDM、专线等2M~100G全业务接入，并集成MPLS-TP功能，解决城域网络以下光纤资源不足的问题，为金融，媒资，政府，能源，教育等提供了低成本、高效的业务传输方案。'
       keyName: property
     - name: Robots
       value: all

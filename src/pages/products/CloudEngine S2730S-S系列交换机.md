@@ -2,11 +2,9 @@
 id: '1'
 price: '49.40'
 title: CloudEngine S2730S-S系列交换机
-description: CloudEngine S2730S-S系列交换机是华为公司推出的新一代绿色节能的以太智能百兆/千兆接入交换机。
+description:  'CloudEngine S2730S-S系列交换机是华为公司推出的新一代绿色节能的以太智能百兆/千兆接入交换机。
 
-它基于新一代高性能硬件和华为公司统一的VRP（Versatile Routing Platform）软件平台，灵活的以太组网，多样的安全控制等特点，支持多种三层路由协议，具备更高性能和更丰富的业务处理能力，广泛应用于企业园区接入，百兆、千兆到桌面等多种应用场景。
-default_thumbnail_image: images/plant1-lg.jpg
-default_original_image: images/plant1-lg.jpg
+它基于新一代高性能硬件和华为公司统一的VRP（Versatile Routing Platform）软件平台，灵活的以太组网，多样的安全控制等特点，支持多种三层路由协议，具备更高性能和更丰富的业务处理能力，广泛应用于企业园区接入，百兆、千兆到桌面等多种应用场景。'
 featured: true
 order: 35
 category: src/pages/category/交换机.md
@@ -19,9 +17,9 @@ other4:
   images: {"s2730s-s8ft4s-a":{"org":"S2730S-S8FT4S-A_pic","img":["front.png","front_left.png","front_right.png","front_top.png","rear.png","rear_top.png"]}}
 seo:
   title: s2730s-s | CloudEngine S2730S-S系列交换机 | SMB交换机 | 园区交换机 | 交换机 | 企业网络
-  description: CloudEngine S2730S-S系列交换机是华为公司推出的新一代绿色节能的以太智能百兆/千兆接入交换机。
+  description: 'CloudEngine S2730S-S系列交换机是华为公司推出的新一代绿色节能的以太智能百兆/千兆接入交换机。
 
-它基于新一代高性能硬件和华为公司统一的VRP（Versatile Routing Platform）软件平台，灵活的以太组网，多样的安全控制等特点，支持多种三层路由协议，具备更高性能和更丰富的业务处理能力，广泛应用于企业园区接入，百兆、千兆到桌面等多种应用场景。
+它基于新一代高性能硬件和华为公司统一的VRP（Versatile Routing Platform）软件平台，灵活的以太组网，多样的安全控制等特点，支持多种三层路由协议，具备更高性能和更丰富的业务处理能力，广泛应用于企业园区接入，百兆、千兆到桌面等多种应用场景。'
   extra:
     - name: 'og:type'
       value: website
@@ -30,9 +28,9 @@ seo:
       value: 河南网田
       keyName: property
     - name: 'og:description'
-      value: CloudEngine S2730S-S系列交换机是华为公司推出的新一代绿色节能的以太智能百兆/千兆接入交换机。
+      value: 'CloudEngine S2730S-S系列交换机是华为公司推出的新一代绿色节能的以太智能百兆/千兆接入交换机。
 
-它基于新一代高性能硬件和华为公司统一的VRP（Versatile Routing Platform）软件平台，灵活的以太组网，多样的安全控制等特点，支持多种三层路由协议，具备更高性能和更丰富的业务处理能力，广泛应用于企业园区接入，百兆、千兆到桌面等多种应用场景。
+它基于新一代高性能硬件和华为公司统一的VRP（Versatile Routing Platform）软件平台，灵活的以太组网，多样的安全控制等特点，支持多种三层路由协议，具备更高性能和更丰富的业务处理能力，广泛应用于企业园区接入，百兆、千兆到桌面等多种应用场景。'
       keyName: property
     - name: Robots
       value: all

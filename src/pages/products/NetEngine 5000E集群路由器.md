@@ -2,9 +2,7 @@
 id: '1'
 price: '49.40'
 title: NetEngine 5000E集群路由器
-description: 华为NetEngine5000E核心路由器是面向企业骨干网、城域网核心节点、数据中心互联节点和国际网关等推出的核心路由器产品，具有大容量、高可靠、绿色、智能等特点，支持单框、背靠背和多框集群模式，实现按需扩展，帮助企业用户轻松应对互联网流量快速增长和未来业务发展。
-default_thumbnail_image: images/plant1-lg.jpg
-default_original_image: images/plant1-lg.jpg
+description:  '华为NetEngine5000E核心路由器是面向企业骨干网、城域网核心节点、数据中心互联节点和国际网关等推出的核心路由器产品，具有大容量、高可靠、绿色、智能等特点，支持单框、背靠背和多框集群模式，实现按需扩展，帮助企业用户轻松应对互联网流量快速增长和未来业务发展。'
 featured: true
 order: 57
 category: src/pages/category/路由器.md
@@ -17,7 +15,7 @@ other4:
   images: {"other":{"org":"other","img":["NetEngine 5000E集群路由器.png"]}}
 seo:
   title: ne5000e | NetEngine5000E集群 | 云骨干路由器 | NE系列路由器 | 路由器 | 企业网络
-  description: 华为NetEngine5000E核心路由器是面向企业骨干网、城域网核心节点、数据中心互联节点和国际网关等推出的核心路由器产品，具有大容量、高可靠、绿色、智能等特点，支持单框、背靠背和多框集群模式，实现按需扩展，帮助企业用户轻松应对互联网流量快速增长和未来业务发展。
+  description: '华为NetEngine5000E核心路由器是面向企业骨干网、城域网核心节点、数据中心互联节点和国际网关等推出的核心路由器产品，具有大容量、高可靠、绿色、智能等特点，支持单框、背靠背和多框集群模式，实现按需扩展，帮助企业用户轻松应对互联网流量快速增长和未来业务发展。'
   extra:
     - name: 'og:type'
       value: website
@@ -26,7 +24,7 @@ seo:
       value: 河南网田
       keyName: property
     - name: 'og:description'
-      value: 华为NetEngine5000E核心路由器是面向企业骨干网、城域网核心节点、数据中心互联节点和国际网关等推出的核心路由器产品，具有大容量、高可靠、绿色、智能等特点，支持单框、背靠背和多框集群模式，实现按需扩展，帮助企业用户轻松应对互联网流量快速增长和未来业务发展。
+      value: '华为NetEngine5000E核心路由器是面向企业骨干网、城域网核心节点、数据中心互联节点和国际网关等推出的核心路由器产品，具有大容量、高可靠、绿色、智能等特点，支持单框、背靠背和多框集群模式，实现按需扩展，帮助企业用户轻松应对互联网流量快速增长和未来业务发展。'
       keyName: property
     - name: Robots
       value: all

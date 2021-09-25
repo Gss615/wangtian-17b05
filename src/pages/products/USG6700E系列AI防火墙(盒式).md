@@ -2,9 +2,7 @@
 id: '1'
 price: '49.40'
 title: USG6700E系列AI防火墙(盒式)
-description: 华为USG6700E系列是面向下一代数据中心和和大型企业园区网推出的万兆AI防火墙。在提供NGFW能力的基础上，联动其他安全设备，主动防御网络威胁，增强边界检测能力，有效防御高级威胁，同时解决性能下降问题。NP引擎提供快速转发能力，防火墙性能显著提升。
-default_thumbnail_image: images/plant1-lg.jpg
-default_original_image: images/plant1-lg.jpg
+description:  '华为USG6700E系列是面向下一代数据中心和和大型企业园区网推出的万兆AI防火墙。在提供NGFW能力的基础上，联动其他安全设备，主动防御网络威胁，增强边界检测能力，有效防御高级威胁，同时解决性能下降问题。NP引擎提供快速转发能力，防火墙性能显著提升。'
 featured: true
 order: 170
 category: src/pages/category/网络安全.md
@@ -17,7 +15,7 @@ other4:
   images: {"usg6712e":{"org":"USG6712E_pic","img":["front.png","front_left.png","front_right.png","front_top.png","rear.png","rear_top.png"]}}
 seo:
   title: usg6700e | USG6700E系列AI防火墙(盒式) | null | 防火墙及应用安全网关 | 网络安全 | 企业网络
-  description: 华为USG6700E系列是面向下一代数据中心和和大型企业园区网推出的万兆AI防火墙。在提供NGFW能力的基础上，联动其他安全设备，主动防御网络威胁，增强边界检测能力，有效防御高级威胁，同时解决性能下降问题。NP引擎提供快速转发能力，防火墙性能显著提升。
+  description: '华为USG6700E系列是面向下一代数据中心和和大型企业园区网推出的万兆AI防火墙。在提供NGFW能力的基础上，联动其他安全设备，主动防御网络威胁，增强边界检测能力，有效防御高级威胁，同时解决性能下降问题。NP引擎提供快速转发能力，防火墙性能显著提升。'
   extra:
     - name: 'og:type'
       value: website
@@ -26,7 +24,7 @@ seo:
       value: 河南网田
       keyName: property
     - name: 'og:description'
-      value: 华为USG6700E系列是面向下一代数据中心和和大型企业园区网推出的万兆AI防火墙。在提供NGFW能力的基础上，联动其他安全设备，主动防御网络威胁，增强边界检测能力，有效防御高级威胁，同时解决性能下降问题。NP引擎提供快速转发能力，防火墙性能显著提升。
+      value: '华为USG6700E系列是面向下一代数据中心和和大型企业园区网推出的万兆AI防火墙。在提供NGFW能力的基础上，联动其他安全设备，主动防御网络威胁，增强边界检测能力，有效防御高级威胁，同时解决性能下降问题。NP引擎提供快速转发能力，防火墙性能显著提升。'
       keyName: property
     - name: Robots
       value: all

@@ -2,9 +2,7 @@
 id: '1'
 price: '49.40'
 title: HiSecEngine USG6600F系列AI防火墙
-description: 华为HiSecEngine USG6600F系列是华为面向下一代数据中心推出的万兆AI防火墙。HiSecEngine USG6600F系列基于最新软硬件平台，提供IPv4/IPv6共栈能力，业务性能大幅提升；使用智能技术有效检测高级威胁，增强边界防护能力。
-default_thumbnail_image: images/plant1-lg.jpg
-default_original_image: images/plant1-lg.jpg
+description:  '华为HiSecEngine USG6600F系列是华为面向下一代数据中心推出的万兆AI防火墙。HiSecEngine USG6600F系列基于最新软硬件平台，提供IPv4/IPv6共栈能力，业务性能大幅提升；使用智能技术有效检测高级威胁，增强边界防护能力。'
 featured: true
 order: 172
 category: src/pages/category/网络安全.md
@@ -17,7 +15,7 @@ other4:
   images: {"usg6615f":{"org":"USG6615F_pic","img":["front.png","front_left.png","front_right.png","front_top.png","rear.png","rear_left.png","rear_right.png","rear_top.png"]}}
 seo:
   title: usg6600f | HiSecEngine USG6600F系列AI防火墙 | null | 防火墙及应用安全网关 | 网络安全 | 企业网络
-  description: 华为HiSecEngine USG6600F系列是华为面向下一代数据中心推出的万兆AI防火墙。HiSecEngine USG6600F系列基于最新软硬件平台，提供IPv4/IPv6共栈能力，业务性能大幅提升；使用智能技术有效检测高级威胁，增强边界防护能力。
+  description: '华为HiSecEngine USG6600F系列是华为面向下一代数据中心推出的万兆AI防火墙。HiSecEngine USG6600F系列基于最新软硬件平台，提供IPv4/IPv6共栈能力，业务性能大幅提升；使用智能技术有效检测高级威胁，增强边界防护能力。'
   extra:
     - name: 'og:type'
       value: website
@@ -26,7 +24,7 @@ seo:
       value: 河南网田
       keyName: property
     - name: 'og:description'
-      value: 华为HiSecEngine USG6600F系列是华为面向下一代数据中心推出的万兆AI防火墙。HiSecEngine USG6600F系列基于最新软硬件平台，提供IPv4/IPv6共栈能力，业务性能大幅提升；使用智能技术有效检测高级威胁，增强边界防护能力。
+      value: '华为HiSecEngine USG6600F系列是华为面向下一代数据中心推出的万兆AI防火墙。HiSecEngine USG6600F系列基于最新软硬件平台，提供IPv4/IPv6共栈能力，业务性能大幅提升；使用智能技术有效检测高级威胁，增强边界防护能力。'
       keyName: property
     - name: Robots
       value: all

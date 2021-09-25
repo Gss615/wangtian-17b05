@@ -2,9 +2,7 @@
 id: '1'
 price: '49.40'
 title: FusionServer Pro 5885H V5机架服务器
-description: 华为FusionServer Pro 5885H V5是一款4U4路机架服务器，适用于关键业务的高可靠高性能要求，以及虚拟化、高性能计算(HPC)、数据库等计算密集型业务需求。5885H V5在4U空间里可配置4路处理器、48条DDR4内存及最多25*2.5”的本地存储资源（可配置8个NVMe SSD）。集成DEMT智能功耗管理、FDM智能故障管理等专利技术，可选配华为FusionDirector全生命周期管理软件，能够有效降低运营成本、提升投资回报。
-default_thumbnail_image: images/plant1-lg.jpg
-default_original_image: images/plant1-lg.jpg
+description:  '华为FusionServer Pro 5885H V5是一款4U4路机架服务器，适用于关键业务的高可靠高性能要求，以及虚拟化、高性能计算(HPC)、数据库等计算密集型业务需求。5885H V5在4U空间里可配置4路处理器、48条DDR4内存及最多25*2.5”的本地存储资源（可配置8个NVMe SSD）。集成DEMT智能功耗管理、FDM智能故障管理等专利技术，可选配华为FusionDirector全生命周期管理软件，能够有效降低运营成本、提升投资回报。'
 featured: true
 order: 293
 category: src/pages/category/服务器 - 计算.md
@@ -17,7 +15,7 @@ other4:
   images: {"other":{"org":"other","img":["FusionServer Pro 5885H V5机架服务器.png"]}}
 seo:
   title: 5885h-v5 | FusionServer 5885H V5机架服务器 | FusionServer Pro机架服务器 | FusionServer Pro智能服务器 | 服务器 - 计算 | 数据中心
-  description: 华为FusionServer Pro 5885H V5是一款4U4路机架服务器，适用于关键业务的高可靠高性能要求，以及虚拟化、高性能计算(HPC)、数据库等计算密集型业务需求。5885H V5在4U空间里可配置4路处理器、48条DDR4内存及最多25*2.5”的本地存储资源（可配置8个NVMe SSD）。集成DEMT智能功耗管理、FDM智能故障管理等专利技术，可选配华为FusionDirector全生命周期管理软件，能够有效降低运营成本、提升投资回报。
+  description: '华为FusionServer Pro 5885H V5是一款4U4路机架服务器，适用于关键业务的高可靠高性能要求，以及虚拟化、高性能计算(HPC)、数据库等计算密集型业务需求。5885H V5在4U空间里可配置4路处理器、48条DDR4内存及最多25*2.5”的本地存储资源（可配置8个NVMe SSD）。集成DEMT智能功耗管理、FDM智能故障管理等专利技术，可选配华为FusionDirector全生命周期管理软件，能够有效降低运营成本、提升投资回报。'
   extra:
     - name: 'og:type'
       value: website
@@ -26,7 +24,7 @@ seo:
       value: 河南网田
       keyName: property
     - name: 'og:description'
-      value: 华为FusionServer Pro 5885H V5是一款4U4路机架服务器，适用于关键业务的高可靠高性能要求，以及虚拟化、高性能计算(HPC)、数据库等计算密集型业务需求。5885H V5在4U空间里可配置4路处理器、48条DDR4内存及最多25*2.5”的本地存储资源（可配置8个NVMe SSD）。集成DEMT智能功耗管理、FDM智能故障管理等专利技术，可选配华为FusionDirector全生命周期管理软件，能够有效降低运营成本、提升投资回报。
+      value: '华为FusionServer Pro 5885H V5是一款4U4路机架服务器，适用于关键业务的高可靠高性能要求，以及虚拟化、高性能计算(HPC)、数据库等计算密集型业务需求。5885H V5在4U空间里可配置4路处理器、48条DDR4内存及最多25*2.5”的本地存储资源（可配置8个NVMe SSD）。集成DEMT智能功耗管理、FDM智能故障管理等专利技术，可选配华为FusionDirector全生命周期管理软件，能够有效降低运营成本、提升投资回报。'
       keyName: property
     - name: Robots
       value: all

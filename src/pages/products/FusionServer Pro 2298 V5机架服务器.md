@@ -2,9 +2,7 @@
 id: '1'
 price: '49.40'
 title: FusionServer Pro 2298 V5机架服务器
-description: 华为FusionServer Pro 2298 V5是一款2U2路机架服务器，混合存储架构，数据分级存储。该机架服务器适用于热温冷数据分级部署、历史数据归档等业务需求，凭借高效设计，在确保卓越计算性能的同时，提供灵活、超大容量的本地存储扩展能力，降低数据存储成本。
-default_thumbnail_image: images/plant1-lg.jpg
-default_original_image: images/plant1-lg.jpg
+description:  '华为FusionServer Pro 2298 V5是一款2U2路机架服务器，混合存储架构，数据分级存储。该机架服务器适用于热温冷数据分级部署、历史数据归档等业务需求，凭借高效设计，在确保卓越计算性能的同时，提供灵活、超大容量的本地存储扩展能力，降低数据存储成本。'
 featured: true
 order: 288
 category: src/pages/category/服务器 - 计算.md
@@ -17,7 +15,7 @@ other4:
   images: {"other":{"org":"other","img":["FusionServer Pro 2298 V5机架服务器.png"]}}
 seo:
   title: 2298-v5 | FusionServer Pro 2298 V5机架服务器  | FusionServer Pro机架服务器 | FusionServer Pro智能服务器 | 服务器 - 计算 | 数据中心
-  description: 华为FusionServer Pro 2298 V5是一款2U2路机架服务器，混合存储架构，数据分级存储。该机架服务器适用于热温冷数据分级部署、历史数据归档等业务需求，凭借高效设计，在确保卓越计算性能的同时，提供灵活、超大容量的本地存储扩展能力，降低数据存储成本。
+  description: '华为FusionServer Pro 2298 V5是一款2U2路机架服务器，混合存储架构，数据分级存储。该机架服务器适用于热温冷数据分级部署、历史数据归档等业务需求，凭借高效设计，在确保卓越计算性能的同时，提供灵活、超大容量的本地存储扩展能力，降低数据存储成本。'
   extra:
     - name: 'og:type'
       value: website
@@ -26,7 +24,7 @@ seo:
       value: 河南网田
       keyName: property
     - name: 'og:description'
-      value: 华为FusionServer Pro 2298 V5是一款2U2路机架服务器，混合存储架构，数据分级存储。该机架服务器适用于热温冷数据分级部署、历史数据归档等业务需求，凭借高效设计，在确保卓越计算性能的同时，提供灵活、超大容量的本地存储扩展能力，降低数据存储成本。
+      value: '华为FusionServer Pro 2298 V5是一款2U2路机架服务器，混合存储架构，数据分级存储。该机架服务器适用于热温冷数据分级部署、历史数据归档等业务需求，凭借高效设计，在确保卓越计算性能的同时，提供灵活、超大容量的本地存储扩展能力，降低数据存储成本。'
       keyName: property
     - name: Robots
       value: all

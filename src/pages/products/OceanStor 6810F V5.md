@@ -2,11 +2,9 @@
 id: '1'
 price: '49.40'
 title: OceanStor 6810F V5
-description: 华为OceanStor 6810F V5是基于华为自研多核处理器的高端智能全闪存存储系统，为企业提供最高水平的数据服务。
+description:  '华为OceanStor 6810F V5是基于华为自研多核处理器的高端智能全闪存存储系统，为企业提供最高水平的数据服务。
 具备创新的高可靠SmartMatrix架构、灵活的扩展性、全闪存设计的高性能以及面向混合云的演进方案，是企业核心应用的信赖之选。
-满足了大型数据库OLTP/OLAP、云计算等各种应用的数据存储需求，广泛适用于金融、政府、运营商、制造、交通等行业。
-default_thumbnail_image: images/plant1-lg.jpg
-default_original_image: images/plant1-lg.jpg
+满足了大型数据库OLTP/OLAP、云计算等各种应用的数据存储需求，广泛适用于金融、政府、运营商、制造、交通等行业。'
 featured: true
 order: 255
 category: src/pages/category/全闪存存储.md
@@ -19,9 +17,9 @@ other4:
   images: {"other":{"org":"other","img":["OceanStor 6810F V5.png"]}}
 seo:
   title: oceanstor-6810f-v5 | OceanStor 6810F V5 | null | null | 全闪存存储 | 数据存储
-  description: 华为OceanStor 6810F V5是基于华为自研多核处理器的高端智能全闪存存储系统，为企业提供最高水平的数据服务。
+  description: '华为OceanStor 6810F V5是基于华为自研多核处理器的高端智能全闪存存储系统，为企业提供最高水平的数据服务。
 具备创新的高可靠SmartMatrix架构、灵活的扩展性、全闪存设计的高性能以及面向混合云的演进方案，是企业核心应用的信赖之选。
-满足了大型数据库OLTP/OLAP、云计算等各种应用的数据存储需求，广泛适用于金融、政府、运营商、制造、交通等行业。
+满足了大型数据库OLTP/OLAP、云计算等各种应用的数据存储需求，广泛适用于金融、政府、运营商、制造、交通等行业。'
   extra:
     - name: 'og:type'
       value: website
@@ -30,9 +28,9 @@ seo:
       value: 河南网田
       keyName: property
     - name: 'og:description'
-      value: 华为OceanStor 6810F V5是基于华为自研多核处理器的高端智能全闪存存储系统，为企业提供最高水平的数据服务。
+      value: '华为OceanStor 6810F V5是基于华为自研多核处理器的高端智能全闪存存储系统，为企业提供最高水平的数据服务。
 具备创新的高可靠SmartMatrix架构、灵活的扩展性、全闪存设计的高性能以及面向混合云的演进方案，是企业核心应用的信赖之选。
-满足了大型数据库OLTP/OLAP、云计算等各种应用的数据存储需求，广泛适用于金融、政府、运营商、制造、交通等行业。
+满足了大型数据库OLTP/OLAP、云计算等各种应用的数据存储需求，广泛适用于金融、政府、运营商、制造、交通等行业。'
       keyName: property
     - name: Robots
       value: all

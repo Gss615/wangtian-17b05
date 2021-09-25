@@ -2,9 +2,7 @@
 id: '1'
 price: '49.40'
 title: 华为OptiXtrans E6600 多业务光传送平台
-description: 基于MS-OTN架构，支持PCM、SDH、分组和OTN业务的4-in-1高集成度光电融合平台，并支持向下一代传送技术Liquid OTN平滑演进，为能源，交通，政府，银行等行业提供高效的传输解决方案。
-default_thumbnail_image: images/plant1-lg.jpg
-default_original_image: images/plant1-lg.jpg
+description:  '基于MS-OTN架构，支持PCM、SDH、分组和OTN业务的4-in-1高集成度光电融合平台，并支持向下一代传送技术Liquid OTN平滑演进，为能源，交通，政府，银行等行业提供高效的传输解决方案。'
 featured: true
 order: 201
 category: src/pages/category/光传送.md
@@ -17,7 +15,7 @@ other4:
   images: {"other":{"org":"other","img":["华为OptiXtrans E6600 多业务光传送平台.png"]}}
 seo:
   title: optiXtrans-e6600 | 华为OptiXtrans E6600 多业务光传送平台 | null | 波分 | 光传送 | 企业光网络
-  description: 基于MS-OTN架构，支持PCM、SDH、分组和OTN业务的4-in-1高集成度光电融合平台，并支持向下一代传送技术Liquid OTN平滑演进，为能源，交通，政府，银行等行业提供高效的传输解决方案。
+  description: '基于MS-OTN架构，支持PCM、SDH、分组和OTN业务的4-in-1高集成度光电融合平台，并支持向下一代传送技术Liquid OTN平滑演进，为能源，交通，政府，银行等行业提供高效的传输解决方案。'
   extra:
     - name: 'og:type'
       value: website
@@ -26,7 +24,7 @@ seo:
       value: 河南网田
       keyName: property
     - name: 'og:description'
-      value: 基于MS-OTN架构，支持PCM、SDH、分组和OTN业务的4-in-1高集成度光电融合平台，并支持向下一代传送技术Liquid OTN平滑演进，为能源，交通，政府，银行等行业提供高效的传输解决方案。
+      value: '基于MS-OTN架构，支持PCM、SDH、分组和OTN业务的4-in-1高集成度光电融合平台，并支持向下一代传送技术Liquid OTN平滑演进，为能源，交通，政府，银行等行业提供高效的传输解决方案。'
       keyName: property
     - name: Robots
       value: all

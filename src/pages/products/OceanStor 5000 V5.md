@@ -2,13 +2,11 @@
 id: '1'
 price: '49.40'
 title: OceanStor 5000 V5
-description: 华为OceanStor 5000 V5系列是全新一代中端混合闪存存储系统，为企业提供稳定可靠，融合高效的数据服务。
+description:  '华为OceanStor 5000 V5系列是全新一代中端混合闪存存储系统，为企业提供稳定可靠，融合高效的数据服务。
 
 面向云架构的存储操作系统、闪存优化的强劲性能和智能的管理软件，在功能、性能、效率、可靠性和易用性上都达到业界领先水平。
 
-满足了大型数据库OLTP/OLAP、云计算等各种应用的数据存储需求，助力企业平滑向云转型；广泛适用于政府、金融、运营商，制造等行业。
-default_thumbnail_image: images/plant1-lg.jpg
-default_original_image: images/plant1-lg.jpg
+满足了大型数据库OLTP/OLAP、云计算等各种应用的数据存储需求，助力企业平滑向云转型；广泛适用于政府、金融、运营商，制造等行业。'
 featured: true
 order: 265
 category: src/pages/category/混合闪存存储.md
@@ -21,11 +19,11 @@ other4:
   images: {"other":{"org":"other","img":["OceanStor 5000 V5.png"]}}
 seo:
   title: 5300-5500-5600-5800-v5 | OceanStor 5000 V5系列混合闪存存储系统 | null | null | 混合闪存存储 | 数据存储
-  description: 华为OceanStor 5000 V5系列是全新一代中端混合闪存存储系统，为企业提供稳定可靠，融合高效的数据服务。
+  description: '华为OceanStor 5000 V5系列是全新一代中端混合闪存存储系统，为企业提供稳定可靠，融合高效的数据服务。
 
 面向云架构的存储操作系统、闪存优化的强劲性能和智能的管理软件，在功能、性能、效率、可靠性和易用性上都达到业界领先水平。
 
-满足了大型数据库OLTP/OLAP、云计算等各种应用的数据存储需求，助力企业平滑向云转型；广泛适用于政府、金融、运营商，制造等行业。
+满足了大型数据库OLTP/OLAP、云计算等各种应用的数据存储需求，助力企业平滑向云转型；广泛适用于政府、金融、运营商，制造等行业。'
   extra:
     - name: 'og:type'
       value: website
@@ -34,11 +32,11 @@ seo:
       value: 河南网田
       keyName: property
     - name: 'og:description'
-      value: 华为OceanStor 5000 V5系列是全新一代中端混合闪存存储系统，为企业提供稳定可靠，融合高效的数据服务。
+      value: '华为OceanStor 5000 V5系列是全新一代中端混合闪存存储系统，为企业提供稳定可靠，融合高效的数据服务。
 
 面向云架构的存储操作系统、闪存优化的强劲性能和智能的管理软件，在功能、性能、效率、可靠性和易用性上都达到业界领先水平。
 
-满足了大型数据库OLTP/OLAP、云计算等各种应用的数据存储需求，助力企业平滑向云转型；广泛适用于政府、金融、运营商，制造等行业。
+满足了大型数据库OLTP/OLAP、云计算等各种应用的数据存储需求，助力企业平滑向云转型；广泛适用于政府、金融、运营商，制造等行业。'
       keyName: property
     - name: Robots
       value: all

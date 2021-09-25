@@ -2,9 +2,7 @@
 id: '1'
 price: '49.40'
 title: AP5510-W-GP接入点
-description: 华为AP5510-W-GP是符合802.11ac Wave 2标准协议的千兆面板AP，搭配安装件，可简单快速适配86/118/120多暗盒及非暗盒、挂墙场景。内置智能天线，隐式指示灯，全新“晨露”风格美观大方，支持GPON上行，适用于宿舍房间、酒店房间等体积较小，户型较密集场所。
-default_thumbnail_image: images/plant1-lg.jpg
-default_original_image: images/plant1-lg.jpg
+description:  '华为AP5510-W-GP是符合802.11ac Wave 2标准协议的千兆面板AP，搭配安装件，可简单快速适配86/118/120多暗盒及非暗盒、挂墙场景。内置智能天线，隐式指示灯，全新“晨露”风格美观大方，支持GPON上行，适用于宿舍房间、酒店房间等体积较小，户型较密集场所。'
 featured: true
 order: 109
 category: src/pages/category/无线局域网.md
@@ -17,7 +15,7 @@ other4:
   images: {"ap5510-w-gp":{"org":"AP5510-W-GP_pic","img":["01-Front.png","02-Left.png","03-Bottom.png","05-Rear.png","06-Front_right_down.png","07-Rear_left_down.png"]}}
 seo:
   title: ap5510-w-gp | AP5510-W-GP接入点 | AP5000系列 | 室内接入点 | 无线局域网 | 企业网络
-  description: 华为AP5510-W-GP是符合802.11ac Wave 2标准协议的千兆面板AP，搭配安装件，可简单快速适配86/118/120多暗盒及非暗盒、挂墙场景。内置智能天线，隐式指示灯，全新“晨露”风格美观大方，支持GPON上行，适用于宿舍房间、酒店房间等体积较小，户型较密集场所。
+  description: '华为AP5510-W-GP是符合802.11ac Wave 2标准协议的千兆面板AP，搭配安装件，可简单快速适配86/118/120多暗盒及非暗盒、挂墙场景。内置智能天线，隐式指示灯，全新“晨露”风格美观大方，支持GPON上行，适用于宿舍房间、酒店房间等体积较小，户型较密集场所。'
   extra:
     - name: 'og:type'
       value: website
@@ -26,7 +24,7 @@ seo:
       value: 河南网田
       keyName: property
     - name: 'og:description'
-      value: 华为AP5510-W-GP是符合802.11ac Wave 2标准协议的千兆面板AP，搭配安装件，可简单快速适配86/118/120多暗盒及非暗盒、挂墙场景。内置智能天线，隐式指示灯，全新“晨露”风格美观大方，支持GPON上行，适用于宿舍房间、酒店房间等体积较小，户型较密集场所。
+      value: '华为AP5510-W-GP是符合802.11ac Wave 2标准协议的千兆面板AP，搭配安装件，可简单快速适配86/118/120多暗盒及非暗盒、挂墙场景。内置智能天线，隐式指示灯，全新“晨露”风格美观大方，支持GPON上行，适用于宿舍房间、酒店房间等体积较小，户型较密集场所。'
       keyName: property
     - name: Robots
       value: all

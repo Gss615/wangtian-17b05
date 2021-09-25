@@ -2,11 +2,9 @@
 id: '1'
 price: '49.40'
 title: CloudEngine S5736-S系列多速率交换机
-description: CloudEngine S5736-S系列全新一代全万兆多速率以太网交换机，提供24端口万兆多速率全电款型，上行4个10GE端口，同时提供一个扩展卡插槽。
+description:  'CloudEngine S5736-S系列全新一代全万兆多速率以太网交换机，提供24端口万兆多速率全电款型，上行4个10GE端口，同时提供一个扩展卡插槽。
 
-CloudEngine S5736-S系列交换机是面向Wi-Fi 6时代推出的全新一代全万兆多速率交换机，基于新一代高性能硬件和华为公司统一的VRP（Versatile Routing Platform）软件平台，具有增强的三层特性，简易的运行维护，灵活的以太组网，成熟的IPv6特性等特点，同时提供灵活的端口接入速率及超强的PoE供电能力，可广泛应用于大中型企业园区汇聚/接入、小微型数据中心接入等多种应用场景。
-default_thumbnail_image: images/plant1-lg.jpg
-default_original_image: images/plant1-lg.jpg
+CloudEngine S5736-S系列交换机是面向Wi-Fi 6时代推出的全新一代全万兆多速率交换机，基于新一代高性能硬件和华为公司统一的VRP（Versatile Routing Platform）软件平台，具有增强的三层特性，简易的运行维护，灵活的以太组网，成熟的IPv6特性等特点，同时提供灵活的端口接入速率及超强的PoE供电能力，可广泛应用于大中型企业园区汇聚/接入、小微型数据中心接入等多种应用场景。'
 featured: true
 order: 14
 category: src/pages/category/交换机.md
@@ -19,9 +17,9 @@ other4:
   images: {"s5736-s24um4xc":{"org":"S5736-S24UM4XC_pic","img":["front.png","front_left.png","front_right.png","front_top.png","rear.png","rear_top.png"]}}
 seo:
   title: s5736-s-multi-ge | CloudEngine S5736-S系列多速率交换机 | 接入交换机 | 园区交换机 | 交换机 | 企业网络
-  description: CloudEngine S5736-S系列全新一代全万兆多速率以太网交换机，提供24端口万兆多速率全电款型，上行4个10GE端口，同时提供一个扩展卡插槽。
+  description: 'CloudEngine S5736-S系列全新一代全万兆多速率以太网交换机，提供24端口万兆多速率全电款型，上行4个10GE端口，同时提供一个扩展卡插槽。
 
-CloudEngine S5736-S系列交换机是面向Wi-Fi 6时代推出的全新一代全万兆多速率交换机，基于新一代高性能硬件和华为公司统一的VRP（Versatile Routing Platform）软件平台，具有增强的三层特性，简易的运行维护，灵活的以太组网，成熟的IPv6特性等特点，同时提供灵活的端口接入速率及超强的PoE供电能力，可广泛应用于大中型企业园区汇聚/接入、小微型数据中心接入等多种应用场景。
+CloudEngine S5736-S系列交换机是面向Wi-Fi 6时代推出的全新一代全万兆多速率交换机，基于新一代高性能硬件和华为公司统一的VRP（Versatile Routing Platform）软件平台，具有增强的三层特性，简易的运行维护，灵活的以太组网，成熟的IPv6特性等特点，同时提供灵活的端口接入速率及超强的PoE供电能力，可广泛应用于大中型企业园区汇聚/接入、小微型数据中心接入等多种应用场景。'
   extra:
     - name: 'og:type'
       value: website
@@ -30,9 +28,9 @@ CloudEngine S5736-S系列交换机是面向Wi-Fi 6时代推出的全新一代全
       value: 河南网田
       keyName: property
     - name: 'og:description'
-      value: CloudEngine S5736-S系列全新一代全万兆多速率以太网交换机，提供24端口万兆多速率全电款型，上行4个10GE端口，同时提供一个扩展卡插槽。
+      value: 'CloudEngine S5736-S系列全新一代全万兆多速率以太网交换机，提供24端口万兆多速率全电款型，上行4个10GE端口，同时提供一个扩展卡插槽。
 
-CloudEngine S5736-S系列交换机是面向Wi-Fi 6时代推出的全新一代全万兆多速率交换机，基于新一代高性能硬件和华为公司统一的VRP（Versatile Routing Platform）软件平台，具有增强的三层特性，简易的运行维护，灵活的以太组网，成熟的IPv6特性等特点，同时提供灵活的端口接入速率及超强的PoE供电能力，可广泛应用于大中型企业园区汇聚/接入、小微型数据中心接入等多种应用场景。
+CloudEngine S5736-S系列交换机是面向Wi-Fi 6时代推出的全新一代全万兆多速率交换机，基于新一代高性能硬件和华为公司统一的VRP（Versatile Routing Platform）软件平台，具有增强的三层特性，简易的运行维护，灵活的以太组网，成熟的IPv6特性等特点，同时提供灵活的端口接入速率及超强的PoE供电能力，可广泛应用于大中型企业园区汇聚/接入、小微型数据中心接入等多种应用场景。'
       keyName: property
     - name: Robots
       value: all

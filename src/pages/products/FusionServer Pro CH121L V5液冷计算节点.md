@@ -2,9 +2,7 @@
 id: '1'
 price: '49.40'
 title: FusionServer Pro CH121L V5液冷计算节点
-description: CH121L V5为CH121 V5刀片的液冷版本，针对虚拟化、云计算、HPC、NFV等业务需求进行优化设计，具有高密度计算能力和超大内存容量，可支持全系列CPU(最高功耗达205W)，提供24个DDR4 DIMM插槽，并支持2个2.5寸硬盘或4个M.2 SSD存储。
-default_thumbnail_image: images/plant1-lg.jpg
-default_original_image: images/plant1-lg.jpg
+description:  'CH121L V5为CH121 V5刀片的液冷版本，针对虚拟化、云计算、HPC、NFV等业务需求进行优化设计，具有高密度计算能力和超大内存容量，可支持全系列CPU(最高功耗达205W)，提供24个DDR4 DIMM插槽，并支持2个2.5寸硬盘或4个M.2 SSD存储。'
 featured: true
 order: 299
 category: src/pages/category/服务器 - 计算.md
@@ -17,7 +15,7 @@ other4:
   images: {"other":{"org":"other","img":["FusionServer Pro CH121L V5液冷计算节点.png"]}}
 seo:
   title: ch121l-v5-node | FusionServer CH121L V5液冷计算节点 | FusionServer刀片服务器 | FusionServer Pro智能服务器 | 服务器 - 计算 | 数据中心
-  description: CH121L V5为CH121 V5刀片的液冷版本，针对虚拟化、云计算、HPC、NFV等业务需求进行优化设计，具有高密度计算能力和超大内存容量，可支持全系列CPU(最高功耗达205W)，提供24个DDR4 DIMM插槽，并支持2个2.5寸硬盘或4个M.2 SSD存储。
+  description: 'CH121L V5为CH121 V5刀片的液冷版本，针对虚拟化、云计算、HPC、NFV等业务需求进行优化设计，具有高密度计算能力和超大内存容量，可支持全系列CPU(最高功耗达205W)，提供24个DDR4 DIMM插槽，并支持2个2.5寸硬盘或4个M.2 SSD存储。'
   extra:
     - name: 'og:type'
       value: website
@@ -26,7 +24,7 @@ seo:
       value: 河南网田
       keyName: property
     - name: 'og:description'
-      value: CH121L V5为CH121 V5刀片的液冷版本，针对虚拟化、云计算、HPC、NFV等业务需求进行优化设计，具有高密度计算能力和超大内存容量，可支持全系列CPU(最高功耗达205W)，提供24个DDR4 DIMM插槽，并支持2个2.5寸硬盘或4个M.2 SSD存储。
+      value: 'CH121L V5为CH121 V5刀片的液冷版本，针对虚拟化、云计算、HPC、NFV等业务需求进行优化设计，具有高密度计算能力和超大内存容量，可支持全系列CPU(最高功耗达205W)，提供24个DDR4 DIMM插槽，并支持2个2.5寸硬盘或4个M.2 SSD存储。'
       keyName: property
     - name: Robots
       value: all

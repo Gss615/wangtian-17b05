@@ -2,9 +2,7 @@
 id: '1'
 price: '49.40'
 title: AP2051DN-S接入点
-description: 华为AP2051DN-S接入点是面向中小企业分销级市场的新一代智能面板AP产品，支持802.11ac Wave 2标准协议，内置智能天线，可有效提升覆盖范围，支持2×2MIMO和两条空间流，整机速率1.267Gbps，适用于酒店客房、学生宿舍、医院病房、小型办公室等房间面积较小，户型较密集场景。
-default_thumbnail_image: images/plant1-lg.jpg
-default_original_image: images/plant1-lg.jpg
+description:  '华为AP2051DN-S接入点是面向中小企业分销级市场的新一代智能面板AP产品，支持802.11ac Wave 2标准协议，内置智能天线，可有效提升覆盖范围，支持2×2MIMO和两条空间流，整机速率1.267Gbps，适用于酒店客房、学生宿舍、医院病房、小型办公室等房间面积较小，户型较密集场景。'
 featured: true
 order: 122
 category: src/pages/category/无线局域网.md
@@ -17,7 +15,7 @@ other4:
   images: {"ap2051dn-s":{"org":"AP2051DN-S_pic","img":["bottom.png","front_left.png","front_right.png","front_top.png","rear.png","rear_top.png","right.png","stand_left.png","stand_right.png","top.png"]}}
 seo:
   title: ap2051dn-s | AP2051DN-S接入点 | AP2000系列 | 室内接入点 | 无线局域网 | 企业网络
-  description: 华为AP2051DN-S接入点是面向中小企业分销级市场的新一代智能面板AP产品，支持802.11ac Wave 2标准协议，内置智能天线，可有效提升覆盖范围，支持2×2MIMO和两条空间流，整机速率1.267Gbps，适用于酒店客房、学生宿舍、医院病房、小型办公室等房间面积较小，户型较密集场景。
+  description: '华为AP2051DN-S接入点是面向中小企业分销级市场的新一代智能面板AP产品，支持802.11ac Wave 2标准协议，内置智能天线，可有效提升覆盖范围，支持2×2MIMO和两条空间流，整机速率1.267Gbps，适用于酒店客房、学生宿舍、医院病房、小型办公室等房间面积较小，户型较密集场景。'
   extra:
     - name: 'og:type'
       value: website
@@ -26,7 +24,7 @@ seo:
       value: 河南网田
       keyName: property
     - name: 'og:description'
-      value: 华为AP2051DN-S接入点是面向中小企业分销级市场的新一代智能面板AP产品，支持802.11ac Wave 2标准协议，内置智能天线，可有效提升覆盖范围，支持2×2MIMO和两条空间流，整机速率1.267Gbps，适用于酒店客房、学生宿舍、医院病房、小型办公室等房间面积较小，户型较密集场景。
+      value: '华为AP2051DN-S接入点是面向中小企业分销级市场的新一代智能面板AP产品，支持802.11ac Wave 2标准协议，内置智能天线，可有效提升覆盖范围，支持2×2MIMO和两条空间流，整机速率1.267Gbps，适用于酒店客房、学生宿舍、医院病房、小型办公室等房间面积较小，户型较密集场景。'
       keyName: property
     - name: Robots
       value: all

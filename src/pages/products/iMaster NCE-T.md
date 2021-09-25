@@ -2,9 +2,7 @@
 id: '1'
 price: '49.40'
 title: iMaster NCE-T
-description: iMaster NCE-T(Transport Domain)是华为“智慧光网”的核心使能部件，应用于骨干、城域、企业接入等多种传送组网场景，提供资源实时可视、敏捷业务发放，网络自动运维等丰富的功能特性，满足企业专线和DC互联对传送网络提出的创新业务体验和网络灵活高效的新要求。
-default_thumbnail_image: images/plant1-lg.jpg
-default_original_image: images/plant1-lg.jpg
+description:  'iMaster NCE-T(Transport Domain)是华为“智慧光网”的核心使能部件，应用于骨干、城域、企业接入等多种传送组网场景，提供资源实时可视、敏捷业务发放，网络自动运维等丰富的功能特性，满足企业专线和DC互联对传送网络提出的创新业务体验和网络灵活高效的新要求。'
 featured: true
 order: 203
 category: src/pages/category/光传送.md
@@ -17,7 +15,7 @@ other4:
   images: {"other":{"org":"other","img":["iMaster NCE-T.png"]}}
 seo:
   title: imaster-nce-t | iMaster NCE-T | null | 波分 | 光传送 | 企业光网络
-  description: iMaster NCE-T(Transport Domain)是华为“智慧光网”的核心使能部件，应用于骨干、城域、企业接入等多种传送组网场景，提供资源实时可视、敏捷业务发放，网络自动运维等丰富的功能特性，满足企业专线和DC互联对传送网络提出的创新业务体验和网络灵活高效的新要求。
+  description: 'iMaster NCE-T(Transport Domain)是华为“智慧光网”的核心使能部件，应用于骨干、城域、企业接入等多种传送组网场景，提供资源实时可视、敏捷业务发放，网络自动运维等丰富的功能特性，满足企业专线和DC互联对传送网络提出的创新业务体验和网络灵活高效的新要求。'
   extra:
     - name: 'og:type'
       value: website
@@ -26,7 +24,7 @@ seo:
       value: 河南网田
       keyName: property
     - name: 'og:description'
-      value: iMaster NCE-T(Transport Domain)是华为“智慧光网”的核心使能部件，应用于骨干、城域、企业接入等多种传送组网场景，提供资源实时可视、敏捷业务发放，网络自动运维等丰富的功能特性，满足企业专线和DC互联对传送网络提出的创新业务体验和网络灵活高效的新要求。
+      value: 'iMaster NCE-T(Transport Domain)是华为“智慧光网”的核心使能部件，应用于骨干、城域、企业接入等多种传送组网场景，提供资源实时可视、敏捷业务发放，网络自动运维等丰富的功能特性，满足企业专线和DC互联对传送网络提出的创新业务体验和网络灵活高效的新要求。'
       keyName: property
     - name: Robots
       value: all

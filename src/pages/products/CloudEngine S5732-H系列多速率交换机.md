@@ -2,11 +2,9 @@
 id: '1'
 price: '49.40'
 title: CloudEngine S5732-H系列多速率交换机
-description: CloudEngine S5732-H系列下一代多速率以太网交换机，提供24口，48口款型，上行4个25GE及2个40GE，或2个100GE端口，支持一个扩展卡插槽。
+description:  'CloudEngine S5732-H系列下一代多速率以太网交换机，提供24口，48口款型，上行4个25GE及2个40GE，或2个100GE端口，支持一个扩展卡插槽。
 
-CloudEngine S5732-H系列交换机是华为公司推出的新一代多速率交换机，基于华为公司统一的VRP（Versatile Routing Platform）软件平台，具备有线无线深度融合能力，支持随板AC，最多可管理1K AP；具备业务随行能力，提供一致的用户体验，整机可最大提供48个全万兆多速率端口，是Wi-Fi 6时代WLAN AP接入交换机的最佳选择。
-default_thumbnail_image: images/plant1-lg.jpg
-default_original_image: images/plant1-lg.jpg
+CloudEngine S5732-H系列交换机是华为公司推出的新一代多速率交换机，基于华为公司统一的VRP（Versatile Routing Platform）软件平台，具备有线无线深度融合能力，支持随板AC，最多可管理1K AP；具备业务随行能力，提供一致的用户体验，整机可最大提供48个全万兆多速率端口，是Wi-Fi 6时代WLAN AP接入交换机的最佳选择。'
 featured: true
 order: 16
 category: src/pages/category/交换机.md
@@ -19,9 +17,9 @@ other4:
   images: {"s5720-36c-ei-ac":{"org":"S5720-36C-EI-AC_pic","img":["01.png","02.png","03.png","04.png","07.png","08.png"]}}
 seo:
   title: s5732-h-multi-ge | CloudEngine S5732-H系列多速率交换机 | 接入交换机 | 园区交换机 | 交换机 | 企业网络
-  description: CloudEngine S5732-H系列下一代多速率以太网交换机，提供24口，48口款型，上行4个25GE及2个40GE，或2个100GE端口，支持一个扩展卡插槽。
+  description: 'CloudEngine S5732-H系列下一代多速率以太网交换机，提供24口，48口款型，上行4个25GE及2个40GE，或2个100GE端口，支持一个扩展卡插槽。
 
-CloudEngine S5732-H系列交换机是华为公司推出的新一代多速率交换机，基于华为公司统一的VRP（Versatile Routing Platform）软件平台，具备有线无线深度融合能力，支持随板AC，最多可管理1K AP；具备业务随行能力，提供一致的用户体验，整机可最大提供48个全万兆多速率端口，是Wi-Fi 6时代WLAN AP接入交换机的最佳选择。
+CloudEngine S5732-H系列交换机是华为公司推出的新一代多速率交换机，基于华为公司统一的VRP（Versatile Routing Platform）软件平台，具备有线无线深度融合能力，支持随板AC，最多可管理1K AP；具备业务随行能力，提供一致的用户体验，整机可最大提供48个全万兆多速率端口，是Wi-Fi 6时代WLAN AP接入交换机的最佳选择。'
   extra:
     - name: 'og:type'
       value: website
@@ -30,9 +28,9 @@ CloudEngine S5732-H系列交换机是华为公司推出的新一代多速率交�
       value: 河南网田
       keyName: property
     - name: 'og:description'
-      value: CloudEngine S5732-H系列下一代多速率以太网交换机，提供24口，48口款型，上行4个25GE及2个40GE，或2个100GE端口，支持一个扩展卡插槽。
+      value: 'CloudEngine S5732-H系列下一代多速率以太网交换机，提供24口，48口款型，上行4个25GE及2个40GE，或2个100GE端口，支持一个扩展卡插槽。
 
-CloudEngine S5732-H系列交换机是华为公司推出的新一代多速率交换机，基于华为公司统一的VRP（Versatile Routing Platform）软件平台，具备有线无线深度融合能力，支持随板AC，最多可管理1K AP；具备业务随行能力，提供一致的用户体验，整机可最大提供48个全万兆多速率端口，是Wi-Fi 6时代WLAN AP接入交换机的最佳选择。
+CloudEngine S5732-H系列交换机是华为公司推出的新一代多速率交换机，基于华为公司统一的VRP（Versatile Routing Platform）软件平台，具备有线无线深度融合能力，支持随板AC，最多可管理1K AP；具备业务随行能力，提供一致的用户体验，整机可最大提供48个全万兆多速率端口，是Wi-Fi 6时代WLAN AP接入交换机的最佳选择。'
       keyName: property
     - name: Robots
       value: all

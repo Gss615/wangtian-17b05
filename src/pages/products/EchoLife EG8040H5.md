@@ -2,9 +2,7 @@
 id: '1'
 price: '49.40'
 title: EchoLife EG8040H5
-description: EchoLife EG8040H5是室内型光网络终端（ONT）。通过GPON技术， 为家庭 和企业用户提供超宽带接入。EG8040H5提供四个GE以太网接口。EG8040H5 具有高性能的业务转发能力，保证了互联网和高清视频业务的良好体验。因此，EG8040H5为网络提供了完善的终端解决方案和面向未来的业务支撑能力。
-default_thumbnail_image: images/plant1-lg.jpg
-default_original_image: images/plant1-lg.jpg
+description:  'EchoLife EG8040H5是室内型光网络终端（ONT）。通过GPON技术， 为家庭 和企业用户提供超宽带接入。EG8040H5提供四个GE以太网接口。EG8040H5 具有高性能的业务转发能力，保证了互联网和高清视频业务的良好体验。因此，EG8040H5为网络提供了完善的终端解决方案和面向未来的业务支撑能力。'
 featured: true
 order: 246
 category: src/pages/category/光终端.md
@@ -17,7 +15,7 @@ other4:
   images: {"other":{"org":"other","img":["EchoLife EG8040H5.png"]}}
 seo:
   title: echolife-eg8040h5 | EchoLife EG8040H5		 | null | ONT | 光终端 | 企业光网络
-  description: EchoLife EG8040H5是室内型光网络终端（ONT）。通过GPON技术， 为家庭 和企业用户提供超宽带接入。EG8040H5提供四个GE以太网接口。EG8040H5 具有高性能的业务转发能力，保证了互联网和高清视频业务的良好体验。因此，EG8040H5为网络提供了完善的终端解决方案和面向未来的业务支撑能力。
+  description: 'EchoLife EG8040H5是室内型光网络终端（ONT）。通过GPON技术， 为家庭 和企业用户提供超宽带接入。EG8040H5提供四个GE以太网接口。EG8040H5 具有高性能的业务转发能力，保证了互联网和高清视频业务的良好体验。因此，EG8040H5为网络提供了完善的终端解决方案和面向未来的业务支撑能力。'
   extra:
     - name: 'og:type'
       value: website
@@ -26,7 +24,7 @@ seo:
       value: 河南网田
       keyName: property
     - name: 'og:description'
-      value: EchoLife EG8040H5是室内型光网络终端（ONT）。通过GPON技术， 为家庭 和企业用户提供超宽带接入。EG8040H5提供四个GE以太网接口。EG8040H5 具有高性能的业务转发能力，保证了互联网和高清视频业务的良好体验。因此，EG8040H5为网络提供了完善的终端解决方案和面向未来的业务支撑能力。
+      value: 'EchoLife EG8040H5是室内型光网络终端（ONT）。通过GPON技术， 为家庭 和企业用户提供超宽带接入。EG8040H5提供四个GE以太网接口。EG8040H5 具有高性能的业务转发能力，保证了互联网和高清视频业务的良好体验。因此，EG8040H5为网络提供了完善的终端解决方案和面向未来的业务支撑能力。'
       keyName: property
     - name: Robots
       value: all

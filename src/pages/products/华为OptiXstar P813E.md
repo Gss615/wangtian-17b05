@@ -2,9 +2,7 @@
 id: '1'
 price: '49.40'
 title: 华为OptiXstar P813E
-description: 华为OptiXstar P813E产品是面向企业园区、视频回传等场景设计的ONU设备，可以提供8个带PoE/PoE+功能的GE接口，为用户带来高质量的语音、数据和高清视频等业务体验，同时支持XGS-PON上行。
-default_thumbnail_image: images/plant1-lg.jpg
-default_original_image: images/plant1-lg.jpg
+description:  '华为OptiXstar P813E产品是面向企业园区、视频回传等场景设计的ONU设备，可以提供8个带PoE/PoE+功能的GE接口，为用户带来高质量的语音、数据和高清视频等业务体验，同时支持XGS-PON上行。'
 featured: true
 order: 227
 category: src/pages/category/光终端.md
@@ -17,7 +15,7 @@ other4:
   images: {"other":{"org":"other","img":["华为OptiXstar P813E.png"]}}
 seo:
   title: optixstar-p813e | 华为OptiXstar P813E  | null | ONU | 光终端 | 企业光网络
-  description: 华为OptiXstar P813E产品是面向企业园区、视频回传等场景设计的ONU设备，可以提供8个带PoE/PoE+功能的GE接口，为用户带来高质量的语音、数据和高清视频等业务体验，同时支持XGS-PON上行。
+  description: '华为OptiXstar P813E产品是面向企业园区、视频回传等场景设计的ONU设备，可以提供8个带PoE/PoE+功能的GE接口，为用户带来高质量的语音、数据和高清视频等业务体验，同时支持XGS-PON上行。'
   extra:
     - name: 'og:type'
       value: website
@@ -26,7 +24,7 @@ seo:
       value: 河南网田
       keyName: property
     - name: 'og:description'
-      value: 华为OptiXstar P813E产品是面向企业园区、视频回传等场景设计的ONU设备，可以提供8个带PoE/PoE+功能的GE接口，为用户带来高质量的语音、数据和高清视频等业务体验，同时支持XGS-PON上行。
+      value: '华为OptiXstar P813E产品是面向企业园区、视频回传等场景设计的ONU设备，可以提供8个带PoE/PoE+功能的GE接口，为用户带来高质量的语音、数据和高清视频等业务体验，同时支持XGS-PON上行。'
       keyName: property
     - name: Robots
       value: all

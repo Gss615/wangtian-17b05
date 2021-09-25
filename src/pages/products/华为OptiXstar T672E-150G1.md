@@ -2,9 +2,7 @@
 id: '1'
 price: '49.40'
 title: 华为OptiXstar T672E-150G1
-description: 华为T672E-150G1（PowerCube 500) 一体化视频站点解决方案，电源和网络回传高度集成，广泛应用于智慧交通等场景。方案采用高性能功率模块、智能OSS，为视频监控系统提供持续供电，极大提高了系统可靠性和运维效率。
-default_thumbnail_image: images/plant1-lg.jpg
-default_original_image: images/plant1-lg.jpg
+description:  '华为T672E-150G1（PowerCube 500) 一体化视频站点解决方案，电源和网络回传高度集成，广泛应用于智慧交通等场景。方案采用高性能功率模块、智能OSS，为视频监控系统提供持续供电，极大提高了系统可靠性和运维效率。'
 featured: true
 order: 217
 category: src/pages/category/光终端.md
@@ -17,7 +15,7 @@ other4:
   images: {"other":{"org":"other","img":["华为OptiXstar T672E-150G1.png"]}}
 seo:
   title: optixstar-t672e-150g1 | 华为OptiXstar T672E-150G1 | null | ONU | 光终端 | 企业光网络
-  description: 华为T672E-150G1（PowerCube 500) 一体化视频站点解决方案，电源和网络回传高度集成，广泛应用于智慧交通等场景。方案采用高性能功率模块、智能OSS，为视频监控系统提供持续供电，极大提高了系统可靠性和运维效率。
+  description: '华为T672E-150G1（PowerCube 500) 一体化视频站点解决方案，电源和网络回传高度集成，广泛应用于智慧交通等场景。方案采用高性能功率模块、智能OSS，为视频监控系统提供持续供电，极大提高了系统可靠性和运维效率。'
   extra:
     - name: 'og:type'
       value: website
@@ -26,7 +24,7 @@ seo:
       value: 河南网田
       keyName: property
     - name: 'og:description'
-      value: 华为T672E-150G1（PowerCube 500) 一体化视频站点解决方案，电源和网络回传高度集成，广泛应用于智慧交通等场景。方案采用高性能功率模块、智能OSS，为视频监控系统提供持续供电，极大提高了系统可靠性和运维效率。
+      value: '华为T672E-150G1（PowerCube 500) 一体化视频站点解决方案，电源和网络回传高度集成，广泛应用于智慧交通等场景。方案采用高性能功率模块、智能OSS，为视频监控系统提供持续供电，极大提高了系统可靠性和运维效率。'
       keyName: property
     - name: Robots
       value: all

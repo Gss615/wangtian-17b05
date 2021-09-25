@@ -2,9 +2,7 @@
 id: '1'
 price: '49.40'
 title: EchoLife HG8040F5
-description: 华为EchoLife HG8040F5是华为全光接入解决方案的路由型ONT，通过GPON/EPON技术实现用户的超宽带接入。
-default_thumbnail_image: images/plant1-lg.jpg
-default_original_image: images/plant1-lg.jpg
+description:  '华为EchoLife HG8040F5是华为全光接入解决方案的路由型ONT，通过GPON/EPON技术实现用户的超宽带接入。'
 featured: true
 order: 240
 category: src/pages/category/光终端.md
@@ -17,7 +15,7 @@ other4:
   images: {"other":{"org":"other","img":["EchoLife HG8040F5.png"]}}
 seo:
   title: echolife-hg8040f5 | EchoLife HG8040F5 | null | ONT | 光终端 | 企业光网络
-  description: 华为EchoLife HG8040F5是华为全光接入解决方案的路由型ONT，通过GPON/EPON技术实现用户的超宽带接入。
+  description: '华为EchoLife HG8040F5是华为全光接入解决方案的路由型ONT，通过GPON/EPON技术实现用户的超宽带接入。'
   extra:
     - name: 'og:type'
       value: website
@@ -26,7 +24,7 @@ seo:
       value: 河南网田
       keyName: property
     - name: 'og:description'
-      value: 华为EchoLife HG8040F5是华为全光接入解决方案的路由型ONT，通过GPON/EPON技术实现用户的超宽带接入。
+      value: '华为EchoLife HG8040F5是华为全光接入解决方案的路由型ONT，通过GPON/EPON技术实现用户的超宽带接入。'
       keyName: property
     - name: Robots
       value: all

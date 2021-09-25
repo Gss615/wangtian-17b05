@@ -2,13 +2,11 @@
 id: '1'
 price: '49.40'
 title: OceanStor 2200 V3
-description: 华为OceanStor 2200 V3是面向全闪存设计的企业入门级存储产品，满足中小型企业数据库OLTP/OLAP、Exchange、服务器虚拟化和视频监控等各种应用需求。
+description:  '华为OceanStor 2200 V3是面向全闪存设计的企业入门级存储产品，满足中小型企业数据库OLTP/OLAP、Exchange、服务器虚拟化和视频监控等各种应用需求。
 
 采用16Gbps FC、PCI-E 3.0、12Gbps SAS 3.0高速数据传输，高配低投入。
 
-丰富的Smart和Hyper系列功能融于精巧的系统设计，3步1分钟，极简配置体验。
-default_thumbnail_image: images/plant1-lg.jpg
-default_original_image: images/plant1-lg.jpg
+丰富的Smart和Hyper系列功能融于精巧的系统设计，3步1分钟，极简配置体验。'
 featured: true
 order: 267
 category: src/pages/category/混合闪存存储.md
@@ -21,11 +19,11 @@ other4:
   images: {"other":{"org":"other","img":["OceanStor 2200 V3.png"]}}
 seo:
   title: oceanstor-2200-v3 | OceanStor 2200 V3存储系统 | null | null | 混合闪存存储 | 数据存储
-  description: 华为OceanStor 2200 V3是面向全闪存设计的企业入门级存储产品，满足中小型企业数据库OLTP/OLAP、Exchange、服务器虚拟化和视频监控等各种应用需求。
+  description: '华为OceanStor 2200 V3是面向全闪存设计的企业入门级存储产品，满足中小型企业数据库OLTP/OLAP、Exchange、服务器虚拟化和视频监控等各种应用需求。
 
 采用16Gbps FC、PCI-E 3.0、12Gbps SAS 3.0高速数据传输，高配低投入。
 
-丰富的Smart和Hyper系列功能融于精巧的系统设计，3步1分钟，极简配置体验。
+丰富的Smart和Hyper系列功能融于精巧的系统设计，3步1分钟，极简配置体验。'
   extra:
     - name: 'og:type'
       value: website
@@ -34,11 +32,11 @@ seo:
       value: 河南网田
       keyName: property
     - name: 'og:description'
-      value: 华为OceanStor 2200 V3是面向全闪存设计的企业入门级存储产品，满足中小型企业数据库OLTP/OLAP、Exchange、服务器虚拟化和视频监控等各种应用需求。
+      value: '华为OceanStor 2200 V3是面向全闪存设计的企业入门级存储产品，满足中小型企业数据库OLTP/OLAP、Exchange、服务器虚拟化和视频监控等各种应用需求。
 
 采用16Gbps FC、PCI-E 3.0、12Gbps SAS 3.0高速数据传输，高配低投入。
 
-丰富的Smart和Hyper系列功能融于精巧的系统设计，3步1分钟，极简配置体验。
+丰富的Smart和Hyper系列功能融于精巧的系统设计，3步1分钟，极简配置体验。'
       keyName: property
     - name: Robots
       value: all

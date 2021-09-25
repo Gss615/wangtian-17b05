@@ -2,9 +2,7 @@
 id: '1'
 price: '49.40'
 title: EchoLife EG8247H5智能路由型ONT
-description: EchoLife EG8247H5是路由型ONT，用户侧提供4个GE以太接口、2个POTS语音接口、1个CATV接口，1个USB接口、支持2.4GWi-Fi无线接入功能，为用户提供全业务接入解决方案。
-default_thumbnail_image: images/plant1-lg.jpg
-default_original_image: images/plant1-lg.jpg
+description:  'EchoLife EG8247H5是路由型ONT，用户侧提供4个GE以太接口、2个POTS语音接口、1个CATV接口，1个USB接口、支持2.4GWi-Fi无线接入功能，为用户提供全业务接入解决方案。'
 featured: true
 order: 244
 category: src/pages/category/光终端.md
@@ -17,7 +15,7 @@ other4:
   images: {"other":{"org":"other","img":["EchoLife EG8247H5智能路由型ONT.png"]}}
 seo:
   title: echolife-eg8247h5 | EchoLife EG8247H5智能路由型ONT | null | ONT | 光终端 | 企业光网络
-  description: EchoLife EG8247H5是路由型ONT，用户侧提供4个GE以太接口、2个POTS语音接口、1个CATV接口，1个USB接口、支持2.4GWi-Fi无线接入功能，为用户提供全业务接入解决方案。
+  description: 'EchoLife EG8247H5是路由型ONT，用户侧提供4个GE以太接口、2个POTS语音接口、1个CATV接口，1个USB接口、支持2.4GWi-Fi无线接入功能，为用户提供全业务接入解决方案。'
   extra:
     - name: 'og:type'
       value: website
@@ -26,7 +24,7 @@ seo:
       value: 河南网田
       keyName: property
     - name: 'og:description'
-      value: EchoLife EG8247H5是路由型ONT，用户侧提供4个GE以太接口、2个POTS语音接口、1个CATV接口，1个USB接口、支持2.4GWi-Fi无线接入功能，为用户提供全业务接入解决方案。
+      value: 'EchoLife EG8247H5是路由型ONT，用户侧提供4个GE以太接口、2个POTS语音接口、1个CATV接口，1个USB接口、支持2.4GWi-Fi无线接入功能，为用户提供全业务接入解决方案。'
       keyName: property
     - name: Robots
       value: all

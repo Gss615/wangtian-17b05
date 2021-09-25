@@ -2,9 +2,7 @@
 id: '1'
 price: '49.40'
 title: 华为OptiXstar T823E-X
-description: 华为OptiXstar T823E-X是华为工业光网解决方案的工业型ONU，网络侧提供XGS-PON双上行接口，用户侧提供8个GE以太网接口并支持PoE++功能，通过高性能的转发能力，为安平、交通行业等提供理想的网络解决方案。
-default_thumbnail_image: images/plant1-lg.jpg
-default_original_image: images/plant1-lg.jpg
+description:  '华为OptiXstar T823E-X是华为工业光网解决方案的工业型ONU，网络侧提供XGS-PON双上行接口，用户侧提供8个GE以太网接口并支持PoE++功能，通过高性能的转发能力，为安平、交通行业等提供理想的网络解决方案。'
 featured: true
 order: 208
 category: src/pages/category/光终端.md
@@ -17,7 +15,7 @@ other4:
   images: {"other":{"org":"other","img":["华为OptiXstar T823E-X.png"]}}
 seo:
   title: optixstar-t823e-x | 华为OptiXstar T823E-X | null | ONU | 光终端 | 企业光网络
-  description: 华为OptiXstar T823E-X是华为工业光网解决方案的工业型ONU，网络侧提供XGS-PON双上行接口，用户侧提供8个GE以太网接口并支持PoE++功能，通过高性能的转发能力，为安平、交通行业等提供理想的网络解决方案。
+  description: '华为OptiXstar T823E-X是华为工业光网解决方案的工业型ONU，网络侧提供XGS-PON双上行接口，用户侧提供8个GE以太网接口并支持PoE++功能，通过高性能的转发能力，为安平、交通行业等提供理想的网络解决方案。'
   extra:
     - name: 'og:type'
       value: website
@@ -26,7 +24,7 @@ seo:
       value: 河南网田
       keyName: property
     - name: 'og:description'
-      value: 华为OptiXstar T823E-X是华为工业光网解决方案的工业型ONU，网络侧提供XGS-PON双上行接口，用户侧提供8个GE以太网接口并支持PoE++功能，通过高性能的转发能力，为安平、交通行业等提供理想的网络解决方案。
+      value: '华为OptiXstar T823E-X是华为工业光网解决方案的工业型ONU，网络侧提供XGS-PON双上行接口，用户侧提供8个GE以太网接口并支持PoE++功能，通过高性能的转发能力，为安平、交通行业等提供理想的网络解决方案。'
       keyName: property
     - name: Robots
       value: all

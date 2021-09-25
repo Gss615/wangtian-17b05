@@ -2,9 +2,7 @@
 id: '1'
 price: '49.40'
 title: CloudEngine S1730S系列视频监控交换机
-description: CloudEngine S视频监控交换机，是华为公司面向安平市场的视频监控场景推出的全新交换机系列。
-default_thumbnail_image: images/plant1-lg.jpg
-default_original_image: images/plant1-lg.jpg
+description:  'CloudEngine S视频监控交换机，是华为公司面向安平市场的视频监控场景推出的全新交换机系列。'
 featured: true
 order: 46
 category: src/pages/category/交换机.md
@@ -17,7 +15,7 @@ other4:
   images: {"s1720-28gwr-4p":{"org":"S1720-28GWR-4P_pic","img":["front.png","front_left.png","front_right.png","front_top.png","rear.png","rear_top.png"]}}
 seo:
   title: cloudengine-s1730s | CloudEngine S1730S系列视频监控交换机 | 行业专用交换机 | 园区交换机 | 交换机 | 企业网络
-  description: CloudEngine S视频监控交换机，是华为公司面向安平市场的视频监控场景推出的全新交换机系列。
+  description: 'CloudEngine S视频监控交换机，是华为公司面向安平市场的视频监控场景推出的全新交换机系列。'
   extra:
     - name: 'og:type'
       value: website
@@ -26,7 +24,7 @@ seo:
       value: 河南网田
       keyName: property
     - name: 'og:description'
-      value: CloudEngine S视频监控交换机，是华为公司面向安平市场的视频监控场景推出的全新交换机系列。
+      value: 'CloudEngine S视频监控交换机，是华为公司面向安平市场的视频监控场景推出的全新交换机系列。'
       keyName: property
     - name: Robots
       value: all

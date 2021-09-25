@@ -2,13 +2,11 @@
 id: '1'
 price: '49.40'
 title: OceanStor 2600 V3
-description: 华为OceanStor 2600 V3是面向闪存优化设计的中端入门级存储，满足云时代对存储系统更高性能、更低时延、更加弹性的要求。在全闪存配置时，能够实现高性能并达到<1ms的低时延，并创新性的兼具SAN和NAS一体化、多控、双活等能力。
+description:  '华为OceanStor 2600 V3是面向闪存优化设计的中端入门级存储，满足云时代对存储系统更高性能、更低时延、更加弹性的要求。在全闪存配置时，能够实现高性能并达到<1ms的低时延，并创新性的兼具SAN和NAS一体化、多控、双活等能力。
 
 OceanStor 2600 V3支持SAN与NAS的融合、异构设备的融合、高中低端的融合、HDD与SSD的融合、主存与备份的融合，为用户构建安全可靠、简单高效的融合存储系统。
 
-OceanStor 2600 V3可扩展到8控，256GB缓存，支持16Gbps FC、PCI-E 3.0、12Gbps SAS，提供极致的性能及扩展性。
-default_thumbnail_image: images/plant1-lg.jpg
-default_original_image: images/plant1-lg.jpg
+OceanStor 2600 V3可扩展到8控，256GB缓存，支持16Gbps FC、PCI-E 3.0、12Gbps SAS，提供极致的性能及扩展性。'
 featured: true
 order: 266
 category: src/pages/category/混合闪存存储.md
@@ -21,11 +19,11 @@ other4:
   images: {"other":{"org":"other","img":["OceanStor 2600 V3.png"]}}
 seo:
   title: oceanstor-2600-v3 | OceanStor 2600 V3存储系统 | null | null | 混合闪存存储 | 数据存储
-  description: 华为OceanStor 2600 V3是面向闪存优化设计的中端入门级存储，满足云时代对存储系统更高性能、更低时延、更加弹性的要求。在全闪存配置时，能够实现高性能并达到<1ms的低时延，并创新性的兼具SAN和NAS一体化、多控、双活等能力。
+  description: '华为OceanStor 2600 V3是面向闪存优化设计的中端入门级存储，满足云时代对存储系统更高性能、更低时延、更加弹性的要求。在全闪存配置时，能够实现高性能并达到<1ms的低时延，并创新性的兼具SAN和NAS一体化、多控、双活等能力。
 
 OceanStor 2600 V3支持SAN与NAS的融合、异构设备的融合、高中低端的融合、HDD与SSD的融合、主存与备份的融合，为用户构建安全可靠、简单高效的融合存储系统。
 
-OceanStor 2600 V3可扩展到8控，256GB缓存，支持16Gbps FC、PCI-E 3.0、12Gbps SAS，提供极致的性能及扩展性。
+OceanStor 2600 V3可扩展到8控，256GB缓存，支持16Gbps FC、PCI-E 3.0、12Gbps SAS，提供极致的性能及扩展性。'
   extra:
     - name: 'og:type'
       value: website
@@ -34,11 +32,11 @@ OceanStor 2600 V3可扩展到8控，256GB缓存，支持16Gbps FC、PCI-E 3.0、
       value: 河南网田
       keyName: property
     - name: 'og:description'
-      value: 华为OceanStor 2600 V3是面向闪存优化设计的中端入门级存储，满足云时代对存储系统更高性能、更低时延、更加弹性的要求。在全闪存配置时，能够实现高性能并达到<1ms的低时延，并创新性的兼具SAN和NAS一体化、多控、双活等能力。
+      value: '华为OceanStor 2600 V3是面向闪存优化设计的中端入门级存储，满足云时代对存储系统更高性能、更低时延、更加弹性的要求。在全闪存配置时，能够实现高性能并达到<1ms的低时延，并创新性的兼具SAN和NAS一体化、多控、双活等能力。
 
 OceanStor 2600 V3支持SAN与NAS的融合、异构设备的融合、高中低端的融合、HDD与SSD的融合、主存与备份的融合，为用户构建安全可靠、简单高效的融合存储系统。
 
-OceanStor 2600 V3可扩展到8控，256GB缓存，支持16Gbps FC、PCI-E 3.0、12Gbps SAS，提供极致的性能及扩展性。
+OceanStor 2600 V3可扩展到8控，256GB缓存，支持16Gbps FC、PCI-E 3.0、12Gbps SAS，提供极致的性能及扩展性。'
       keyName: property
     - name: Robots
       value: all

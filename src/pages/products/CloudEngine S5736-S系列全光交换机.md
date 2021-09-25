@@ -2,11 +2,9 @@
 id: '1'
 price: '49.40'
 title: CloudEngine S5736-S系列全光交换机
-description: CloudEngine S5736-S系列新一代标准型全光千兆以太网交换机，提供48光口款型，上行4个10GE端口。
+description:  'CloudEngine S5736-S系列新一代标准型全光千兆以太网交换机，提供48光口款型，上行4个10GE端口。
 
-CloudEngine S5736-S系列交换机是华为公司推出的新一代全光千兆交换机，基于华为公司统一的VRP（Versatile Routing Platform）软件平台，具有增强的三层特性，简易的运行维护，灵活的以太组网，成熟的IPv6特性等特点，可广泛应用于城域接入、企业园区接入和汇聚、数据中心接入等多种应用场景。
-default_thumbnail_image: images/plant1-lg.jpg
-default_original_image: images/plant1-lg.jpg
+CloudEngine S5736-S系列交换机是华为公司推出的新一代全光千兆交换机，基于华为公司统一的VRP（Versatile Routing Platform）软件平台，具有增强的三层特性，简易的运行维护，灵活的以太组网，成熟的IPv6特性等特点，可广泛应用于城域接入、企业园区接入和汇聚、数据中心接入等多种应用场景。'
 featured: true
 order: 13
 category: src/pages/category/交换机.md
@@ -19,9 +17,9 @@ other4:
   images: {"s5736-s48s4x-a":{"org":"S5736-S48S4X-A_pic","img":["front.png","front_left.png","front_right.png","front_top.png","rear.png","rear_top.png"]}}
 seo:
   title: s5736-s-all-optical | CloudEngine S5736-S系列全光交换机 | 接入交换机 | 园区交换机 | 交换机 | 企业网络
-  description: CloudEngine S5736-S系列新一代标准型全光千兆以太网交换机，提供48光口款型，上行4个10GE端口。
+  description: 'CloudEngine S5736-S系列新一代标准型全光千兆以太网交换机，提供48光口款型，上行4个10GE端口。
 
-CloudEngine S5736-S系列交换机是华为公司推出的新一代全光千兆交换机，基于华为公司统一的VRP（Versatile Routing Platform）软件平台，具有增强的三层特性，简易的运行维护，灵活的以太组网，成熟的IPv6特性等特点，可广泛应用于城域接入、企业园区接入和汇聚、数据中心接入等多种应用场景。
+CloudEngine S5736-S系列交换机是华为公司推出的新一代全光千兆交换机，基于华为公司统一的VRP（Versatile Routing Platform）软件平台，具有增强的三层特性，简易的运行维护，灵活的以太组网，成熟的IPv6特性等特点，可广泛应用于城域接入、企业园区接入和汇聚、数据中心接入等多种应用场景。'
   extra:
     - name: 'og:type'
       value: website
@@ -30,9 +28,9 @@ CloudEngine S5736-S系列交换机是华为公司推出的新一代全光千兆�
       value: 河南网田
       keyName: property
     - name: 'og:description'
-      value: CloudEngine S5736-S系列新一代标准型全光千兆以太网交换机，提供48光口款型，上行4个10GE端口。
+      value: 'CloudEngine S5736-S系列新一代标准型全光千兆以太网交换机，提供48光口款型，上行4个10GE端口。
 
-CloudEngine S5736-S系列交换机是华为公司推出的新一代全光千兆交换机，基于华为公司统一的VRP（Versatile Routing Platform）软件平台，具有增强的三层特性，简易的运行维护，灵活的以太组网，成熟的IPv6特性等特点，可广泛应用于城域接入、企业园区接入和汇聚、数据中心接入等多种应用场景。
+CloudEngine S5736-S系列交换机是华为公司推出的新一代全光千兆交换机，基于华为公司统一的VRP（Versatile Routing Platform）软件平台，具有增强的三层特性，简易的运行维护，灵活的以太组网，成熟的IPv6特性等特点，可广泛应用于城域接入、企业园区接入和汇聚、数据中心接入等多种应用场景。'
       keyName: property
     - name: Robots
       value: all

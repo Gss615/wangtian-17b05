@@ -2,9 +2,7 @@
 id: '1'
 price: '49.40'
 title: EchoLife EG8120L5
-description: 华为EchoLife EG8120L5是华为全光接入解决方案的路由型ONT，通过GPON技术实现用户的超宽带接入。支持1个GE和1个FE以太网接口，1个POTS口，通过高性能的转发能力有效保障数据和高清视频的业务体验，为客户提供理想的全光接入解决方案和面向未来的业务支撑能力。
-default_thumbnail_image: images/plant1-lg.jpg
-default_original_image: images/plant1-lg.jpg
+description:  '华为EchoLife EG8120L5是华为全光接入解决方案的路由型ONT，通过GPON技术实现用户的超宽带接入。支持1个GE和1个FE以太网接口，1个POTS口，通过高性能的转发能力有效保障数据和高清视频的业务体验，为客户提供理想的全光接入解决方案和面向未来的业务支撑能力。'
 featured: true
 order: 238
 category: src/pages/category/光终端.md
@@ -17,7 +15,7 @@ other4:
   images: {"other":{"org":"other","img":["EchoLife EG8120L5.png"]}}
 seo:
   title: echolife-eg8120l5 | EchoLife EG8120L5 | null | ONT | 光终端 | 企业光网络
-  description: 华为EchoLife EG8120L5是华为全光接入解决方案的路由型ONT，通过GPON技术实现用户的超宽带接入。支持1个GE和1个FE以太网接口，1个POTS口，通过高性能的转发能力有效保障数据和高清视频的业务体验，为客户提供理想的全光接入解决方案和面向未来的业务支撑能力。
+  description: '华为EchoLife EG8120L5是华为全光接入解决方案的路由型ONT，通过GPON技术实现用户的超宽带接入。支持1个GE和1个FE以太网接口，1个POTS口，通过高性能的转发能力有效保障数据和高清视频的业务体验，为客户提供理想的全光接入解决方案和面向未来的业务支撑能力。'
   extra:
     - name: 'og:type'
       value: website
@@ -26,7 +24,7 @@ seo:
       value: 河南网田
       keyName: property
     - name: 'og:description'
-      value: 华为EchoLife EG8120L5是华为全光接入解决方案的路由型ONT，通过GPON技术实现用户的超宽带接入。支持1个GE和1个FE以太网接口，1个POTS口，通过高性能的转发能力有效保障数据和高清视频的业务体验，为客户提供理想的全光接入解决方案和面向未来的业务支撑能力。
+      value: '华为EchoLife EG8120L5是华为全光接入解决方案的路由型ONT，通过GPON技术实现用户的超宽带接入。支持1个GE和1个FE以太网接口，1个POTS口，通过高性能的转发能力有效保障数据和高清视频的业务体验，为客户提供理想的全光接入解决方案和面向未来的业务支撑能力。'
       keyName: property
     - name: Robots
       value: all

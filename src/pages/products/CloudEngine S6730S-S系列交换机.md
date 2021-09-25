@@ -2,9 +2,7 @@
 id: '1'
 price: '49.40'
 title: CloudEngine S6730S-S系列交换机
-description: CloudEngine S6730S-S系列交换机是华为公司自主开发的新一代万兆盒式交换机，提供全线速万兆接入接口和40GE上行接口。同时支持丰富的业务特性、完善的安全控制策略、丰富的QoS等特性以满足园区和数据中心网络的可扩展性、可靠性、可管理性及安全性等诸多挑战。
-default_thumbnail_image: images/plant1-lg.jpg
-default_original_image: images/plant1-lg.jpg
+description:  'CloudEngine S6730S-S系列交换机是华为公司自主开发的新一代万兆盒式交换机，提供全线速万兆接入接口和40GE上行接口。同时支持丰富的业务特性、完善的安全控制策略、丰富的QoS等特性以满足园区和数据中心网络的可扩展性、可靠性、可管理性及安全性等诸多挑战。'
 featured: true
 order: 8
 category: src/pages/category/交换机.md
@@ -17,7 +15,7 @@ other4:
   images: {"s6700-24-ei":{"org":"S6700-24-EI_pic","img":["01.png","02.png","03.png","04.png","08.png"]}}
 seo:
   title: s6730s-s | CloudEngine S6730S-S系列交换机 | 核心/汇聚交换机 | 园区交换机 | 交换机 | 企业网络
-  description: CloudEngine S6730S-S系列交换机是华为公司自主开发的新一代万兆盒式交换机，提供全线速万兆接入接口和40GE上行接口。同时支持丰富的业务特性、完善的安全控制策略、丰富的QoS等特性以满足园区和数据中心网络的可扩展性、可靠性、可管理性及安全性等诸多挑战。
+  description: 'CloudEngine S6730S-S系列交换机是华为公司自主开发的新一代万兆盒式交换机，提供全线速万兆接入接口和40GE上行接口。同时支持丰富的业务特性、完善的安全控制策略、丰富的QoS等特性以满足园区和数据中心网络的可扩展性、可靠性、可管理性及安全性等诸多挑战。'
   extra:
     - name: 'og:type'
       value: website
@@ -26,7 +24,7 @@ seo:
       value: 河南网田
       keyName: property
     - name: 'og:description'
-      value: CloudEngine S6730S-S系列交换机是华为公司自主开发的新一代万兆盒式交换机，提供全线速万兆接入接口和40GE上行接口。同时支持丰富的业务特性、完善的安全控制策略、丰富的QoS等特性以满足园区和数据中心网络的可扩展性、可靠性、可管理性及安全性等诸多挑战。
+      value: 'CloudEngine S6730S-S系列交换机是华为公司自主开发的新一代万兆盒式交换机，提供全线速万兆接入接口和40GE上行接口。同时支持丰富的业务特性、完善的安全控制策略、丰富的QoS等特性以满足园区和数据中心网络的可扩展性、可靠性、可管理性及安全性等诸多挑战。'
       keyName: property
     - name: Robots
       value: all

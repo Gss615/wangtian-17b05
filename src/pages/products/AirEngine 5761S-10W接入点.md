@@ -2,9 +2,7 @@
 id: '1'
 price: '49.40'
 title: AirEngine 5761S-10W接入点
-description: AirEngine 5761S-10W是华为面向SMB发布的支持802.11ax标准协议的面板AP，2.4GHz频段支持 2x2 MU-MIMO和2条空间流，5GHz频段支持 2x2 MU-MIMO和2条空间流，整机速率达1.77Gbps。适用于酒店、宿舍等房间密集场所。
-default_thumbnail_image: images/plant1-lg.jpg
-default_original_image: images/plant1-lg.jpg
+description:  'AirEngine 5761S-10W是华为面向SMB发布的支持802.11ax标准协议的面板AP，2.4GHz频段支持 2x2 MU-MIMO和2条空间流，5GHz频段支持 2x2 MU-MIMO和2条空间流，整机速率达1.77Gbps。适用于酒店、宿舍等房间密集场所。'
 featured: true
 order: 101
 category: src/pages/category/无线局域网.md
@@ -17,7 +15,7 @@ other4:
   images: {"airengine5761s-10w":{"org":"AirEngine5761S-10W_pic","img":["front_bottom.png","front_top.png","top.png"]}}
 seo:
   title: airengine-5761s-10w | AirEngine 5761S-10W接入点 | AirEngine 5700系列 | 室内接入点 | 无线局域网 | 企业网络
-  description: AirEngine 5761S-10W是华为面向SMB发布的支持802.11ax标准协议的面板AP，2.4GHz频段支持 2x2 MU-MIMO和2条空间流，5GHz频段支持 2x2 MU-MIMO和2条空间流，整机速率达1.77Gbps。适用于酒店、宿舍等房间密集场所。
+  description: 'AirEngine 5761S-10W是华为面向SMB发布的支持802.11ax标准协议的面板AP，2.4GHz频段支持 2x2 MU-MIMO和2条空间流，5GHz频段支持 2x2 MU-MIMO和2条空间流，整机速率达1.77Gbps。适用于酒店、宿舍等房间密集场所。'
   extra:
     - name: 'og:type'
       value: website
@@ -26,7 +24,7 @@ seo:
       value: 河南网田
       keyName: property
     - name: 'og:description'
-      value: AirEngine 5761S-10W是华为面向SMB发布的支持802.11ax标准协议的面板AP，2.4GHz频段支持 2x2 MU-MIMO和2条空间流，5GHz频段支持 2x2 MU-MIMO和2条空间流，整机速率达1.77Gbps。适用于酒店、宿舍等房间密集场所。
+      value: 'AirEngine 5761S-10W是华为面向SMB发布的支持802.11ax标准协议的面板AP，2.4GHz频段支持 2x2 MU-MIMO和2条空间流，5GHz频段支持 2x2 MU-MIMO和2条空间流，整机速率达1.77Gbps。适用于酒店、宿舍等房间密集场所。'
       keyName: property
     - name: Robots
       value: all

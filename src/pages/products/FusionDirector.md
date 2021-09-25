@@ -2,9 +2,7 @@
 id: '1'
 price: '49.40'
 title: FusionDirector
-description: FusionDirector是服务器全生命周期智能管理软件，提供智能维护、智能升级、智能发现、智能节能和智能部署五大智能管理功能，运维效率提升30%，实时可视化界面为客户提供极致体验
-default_thumbnail_image: images/plant1-lg.jpg
-default_original_image: images/plant1-lg.jpg
+description:  'FusionDirector是服务器全生命周期智能管理软件，提供智能维护、智能升级、智能发现、智能节能和智能部署五大智能管理功能，运维效率提升30%，实时可视化界面为客户提供极致体验'
 featured: true
 order: 338
 category: src/pages/category/服务器 - 计算.md
@@ -17,7 +15,7 @@ other4:
   images: {"other":{"org":"other","img":["FusionDirector.png"]}}
 seo:
   title: fusiondirector | FusionDirector | null | 智能管理软件 | 服务器 - 计算 | 数据中心
-  description: FusionDirector是服务器全生命周期智能管理软件，提供智能维护、智能升级、智能发现、智能节能和智能部署五大智能管理功能，运维效率提升30%，实时可视化界面为客户提供极致体验
+  description: 'FusionDirector是服务器全生命周期智能管理软件，提供智能维护、智能升级、智能发现、智能节能和智能部署五大智能管理功能，运维效率提升30%，实时可视化界面为客户提供极致体验'
   extra:
     - name: 'og:type'
       value: website
@@ -26,7 +24,7 @@ seo:
       value: 河南网田
       keyName: property
     - name: 'og:description'
-      value: FusionDirector是服务器全生命周期智能管理软件，提供智能维护、智能升级、智能发现、智能节能和智能部署五大智能管理功能，运维效率提升30%，实时可视化界面为客户提供极致体验
+      value: 'FusionDirector是服务器全生命周期智能管理软件，提供智能维护、智能升级、智能发现、智能节能和智能部署五大智能管理功能，运维效率提升30%，实时可视化界面为客户提供极致体验'
       keyName: property
     - name: Robots
       value: all

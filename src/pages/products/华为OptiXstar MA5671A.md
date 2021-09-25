@@ -2,9 +2,7 @@
 id: '1'
 price: '49.40'
 title: 华为OptiXstar MA5671A
-description: Huawei OptiXstar MA5671A是一款微型GPON SFP ONU设备，可插在摄像头或AP设备的SFP端口中，为它们提供GPON接入，满足视频回传或无线回传等需求。
-default_thumbnail_image: images/plant1-lg.jpg
-default_original_image: images/plant1-lg.jpg
+description:  'Huawei OptiXstar MA5671A是一款微型GPON SFP ONU设备，可插在摄像头或AP设备的SFP端口中，为它们提供GPON接入，满足视频回传或无线回传等需求。'
 featured: true
 order: 207
 category: src/pages/category/光终端.md
@@ -17,7 +15,7 @@ other4:
   images: {"other":{"org":"other","img":["华为OptiXstar MA5671A.png"]}}
 seo:
   title: optixstar-ma5671a | 华为OptiXstar MA5671A | null | ONU | 光终端 | 企业光网络
-  description: Huawei OptiXstar MA5671A是一款微型GPON SFP ONU设备，可插在摄像头或AP设备的SFP端口中，为它们提供GPON接入，满足视频回传或无线回传等需求。
+  description: 'Huawei OptiXstar MA5671A是一款微型GPON SFP ONU设备，可插在摄像头或AP设备的SFP端口中，为它们提供GPON接入，满足视频回传或无线回传等需求。'
   extra:
     - name: 'og:type'
       value: website
@@ -26,7 +24,7 @@ seo:
       value: 河南网田
       keyName: property
     - name: 'og:description'
-      value: Huawei OptiXstar MA5671A是一款微型GPON SFP ONU设备，可插在摄像头或AP设备的SFP端口中，为它们提供GPON接入，满足视频回传或无线回传等需求。
+      value: 'Huawei OptiXstar MA5671A是一款微型GPON SFP ONU设备，可插在摄像头或AP设备的SFP端口中，为它们提供GPON接入，满足视频回传或无线回传等需求。'
       keyName: property
     - name: Robots
       value: all

@@ -2,9 +2,7 @@
 id: '1'
 price: '49.40'
 title: NetEngine AR系列企业路由器
-description: NetEngine AR系列企业路由器是华为面向云化时代推出的首款企业级AR路由器，具备3倍业界转发性能，5G超宽上行，同时融合SD-WAN、云管理、VPN、 MPLS、安全、语音等多种功能，帮助全球客户轻松应对企业上行流量激增和未来业务多元化发展。
-default_thumbnail_image: images/plant1-lg.jpg
-default_original_image: images/plant1-lg.jpg
+description:  'NetEngine AR系列企业路由器是华为面向云化时代推出的首款企业级AR路由器，具备3倍业界转发性能，5G超宽上行，同时融合SD-WAN、云管理、VPN、 MPLS、安全、语音等多种功能，帮助全球客户轻松应对企业上行流量激增和未来业务多元化发展。'
 featured: true
 order: 66
 category: src/pages/category/路由器.md
@@ -17,7 +15,7 @@ other4:
   images: {"ar6120":{"org":"AR6120_pic","img":["front.png","front_left.png","front_right.png","front_top.png","rear.png"]}}
 seo:
   title: new-ar-router | NetEngine AR系列企业路由器 | null | AR系列接入路由器 | 路由器 | 企业网络
-  description: NetEngine AR系列企业路由器是华为面向云化时代推出的首款企业级AR路由器，具备3倍业界转发性能，5G超宽上行，同时融合SD-WAN、云管理、VPN、 MPLS、安全、语音等多种功能，帮助全球客户轻松应对企业上行流量激增和未来业务多元化发展。
+  description: 'NetEngine AR系列企业路由器是华为面向云化时代推出的首款企业级AR路由器，具备3倍业界转发性能，5G超宽上行，同时融合SD-WAN、云管理、VPN、 MPLS、安全、语音等多种功能，帮助全球客户轻松应对企业上行流量激增和未来业务多元化发展。'
   extra:
     - name: 'og:type'
       value: website
@@ -26,7 +24,7 @@ seo:
       value: 河南网田
       keyName: property
     - name: 'og:description'
-      value: NetEngine AR系列企业路由器是华为面向云化时代推出的首款企业级AR路由器，具备3倍业界转发性能，5G超宽上行，同时融合SD-WAN、云管理、VPN、 MPLS、安全、语音等多种功能，帮助全球客户轻松应对企业上行流量激增和未来业务多元化发展。
+      value: 'NetEngine AR系列企业路由器是华为面向云化时代推出的首款企业级AR路由器，具备3倍业界转发性能，5G超宽上行，同时融合SD-WAN、云管理、VPN、 MPLS、安全、语音等多种功能，帮助全球客户轻松应对企业上行流量激增和未来业务多元化发展。'
       keyName: property
     - name: Robots
       value: all

@@ -2,9 +2,7 @@
 id: '1'
 price: '49.40'
 title: NetEngine AR700系列企业路由器
-description: 为面向企业中小型分支推出的框式系列产品，提供业界覆盖范围最广泛的业务插槽类型，集5G、路由、交换、VPN、安全、MPLS等丰富业务特性于一体，满足企业业务多元化和云化趋势下对网络设备高性能的需求。
-default_thumbnail_image: images/plant1-lg.jpg
-default_original_image: images/plant1-lg.jpg
+description:  '为面向企业中小型分支推出的框式系列产品，提供业界覆盖范围最广泛的业务插槽类型，集5G、路由、交换、VPN、安全、MPLS等丰富业务特性于一体，满足企业业务多元化和云化趋势下对网络设备高性能的需求。'
 featured: true
 order: 76
 category: src/pages/category/路由器.md
@@ -17,7 +15,7 @@ other4:
   images: {"ar720":{"org":"AR720_pic","img":["front.png","front_left.png","front_right.png","front_top.png","rear.png","rear_left.png","rear_right.png","rear_top.png"]}}
 seo:
   title: ar700 | NetEngine AR700系列企业路由器 | AR 商业系列企业路由器 (中国区） | AR系列接入路由器 | 路由器 | 企业网络
-  description: 为面向企业中小型分支推出的框式系列产品，提供业界覆盖范围最广泛的业务插槽类型，集5G、路由、交换、VPN、安全、MPLS等丰富业务特性于一体，满足企业业务多元化和云化趋势下对网络设备高性能的需求。
+  description: '为面向企业中小型分支推出的框式系列产品，提供业界覆盖范围最广泛的业务插槽类型，集5G、路由、交换、VPN、安全、MPLS等丰富业务特性于一体，满足企业业务多元化和云化趋势下对网络设备高性能的需求。'
   extra:
     - name: 'og:type'
       value: website
@@ -26,7 +24,7 @@ seo:
       value: 河南网田
       keyName: property
     - name: 'og:description'
-      value: 为面向企业中小型分支推出的框式系列产品，提供业界覆盖范围最广泛的业务插槽类型，集5G、路由、交换、VPN、安全、MPLS等丰富业务特性于一体，满足企业业务多元化和云化趋势下对网络设备高性能的需求。
+      value: '为面向企业中小型分支推出的框式系列产品，提供业界覆盖范围最广泛的业务插槽类型，集5G、路由、交换、VPN、安全、MPLS等丰富业务特性于一体，满足企业业务多元化和云化趋势下对网络设备高性能的需求。'
       keyName: property
     - name: Robots
       value: all

@@ -2,13 +2,11 @@
 id: '1'
 price: '49.40'
 title: OceanStor 18000 V5
-description: 华为OceanStor 18000 V5系列是全新一代高端混合闪存存储系统，为企业关键业务提供最高水平的数据服务。
+description:  '华为OceanStor 18000 V5系列是全新一代高端混合闪存存储系统，为企业关键业务提供最高水平的数据服务。
 
 创新的SmartMatrix系统架构、HyperMetro免网关A-A双活、深度闪存优化技术、持续领先一代的硬件平台以及丰富的效率提升和数据保护方案，在可靠性、性能和解决方案方面都达到业界领先水平。
 
-满足大型数据库OLTP/OLAP、云计算等各种应用的数据存储需求，助力企业平滑向云转型，广泛适用于政府、金融、运营商、制造等行业。
-default_thumbnail_image: images/plant1-lg.jpg
-default_original_image: images/plant1-lg.jpg
+满足大型数据库OLTP/OLAP、云计算等各种应用的数据存储需求，助力企业平滑向云转型，广泛适用于政府、金融、运营商、制造等行业。'
 featured: true
 order: 263
 category: src/pages/category/混合闪存存储.md
@@ -21,11 +19,11 @@ other4:
   images: {"other":{"org":"other","img":["OceanStor 18000 V5.png"]}}
 seo:
   title: 18500-18800-v5 | OceanStor 18500/18800 V5高端混合闪存存储系统 | null | null | 混合闪存存储 | 数据存储
-  description: 华为OceanStor 18000 V5系列是全新一代高端混合闪存存储系统，为企业关键业务提供最高水平的数据服务。
+  description: '华为OceanStor 18000 V5系列是全新一代高端混合闪存存储系统，为企业关键业务提供最高水平的数据服务。
 
 创新的SmartMatrix系统架构、HyperMetro免网关A-A双活、深度闪存优化技术、持续领先一代的硬件平台以及丰富的效率提升和数据保护方案，在可靠性、性能和解决方案方面都达到业界领先水平。
 
-满足大型数据库OLTP/OLAP、云计算等各种应用的数据存储需求，助力企业平滑向云转型，广泛适用于政府、金融、运营商、制造等行业。
+满足大型数据库OLTP/OLAP、云计算等各种应用的数据存储需求，助力企业平滑向云转型，广泛适用于政府、金融、运营商、制造等行业。'
   extra:
     - name: 'og:type'
       value: website
@@ -34,11 +32,11 @@ seo:
       value: 河南网田
       keyName: property
     - name: 'og:description'
-      value: 华为OceanStor 18000 V5系列是全新一代高端混合闪存存储系统，为企业关键业务提供最高水平的数据服务。
+      value: '华为OceanStor 18000 V5系列是全新一代高端混合闪存存储系统，为企业关键业务提供最高水平的数据服务。
 
 创新的SmartMatrix系统架构、HyperMetro免网关A-A双活、深度闪存优化技术、持续领先一代的硬件平台以及丰富的效率提升和数据保护方案，在可靠性、性能和解决方案方面都达到业界领先水平。
 
-满足大型数据库OLTP/OLAP、云计算等各种应用的数据存储需求，助力企业平滑向云转型，广泛适用于政府、金融、运营商、制造等行业。
+满足大型数据库OLTP/OLAP、云计算等各种应用的数据存储需求，助力企业平滑向云转型，广泛适用于政府、金融、运营商、制造等行业。'
       keyName: property
     - name: Robots
       value: all

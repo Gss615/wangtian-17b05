@@ -2,9 +2,7 @@
 id: '1'
 price: '49.40'
 title: FusionCube 1000（机柜）
-description: 华为FusionCube 1000（机柜）是全栈一体化解决方案，融合了计算、存储、网络、虚拟化、UPS资源等企业数字化的必要资源，可根据客户规划事先完成预连线预配置，整柜交付，客户开箱即可用；并通过FusionCube Center Vision实现远程集中管理，远程运维，降低企业运维成本。华为FusionCube 1000（机柜）是智慧园区、企业分支机构、企业边缘场景的理想数字化基础设施。
-default_thumbnail_image: images/plant1-lg.jpg
-default_original_image: images/plant1-lg.jpg
+description:  '华为FusionCube 1000（机柜）是全栈一体化解决方案，融合了计算、存储、网络、虚拟化、UPS资源等企业数字化的必要资源，可根据客户规划事先完成预连线预配置，整柜交付，客户开箱即可用；并通过FusionCube Center Vision实现远程集中管理，远程运维，降低企业运维成本。华为FusionCube 1000（机柜）是智慧园区、企业分支机构、企业边缘场景的理想数字化基础设施。'
 featured: true
 order: 277
 category: src/pages/category/超融合 HCI.md
@@ -17,7 +15,7 @@ other4:
   images: {"other":{"org":"other","img":["FusionCube 1000（机柜）.png"]}}
 seo:
   title: fusioncube-1000 | FusionCube 1000（机柜） | null | null | 超融合 HCI | 数据存储
-  description: 华为FusionCube 1000（机柜）是全栈一体化解决方案，融合了计算、存储、网络、虚拟化、UPS资源等企业数字化的必要资源，可根据客户规划事先完成预连线预配置，整柜交付，客户开箱即可用；并通过FusionCube Center Vision实现远程集中管理，远程运维，降低企业运维成本。华为FusionCube 1000（机柜）是智慧园区、企业分支机构、企业边缘场景的理想数字化基础设施。
+  description: '华为FusionCube 1000（机柜）是全栈一体化解决方案，融合了计算、存储、网络、虚拟化、UPS资源等企业数字化的必要资源，可根据客户规划事先完成预连线预配置，整柜交付，客户开箱即可用；并通过FusionCube Center Vision实现远程集中管理，远程运维，降低企业运维成本。华为FusionCube 1000（机柜）是智慧园区、企业分支机构、企业边缘场景的理想数字化基础设施。'
   extra:
     - name: 'og:type'
       value: website
@@ -26,7 +24,7 @@ seo:
       value: 河南网田
       keyName: property
     - name: 'og:description'
-      value: 华为FusionCube 1000（机柜）是全栈一体化解决方案，融合了计算、存储、网络、虚拟化、UPS资源等企业数字化的必要资源，可根据客户规划事先完成预连线预配置，整柜交付，客户开箱即可用；并通过FusionCube Center Vision实现远程集中管理，远程运维，降低企业运维成本。华为FusionCube 1000（机柜）是智慧园区、企业分支机构、企业边缘场景的理想数字化基础设施。
+      value: '华为FusionCube 1000（机柜）是全栈一体化解决方案，融合了计算、存储、网络、虚拟化、UPS资源等企业数字化的必要资源，可根据客户规划事先完成预连线预配置，整柜交付，客户开箱即可用；并通过FusionCube Center Vision实现远程集中管理，远程运维，降低企业运维成本。华为FusionCube 1000（机柜）是智慧园区、企业分支机构、企业边缘场景的理想数字化基础设施。'
       keyName: property
     - name: Robots
       value: all

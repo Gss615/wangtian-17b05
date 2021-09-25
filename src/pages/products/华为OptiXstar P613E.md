@@ -2,9 +2,7 @@
 id: '1'
 price: '49.40'
 title: 华为OptiXstar P613E
-description: 华为OptiXstar P613E 产品是面向企业园区用户设计的ONU设备。可以提供8个GE业务接口，其中4个支持PoE/PoE+功能，为用户提供高速宽带、企业专线，视频监控等多种业务。
-default_thumbnail_image: images/plant1-lg.jpg
-default_original_image: images/plant1-lg.jpg
+description:  '华为OptiXstar P613E 产品是面向企业园区用户设计的ONU设备。可以提供8个GE业务接口，其中4个支持PoE/PoE+功能，为用户提供高速宽带、企业专线，视频监控等多种业务。'
 featured: true
 order: 222
 category: src/pages/category/光终端.md
@@ -17,7 +15,7 @@ other4:
   images: {"other":{"org":"other","img":["华为OptiXstar P613E.png"]}}
 seo:
   title: optixstar-p613e | 华为OptiXstar P613E  | null | ONU | 光终端 | 企业光网络
-  description: 华为OptiXstar P613E 产品是面向企业园区用户设计的ONU设备。可以提供8个GE业务接口，其中4个支持PoE/PoE+功能，为用户提供高速宽带、企业专线，视频监控等多种业务。
+  description: '华为OptiXstar P613E 产品是面向企业园区用户设计的ONU设备。可以提供8个GE业务接口，其中4个支持PoE/PoE+功能，为用户提供高速宽带、企业专线，视频监控等多种业务。'
   extra:
     - name: 'og:type'
       value: website
@@ -26,7 +24,7 @@ seo:
       value: 河南网田
       keyName: property
     - name: 'og:description'
-      value: 华为OptiXstar P613E 产品是面向企业园区用户设计的ONU设备。可以提供8个GE业务接口，其中4个支持PoE/PoE+功能，为用户提供高速宽带、企业专线，视频监控等多种业务。
+      value: '华为OptiXstar P613E 产品是面向企业园区用户设计的ONU设备。可以提供8个GE业务接口，其中4个支持PoE/PoE+功能，为用户提供高速宽带、企业专线，视频监控等多种业务。'
       keyName: property
     - name: Robots
       value: all

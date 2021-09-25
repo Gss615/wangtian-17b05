@@ -2,9 +2,7 @@
 id: '1'
 price: '49.40'
 title: AntiDDoS12000系列DDoS防御系统
-description: 华为HiSecEngine AntiDDoS12000提供最高2T+安全防护性能和拓展能力，有效应对大流量DDoS攻击；针对上百种复杂攻击，秒级甚至毫秒级防御，有效阻断攻击，保护客户业务永续。
-default_thumbnail_image: images/plant1-lg.jpg
-default_original_image: images/plant1-lg.jpg
+description:  '华为HiSecEngine AntiDDoS12000提供最高2T+安全防护性能和拓展能力，有效应对大流量DDoS攻击；针对上百种复杂攻击，秒级甚至毫秒级防御，有效阻断攻击，保护客户业务永续。'
 featured: true
 order: 182
 category: src/pages/category/网络安全.md
@@ -17,7 +15,7 @@ other4:
   images: {"antiddos12004":{"org":"AntiDDoS12004_pic","img":["front.png","front_left.png","front_right.png","front_top.png","rear.png"]}}
 seo:
   title: 12000 | AntiDDoS12000系列DDoS防御系统 | null | DDoS攻击防御 | 网络安全 | 企业网络
-  description: 华为HiSecEngine AntiDDoS12000提供最高2T+安全防护性能和拓展能力，有效应对大流量DDoS攻击；针对上百种复杂攻击，秒级甚至毫秒级防御，有效阻断攻击，保护客户业务永续。
+  description: '华为HiSecEngine AntiDDoS12000提供最高2T+安全防护性能和拓展能力，有效应对大流量DDoS攻击；针对上百种复杂攻击，秒级甚至毫秒级防御，有效阻断攻击，保护客户业务永续。'
   extra:
     - name: 'og:type'
       value: website
@@ -26,7 +24,7 @@ seo:
       value: 河南网田
       keyName: property
     - name: 'og:description'
-      value: 华为HiSecEngine AntiDDoS12000提供最高2T+安全防护性能和拓展能力，有效应对大流量DDoS攻击；针对上百种复杂攻击，秒级甚至毫秒级防御，有效阻断攻击，保护客户业务永续。
+      value: '华为HiSecEngine AntiDDoS12000提供最高2T+安全防护性能和拓展能力，有效应对大流量DDoS攻击；针对上百种复杂攻击，秒级甚至毫秒级防御，有效阻断攻击，保护客户业务永续。'
       keyName: property
     - name: Robots
       value: all

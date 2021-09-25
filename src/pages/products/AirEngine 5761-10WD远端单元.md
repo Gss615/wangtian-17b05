@@ -2,9 +2,7 @@
 id: '1'
 price: '49.40'
 title: AirEngine 5761-10WD远端单元
-description: 华为新一代敏捷分布式解决方案远端单元。支持Wi-Fi 6 （802.11ax）标准，支持2.4GHz（2×2）和5GHz （2×2）双频同时提供业务，整机速率达1.77Gbps。适用于酒店客房、学生宿舍等房间密集场景。
-default_thumbnail_image: images/plant1-lg.jpg
-default_original_image: images/plant1-lg.jpg
+description:  '华为新一代敏捷分布式解决方案远端单元。支持Wi-Fi 6 （802.11ax）标准，支持2.4GHz（2×2）和5GHz （2×2）双频同时提供业务，整机速率达1.77Gbps。适用于酒店客房、学生宿舍等房间密集场景。'
 featured: true
 order: 154
 category: src/pages/category/无线局域网.md
@@ -17,7 +15,7 @@ other4:
   images: {"airengine5761-10wd":{"org":"AirEngine5761-10WD_pic","img":["front_bottom.png","front_top.png","top.png"]}}
 seo:
   title: airengine-5761-10wd | AirEngine 5761-10WD远端单元 | null | 场景化产品系列 | 无线局域网 | 企业网络
-  description: 华为新一代敏捷分布式解决方案远端单元。支持Wi-Fi 6 （802.11ax）标准，支持2.4GHz（2×2）和5GHz （2×2）双频同时提供业务，整机速率达1.77Gbps。适用于酒店客房、学生宿舍等房间密集场景。
+  description: '华为新一代敏捷分布式解决方案远端单元。支持Wi-Fi 6 （802.11ax）标准，支持2.4GHz（2×2）和5GHz （2×2）双频同时提供业务，整机速率达1.77Gbps。适用于酒店客房、学生宿舍等房间密集场景。'
   extra:
     - name: 'og:type'
       value: website
@@ -26,7 +24,7 @@ seo:
       value: 河南网田
       keyName: property
     - name: 'og:description'
-      value: 华为新一代敏捷分布式解决方案远端单元。支持Wi-Fi 6 （802.11ax）标准，支持2.4GHz（2×2）和5GHz （2×2）双频同时提供业务，整机速率达1.77Gbps。适用于酒店客房、学生宿舍等房间密集场景。
+      value: '华为新一代敏捷分布式解决方案远端单元。支持Wi-Fi 6 （802.11ax）标准，支持2.4GHz（2×2）和5GHz （2×2）双频同时提供业务，整机速率达1.77Gbps。适用于酒店客房、学生宿舍等房间密集场景。'
       keyName: property
     - name: Robots
       value: all

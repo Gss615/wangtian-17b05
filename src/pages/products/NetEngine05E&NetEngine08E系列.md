@@ -2,13 +2,11 @@
 id: '1'
 price: '49.40'
 title: NetEngine05E&NetEngine08E系列
-description: 华为NetEngine 05E&NetEngine 08E系列产品基于华为NP芯片和SDN，采用无阻塞交换架构，体积小、带宽大，-40ºC~70ºC 宽温应用，能够适应各种恶劣环境，满足交通、金融、电力、政府、教育、企业等行业用户的多样化需求。
+description:  '华为NetEngine 05E&NetEngine 08E系列产品基于华为NP芯片和SDN，采用无阻塞交换架构，体积小、带宽大，-40ºC~70ºC 宽温应用，能够适应各种恶劣环境，满足交通、金融、电力、政府、教育、企业等行业用户的多样化需求。
 
 独创的IP硬管道技术，满足关键业务的低时延、高可靠需求；
 可提供IP图形化管理界面，业务一键下发，实时监控全网业务，输出定制化用户报告；
-创新的ATOM GPS+1588v2时间同步技术，简化网络部署，降低客户TCO。
-default_thumbnail_image: images/plant1-lg.jpg
-default_original_image: images/plant1-lg.jpg
+创新的ATOM GPS+1588v2时间同步技术，简化网络部署，降低客户TCO。'
 featured: true
 order: 62
 category: src/pages/category/路由器.md
@@ -21,11 +19,11 @@ other4:
   images: {"other":{"org":"other","img":["NetEngine05E&NetEngine08E系列.png"]}}
 seo:
   title: ne05e-08e | NetEngine05E&NetEngine08E系列 | 业务接入路由器 | NE系列路由器 | 路由器 | 企业网络
-  description: 华为NetEngine 05E&NetEngine 08E系列产品基于华为NP芯片和SDN，采用无阻塞交换架构，体积小、带宽大，-40ºC~70ºC 宽温应用，能够适应各种恶劣环境，满足交通、金融、电力、政府、教育、企业等行业用户的多样化需求。
+  description: '华为NetEngine 05E&NetEngine 08E系列产品基于华为NP芯片和SDN，采用无阻塞交换架构，体积小、带宽大，-40ºC~70ºC 宽温应用，能够适应各种恶劣环境，满足交通、金融、电力、政府、教育、企业等行业用户的多样化需求。
 
 独创的IP硬管道技术，满足关键业务的低时延、高可靠需求；
 可提供IP图形化管理界面，业务一键下发，实时监控全网业务，输出定制化用户报告；
-创新的ATOM GPS+1588v2时间同步技术，简化网络部署，降低客户TCO。
+创新的ATOM GPS+1588v2时间同步技术，简化网络部署，降低客户TCO。'
   extra:
     - name: 'og:type'
       value: website
@@ -34,11 +32,11 @@ seo:
       value: 河南网田
       keyName: property
     - name: 'og:description'
-      value: 华为NetEngine 05E&NetEngine 08E系列产品基于华为NP芯片和SDN，采用无阻塞交换架构，体积小、带宽大，-40ºC~70ºC 宽温应用，能够适应各种恶劣环境，满足交通、金融、电力、政府、教育、企业等行业用户的多样化需求。
+      value: '华为NetEngine 05E&NetEngine 08E系列产品基于华为NP芯片和SDN，采用无阻塞交换架构，体积小、带宽大，-40ºC~70ºC 宽温应用，能够适应各种恶劣环境，满足交通、金融、电力、政府、教育、企业等行业用户的多样化需求。
 
 独创的IP硬管道技术，满足关键业务的低时延、高可靠需求；
 可提供IP图形化管理界面，业务一键下发，实时监控全网业务，输出定制化用户报告；
-创新的ATOM GPS+1588v2时间同步技术，简化网络部署，降低客户TCO。
+创新的ATOM GPS+1588v2时间同步技术，简化网络部署，降低客户TCO。'
       keyName: property
     - name: Robots
       value: all

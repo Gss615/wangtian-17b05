@@ -2,13 +2,11 @@
 id: '1'
 price: '49.40'
 title: SmartAX EA5800系列
-description: 构建超宽、绿色、智能的汇聚型接入网络：
+description:  '构建超宽、绿色、智能的汇聚型接入网络：
 
 基于分布式架构，为用户提供宽带、无线、视频、监控等多业务 统一承载平台；
 提供GPON、XG-PON、XGS-PON、GE和10GE接入，支持包括POL、FTTH、FTTB、FTTC 在内 的多种建网模式，实现一张光纤网覆盖全业务，简化网络架构，降低OPEX；
-支持大、中、小三种产品规格，满足不同场景需求。
-default_thumbnail_image: images/plant1-lg.jpg
-default_original_image: images/plant1-lg.jpg
+支持大、中、小三种产品规格，满足不同场景需求。'
 featured: true
 order: 199
 category: src/pages/category/光接入.md
@@ -21,11 +19,11 @@ other4:
   images: {"other":{"org":"other","img":["SmartAX EA5800系列.png"]}}
 seo:
   title: ea5800 | SmartAX EA5800系列 | null | OLT | 光接入 | 企业光网络
-  description: 构建超宽、绿色、智能的汇聚型接入网络：
+  description: '构建超宽、绿色、智能的汇聚型接入网络：
 
 基于分布式架构，为用户提供宽带、无线、视频、监控等多业务 统一承载平台；
 提供GPON、XG-PON、XGS-PON、GE和10GE接入，支持包括POL、FTTH、FTTB、FTTC 在内 的多种建网模式，实现一张光纤网覆盖全业务，简化网络架构，降低OPEX；
-支持大、中、小三种产品规格，满足不同场景需求。
+支持大、中、小三种产品规格，满足不同场景需求。'
   extra:
     - name: 'og:type'
       value: website
@@ -34,11 +32,11 @@ seo:
       value: 河南网田
       keyName: property
     - name: 'og:description'
-      value: 构建超宽、绿色、智能的汇聚型接入网络：
+      value: '构建超宽、绿色、智能的汇聚型接入网络：
 
 基于分布式架构，为用户提供宽带、无线、视频、监控等多业务 统一承载平台；
 提供GPON、XG-PON、XGS-PON、GE和10GE接入，支持包括POL、FTTH、FTTB、FTTC 在内 的多种建网模式，实现一张光纤网覆盖全业务，简化网络架构，降低OPEX；
-支持大、中、小三种产品规格，满足不同场景需求。
+支持大、中、小三种产品规格，满足不同场景需求。'
       keyName: property
     - name: Robots
       value: all

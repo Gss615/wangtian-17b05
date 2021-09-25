@@ -2,9 +2,7 @@
 id: '1'
 price: '49.40'
 title: 6-42 GHz常规频段IP微波
-description: 华为6-42 GHz常规频段IP微波具有单载波最大2 Gbit/s，单天线最大16 Gbit/s的传输能力，是业界首个同一平台支持TDM/Hybrid/Packet/Routing四种业务的IP微波系统，满足行业大容量IP业务传输和传统PDH/SDH微波IP化改造的需要，提供分体式、全室外、全室内任意场景部署的灵活架构，设备可靠性高，支持端到端的统一运维管理，被广泛应用于政府、广电、油气、教育、电力等各个行业领域的宽带无线传输。
-default_thumbnail_image: images/plant1-lg.jpg
-default_original_image: images/plant1-lg.jpg
+description:  '华为6-42 GHz常规频段IP微波具有单载波最大2 Gbit/s，单天线最大16 Gbit/s的传输能力，是业界首个同一平台支持TDM/Hybrid/Packet/Routing四种业务的IP微波系统，满足行业大容量IP业务传输和传统PDH/SDH微波IP化改造的需要，提供分体式、全室外、全室内任意场景部署的灵活架构，设备可靠性高，支持端到端的统一运维管理，被广泛应用于政府、广电、油气、教育、电力等各个行业领域的宽带无线传输。'
 featured: true
 order: 358
 category: src/pages/category/企业微波解决方案.md
@@ -17,7 +15,7 @@ other4:
   images: {"other":{"org":"other","img":["6-42 GHz常规频段IP微波.png"]}}
 seo:
   title: traditional-band | 6-42 GHz常规频段IP微波 | null | null | 企业微波解决方案 | 企业无线
-  description: 华为6-42 GHz常规频段IP微波具有单载波最大2 Gbit/s，单天线最大16 Gbit/s的传输能力，是业界首个同一平台支持TDM/Hybrid/Packet/Routing四种业务的IP微波系统，满足行业大容量IP业务传输和传统PDH/SDH微波IP化改造的需要，提供分体式、全室外、全室内任意场景部署的灵活架构，设备可靠性高，支持端到端的统一运维管理，被广泛应用于政府、广电、油气、教育、电力等各个行业领域的宽带无线传输。
+  description: '华为6-42 GHz常规频段IP微波具有单载波最大2 Gbit/s，单天线最大16 Gbit/s的传输能力，是业界首个同一平台支持TDM/Hybrid/Packet/Routing四种业务的IP微波系统，满足行业大容量IP业务传输和传统PDH/SDH微波IP化改造的需要，提供分体式、全室外、全室内任意场景部署的灵活架构，设备可靠性高，支持端到端的统一运维管理，被广泛应用于政府、广电、油气、教育、电力等各个行业领域的宽带无线传输。'
   extra:
     - name: 'og:type'
       value: website
@@ -26,7 +24,7 @@ seo:
       value: 河南网田
       keyName: property
     - name: 'og:description'
-      value: 华为6-42 GHz常规频段IP微波具有单载波最大2 Gbit/s，单天线最大16 Gbit/s的传输能力，是业界首个同一平台支持TDM/Hybrid/Packet/Routing四种业务的IP微波系统，满足行业大容量IP业务传输和传统PDH/SDH微波IP化改造的需要，提供分体式、全室外、全室内任意场景部署的灵活架构，设备可靠性高，支持端到端的统一运维管理，被广泛应用于政府、广电、油气、教育、电力等各个行业领域的宽带无线传输。
+      value: '华为6-42 GHz常规频段IP微波具有单载波最大2 Gbit/s，单天线最大16 Gbit/s的传输能力，是业界首个同一平台支持TDM/Hybrid/Packet/Routing四种业务的IP微波系统，满足行业大容量IP业务传输和传统PDH/SDH微波IP化改造的需要，提供分体式、全室外、全室内任意场景部署的灵活架构，设备可靠性高，支持端到端的统一运维管理，被广泛应用于政府、广电、油气、教育、电力等各个行业领域的宽带无线传输。'
       keyName: property
     - name: Robots
       value: all

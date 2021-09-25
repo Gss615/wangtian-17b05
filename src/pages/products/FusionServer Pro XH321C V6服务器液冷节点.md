@@ -2,9 +2,7 @@
 id: '1'
 price: '49.40'
 title: FusionServer Pro XH321C V6服务器液冷节点
-description: FusionServer Pro XH321C V6是华为最新一代1U半宽双路服务器液冷节点，支持CPU和内存液冷散热，支持45ºC温水散热。全液冷方案，散热比高达100%，PUE≤1.05；板级液冷方案，散热比高达80%，PUE≤1.1。
-default_thumbnail_image: images/plant1-lg.jpg
-default_original_image: images/plant1-lg.jpg
+description:  'FusionServer Pro XH321C V6是华为最新一代1U半宽双路服务器液冷节点，支持CPU和内存液冷散热，支持45ºC温水散热。全液冷方案，散热比高达100%，PUE≤1.05；板级液冷方案，散热比高达80%，PUE≤1.1。'
 featured: true
 order: 301
 category: src/pages/category/服务器 - 计算.md
@@ -17,7 +15,7 @@ other4:
   images: {"other":{"org":"other","img":["FusionServer Pro XH321C V6服务器液冷节点.png"]}}
 seo:
   title: xh321c-v6 | FusionServer Pro XH321C V6服务器液冷节点 | FusionServer Pro高密服务器 | FusionServer Pro智能服务器 | 服务器 - 计算 | 数据中心
-  description: FusionServer Pro XH321C V6是华为最新一代1U半宽双路服务器液冷节点，支持CPU和内存液冷散热，支持45ºC温水散热。全液冷方案，散热比高达100%，PUE≤1.05；板级液冷方案，散热比高达80%，PUE≤1.1。
+  description: 'FusionServer Pro XH321C V6是华为最新一代1U半宽双路服务器液冷节点，支持CPU和内存液冷散热，支持45ºC温水散热。全液冷方案，散热比高达100%，PUE≤1.05；板级液冷方案，散热比高达80%，PUE≤1.1。'
   extra:
     - name: 'og:type'
       value: website
@@ -26,7 +24,7 @@ seo:
       value: 河南网田
       keyName: property
     - name: 'og:description'
-      value: FusionServer Pro XH321C V6是华为最新一代1U半宽双路服务器液冷节点，支持CPU和内存液冷散热，支持45ºC温水散热。全液冷方案，散热比高达100%，PUE≤1.05；板级液冷方案，散热比高达80%，PUE≤1.1。
+      value: 'FusionServer Pro XH321C V6是华为最新一代1U半宽双路服务器液冷节点，支持CPU和内存液冷散热，支持45ºC温水散热。全液冷方案，散热比高达100%，PUE≤1.05；板级液冷方案，散热比高达80%，PUE≤1.1。'
       keyName: property
     - name: Robots
       value: all

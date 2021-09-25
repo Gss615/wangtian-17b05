@@ -2,9 +2,7 @@
 id: '1'
 price: '49.40'
 title: CloudEngine 16800系列数据中心交换机
-description: CloudEngine 16800是华为推出的面向智能时代的数据中心交换机。承载独创的iLossless 智能无损交换算法，对全网流量进行实时的学习训练，实现网络0丢包，达到最高吞吐量。
-default_thumbnail_image: images/plant1-lg.jpg
-default_original_image: images/plant1-lg.jpg
+description:  'CloudEngine 16800是华为推出的面向智能时代的数据中心交换机。承载独创的iLossless 智能无损交换算法，对全网流量进行实时的学习训练，实现网络0丢包，达到最高吞吐量。'
 featured: true
 order: 48
 category: src/pages/category/交换机.md
@@ -17,7 +15,7 @@ other4:
   images: {"ce16804":{"org":"CE16804_pic","img":["front.png","front_left.png","front_right.png","front_top.png","left.png","rear.png","rear_left.png","rear_right.png","right.png"]}}
 seo:
   title: ce16800 | CloudEngine 16800系列数据中心交换机 | 框式核心交换机 | 数据中心交换机 | 交换机 | 企业网络
-  description: CloudEngine 16800是华为推出的面向智能时代的数据中心交换机。承载独创的iLossless 智能无损交换算法，对全网流量进行实时的学习训练，实现网络0丢包，达到最高吞吐量。
+  description: 'CloudEngine 16800是华为推出的面向智能时代的数据中心交换机。承载独创的iLossless 智能无损交换算法，对全网流量进行实时的学习训练，实现网络0丢包，达到最高吞吐量。'
   extra:
     - name: 'og:type'
       value: website
@@ -26,7 +24,7 @@ seo:
       value: 河南网田
       keyName: property
     - name: 'og:description'
-      value: CloudEngine 16800是华为推出的面向智能时代的数据中心交换机。承载独创的iLossless 智能无损交换算法，对全网流量进行实时的学习训练，实现网络0丢包，达到最高吞吐量。
+      value: 'CloudEngine 16800是华为推出的面向智能时代的数据中心交换机。承载独创的iLossless 智能无损交换算法，对全网流量进行实时的学习训练，实现网络0丢包，达到最高吞吐量。'
       keyName: property
     - name: Robots
       value: all

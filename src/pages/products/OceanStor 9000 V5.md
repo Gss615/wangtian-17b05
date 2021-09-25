@@ -2,11 +2,9 @@
 id: '1'
 price: '49.40'
 title: OceanStor 9000 V5
-description: 华为OceanStor 9000 V5横向扩展文件存储采用全对称分布式架构，以其业界领先的卓越性能、大规模横向扩展能力和超大单一文件系统为用户提供非结构化数据共享资源存储，是面向海量非结构化数据存储应用的横向扩展文件存储系统。
+description:  '华为OceanStor 9000 V5横向扩展文件存储采用全对称分布式架构，以其业界领先的卓越性能、大规模横向扩展能力和超大单一文件系统为用户提供非结构化数据共享资源存储，是面向海量非结构化数据存储应用的横向扩展文件存储系统。
 
-采用华为OceanStor 9000 V5可提高IT系统存储效率，简化工作负载及迁移流程，应对非结构化数据的增长和演变。
-default_thumbnail_image: images/plant1-lg.jpg
-default_original_image: images/plant1-lg.jpg
+采用华为OceanStor 9000 V5可提高IT系统存储效率，简化工作负载及迁移流程，应对非结构化数据的增长和演变。'
 featured: true
 order: 270
 category: src/pages/category/海量存储.md
@@ -19,9 +17,9 @@ other4:
   images: {"other":{"org":"other","img":["OceanStor 9000 V5.png"]}}
 seo:
   title: 9000 | OceanStor 9000 V5横向扩展文件存储 | null | null | 海量存储 | 数据存储
-  description: 华为OceanStor 9000 V5横向扩展文件存储采用全对称分布式架构，以其业界领先的卓越性能、大规模横向扩展能力和超大单一文件系统为用户提供非结构化数据共享资源存储，是面向海量非结构化数据存储应用的横向扩展文件存储系统。
+  description: '华为OceanStor 9000 V5横向扩展文件存储采用全对称分布式架构，以其业界领先的卓越性能、大规模横向扩展能力和超大单一文件系统为用户提供非结构化数据共享资源存储，是面向海量非结构化数据存储应用的横向扩展文件存储系统。
 
-采用华为OceanStor 9000 V5可提高IT系统存储效率，简化工作负载及迁移流程，应对非结构化数据的增长和演变。
+采用华为OceanStor 9000 V5可提高IT系统存储效率，简化工作负载及迁移流程，应对非结构化数据的增长和演变。'
   extra:
     - name: 'og:type'
       value: website
@@ -30,9 +28,9 @@ seo:
       value: 河南网田
       keyName: property
     - name: 'og:description'
-      value: 华为OceanStor 9000 V5横向扩展文件存储采用全对称分布式架构，以其业界领先的卓越性能、大规模横向扩展能力和超大单一文件系统为用户提供非结构化数据共享资源存储，是面向海量非结构化数据存储应用的横向扩展文件存储系统。
+      value: '华为OceanStor 9000 V5横向扩展文件存储采用全对称分布式架构，以其业界领先的卓越性能、大规模横向扩展能力和超大单一文件系统为用户提供非结构化数据共享资源存储，是面向海量非结构化数据存储应用的横向扩展文件存储系统。
 
-采用华为OceanStor 9000 V5可提高IT系统存储效率，简化工作负载及迁移流程，应对非结构化数据的增长和演变。
+采用华为OceanStor 9000 V5可提高IT系统存储效率，简化工作负载及迁移流程，应对非结构化数据的增长和演变。'
       keyName: property
     - name: Robots
       value: all

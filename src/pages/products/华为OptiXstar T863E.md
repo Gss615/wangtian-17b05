@@ -2,9 +2,7 @@
 id: '1'
 price: '49.40'
 title: 华为OptiXstar T863E
-description: 华为OptiXstar T863E产品是华为工业光网解决方案的ORE，面向矿业、油气、电力、交通等工业场景，网络侧提供GPON、XGS-PON双上行接口，用户侧提供8个GE以太网接口。
-default_thumbnail_image: images/plant1-lg.jpg
-default_original_image: images/plant1-lg.jpg
+description:  '华为OptiXstar T863E产品是华为工业光网解决方案的ORE，面向矿业、油气、电力、交通等工业场景，网络侧提供GPON、XGS-PON双上行接口，用户侧提供8个GE以太网接口。'
 featured: true
 order: 216
 category: src/pages/category/光终端.md
@@ -17,7 +15,7 @@ other4:
   images: {"other":{"org":"other","img":["华为OptiXstar T863E.png"]}}
 seo:
   title: optixstar-t863e | 华为OptiXstar T863E | null | ONU | 光终端 | 企业光网络
-  description: 华为OptiXstar T863E产品是华为工业光网解决方案的ORE，面向矿业、油气、电力、交通等工业场景，网络侧提供GPON、XGS-PON双上行接口，用户侧提供8个GE以太网接口。
+  description: '华为OptiXstar T863E产品是华为工业光网解决方案的ORE，面向矿业、油气、电力、交通等工业场景，网络侧提供GPON、XGS-PON双上行接口，用户侧提供8个GE以太网接口。'
   extra:
     - name: 'og:type'
       value: website
@@ -26,7 +24,7 @@ seo:
       value: 河南网田
       keyName: property
     - name: 'og:description'
-      value: 华为OptiXstar T863E产品是华为工业光网解决方案的ORE，面向矿业、油气、电力、交通等工业场景，网络侧提供GPON、XGS-PON双上行接口，用户侧提供8个GE以太网接口。
+      value: '华为OptiXstar T863E产品是华为工业光网解决方案的ORE，面向矿业、油气、电力、交通等工业场景，网络侧提供GPON、XGS-PON双上行接口，用户侧提供8个GE以太网接口。'
       keyName: property
     - name: Robots
       value: all

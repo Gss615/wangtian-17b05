@@ -2,11 +2,9 @@
 id: '1'
 price: '49.40'
 title: EchoLife EG8240P
-description: Echolife EG8240P是路由型ONU，用户侧提供4个GE以太接口、2个POTS语音接口，同时提供POE供电功能，最大支持单端口30W、总功率60W的供电输出。
+description:  'Echolife EG8240P是路由型ONU，用户侧提供4个GE以太接口、2个POTS语音接口，同时提供POE供电功能，最大支持单端口30W、总功率60W的供电输出。
 
-可满足酒店，办公室等房间内LAN+POTS业务接入需求，适用于桌面或挂墙安装。
-default_thumbnail_image: images/plant1-lg.jpg
-default_original_image: images/plant1-lg.jpg
+可满足酒店，办公室等房间内LAN+POTS业务接入需求，适用于桌面或挂墙安装。'
 featured: true
 order: 232
 category: src/pages/category/光终端.md
@@ -19,9 +17,9 @@ other4:
   images: {"other":{"org":"other","img":["EchoLife EG8240P.png"]}}
 seo:
   title: echolife-eg8240p | EchoLife EG8240P | null | ONU | 光终端 | 企业光网络
-  description: Echolife EG8240P是路由型ONU，用户侧提供4个GE以太接口、2个POTS语音接口，同时提供POE供电功能，最大支持单端口30W、总功率60W的供电输出。
+  description: 'Echolife EG8240P是路由型ONU，用户侧提供4个GE以太接口、2个POTS语音接口，同时提供POE供电功能，最大支持单端口30W、总功率60W的供电输出。
 
-可满足酒店，办公室等房间内LAN+POTS业务接入需求，适用于桌面或挂墙安装。
+可满足酒店，办公室等房间内LAN+POTS业务接入需求，适用于桌面或挂墙安装。'
   extra:
     - name: 'og:type'
       value: website
@@ -30,9 +28,9 @@ seo:
       value: 河南网田
       keyName: property
     - name: 'og:description'
-      value: Echolife EG8240P是路由型ONU，用户侧提供4个GE以太接口、2个POTS语音接口，同时提供POE供电功能，最大支持单端口30W、总功率60W的供电输出。
+      value: 'Echolife EG8240P是路由型ONU，用户侧提供4个GE以太接口、2个POTS语音接口，同时提供POE供电功能，最大支持单端口30W、总功率60W的供电输出。
 
-可满足酒店，办公室等房间内LAN+POTS业务接入需求，适用于桌面或挂墙安装。
+可满足酒店，办公室等房间内LAN+POTS业务接入需求，适用于桌面或挂墙安装。'
       keyName: property
     - name: Robots
       value: all

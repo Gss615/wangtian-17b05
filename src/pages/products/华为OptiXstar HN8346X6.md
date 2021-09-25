@@ -2,11 +2,9 @@
 id: '1'
 price: '49.40'
 title: 华为OptiXstar HN8346X6
-description: 华为OptiXstar HN8346X6是华为全光接入解决方案的Wi-Fi 6万兆ONT，通过XG-PON或非对称10G EPON技术实现用户的超宽带接入。
+description:  '华为OptiXstar HN8346X6是华为全光接入解决方案的Wi-Fi 6万兆ONT，通过XG-PON或非对称10G EPON技术实现用户的超宽带接入。
 
-提供4个千兆以太网接口，1个POTS语音接口，2个USB接口，1个2.4G Wi-Fi接口和5G Wi-Fi接口，通过高性能的转发能力有效保障语音、数据和4K/VR的业务体验，为客户提供理想的全光接入解决方案和面向未来的业务支撑能力。
-default_thumbnail_image: images/plant1-lg.jpg
-default_original_image: images/plant1-lg.jpg
+提供4个千兆以太网接口，1个POTS语音接口，2个USB接口，1个2.4G Wi-Fi接口和5G Wi-Fi接口，通过高性能的转发能力有效保障语音、数据和4K/VR的业务体验，为客户提供理想的全光接入解决方案和面向未来的业务支撑能力。'
 featured: true
 order: 236
 category: src/pages/category/光终端.md
@@ -19,9 +17,9 @@ other4:
   images: {"other":{"org":"other","img":["华为OptiXstar HN8346X6.png"]}}
 seo:
   title: optixstar-hn8346x6 | 华为OptiXstar HN8346X6 | null | ONT | 光终端 | 企业光网络
-  description: 华为OptiXstar HN8346X6是华为全光接入解决方案的Wi-Fi 6万兆ONT，通过XG-PON或非对称10G EPON技术实现用户的超宽带接入。
+  description: '华为OptiXstar HN8346X6是华为全光接入解决方案的Wi-Fi 6万兆ONT，通过XG-PON或非对称10G EPON技术实现用户的超宽带接入。
 
-提供4个千兆以太网接口，1个POTS语音接口，2个USB接口，1个2.4G Wi-Fi接口和5G Wi-Fi接口，通过高性能的转发能力有效保障语音、数据和4K/VR的业务体验，为客户提供理想的全光接入解决方案和面向未来的业务支撑能力。
+提供4个千兆以太网接口，1个POTS语音接口，2个USB接口，1个2.4G Wi-Fi接口和5G Wi-Fi接口，通过高性能的转发能力有效保障语音、数据和4K/VR的业务体验，为客户提供理想的全光接入解决方案和面向未来的业务支撑能力。'
   extra:
     - name: 'og:type'
       value: website
@@ -30,9 +28,9 @@ seo:
       value: 河南网田
       keyName: property
     - name: 'og:description'
-      value: 华为OptiXstar HN8346X6是华为全光接入解决方案的Wi-Fi 6万兆ONT，通过XG-PON或非对称10G EPON技术实现用户的超宽带接入。
+      value: '华为OptiXstar HN8346X6是华为全光接入解决方案的Wi-Fi 6万兆ONT，通过XG-PON或非对称10G EPON技术实现用户的超宽带接入。
 
-提供4个千兆以太网接口，1个POTS语音接口，2个USB接口，1个2.4G Wi-Fi接口和5G Wi-Fi接口，通过高性能的转发能力有效保障语音、数据和4K/VR的业务体验，为客户提供理想的全光接入解决方案和面向未来的业务支撑能力。
+提供4个千兆以太网接口，1个POTS语音接口，2个USB接口，1个2.4G Wi-Fi接口和5G Wi-Fi接口，通过高性能的转发能力有效保障语音、数据和4K/VR的业务体验，为客户提供理想的全光接入解决方案和面向未来的业务支撑能力。'
       keyName: property
     - name: Robots
       value: all

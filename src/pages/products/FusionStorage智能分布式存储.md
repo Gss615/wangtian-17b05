@@ -2,13 +2,11 @@
 id: '1'
 price: '49.40'
 title: FusionStorage智能分布式存储
-description: 华为FusionStorage是一款可大规模横向扩展的智能分布式存储产品，是既具备云基础架构的弹性按需服务能力，又满足企业关键业务需求的全自研存储系统。
+description:  '华为FusionStorage是一款可大规模横向扩展的智能分布式存储产品，是既具备云基础架构的弹性按需服务能力，又满足企业关键业务需求的全自研存储系统。
 
 可向上层应用提供块存储、对象存储、大数据存储或文件存储资源，且提供极致的性能和丰富的企业级特性；结合华为鲲鹏系列ARM处理器深度优化，实现相同硬件配置下的IOPS提升与功耗降低。
 
-基于华为FusionStorage存储系统，构建高效、可靠和智能的新型存储服务平台，轻松应对智能时代大规模数据敏捷存取需求。
-default_thumbnail_image: images/plant1-lg.jpg
-default_original_image: images/plant1-lg.jpg
+基于华为FusionStorage存储系统，构建高效、可靠和智能的新型存储服务平台，轻松应对智能时代大规模数据敏捷存取需求。'
 featured: true
 order: 269
 category: src/pages/category/海量存储.md
@@ -21,11 +19,11 @@ other4:
   images: {"other":{"org":"other","img":["FusionStorage智能分布式存储.png"]}}
 seo:
   title: fusionstorage | FusionStorage智能分布式存储 | null | null | 海量存储 | 数据存储
-  description: 华为FusionStorage是一款可大规模横向扩展的智能分布式存储产品，是既具备云基础架构的弹性按需服务能力，又满足企业关键业务需求的全自研存储系统。
+  description: '华为FusionStorage是一款可大规模横向扩展的智能分布式存储产品，是既具备云基础架构的弹性按需服务能力，又满足企业关键业务需求的全自研存储系统。
 
 可向上层应用提供块存储、对象存储、大数据存储或文件存储资源，且提供极致的性能和丰富的企业级特性；结合华为鲲鹏系列ARM处理器深度优化，实现相同硬件配置下的IOPS提升与功耗降低。
 
-基于华为FusionStorage存储系统，构建高效、可靠和智能的新型存储服务平台，轻松应对智能时代大规模数据敏捷存取需求。
+基于华为FusionStorage存储系统，构建高效、可靠和智能的新型存储服务平台，轻松应对智能时代大规模数据敏捷存取需求。'
   extra:
     - name: 'og:type'
       value: website
@@ -34,11 +32,11 @@ seo:
       value: 河南网田
       keyName: property
     - name: 'og:description'
-      value: 华为FusionStorage是一款可大规模横向扩展的智能分布式存储产品，是既具备云基础架构的弹性按需服务能力，又满足企业关键业务需求的全自研存储系统。
+      value: '华为FusionStorage是一款可大规模横向扩展的智能分布式存储产品，是既具备云基础架构的弹性按需服务能力，又满足企业关键业务需求的全自研存储系统。
 
 可向上层应用提供块存储、对象存储、大数据存储或文件存储资源，且提供极致的性能和丰富的企业级特性；结合华为鲲鹏系列ARM处理器深度优化，实现相同硬件配置下的IOPS提升与功耗降低。
 
-基于华为FusionStorage存储系统，构建高效、可靠和智能的新型存储服务平台，轻松应对智能时代大规模数据敏捷存取需求。
+基于华为FusionStorage存储系统，构建高效、可靠和智能的新型存储服务平台，轻松应对智能时代大规模数据敏捷存取需求。'
       keyName: property
     - name: Robots
       value: all

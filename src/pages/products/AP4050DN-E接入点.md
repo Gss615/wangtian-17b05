@@ -2,9 +2,7 @@
 id: '1'
 price: '49.40'
 title: AP4050DN-E接入点
-description: AP4050DN-E接入点是支持802.11ac wave2标准的物联网型无线接入点，支持2×2MIMO和两条空间流，整机速率1.267Gbps，适合部署在商超、医疗、仓储、制造、物流等场景。
-default_thumbnail_image: images/plant1-lg.jpg
-default_original_image: images/plant1-lg.jpg
+description:  'AP4050DN-E接入点是支持802.11ac wave2标准的物联网型无线接入点，支持2×2MIMO和两条空间流，整机速率1.267Gbps，适合部署在商超、医疗、仓储、制造、物流等场景。'
 featured: true
 order: 113
 category: src/pages/category/无线局域网.md
@@ -17,7 +15,7 @@ other4:
   images: {"ap4050dn-e":{"org":"AP4050DN-E_pic","img":["01.png","02.png","03.png","04.png","05.png","06.png","07.png","08.png"]}}
 seo:
   title: ap4050dn-e | AP4050DN-E接入点 | AP4000系列 | 室内接入点 | 无线局域网 | 企业网络
-  description: AP4050DN-E接入点是支持802.11ac wave2标准的物联网型无线接入点，支持2×2MIMO和两条空间流，整机速率1.267Gbps，适合部署在商超、医疗、仓储、制造、物流等场景。
+  description: 'AP4050DN-E接入点是支持802.11ac wave2标准的物联网型无线接入点，支持2×2MIMO和两条空间流，整机速率1.267Gbps，适合部署在商超、医疗、仓储、制造、物流等场景。'
   extra:
     - name: 'og:type'
       value: website
@@ -26,7 +24,7 @@ seo:
       value: 河南网田
       keyName: property
     - name: 'og:description'
-      value: AP4050DN-E接入点是支持802.11ac wave2标准的物联网型无线接入点，支持2×2MIMO和两条空间流，整机速率1.267Gbps，适合部署在商超、医疗、仓储、制造、物流等场景。
+      value: 'AP4050DN-E接入点是支持802.11ac wave2标准的物联网型无线接入点，支持2×2MIMO和两条空间流，整机速率1.267Gbps，适合部署在商超、医疗、仓储、制造、物流等场景。'
       keyName: property
     - name: Robots
       value: all

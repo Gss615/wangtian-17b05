@@ -2,9 +2,7 @@
 id: '1'
 price: '49.40'
 title: 华为OptiXstar W626E
-description: 华为OptiXstar W626E是智能GPON和Wi-Fi 6路由型 ONT，提供1个 POTS 语音接口、4 个千兆以太网接口，1个USB接口和 2.4GHz和5GHz Wi-Fi 6技术。华为OptiXstar W626E实现FTTH组网场景下家庭用户的超宽带接入，其高性能的转发能力有效保障话音、数据和高清视频的业务体验，为FTTH部署提供理想的终端解决方案和面向未来的业务支撑能力。
-default_thumbnail_image: images/plant1-lg.jpg
-default_original_image: images/plant1-lg.jpg
+description:  '华为OptiXstar W626E是智能GPON和Wi-Fi 6路由型 ONT，提供1个 POTS 语音接口、4 个千兆以太网接口，1个USB接口和 2.4GHz和5GHz Wi-Fi 6技术。华为OptiXstar W626E实现FTTH组网场景下家庭用户的超宽带接入，其高性能的转发能力有效保障话音、数据和高清视频的业务体验，为FTTH部署提供理想的终端解决方案和面向未来的业务支撑能力。'
 featured: true
 order: 237
 category: src/pages/category/光终端.md
@@ -17,7 +15,7 @@ other4:
   images: {"other":{"org":"other","img":["华为OptiXstar W626E.png"]}}
 seo:
   title: optixstar-w626e | 华为OptiXstar W626E | null | ONT | 光终端 | 企业光网络
-  description: 华为OptiXstar W626E是智能GPON和Wi-Fi 6路由型 ONT，提供1个 POTS 语音接口、4 个千兆以太网接口，1个USB接口和 2.4GHz和5GHz Wi-Fi 6技术。华为OptiXstar W626E实现FTTH组网场景下家庭用户的超宽带接入，其高性能的转发能力有效保障话音、数据和高清视频的业务体验，为FTTH部署提供理想的终端解决方案和面向未来的业务支撑能力。
+  description: '华为OptiXstar W626E是智能GPON和Wi-Fi 6路由型 ONT，提供1个 POTS 语音接口、4 个千兆以太网接口，1个USB接口和 2.4GHz和5GHz Wi-Fi 6技术。华为OptiXstar W626E实现FTTH组网场景下家庭用户的超宽带接入，其高性能的转发能力有效保障话音、数据和高清视频的业务体验，为FTTH部署提供理想的终端解决方案和面向未来的业务支撑能力。'
   extra:
     - name: 'og:type'
       value: website
@@ -26,7 +24,7 @@ seo:
       value: 河南网田
       keyName: property
     - name: 'og:description'
-      value: 华为OptiXstar W626E是智能GPON和Wi-Fi 6路由型 ONT，提供1个 POTS 语音接口、4 个千兆以太网接口，1个USB接口和 2.4GHz和5GHz Wi-Fi 6技术。华为OptiXstar W626E实现FTTH组网场景下家庭用户的超宽带接入，其高性能的转发能力有效保障话音、数据和高清视频的业务体验，为FTTH部署提供理想的终端解决方案和面向未来的业务支撑能力。
+      value: '华为OptiXstar W626E是智能GPON和Wi-Fi 6路由型 ONT，提供1个 POTS 语音接口、4 个千兆以太网接口，1个USB接口和 2.4GHz和5GHz Wi-Fi 6技术。华为OptiXstar W626E实现FTTH组网场景下家庭用户的超宽带接入，其高性能的转发能力有效保障话音、数据和高清视频的业务体验，为FTTH部署提供理想的终端解决方案和面向未来的业务支撑能力。'
       keyName: property
     - name: Robots
       value: all

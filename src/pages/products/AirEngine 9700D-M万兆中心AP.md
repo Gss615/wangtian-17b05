@@ -2,9 +2,7 @@
 id: '1'
 price: '49.40'
 title: AirEngine 9700D-M万兆中心AP
-description: AirEngine 9700D-M是华为分布式Wi-Fi方案中的中心AP，支持4个万兆上行接口，可以直连多个Wi-Fi 6远端单元部署到室内。万兆中心AP和Wi-Fi 6远端单元之间使用网线连接，集中处理业务转发。适用于学校、酒店、医院以及办公会议室等房间密度大、墙体结构复杂、业务带宽高的场景。
-default_thumbnail_image: images/plant1-lg.jpg
-default_original_image: images/plant1-lg.jpg
+description:  'AirEngine 9700D-M是华为分布式Wi-Fi方案中的中心AP，支持4个万兆上行接口，可以直连多个Wi-Fi 6远端单元部署到室内。万兆中心AP和Wi-Fi 6远端单元之间使用网线连接，集中处理业务转发。适用于学校、酒店、医院以及办公会议室等房间密度大、墙体结构复杂、业务带宽高的场景。'
 featured: true
 order: 155
 category: src/pages/category/无线局域网.md
@@ -17,7 +15,7 @@ other4:
   images: {"airengine9700d-m":{"org":"AirEngine9700D-M_pic","img":["front.png","front_left.png","front_right.png","front_top.png","rear.png","rear_top.png"]}}
 seo:
   title: airengine-9700d-m | AirEngine 9700D-M万兆中心AP | null | 场景化产品系列 | 无线局域网 | 企业网络
-  description: AirEngine 9700D-M是华为分布式Wi-Fi方案中的中心AP，支持4个万兆上行接口，可以直连多个Wi-Fi 6远端单元部署到室内。万兆中心AP和Wi-Fi 6远端单元之间使用网线连接，集中处理业务转发。适用于学校、酒店、医院以及办公会议室等房间密度大、墙体结构复杂、业务带宽高的场景。
+  description: 'AirEngine 9700D-M是华为分布式Wi-Fi方案中的中心AP，支持4个万兆上行接口，可以直连多个Wi-Fi 6远端单元部署到室内。万兆中心AP和Wi-Fi 6远端单元之间使用网线连接，集中处理业务转发。适用于学校、酒店、医院以及办公会议室等房间密度大、墙体结构复杂、业务带宽高的场景。'
   extra:
     - name: 'og:type'
       value: website
@@ -26,7 +24,7 @@ seo:
       value: 河南网田
       keyName: property
     - name: 'og:description'
-      value: AirEngine 9700D-M是华为分布式Wi-Fi方案中的中心AP，支持4个万兆上行接口，可以直连多个Wi-Fi 6远端单元部署到室内。万兆中心AP和Wi-Fi 6远端单元之间使用网线连接，集中处理业务转发。适用于学校、酒店、医院以及办公会议室等房间密度大、墙体结构复杂、业务带宽高的场景。
+      value: 'AirEngine 9700D-M是华为分布式Wi-Fi方案中的中心AP，支持4个万兆上行接口，可以直连多个Wi-Fi 6远端单元部署到室内。万兆中心AP和Wi-Fi 6远端单元之间使用网线连接，集中处理业务转发。适用于学校、酒店、医院以及办公会议室等房间密度大、墙体结构复杂、业务带宽高的场景。'
       keyName: property
     - name: Robots
       value: all

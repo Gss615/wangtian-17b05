@@ -2,11 +2,9 @@
 id: '1'
 price: '49.40'
 title: CloudEngine 9800系列数据中心交换机
-description: CloudEngine 9800系列是华为公司面向数据中心推出的新一代高性能、高密度、低时延以太网灵活插卡交换机，可以与CloudEngine 16800/12800/8800/6800/5800配合构建弹性、虚拟和高品质的云数据中心网络。
+description:  'CloudEngine 9800系列是华为公司面向数据中心推出的新一代高性能、高密度、低时延以太网灵活插卡交换机，可以与CloudEngine 16800/12800/8800/6800/5800配合构建弹性、虚拟和高品质的云数据中心网络。
 
-CloudEngine 9860系列采用先进的硬件结构设计，提供高密度的100GE/40GE端口，支持丰富的数据中心特性。CloudEngine 9800系列交换机定位于数据中心的核心或汇聚，也可以用于园区网的核心或汇聚。
-default_thumbnail_image: images/plant1-lg.jpg
-default_original_image: images/plant1-lg.jpg
+CloudEngine 9860系列采用先进的硬件结构设计，提供高密度的100GE/40GE端口，支持丰富的数据中心特性。CloudEngine 9800系列交换机定位于数据中心的核心或汇聚，也可以用于园区网的核心或汇聚。'
 featured: true
 order: 51
 category: src/pages/category/交换机.md
@@ -19,9 +17,9 @@ other4:
   images: {"ce9860-4c-ei":{"org":"CE9860-4C-EI_pic","img":["front.png","front_left.png","front_right.png","front_top.png","rear.png","rear_top.png"]}}
 seo:
   title: ce9800 | CloudEngine 9800系列数据中心交换机 | 盒式接入交换机 | 数据中心交换机 | 交换机 | 企业网络
-  description: CloudEngine 9800系列是华为公司面向数据中心推出的新一代高性能、高密度、低时延以太网灵活插卡交换机，可以与CloudEngine 16800/12800/8800/6800/5800配合构建弹性、虚拟和高品质的云数据中心网络。
+  description: 'CloudEngine 9800系列是华为公司面向数据中心推出的新一代高性能、高密度、低时延以太网灵活插卡交换机，可以与CloudEngine 16800/12800/8800/6800/5800配合构建弹性、虚拟和高品质的云数据中心网络。
 
-CloudEngine 9860系列采用先进的硬件结构设计，提供高密度的100GE/40GE端口，支持丰富的数据中心特性。CloudEngine 9800系列交换机定位于数据中心的核心或汇聚，也可以用于园区网的核心或汇聚。
+CloudEngine 9860系列采用先进的硬件结构设计，提供高密度的100GE/40GE端口，支持丰富的数据中心特性。CloudEngine 9800系列交换机定位于数据中心的核心或汇聚，也可以用于园区网的核心或汇聚。'
   extra:
     - name: 'og:type'
       value: website
@@ -30,9 +28,9 @@ CloudEngine 9860系列采用先进的硬件结构设计，提供高密度的100G
       value: 河南网田
       keyName: property
     - name: 'og:description'
-      value: CloudEngine 9800系列是华为公司面向数据中心推出的新一代高性能、高密度、低时延以太网灵活插卡交换机，可以与CloudEngine 16800/12800/8800/6800/5800配合构建弹性、虚拟和高品质的云数据中心网络。
+      value: 'CloudEngine 9800系列是华为公司面向数据中心推出的新一代高性能、高密度、低时延以太网灵活插卡交换机，可以与CloudEngine 16800/12800/8800/6800/5800配合构建弹性、虚拟和高品质的云数据中心网络。
 
-CloudEngine 9860系列采用先进的硬件结构设计，提供高密度的100GE/40GE端口，支持丰富的数据中心特性。CloudEngine 9800系列交换机定位于数据中心的核心或汇聚，也可以用于园区网的核心或汇聚。
+CloudEngine 9860系列采用先进的硬件结构设计，提供高密度的100GE/40GE端口，支持丰富的数据中心特性。CloudEngine 9800系列交换机定位于数据中心的核心或汇聚，也可以用于园区网的核心或汇聚。'
       keyName: property
     - name: Robots
       value: all

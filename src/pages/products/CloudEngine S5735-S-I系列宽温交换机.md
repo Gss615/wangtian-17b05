@@ -2,9 +2,7 @@
 id: '1'
 price: '49.40'
 title: CloudEngine S5735-S-I系列宽温交换机
-description: CloudEngine S5735-S-I系列宽温交换机，可提供灵活的全千兆接入和10GE上行链路端口。支持工业级工作温度范围和专业的户外防雷，可适应条件恶劣的户外机柜环境。
-default_thumbnail_image: images/plant1-lg.jpg
-default_original_image: images/plant1-lg.jpg
+description:  'CloudEngine S5735-S-I系列宽温交换机，可提供灵活的全千兆接入和10GE上行链路端口。支持工业级工作温度范围和专业的户外防雷，可适应条件恶劣的户外机柜环境。'
 featured: true
 order: 42
 category: src/pages/category/交换机.md
@@ -17,7 +15,7 @@ other4:
   images: {"s5720-36c-ei-ac":{"org":"S5720-36C-EI-AC_pic","img":["01.png","02.png","03.png","04.png","07.png","08.png"]}}
 seo:
   title: s5735-s-i-wide-temperature-switches | CloudEngine S5735-S-I系列宽温交换机 | 行业专用交换机 | 园区交换机 | 交换机 | 企业网络
-  description: CloudEngine S5735-S-I系列宽温交换机，可提供灵活的全千兆接入和10GE上行链路端口。支持工业级工作温度范围和专业的户外防雷，可适应条件恶劣的户外机柜环境。
+  description: 'CloudEngine S5735-S-I系列宽温交换机，可提供灵活的全千兆接入和10GE上行链路端口。支持工业级工作温度范围和专业的户外防雷，可适应条件恶劣的户外机柜环境。'
   extra:
     - name: 'og:type'
       value: website
@@ -26,7 +24,7 @@ seo:
       value: 河南网田
       keyName: property
     - name: 'og:description'
-      value: CloudEngine S5735-S-I系列宽温交换机，可提供灵活的全千兆接入和10GE上行链路端口。支持工业级工作温度范围和专业的户外防雷，可适应条件恶劣的户外机柜环境。
+      value: 'CloudEngine S5735-S-I系列宽温交换机，可提供灵活的全千兆接入和10GE上行链路端口。支持工业级工作温度范围和专业的户外防雷，可适应条件恶劣的户外机柜环境。'
       keyName: property
     - name: Robots
       value: all

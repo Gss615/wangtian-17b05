@@ -2,9 +2,7 @@
 id: '1'
 price: '49.40'
 title: EchoLife HG8546M5
-description: EchoLife HG8546M5是华为FTTH解决方案的路由型ONT，通过GPON技术实现用户的超宽带接入。提供1个POTS，1个千兆以太网接口，1个iTV,1个USB2.0和2.4G Wi-Fi接口，通过高性能的转发能力有效保障数据和高清视频的业务体验，为FTTH部署提供理想的终端解决方案和面向未来的业务支撑能力。
-default_thumbnail_image: images/plant1-lg.jpg
-default_original_image: images/plant1-lg.jpg
+description:  'EchoLife HG8546M5是华为FTTH解决方案的路由型ONT，通过GPON技术实现用户的超宽带接入。提供1个POTS，1个千兆以太网接口，1个iTV,1个USB2.0和2.4G Wi-Fi接口，通过高性能的转发能力有效保障数据和高清视频的业务体验，为FTTH部署提供理想的终端解决方案和面向未来的业务支撑能力。'
 featured: true
 order: 245
 category: src/pages/category/光终端.md
@@ -17,7 +15,7 @@ other4:
   images: {"other":{"org":"other","img":["EchoLife HG8546M5.png"]}}
 seo:
   title: echolife-hg8546m5 | EchoLife HG8546M5 | null | ONT | 光终端 | 企业光网络
-  description: EchoLife HG8546M5是华为FTTH解决方案的路由型ONT，通过GPON技术实现用户的超宽带接入。提供1个POTS，1个千兆以太网接口，1个iTV,1个USB2.0和2.4G Wi-Fi接口，通过高性能的转发能力有效保障数据和高清视频的业务体验，为FTTH部署提供理想的终端解决方案和面向未来的业务支撑能力。
+  description: 'EchoLife HG8546M5是华为FTTH解决方案的路由型ONT，通过GPON技术实现用户的超宽带接入。提供1个POTS，1个千兆以太网接口，1个iTV,1个USB2.0和2.4G Wi-Fi接口，通过高性能的转发能力有效保障数据和高清视频的业务体验，为FTTH部署提供理想的终端解决方案和面向未来的业务支撑能力。'
   extra:
     - name: 'og:type'
       value: website
@@ -26,7 +24,7 @@ seo:
       value: 河南网田
       keyName: property
     - name: 'og:description'
-      value: EchoLife HG8546M5是华为FTTH解决方案的路由型ONT，通过GPON技术实现用户的超宽带接入。提供1个POTS，1个千兆以太网接口，1个iTV,1个USB2.0和2.4G Wi-Fi接口，通过高性能的转发能力有效保障数据和高清视频的业务体验，为FTTH部署提供理想的终端解决方案和面向未来的业务支撑能力。
+      value: 'EchoLife HG8546M5是华为FTTH解决方案的路由型ONT，通过GPON技术实现用户的超宽带接入。提供1个POTS，1个千兆以太网接口，1个iTV,1个USB2.0和2.4G Wi-Fi接口，通过高性能的转发能力有效保障数据和高清视频的业务体验，为FTTH部署提供理想的终端解决方案和面向未来的业务支撑能力。'
       keyName: property
     - name: Robots
       value: all

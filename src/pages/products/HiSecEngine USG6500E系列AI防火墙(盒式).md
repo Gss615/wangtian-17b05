@@ -2,9 +2,7 @@
 id: '1'
 price: '49.40'
 title: HiSecEngine USG6500E系列AI防火墙(盒式)
-description: 华为HiSecEngine USG6500E系列(盒式)是面向中小企业和连锁机构推出的企业级AI防火墙。在提供NGFW能力的基础上，联动其他安全设备，主动积极防御网络威胁，增强边界检测能力，有效防御高级威胁，同时解决性能下降问题。产品提供模式匹配以及加解密业务处理加速能力，使得防火墙处理内容安全检测、IPSec等业务的性能显著提升。智能高级威胁检测，联动云端，威胁检测准确率大于99%。
-default_thumbnail_image: images/plant1-lg.jpg
-default_original_image: images/plant1-lg.jpg
+description:  '华为HiSecEngine USG6500E系列(盒式)是面向中小企业和连锁机构推出的企业级AI防火墙。在提供NGFW能力的基础上，联动其他安全设备，主动积极防御网络威胁，增强边界检测能力，有效防御高级威胁，同时解决性能下降问题。产品提供模式匹配以及加解密业务处理加速能力，使得防火墙处理内容安全检测、IPSec等业务的性能显著提升。智能高级威胁检测，联动云端，威胁检测准确率大于99%。'
 featured: true
 order: 166
 category: src/pages/category/网络安全.md
@@ -17,7 +15,7 @@ other4:
   images: {"usg6525e":{"org":"USG6525E_pic","img":["front.png","front_left.png","front_right.png","front_top.png","rear.png","rear_top.png"]}}
 seo:
   title: usg6500e | HiSecEngine USG6500E系列AI防火墙(盒式) | null | 防火墙及应用安全网关 | 网络安全 | 企业网络
-  description: 华为HiSecEngine USG6500E系列(盒式)是面向中小企业和连锁机构推出的企业级AI防火墙。在提供NGFW能力的基础上，联动其他安全设备，主动积极防御网络威胁，增强边界检测能力，有效防御高级威胁，同时解决性能下降问题。产品提供模式匹配以及加解密业务处理加速能力，使得防火墙处理内容安全检测、IPSec等业务的性能显著提升。智能高级威胁检测，联动云端，威胁检测准确率大于99%。
+  description: '华为HiSecEngine USG6500E系列(盒式)是面向中小企业和连锁机构推出的企业级AI防火墙。在提供NGFW能力的基础上，联动其他安全设备，主动积极防御网络威胁，增强边界检测能力，有效防御高级威胁，同时解决性能下降问题。产品提供模式匹配以及加解密业务处理加速能力，使得防火墙处理内容安全检测、IPSec等业务的性能显著提升。智能高级威胁检测，联动云端，威胁检测准确率大于99%。'
   extra:
     - name: 'og:type'
       value: website
@@ -26,7 +24,7 @@ seo:
       value: 河南网田
       keyName: property
     - name: 'og:description'
-      value: 华为HiSecEngine USG6500E系列(盒式)是面向中小企业和连锁机构推出的企业级AI防火墙。在提供NGFW能力的基础上，联动其他安全设备，主动积极防御网络威胁，增强边界检测能力，有效防御高级威胁，同时解决性能下降问题。产品提供模式匹配以及加解密业务处理加速能力，使得防火墙处理内容安全检测、IPSec等业务的性能显著提升。智能高级威胁检测，联动云端，威胁检测准确率大于99%。
+      value: '华为HiSecEngine USG6500E系列(盒式)是面向中小企业和连锁机构推出的企业级AI防火墙。在提供NGFW能力的基础上，联动其他安全设备，主动积极防御网络威胁，增强边界检测能力，有效防御高级威胁，同时解决性能下降问题。产品提供模式匹配以及加解密业务处理加速能力，使得防火墙处理内容安全检测、IPSec等业务的性能显著提升。智能高级威胁检测，联动云端，威胁检测准确率大于99%。'
       keyName: property
     - name: Robots
       value: all

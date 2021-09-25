@@ -2,9 +2,7 @@
 id: '1'
 price: '49.40'
 title: 华为OptiXstar P852E
-description: 华为OptiXstar P852E产品是面向交通、安平场景设计的ONU设备，网络侧支撑XGS-PON接入，用户侧支撑4个GE接口和1个GPON接口，为全光交通路口、道路等提供高清的视频回传、信号控制、物联网接入等服务。
-default_thumbnail_image: images/plant1-lg.jpg
-default_original_image: images/plant1-lg.jpg
+description:  '华为OptiXstar P852E产品是面向交通、安平场景设计的ONU设备，网络侧支撑XGS-PON接入，用户侧支撑4个GE接口和1个GPON接口，为全光交通路口、道路等提供高清的视频回传、信号控制、物联网接入等服务。'
 featured: true
 order: 212
 category: src/pages/category/光终端.md
@@ -17,7 +15,7 @@ other4:
   images: {"other":{"org":"other","img":["华为OptiXstar P852E.png"]}}
 seo:
   title: optixstar-p852e | 华为OptiXstar P852E  | null | ONU | 光终端 | 企业光网络
-  description: 华为OptiXstar P852E产品是面向交通、安平场景设计的ONU设备，网络侧支撑XGS-PON接入，用户侧支撑4个GE接口和1个GPON接口，为全光交通路口、道路等提供高清的视频回传、信号控制、物联网接入等服务。
+  description: '华为OptiXstar P852E产品是面向交通、安平场景设计的ONU设备，网络侧支撑XGS-PON接入，用户侧支撑4个GE接口和1个GPON接口，为全光交通路口、道路等提供高清的视频回传、信号控制、物联网接入等服务。'
   extra:
     - name: 'og:type'
       value: website
@@ -26,7 +24,7 @@ seo:
       value: 河南网田
       keyName: property
     - name: 'og:description'
-      value: 华为OptiXstar P852E产品是面向交通、安平场景设计的ONU设备，网络侧支撑XGS-PON接入，用户侧支撑4个GE接口和1个GPON接口，为全光交通路口、道路等提供高清的视频回传、信号控制、物联网接入等服务。
+      value: '华为OptiXstar P852E产品是面向交通、安平场景设计的ONU设备，网络侧支撑XGS-PON接入，用户侧支撑4个GE接口和1个GPON接口，为全光交通路口、道路等提供高清的视频回传、信号控制、物联网接入等服务。'
       keyName: property
     - name: Robots
       value: all

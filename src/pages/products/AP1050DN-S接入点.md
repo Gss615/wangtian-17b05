@@ -2,9 +2,7 @@
 id: '1'
 price: '49.40'
 title: AP1050DN-S接入点
-description: AP1050DN-S是华为面向分销市场发布的支持802.11ac wave 2标准的经济型无线接入点产品，支持MU-MIMO和一条空间流，同时支持11n和11ac协议，增强用户对无线网络的使用体验，适合部署在中小型企业、咖啡厅、超市等场景。
-default_thumbnail_image: images/plant1-lg.jpg
-default_original_image: images/plant1-lg.jpg
+description:  'AP1050DN-S是华为面向分销市场发布的支持802.11ac wave 2标准的经济型无线接入点产品，支持MU-MIMO和一条空间流，同时支持11n和11ac协议，增强用户对无线网络的使用体验，适合部署在中小型企业、咖啡厅、超市等场景。'
 featured: true
 order: 127
 category: src/pages/category/无线局域网.md
@@ -17,7 +15,7 @@ other4:
   images: {"ap1050dn-s":{"org":"AP1050DN-S_pic","img":["01.png","02.png","03.png","04.png","05.png","06.png","07.png"]}}
 seo:
   title: ap1050dn-s | AP1050DN-S接入点 | AP1000系列 | 室内接入点 | 无线局域网 | 企业网络
-  description: AP1050DN-S是华为面向分销市场发布的支持802.11ac wave 2标准的经济型无线接入点产品，支持MU-MIMO和一条空间流，同时支持11n和11ac协议，增强用户对无线网络的使用体验，适合部署在中小型企业、咖啡厅、超市等场景。
+  description: 'AP1050DN-S是华为面向分销市场发布的支持802.11ac wave 2标准的经济型无线接入点产品，支持MU-MIMO和一条空间流，同时支持11n和11ac协议，增强用户对无线网络的使用体验，适合部署在中小型企业、咖啡厅、超市等场景。'
   extra:
     - name: 'og:type'
       value: website
@@ -26,7 +24,7 @@ seo:
       value: 河南网田
       keyName: property
     - name: 'og:description'
-      value: AP1050DN-S是华为面向分销市场发布的支持802.11ac wave 2标准的经济型无线接入点产品，支持MU-MIMO和一条空间流，同时支持11n和11ac协议，增强用户对无线网络的使用体验，适合部署在中小型企业、咖啡厅、超市等场景。
+      value: 'AP1050DN-S是华为面向分销市场发布的支持802.11ac wave 2标准的经济型无线接入点产品，支持MU-MIMO和一条空间流，同时支持11n和11ac协议，增强用户对无线网络的使用体验，适合部署在中小型企业、咖啡厅、超市等场景。'
       keyName: property
     - name: Robots
       value: all

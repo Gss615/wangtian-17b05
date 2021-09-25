@@ -2,11 +2,9 @@
 id: '1'
 price: '49.40'
 title: NetEngine40E系列
-description: NetEngine 40E高端全业务路由器基于2T硬件平台设计，大容量的2T路由线卡，成熟的广域SDN方案，可编程的NP芯片和VRP软件平台，具备高性能、低功耗、可演进等特性，领先的SRv6技术实现网络的智能连接，可应用于企业广域网核心节点、大型企业接入节点、园区互联与汇聚节点和各种大型IDC网络出口。
+description:  'NetEngine 40E高端全业务路由器基于2T硬件平台设计，大容量的2T路由线卡，成熟的广域SDN方案，可编程的NP芯片和VRP软件平台，具备高性能、低功耗、可演进等特性，领先的SRv6技术实现网络的智能连接，可应用于企业广域网核心节点、大型企业接入节点、园区互联与汇聚节点和各种大型IDC网络出口。
 
-NetEngine40E产品技术领航、性能稳定，多次获得国际金奖，广泛部署于电力、交通、政府、广电、金融等各行业。
-default_thumbnail_image: images/plant1-lg.jpg
-default_original_image: images/plant1-lg.jpg
+NetEngine40E产品技术领航、性能稳定，多次获得国际金奖，广泛部署于电力、交通、政府、广电、金融等各行业。'
 featured: true
 order: 60
 category: src/pages/category/路由器.md
@@ -19,9 +17,9 @@ other4:
   images: {"ne40e-x8":{"org":"NE40E-X8_pic","img":["front_left_NE40E-X8.png"]}}
 seo:
   title: ne40e | NetEngine40E系列 | 业务汇聚路由器 | NE系列路由器 | 路由器 | 企业网络
-  description: NetEngine 40E高端全业务路由器基于2T硬件平台设计，大容量的2T路由线卡，成熟的广域SDN方案，可编程的NP芯片和VRP软件平台，具备高性能、低功耗、可演进等特性，领先的SRv6技术实现网络的智能连接，可应用于企业广域网核心节点、大型企业接入节点、园区互联与汇聚节点和各种大型IDC网络出口。
+  description: 'NetEngine 40E高端全业务路由器基于2T硬件平台设计，大容量的2T路由线卡，成熟的广域SDN方案，可编程的NP芯片和VRP软件平台，具备高性能、低功耗、可演进等特性，领先的SRv6技术实现网络的智能连接，可应用于企业广域网核心节点、大型企业接入节点、园区互联与汇聚节点和各种大型IDC网络出口。
 
-NetEngine40E产品技术领航、性能稳定，多次获得国际金奖，广泛部署于电力、交通、政府、广电、金融等各行业。
+NetEngine40E产品技术领航、性能稳定，多次获得国际金奖，广泛部署于电力、交通、政府、广电、金融等各行业。'
   extra:
     - name: 'og:type'
       value: website
@@ -30,9 +28,9 @@ NetEngine40E产品技术领航、性能稳定，多次获得国际金奖，广�
       value: 河南网田
       keyName: property
     - name: 'og:description'
-      value: NetEngine 40E高端全业务路由器基于2T硬件平台设计，大容量的2T路由线卡，成熟的广域SDN方案，可编程的NP芯片和VRP软件平台，具备高性能、低功耗、可演进等特性，领先的SRv6技术实现网络的智能连接，可应用于企业广域网核心节点、大型企业接入节点、园区互联与汇聚节点和各种大型IDC网络出口。
+      value: 'NetEngine 40E高端全业务路由器基于2T硬件平台设计，大容量的2T路由线卡，成熟的广域SDN方案，可编程的NP芯片和VRP软件平台，具备高性能、低功耗、可演进等特性，领先的SRv6技术实现网络的智能连接，可应用于企业广域网核心节点、大型企业接入节点、园区互联与汇聚节点和各种大型IDC网络出口。
 
-NetEngine40E产品技术领航、性能稳定，多次获得国际金奖，广泛部署于电力、交通、政府、广电、金融等各行业。
+NetEngine40E产品技术领航、性能稳定，多次获得国际金奖，广泛部署于电力、交通、政府、广电、金融等各行业。'
       keyName: property
     - name: Robots
       value: all

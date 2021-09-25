@@ -2,9 +2,7 @@
 id: '1'
 price: '49.40'
 title: FusionServer Pro X6000 V5高密度服务器
-description: FusionServer Pro X6000 V5是华为面向数据中心Scale-out 架构的2U4节点高密服务器，它针对数据中心面临的空间和投资限制，对服务器架构进行全面的密度优化设计，从而可以提升数据中心空间利用率和投资效益，适合于云计算、基于web的应用和高性能计算等多种业务场景。
-default_thumbnail_image: images/plant1-lg.jpg
-default_original_image: images/plant1-lg.jpg
+description:  'FusionServer Pro X6000 V5是华为面向数据中心Scale-out 架构的2U4节点高密服务器，它针对数据中心面临的空间和投资限制，对服务器架构进行全面的密度优化设计，从而可以提升数据中心空间利用率和投资效益，适合于云计算、基于web的应用和高性能计算等多种业务场景。'
 featured: true
 order: 303
 category: src/pages/category/服务器 - 计算.md
@@ -17,7 +15,7 @@ other4:
   images: {"other":{"org":"other","img":["FusionServer Pro X6000 V5高密度服务器.png"]}}
 seo:
   title: x6000 | FusionServer X6000 V5高密度服务器 | FusionServer Pro高密服务器 | FusionServer Pro智能服务器 | 服务器 - 计算 | 数据中心
-  description: FusionServer Pro X6000 V5是华为面向数据中心Scale-out 架构的2U4节点高密服务器，它针对数据中心面临的空间和投资限制，对服务器架构进行全面的密度优化设计，从而可以提升数据中心空间利用率和投资效益，适合于云计算、基于web的应用和高性能计算等多种业务场景。
+  description: 'FusionServer Pro X6000 V5是华为面向数据中心Scale-out 架构的2U4节点高密服务器，它针对数据中心面临的空间和投资限制，对服务器架构进行全面的密度优化设计，从而可以提升数据中心空间利用率和投资效益，适合于云计算、基于web的应用和高性能计算等多种业务场景。'
   extra:
     - name: 'og:type'
       value: website
@@ -26,7 +24,7 @@ seo:
       value: 河南网田
       keyName: property
     - name: 'og:description'
-      value: FusionServer Pro X6000 V5是华为面向数据中心Scale-out 架构的2U4节点高密服务器，它针对数据中心面临的空间和投资限制，对服务器架构进行全面的密度优化设计，从而可以提升数据中心空间利用率和投资效益，适合于云计算、基于web的应用和高性能计算等多种业务场景。
+      value: 'FusionServer Pro X6000 V5是华为面向数据中心Scale-out 架构的2U4节点高密服务器，它针对数据中心面临的空间和投资限制，对服务器架构进行全面的密度优化设计，从而可以提升数据中心空间利用率和投资效益，适合于云计算、基于web的应用和高性能计算等多种业务场景。'
       keyName: property
     - name: Robots
       value: all

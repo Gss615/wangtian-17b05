@@ -2,9 +2,7 @@
 id: '1'
 price: '49.40'
 title: GaussDB A150数据库一体机
-description: 华为GaussDB A150 均衡型数据库一体机是GaussDB A软件基于Kunpeng硬件架构的一体机产品，采用分布式数据库集群部署方式，主要适用于通用分析型业务需求。
-default_thumbnail_image: images/plant1-lg.jpg
-default_original_image: images/plant1-lg.jpg
+description:  '华为GaussDB A150 均衡型数据库一体机是GaussDB A软件基于Kunpeng硬件架构的一体机产品，采用分布式数据库集群部署方式，主要适用于通用分析型业务需求。'
 featured: true
 order: 281
 category: src/pages/category/数据库.md
@@ -17,7 +15,7 @@ other4:
   images: {"other":{"org":"other","img":["GaussDB A150数据库一体机.png"]}}
 seo:
   title: gaussdb-a150 | GaussDB A150数据库一体机 | null | GaussDB A系列 | 数据库 | 数据中心
-  description: 华为GaussDB A150 均衡型数据库一体机是GaussDB A软件基于Kunpeng硬件架构的一体机产品，采用分布式数据库集群部署方式，主要适用于通用分析型业务需求。
+  description: '华为GaussDB A150 均衡型数据库一体机是GaussDB A软件基于Kunpeng硬件架构的一体机产品，采用分布式数据库集群部署方式，主要适用于通用分析型业务需求。'
   extra:
     - name: 'og:type'
       value: website
@@ -26,7 +24,7 @@ seo:
       value: 河南网田
       keyName: property
     - name: 'og:description'
-      value: 华为GaussDB A150 均衡型数据库一体机是GaussDB A软件基于Kunpeng硬件架构的一体机产品，采用分布式数据库集群部署方式，主要适用于通用分析型业务需求。
+      value: '华为GaussDB A150 均衡型数据库一体机是GaussDB A软件基于Kunpeng硬件架构的一体机产品，采用分布式数据库集群部署方式，主要适用于通用分析型业务需求。'
       keyName: property
     - name: Robots
       value: all

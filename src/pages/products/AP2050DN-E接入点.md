@@ -2,9 +2,7 @@
 id: '1'
 price: '49.40'
 title: AP2050DN-E接入点
-description: AP2050DN-E是华为发布的支持802.11ac wave2标准的面板型无线接入点，支持2×2MIMO和两条空间流，整机速率1.267Gbps，适用于酒店客房、学生宿舍、医院病房、小型办公室等房间面积较小，户型较密集场景。内置蓝牙天线，可实现基于蓝牙技术的物联网应用，如蓝牙终端定位。
-default_thumbnail_image: images/plant1-lg.jpg
-default_original_image: images/plant1-lg.jpg
+description:  'AP2050DN-E是华为发布的支持802.11ac wave2标准的面板型无线接入点，支持2×2MIMO和两条空间流，整机速率1.267Gbps，适用于酒店客房、学生宿舍、医院病房、小型办公室等房间面积较小，户型较密集场景。内置蓝牙天线，可实现基于蓝牙技术的物联网应用，如蓝牙终端定位。'
 featured: true
 order: 125
 category: src/pages/category/无线局域网.md
@@ -17,7 +15,7 @@ other4:
   images: {"ap2050dn-e":{"org":"AP2050DN-E_pic","img":["01.png","02.png","03.png","04.png","05.png","06.png","07.png","08.png","09.png","10.png","11.png"]}}
 seo:
   title: ap2050dn-e | AP2050DN-E接入点 | AP2000系列 | 室内接入点 | 无线局域网 | 企业网络
-  description: AP2050DN-E是华为发布的支持802.11ac wave2标准的面板型无线接入点，支持2×2MIMO和两条空间流，整机速率1.267Gbps，适用于酒店客房、学生宿舍、医院病房、小型办公室等房间面积较小，户型较密集场景。内置蓝牙天线，可实现基于蓝牙技术的物联网应用，如蓝牙终端定位。
+  description: 'AP2050DN-E是华为发布的支持802.11ac wave2标准的面板型无线接入点，支持2×2MIMO和两条空间流，整机速率1.267Gbps，适用于酒店客房、学生宿舍、医院病房、小型办公室等房间面积较小，户型较密集场景。内置蓝牙天线，可实现基于蓝牙技术的物联网应用，如蓝牙终端定位。'
   extra:
     - name: 'og:type'
       value: website
@@ -26,7 +24,7 @@ seo:
       value: 河南网田
       keyName: property
     - name: 'og:description'
-      value: AP2050DN-E是华为发布的支持802.11ac wave2标准的面板型无线接入点，支持2×2MIMO和两条空间流，整机速率1.267Gbps，适用于酒店客房、学生宿舍、医院病房、小型办公室等房间面积较小，户型较密集场景。内置蓝牙天线，可实现基于蓝牙技术的物联网应用，如蓝牙终端定位。
+      value: 'AP2050DN-E是华为发布的支持802.11ac wave2标准的面板型无线接入点，支持2×2MIMO和两条空间流，整机速率1.267Gbps，适用于酒店客房、学生宿舍、医院病房、小型办公室等房间面积较小，户型较密集场景。内置蓝牙天线，可实现基于蓝牙技术的物联网应用，如蓝牙终端定位。'
       keyName: property
     - name: Robots
       value: all

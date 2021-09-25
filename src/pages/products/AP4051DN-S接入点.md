@@ -2,9 +2,7 @@
 id: '1'
 price: '49.40'
 title: AP4051DN-S接入点
-description: AP4051DN-S接入点是面向分销市场的无线接入点产品，支持802.11ac wave 2标准的、2×2 MIMO和2条空间流，同时支持11n和11ac协议，可使无线网络带宽突破千兆，极大地增强用户对无线网络的使用体验，适合部署在中小型企业，机场车站、体育场馆、咖啡厅、休闲中心等商业环境。
-default_thumbnail_image: images/plant1-lg.jpg
-default_original_image: images/plant1-lg.jpg
+description:  'AP4051DN-S接入点是面向分销市场的无线接入点产品，支持802.11ac wave 2标准的、2×2 MIMO和2条空间流，同时支持11n和11ac协议，可使无线网络带宽突破千兆，极大地增强用户对无线网络的使用体验，适合部署在中小型企业，机场车站、体育场馆、咖啡厅、休闲中心等商业环境。'
 featured: true
 order: 119
 category: src/pages/category/无线局域网.md
@@ -17,7 +15,7 @@ other4:
   images: {"ap4051dn-s":{"org":"AP4051DN-S_pic","img":["01.png","02.png","03.png","04.png","05.png","06.png","07.png"]}}
 seo:
   title: ap4051dn-s | AP4051DN-S接入点 | AP4000系列 | 室内接入点 | 无线局域网 | 企业网络
-  description: AP4051DN-S接入点是面向分销市场的无线接入点产品，支持802.11ac wave 2标准的、2×2 MIMO和2条空间流，同时支持11n和11ac协议，可使无线网络带宽突破千兆，极大地增强用户对无线网络的使用体验，适合部署在中小型企业，机场车站、体育场馆、咖啡厅、休闲中心等商业环境。
+  description: 'AP4051DN-S接入点是面向分销市场的无线接入点产品，支持802.11ac wave 2标准的、2×2 MIMO和2条空间流，同时支持11n和11ac协议，可使无线网络带宽突破千兆，极大地增强用户对无线网络的使用体验，适合部署在中小型企业，机场车站、体育场馆、咖啡厅、休闲中心等商业环境。'
   extra:
     - name: 'og:type'
       value: website
@@ -26,7 +24,7 @@ seo:
       value: 河南网田
       keyName: property
     - name: 'og:description'
-      value: AP4051DN-S接入点是面向分销市场的无线接入点产品，支持802.11ac wave 2标准的、2×2 MIMO和2条空间流，同时支持11n和11ac协议，可使无线网络带宽突破千兆，极大地增强用户对无线网络的使用体验，适合部署在中小型企业，机场车站、体育场馆、咖啡厅、休闲中心等商业环境。
+      value: 'AP4051DN-S接入点是面向分销市场的无线接入点产品，支持802.11ac wave 2标准的、2×2 MIMO和2条空间流，同时支持11n和11ac协议，可使无线网络带宽突破千兆，极大地增强用户对无线网络的使用体验，适合部署在中小型企业，机场车站、体育场馆、咖啡厅、休闲中心等商业环境。'
       keyName: property
     - name: Robots
       value: all

@@ -2,9 +2,7 @@
 id: '1'
 price: '49.40'
 title: EchoLife EG8084P
-description: EchoLife EG8084P是针对政企，交通和大型园区等行业推出的工业型ONU，支持高性能转发功能，以确保良好的互联网和视频回传体验，可以安装在室内或室外的机架和网络箱中，也可以竖挂或安装到DIN导轨。
-default_thumbnail_image: images/plant1-lg.jpg
-default_original_image: images/plant1-lg.jpg
+description:  'EchoLife EG8084P是针对政企，交通和大型园区等行业推出的工业型ONU，支持高性能转发功能，以确保良好的互联网和视频回传体验，可以安装在室内或室外的机架和网络箱中，也可以竖挂或安装到DIN导轨。'
 featured: true
 order: 230
 category: src/pages/category/光终端.md
@@ -17,7 +15,7 @@ other4:
   images: {"other":{"org":"other","img":["EchoLife EG8084P.png"]}}
 seo:
   title: eg8084p | EchoLife EG8084P | null | ONU | 光终端 | 企业光网络
-  description: EchoLife EG8084P是针对政企，交通和大型园区等行业推出的工业型ONU，支持高性能转发功能，以确保良好的互联网和视频回传体验，可以安装在室内或室外的机架和网络箱中，也可以竖挂或安装到DIN导轨。
+  description: 'EchoLife EG8084P是针对政企，交通和大型园区等行业推出的工业型ONU，支持高性能转发功能，以确保良好的互联网和视频回传体验，可以安装在室内或室外的机架和网络箱中，也可以竖挂或安装到DIN导轨。'
   extra:
     - name: 'og:type'
       value: website
@@ -26,7 +24,7 @@ seo:
       value: 河南网田
       keyName: property
     - name: 'og:description'
-      value: EchoLife EG8084P是针对政企，交通和大型园区等行业推出的工业型ONU，支持高性能转发功能，以确保良好的互联网和视频回传体验，可以安装在室内或室外的机架和网络箱中，也可以竖挂或安装到DIN导轨。
+      value: 'EchoLife EG8084P是针对政企，交通和大型园区等行业推出的工业型ONU，支持高性能转发功能，以确保良好的互联网和视频回传体验，可以安装在室内或室外的机架和网络箱中，也可以竖挂或安装到DIN导轨。'
       keyName: property
     - name: Robots
       value: all

@@ -2,9 +2,7 @@
 id: '1'
 price: '49.40'
 title: EchoLife EG8280P
-description: Echolife EG8280P支持GPON/XG-PON/XGS-PON上行，适用于光纤到房间多业务接入场景，用户侧提供8个GE以太接口、2个POTS语音接口，支持单端口POE供电功率30W，整机支持120W功率输出。
-default_thumbnail_image: images/plant1-lg.jpg
-default_original_image: images/plant1-lg.jpg
+description:  'Echolife EG8280P支持GPON/XG-PON/XGS-PON上行，适用于光纤到房间多业务接入场景，用户侧提供8个GE以太接口、2个POTS语音接口，支持单端口POE供电功率30W，整机支持120W功率输出。'
 featured: true
 order: 231
 category: src/pages/category/光终端.md
@@ -17,7 +15,7 @@ other4:
   images: {"other":{"org":"other","img":["EchoLife EG8280P.png"]}}
 seo:
   title: echolife-eg8280p | EchoLife EG8280P | null | ONU | 光终端 | 企业光网络
-  description: Echolife EG8280P支持GPON/XG-PON/XGS-PON上行，适用于光纤到房间多业务接入场景，用户侧提供8个GE以太接口、2个POTS语音接口，支持单端口POE供电功率30W，整机支持120W功率输出。
+  description: 'Echolife EG8280P支持GPON/XG-PON/XGS-PON上行，适用于光纤到房间多业务接入场景，用户侧提供8个GE以太接口、2个POTS语音接口，支持单端口POE供电功率30W，整机支持120W功率输出。'
   extra:
     - name: 'og:type'
       value: website
@@ -26,7 +24,7 @@ seo:
       value: 河南网田
       keyName: property
     - name: 'og:description'
-      value: Echolife EG8280P支持GPON/XG-PON/XGS-PON上行，适用于光纤到房间多业务接入场景，用户侧提供8个GE以太接口、2个POTS语音接口，支持单端口POE供电功率30W，整机支持120W功率输出。
+      value: 'Echolife EG8280P支持GPON/XG-PON/XGS-PON上行，适用于光纤到房间多业务接入场景，用户侧提供8个GE以太接口、2个POTS语音接口，支持单端口POE供电功率30W，整机支持120W功率输出。'
       keyName: property
     - name: Robots
       value: all

@@ -2,11 +2,9 @@
 id: '1'
 price: '49.40'
 title: eOMC910网管
-description: eOMC910是eLTE宽带集群系统中的综合网元管理平台，可管理eLTE系统中的基站和核心网在内的所有网元、海量终端设备和调度系统，同时具备独立的告警管理和运营管理功能。
+description:  'eOMC910是eLTE宽带集群系统中的综合网元管理平台，可管理eLTE系统中的基站和核心网在内的所有网元、海量终端设备和调度系统，同时具备独立的告警管理和运营管理功能。
 
-管理员可通过图形化的界面方便地进行系统配置，软件升级，设备诊断及性能监测等业务。
-default_thumbnail_image: images/plant1-lg.jpg
-default_original_image: images/plant1-lg.jpg
+管理员可通过图形化的界面方便地进行系统配置，软件升级，设备诊断及性能监测等业务。'
 featured: true
 order: 349
 category: src/pages/category/eLTE宽带集群解决方案.md
@@ -19,9 +17,9 @@ other4:
   images: {"other":{"org":"other","img":["eOMC910网管.png"]}}
 seo:
   title: eomc910 | eOMC910网管 | 网管 | 网络设备（3GPP） | eLTE宽带集群解决方案 | 企业无线
-  description: eOMC910是eLTE宽带集群系统中的综合网元管理平台，可管理eLTE系统中的基站和核心网在内的所有网元、海量终端设备和调度系统，同时具备独立的告警管理和运营管理功能。
+  description: 'eOMC910是eLTE宽带集群系统中的综合网元管理平台，可管理eLTE系统中的基站和核心网在内的所有网元、海量终端设备和调度系统，同时具备独立的告警管理和运营管理功能。
 
-管理员可通过图形化的界面方便地进行系统配置，软件升级，设备诊断及性能监测等业务。
+管理员可通过图形化的界面方便地进行系统配置，软件升级，设备诊断及性能监测等业务。'
   extra:
     - name: 'og:type'
       value: website
@@ -30,9 +28,9 @@ seo:
       value: 河南网田
       keyName: property
     - name: 'og:description'
-      value: eOMC910是eLTE宽带集群系统中的综合网元管理平台，可管理eLTE系统中的基站和核心网在内的所有网元、海量终端设备和调度系统，同时具备独立的告警管理和运营管理功能。
+      value: 'eOMC910是eLTE宽带集群系统中的综合网元管理平台，可管理eLTE系统中的基站和核心网在内的所有网元、海量终端设备和调度系统，同时具备独立的告警管理和运营管理功能。
 
-管理员可通过图形化的界面方便地进行系统配置，软件升级，设备诊断及性能监测等业务。
+管理员可通过图形化的界面方便地进行系统配置，软件升级，设备诊断及性能监测等业务。'
       keyName: property
     - name: Robots
       value: all

@@ -2,9 +2,7 @@
 id: '1'
 price: '49.40'
 title: FusionServer Pro 2288H V6 机架服务器
-description: 华为FusionServer Pro 2288H V6是一款2U2路机架服务器，配置灵活，可广泛适用于云计算、虚拟化、数据库、大数据等负载2288H V6可配置2路英特尔®至强®可扩展处理器、16/32条DDR4内存、14个 PCIe扩展槽、支持大容量的本地存储资源。集成DEMT智能功耗管理、FDM智能故障管理等专利技术，可选配华为FusionDirector全生命周期管理软件，能够有效降低运营成本、提升投资回报。
-default_thumbnail_image: images/plant1-lg.jpg
-default_original_image: images/plant1-lg.jpg
+description:  '华为FusionServer Pro 2288H V6是一款2U2路机架服务器，配置灵活，可广泛适用于云计算、虚拟化、数据库、大数据等负载2288H V6可配置2路英特尔®至强®可扩展处理器、16/32条DDR4内存、14个 PCIe扩展槽、支持大容量的本地存储资源。集成DEMT智能功耗管理、FDM智能故障管理等专利技术，可选配华为FusionDirector全生命周期管理软件，能够有效降低运营成本、提升投资回报。'
 featured: true
 order: 284
 category: src/pages/category/服务器 - 计算.md
@@ -17,7 +15,7 @@ other4:
   images: {"other":{"org":"other","img":["FusionServer Pro 2288H V6 机架服务器.png"]}}
 seo:
   title: 2288h-v6 | FusionServer Pro 2288H V6 机架服务器 | FusionServer Pro机架服务器 | FusionServer Pro智能服务器 | 服务器 - 计算 | 数据中心
-  description: 华为FusionServer Pro 2288H V6是一款2U2路机架服务器，配置灵活，可广泛适用于云计算、虚拟化、数据库、大数据等负载2288H V6可配置2路英特尔®至强®可扩展处理器、16/32条DDR4内存、14个 PCIe扩展槽、支持大容量的本地存储资源。集成DEMT智能功耗管理、FDM智能故障管理等专利技术，可选配华为FusionDirector全生命周期管理软件，能够有效降低运营成本、提升投资回报。
+  description: '华为FusionServer Pro 2288H V6是一款2U2路机架服务器，配置灵活，可广泛适用于云计算、虚拟化、数据库、大数据等负载2288H V6可配置2路英特尔®至强®可扩展处理器、16/32条DDR4内存、14个 PCIe扩展槽、支持大容量的本地存储资源。集成DEMT智能功耗管理、FDM智能故障管理等专利技术，可选配华为FusionDirector全生命周期管理软件，能够有效降低运营成本、提升投资回报。'
   extra:
     - name: 'og:type'
       value: website
@@ -26,7 +24,7 @@ seo:
       value: 河南网田
       keyName: property
     - name: 'og:description'
-      value: 华为FusionServer Pro 2288H V6是一款2U2路机架服务器，配置灵活，可广泛适用于云计算、虚拟化、数据库、大数据等负载2288H V6可配置2路英特尔®至强®可扩展处理器、16/32条DDR4内存、14个 PCIe扩展槽、支持大容量的本地存储资源。集成DEMT智能功耗管理、FDM智能故障管理等专利技术，可选配华为FusionDirector全生命周期管理软件，能够有效降低运营成本、提升投资回报。
+      value: '华为FusionServer Pro 2288H V6是一款2U2路机架服务器，配置灵活，可广泛适用于云计算、虚拟化、数据库、大数据等负载2288H V6可配置2路英特尔®至强®可扩展处理器、16/32条DDR4内存、14个 PCIe扩展槽、支持大容量的本地存储资源。集成DEMT智能功耗管理、FDM智能故障管理等专利技术，可选配华为FusionDirector全生命周期管理软件，能够有效降低运营成本、提升投资回报。'
       keyName: property
     - name: Robots
       value: all

@@ -2,9 +2,7 @@
 id: '1'
 price: '49.40'
 title: CloudEngine S1730S系列交换机
-description: CloudEngine S1730S系列交换机是华为新一代绿色节能以太接入交换机，可广泛应用于中小企业、网吧、酒店、学校等以太接入场景。
-default_thumbnail_image: images/plant1-lg.jpg
-default_original_image: images/plant1-lg.jpg
+description:  'CloudEngine S1730S系列交换机是华为新一代绿色节能以太接入交换机，可广泛应用于中小企业、网吧、酒店、学校等以太接入场景。'
 featured: true
 order: 39
 category: src/pages/category/交换机.md
@@ -17,7 +15,7 @@ other4:
   images: {"s1720-28gwr-4p":{"org":"S1720-28GWR-4P_pic","img":["front.png","front_left.png","front_right.png","front_top.png","rear.png","rear_top.png"]}}
 seo:
   title: s1730s | CloudEngine S1730S系列交换机 | SMB交换机 | 园区交换机 | 交换机 | 企业网络
-  description: CloudEngine S1730S系列交换机是华为新一代绿色节能以太接入交换机，可广泛应用于中小企业、网吧、酒店、学校等以太接入场景。
+  description: 'CloudEngine S1730S系列交换机是华为新一代绿色节能以太接入交换机，可广泛应用于中小企业、网吧、酒店、学校等以太接入场景。'
   extra:
     - name: 'og:type'
       value: website
@@ -26,7 +24,7 @@ seo:
       value: 河南网田
       keyName: property
     - name: 'og:description'
-      value: CloudEngine S1730S系列交换机是华为新一代绿色节能以太接入交换机，可广泛应用于中小企业、网吧、酒店、学校等以太接入场景。
+      value: 'CloudEngine S1730S系列交换机是华为新一代绿色节能以太接入交换机，可广泛应用于中小企业、网吧、酒店、学校等以太接入场景。'
       keyName: property
     - name: Robots
       value: all

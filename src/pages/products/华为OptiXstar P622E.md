@@ -2,9 +2,7 @@
 id: '1'
 price: '49.40'
 title: 华为OptiXstar P622E
-description: 华为OptiXstar P622E 产品是面向企业园区设计的ONU设备，支持双GPON上行接入，并提供4个GE接口，为用户提供高速宽带、企业专线，视频监控等多种业务。
-default_thumbnail_image: images/plant1-lg.jpg
-default_original_image: images/plant1-lg.jpg
+description:  '华为OptiXstar P622E 产品是面向企业园区设计的ONU设备，支持双GPON上行接入，并提供4个GE接口，为用户提供高速宽带、企业专线，视频监控等多种业务。'
 featured: true
 order: 223
 category: src/pages/category/光终端.md
@@ -17,7 +15,7 @@ other4:
   images: {"other":{"org":"other","img":["华为OptiXstar P622E.png"]}}
 seo:
   title: optixstar-p622e | 华为OptiXstar P622E  | null | ONU | 光终端 | 企业光网络
-  description: 华为OptiXstar P622E 产品是面向企业园区设计的ONU设备，支持双GPON上行接入，并提供4个GE接口，为用户提供高速宽带、企业专线，视频监控等多种业务。
+  description: '华为OptiXstar P622E 产品是面向企业园区设计的ONU设备，支持双GPON上行接入，并提供4个GE接口，为用户提供高速宽带、企业专线，视频监控等多种业务。'
   extra:
     - name: 'og:type'
       value: website
@@ -26,7 +24,7 @@ seo:
       value: 河南网田
       keyName: property
     - name: 'og:description'
-      value: 华为OptiXstar P622E 产品是面向企业园区设计的ONU设备，支持双GPON上行接入，并提供4个GE接口，为用户提供高速宽带、企业专线，视频监控等多种业务。
+      value: '华为OptiXstar P622E 产品是面向企业园区设计的ONU设备，支持双GPON上行接入，并提供4个GE接口，为用户提供高速宽带、企业专线，视频监控等多种业务。'
       keyName: property
     - name: Robots
       value: all

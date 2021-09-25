@@ -2,11 +2,9 @@
 id: '1'
 price: '49.40'
 title: OceanStor Pacific 9520分布式存储
-description: OceanStor Pacific 9520是华为全新推出的每机箱2U、1节点形态的分布式存储，每节点可提供48 TB至168 TB裸容量、灵活的部件配置组合，以满足广泛的结构化与非结构化业务负载访问诉求。
+description:  'OceanStor Pacific 9520是华为全新推出的每机箱2U、1节点形态的分布式存储，每节点可提供48 TB至168 TB裸容量、灵活的部件配置组合，以满足广泛的结构化与非结构化业务负载访问诉求。
 
-OceanStor Pacific 9520分布式存储可为虚拟化/云资源池、数据库、大数据分析、海量数据备份与归档等场景提供灵活的数据存取服务。
-default_thumbnail_image: images/plant1-lg.jpg
-default_original_image: images/plant1-lg.jpg
+OceanStor Pacific 9520分布式存储可为虚拟化/云资源池、数据库、大数据分析、海量数据备份与归档等场景提供灵活的数据存取服务。'
 featured: true
 order: 275
 category: src/pages/category/海量存储.md
@@ -19,9 +17,9 @@ other4:
   images: {"other":{"org":"other","img":["OceanStor Pacific 9520分布式存储.png"]}}
 seo:
   title: oceanstor-pacific-9520 | OceanStor Pacific 9520分布式存储 | 容量型 | OceanStor Pacific 系列存储 | 海量存储 | 数据存储
-  description: OceanStor Pacific 9520是华为全新推出的每机箱2U、1节点形态的分布式存储，每节点可提供48 TB至168 TB裸容量、灵活的部件配置组合，以满足广泛的结构化与非结构化业务负载访问诉求。
+  description: 'OceanStor Pacific 9520是华为全新推出的每机箱2U、1节点形态的分布式存储，每节点可提供48 TB至168 TB裸容量、灵活的部件配置组合，以满足广泛的结构化与非结构化业务负载访问诉求。
 
-OceanStor Pacific 9520分布式存储可为虚拟化/云资源池、数据库、大数据分析、海量数据备份与归档等场景提供灵活的数据存取服务。
+OceanStor Pacific 9520分布式存储可为虚拟化/云资源池、数据库、大数据分析、海量数据备份与归档等场景提供灵活的数据存取服务。'
   extra:
     - name: 'og:type'
       value: website
@@ -30,9 +28,9 @@ OceanStor Pacific 9520分布式存储可为虚拟化/云资源池、数据库、
       value: 河南网田
       keyName: property
     - name: 'og:description'
-      value: OceanStor Pacific 9520是华为全新推出的每机箱2U、1节点形态的分布式存储，每节点可提供48 TB至168 TB裸容量、灵活的部件配置组合，以满足广泛的结构化与非结构化业务负载访问诉求。
+      value: 'OceanStor Pacific 9520是华为全新推出的每机箱2U、1节点形态的分布式存储，每节点可提供48 TB至168 TB裸容量、灵活的部件配置组合，以满足广泛的结构化与非结构化业务负载访问诉求。
 
-OceanStor Pacific 9520分布式存储可为虚拟化/云资源池、数据库、大数据分析、海量数据备份与归档等场景提供灵活的数据存取服务。
+OceanStor Pacific 9520分布式存储可为虚拟化/云资源池、数据库、大数据分析、海量数据备份与归档等场景提供灵活的数据存取服务。'
       keyName: property
     - name: Robots
       value: all

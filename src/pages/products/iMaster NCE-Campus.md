@@ -2,9 +2,7 @@
 id: '1'
 price: '49.40'
 title: iMaster NCE-Campus
-description: iMaster NCE-Campus 是华为面向园区网络的新 一代自动驾驶网络管理控制系统，是集管理、控制、分析和 AI 智能功能于一体的网络自动化与智能化平台，提供园区网络的全生命周期自动化、基于大数据和AI的故障智能闭环能力，帮助企业降低OPEX运维成本，加速企业云化与数字化转型，让网络管理更自动、网络运维更智能。
-default_thumbnail_image: images/plant1-lg.jpg
-default_original_image: images/plant1-lg.jpg
+description:  'iMaster NCE-Campus 是华为面向园区网络的新 一代自动驾驶网络管理控制系统，是集管理、控制、分析和 AI 智能功能于一体的网络自动化与智能化平台，提供园区网络的全生命周期自动化、基于大数据和AI的故障智能闭环能力，帮助企业降低OPEX运维成本，加速企业云化与数字化转型，让网络管理更自动、网络运维更智能。'
 featured: true
 order: 188
 category: src/pages/category/网络管控&分析软件.md
@@ -17,7 +15,7 @@ other4:
   images: {"other":{"org":"other","img":["iMaster NCE-Campus.png"]}}
 seo:
   title: imaster-nce-campus | iMaster NCE-Campus | null | 园区自动驾驶网络管理控制系统 | 网络管控&分析软件 | 企业网络
-  description: iMaster NCE-Campus 是华为面向园区网络的新 一代自动驾驶网络管理控制系统，是集管理、控制、分析和 AI 智能功能于一体的网络自动化与智能化平台，提供园区网络的全生命周期自动化、基于大数据和AI的故障智能闭环能力，帮助企业降低OPEX运维成本，加速企业云化与数字化转型，让网络管理更自动、网络运维更智能。
+  description: 'iMaster NCE-Campus 是华为面向园区网络的新 一代自动驾驶网络管理控制系统，是集管理、控制、分析和 AI 智能功能于一体的网络自动化与智能化平台，提供园区网络的全生命周期自动化、基于大数据和AI的故障智能闭环能力，帮助企业降低OPEX运维成本，加速企业云化与数字化转型，让网络管理更自动、网络运维更智能。'
   extra:
     - name: 'og:type'
       value: website
@@ -26,7 +24,7 @@ seo:
       value: 河南网田
       keyName: property
     - name: 'og:description'
-      value: iMaster NCE-Campus 是华为面向园区网络的新 一代自动驾驶网络管理控制系统，是集管理、控制、分析和 AI 智能功能于一体的网络自动化与智能化平台，提供园区网络的全生命周期自动化、基于大数据和AI的故障智能闭环能力，帮助企业降低OPEX运维成本，加速企业云化与数字化转型，让网络管理更自动、网络运维更智能。
+      value: 'iMaster NCE-Campus 是华为面向园区网络的新 一代自动驾驶网络管理控制系统，是集管理、控制、分析和 AI 智能功能于一体的网络自动化与智能化平台，提供园区网络的全生命周期自动化、基于大数据和AI的故障智能闭环能力，帮助企业降低OPEX运维成本，加速企业云化与数字化转型，让网络管理更自动、网络运维更智能。'
       keyName: property
     - name: Robots
       value: all

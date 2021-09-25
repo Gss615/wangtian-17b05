@@ -2,9 +2,7 @@
 id: '1'
 price: '49.40'
 title: EchoLife EG8020P
-description: 华为EchoLife EG8020P是用于华为POL解决方案的面板式ONU，可简单快速地安装在86型电工盒上，通过GPON技术实现超宽带接入。上行提供1个GPON端口，用户侧提供2个GE以太网接口并支持POE功能，通过高性能的转发能力有效保障语音、数据和高清视频的业务体验，为企业园区部署提供理想的解决方案和面向未来的业务支撑能力。
-default_thumbnail_image: images/plant1-lg.jpg
-default_original_image: images/plant1-lg.jpg
+description:  '华为EchoLife EG8020P是用于华为POL解决方案的面板式ONU，可简单快速地安装在86型电工盒上，通过GPON技术实现超宽带接入。上行提供1个GPON端口，用户侧提供2个GE以太网接口并支持POE功能，通过高性能的转发能力有效保障语音、数据和高清视频的业务体验，为企业园区部署提供理想的解决方案和面向未来的业务支撑能力。'
 featured: true
 order: 229
 category: src/pages/category/光终端.md
@@ -17,7 +15,7 @@ other4:
   images: {"other":{"org":"other","img":["EchoLife EG8020P.png"]}}
 seo:
   title: echolife-eg8020p | EchoLife EG8020P | null | ONU | 光终端 | 企业光网络
-  description: 华为EchoLife EG8020P是用于华为POL解决方案的面板式ONU，可简单快速地安装在86型电工盒上，通过GPON技术实现超宽带接入。上行提供1个GPON端口，用户侧提供2个GE以太网接口并支持POE功能，通过高性能的转发能力有效保障语音、数据和高清视频的业务体验，为企业园区部署提供理想的解决方案和面向未来的业务支撑能力。
+  description: '华为EchoLife EG8020P是用于华为POL解决方案的面板式ONU，可简单快速地安装在86型电工盒上，通过GPON技术实现超宽带接入。上行提供1个GPON端口，用户侧提供2个GE以太网接口并支持POE功能，通过高性能的转发能力有效保障语音、数据和高清视频的业务体验，为企业园区部署提供理想的解决方案和面向未来的业务支撑能力。'
   extra:
     - name: 'og:type'
       value: website
@@ -26,7 +24,7 @@ seo:
       value: 河南网田
       keyName: property
     - name: 'og:description'
-      value: 华为EchoLife EG8020P是用于华为POL解决方案的面板式ONU，可简单快速地安装在86型电工盒上，通过GPON技术实现超宽带接入。上行提供1个GPON端口，用户侧提供2个GE以太网接口并支持POE功能，通过高性能的转发能力有效保障语音、数据和高清视频的业务体验，为企业园区部署提供理想的解决方案和面向未来的业务支撑能力。
+      value: '华为EchoLife EG8020P是用于华为POL解决方案的面板式ONU，可简单快速地安装在86型电工盒上，通过GPON技术实现超宽带接入。上行提供1个GPON端口，用户侧提供2个GE以太网接口并支持POE功能，通过高性能的转发能力有效保障语音、数据和高清视频的业务体验，为企业园区部署提供理想的解决方案和面向未来的业务支撑能力。'
       keyName: property
     - name: Robots
       value: all

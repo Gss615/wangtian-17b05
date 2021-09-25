@@ -2,15 +2,13 @@
 id: '1'
 price: '49.40'
 title: OceanStor Pacific 9920分布式存储
-description: OceanStor Pacific 9920是华为全新推出的每机箱2U、1节点形态的SSD全闪存分布式存储，提供卓越的性能和灵活的部件配置组合，满足多样的结构化与非结构化业务负载访问诉求。关键特点：
+description:  'OceanStor Pacific 9920是华为全新推出的每机箱2U、1节点形态的SSD全闪存分布式存储，提供卓越的性能和灵活的部件配置组合，满足多样的结构化与非结构化业务负载访问诉求。关键特点：
 
 • FlashLink技术与AI Fabric网络加速，单系统满足百万级虚拟机应用性能需求；
 • 灵活的数据冗余配比可供选择；
 • OceanStor Pacific 9540组合构建数据分级存储方案。
 
-OceanStor Pacific 9920全闪存分布式存储可为虚拟化/云资源池、数据库、高性能计算、AI应用、大数据分析等场景提供高效的数据存取服务。
-default_thumbnail_image: images/plant1-lg.jpg
-default_original_image: images/plant1-lg.jpg
+OceanStor Pacific 9920全闪存分布式存储可为虚拟化/云资源池、数据库、高性能计算、AI应用、大数据分析等场景提供高效的数据存取服务。'
 featured: true
 order: 272
 category: src/pages/category/海量存储.md
@@ -23,13 +21,13 @@ other4:
   images: {"other":{"org":"other","img":["OceanStor Pacific 9920分布式存储.png"]}}
 seo:
   title: oceanstor-pacific-9920 | OceanStor Pacific 9920分布式存储  | 性能型 | OceanStor Pacific 系列存储 | 海量存储 | 数据存储
-  description: OceanStor Pacific 9920是华为全新推出的每机箱2U、1节点形态的SSD全闪存分布式存储，提供卓越的性能和灵活的部件配置组合，满足多样的结构化与非结构化业务负载访问诉求。关键特点：
+  description: 'OceanStor Pacific 9920是华为全新推出的每机箱2U、1节点形态的SSD全闪存分布式存储，提供卓越的性能和灵活的部件配置组合，满足多样的结构化与非结构化业务负载访问诉求。关键特点：
 
 • FlashLink技术与AI Fabric网络加速，单系统满足百万级虚拟机应用性能需求；
 • 灵活的数据冗余配比可供选择；
 • OceanStor Pacific 9540组合构建数据分级存储方案。
 
-OceanStor Pacific 9920全闪存分布式存储可为虚拟化/云资源池、数据库、高性能计算、AI应用、大数据分析等场景提供高效的数据存取服务。
+OceanStor Pacific 9920全闪存分布式存储可为虚拟化/云资源池、数据库、高性能计算、AI应用、大数据分析等场景提供高效的数据存取服务。'
   extra:
     - name: 'og:type'
       value: website
@@ -38,13 +36,13 @@ OceanStor Pacific 9920全闪存分布式存储可为虚拟化/云资源池、数
       value: 河南网田
       keyName: property
     - name: 'og:description'
-      value: OceanStor Pacific 9920是华为全新推出的每机箱2U、1节点形态的SSD全闪存分布式存储，提供卓越的性能和灵活的部件配置组合，满足多样的结构化与非结构化业务负载访问诉求。关键特点：
+      value: 'OceanStor Pacific 9920是华为全新推出的每机箱2U、1节点形态的SSD全闪存分布式存储，提供卓越的性能和灵活的部件配置组合，满足多样的结构化与非结构化业务负载访问诉求。关键特点：
 
 • FlashLink技术与AI Fabric网络加速，单系统满足百万级虚拟机应用性能需求；
 • 灵活的数据冗余配比可供选择；
 • OceanStor Pacific 9540组合构建数据分级存储方案。
 
-OceanStor Pacific 9920全闪存分布式存储可为虚拟化/云资源池、数据库、高性能计算、AI应用、大数据分析等场景提供高效的数据存取服务。
+OceanStor Pacific 9920全闪存分布式存储可为虚拟化/云资源池、数据库、高性能计算、AI应用、大数据分析等场景提供高效的数据存取服务。'
       keyName: property
     - name: Robots
       value: all

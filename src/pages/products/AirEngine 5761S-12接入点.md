@@ -2,9 +2,7 @@
 id: '1'
 price: '49.40'
 title: AirEngine 5761S-12接入点
-description: AirEngine 5761S-12 是华为面向SMB市场发布的支持 Wi-Fi 6（802.11ax）标准的室内 AP。支持 2.4GHz（2x2）和 5GHz（2x2）双频同时提供业务，整机速率可达 1.775Gbps。内置智能天线，信号随用户而动，极大地增强用户对无线网络的使用体验。支持高带宽、高并发且体积小巧，便于客户灵活部署，有效节约客户投资，适用于中小型企业办公、医院、咖啡厅等室内覆盖场景。
-default_thumbnail_image: images/plant1-lg.jpg
-default_original_image: images/plant1-lg.jpg
+description:  'AirEngine 5761S-12 是华为面向SMB市场发布的支持 Wi-Fi 6（802.11ax）标准的室内 AP。支持 2.4GHz（2x2）和 5GHz（2x2）双频同时提供业务，整机速率可达 1.775Gbps。内置智能天线，信号随用户而动，极大地增强用户对无线网络的使用体验。支持高带宽、高并发且体积小巧，便于客户灵活部署，有效节约客户投资，适用于中小型企业办公、医院、咖啡厅等室内覆盖场景。'
 featured: true
 order: 93
 category: src/pages/category/无线局域网.md
@@ -17,7 +15,7 @@ other4:
   images: {"airengine5761s-12":{"org":"AirEngine5761S-12_pic","img":["front.png","front_bottom.png","front_left.png","front_right.png","front_top.png","rear.png","rear_top.png"]}}
 seo:
   title: airengine-5761s-12 | AirEngine 5761S-12接入点 | AirEngine 5700系列 | 室内接入点 | 无线局域网 | 企业网络
-  description: AirEngine 5761S-12 是华为面向SMB市场发布的支持 Wi-Fi 6（802.11ax）标准的室内 AP。支持 2.4GHz（2x2）和 5GHz（2x2）双频同时提供业务，整机速率可达 1.775Gbps。内置智能天线，信号随用户而动，极大地增强用户对无线网络的使用体验。支持高带宽、高并发且体积小巧，便于客户灵活部署，有效节约客户投资，适用于中小型企业办公、医院、咖啡厅等室内覆盖场景。
+  description: 'AirEngine 5761S-12 是华为面向SMB市场发布的支持 Wi-Fi 6（802.11ax）标准的室内 AP。支持 2.4GHz（2x2）和 5GHz（2x2）双频同时提供业务，整机速率可达 1.775Gbps。内置智能天线，信号随用户而动，极大地增强用户对无线网络的使用体验。支持高带宽、高并发且体积小巧，便于客户灵活部署，有效节约客户投资，适用于中小型企业办公、医院、咖啡厅等室内覆盖场景。'
   extra:
     - name: 'og:type'
       value: website
@@ -26,7 +24,7 @@ seo:
       value: 河南网田
       keyName: property
     - name: 'og:description'
-      value: AirEngine 5761S-12 是华为面向SMB市场发布的支持 Wi-Fi 6（802.11ax）标准的室内 AP。支持 2.4GHz（2x2）和 5GHz（2x2）双频同时提供业务，整机速率可达 1.775Gbps。内置智能天线，信号随用户而动，极大地增强用户对无线网络的使用体验。支持高带宽、高并发且体积小巧，便于客户灵活部署，有效节约客户投资，适用于中小型企业办公、医院、咖啡厅等室内覆盖场景。
+      value: 'AirEngine 5761S-12 是华为面向SMB市场发布的支持 Wi-Fi 6（802.11ax）标准的室内 AP。支持 2.4GHz（2x2）和 5GHz（2x2）双频同时提供业务，整机速率可达 1.775Gbps。内置智能天线，信号随用户而动，极大地增强用户对无线网络的使用体验。支持高带宽、高并发且体积小巧，便于客户灵活部署，有效节约客户投资，适用于中小型企业办公、医院、咖啡厅等室内覆盖场景。'
       keyName: property
     - name: Robots
       value: all

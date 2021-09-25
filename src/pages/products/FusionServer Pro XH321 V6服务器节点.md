@@ -2,9 +2,7 @@
 id: '1'
 price: '49.40'
 title: FusionServer Pro XH321 V6服务器节点
-description: FusionServer Pro XH321 V6是华为新一代1U半宽双路服务器节点，为突破能源限制、提升系统存储密度进行创新设计，具有强大的计算能力、超高的存储密度、易管理易维护等特点。
-default_thumbnail_image: images/plant1-lg.jpg
-default_original_image: images/plant1-lg.jpg
+description:  'FusionServer Pro XH321 V6是华为新一代1U半宽双路服务器节点，为突破能源限制、提升系统存储密度进行创新设计，具有强大的计算能力、超高的存储密度、易管理易维护等特点。'
 featured: true
 order: 302
 category: src/pages/category/服务器 - 计算.md
@@ -17,7 +15,7 @@ other4:
   images: {"other":{"org":"other","img":["FusionServer Pro XH321 V6服务器节点.png"]}}
 seo:
   title: xh321-v6 | FusionServer Pro XH321 V6服务器节点 | FusionServer Pro高密服务器 | FusionServer Pro智能服务器 | 服务器 - 计算 | 数据中心
-  description: FusionServer Pro XH321 V6是华为新一代1U半宽双路服务器节点，为突破能源限制、提升系统存储密度进行创新设计，具有强大的计算能力、超高的存储密度、易管理易维护等特点。
+  description: 'FusionServer Pro XH321 V6是华为新一代1U半宽双路服务器节点，为突破能源限制、提升系统存储密度进行创新设计，具有强大的计算能力、超高的存储密度、易管理易维护等特点。'
   extra:
     - name: 'og:type'
       value: website
@@ -26,7 +24,7 @@ seo:
       value: 河南网田
       keyName: property
     - name: 'og:description'
-      value: FusionServer Pro XH321 V6是华为新一代1U半宽双路服务器节点，为突破能源限制、提升系统存储密度进行创新设计，具有强大的计算能力、超高的存储密度、易管理易维护等特点。
+      value: 'FusionServer Pro XH321 V6是华为新一代1U半宽双路服务器节点，为突破能源限制、提升系统存储密度进行创新设计，具有强大的计算能力、超高的存储密度、易管理易维护等特点。'
       keyName: property
     - name: Robots
       value: all

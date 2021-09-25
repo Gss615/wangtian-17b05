@@ -2,11 +2,9 @@
 id: '1'
 price: '49.40'
 title: AntiDDoS1000系列DDoS防御系统
-description: 华为AntiDDoS1000系列DDoS防御系统运用大数据分析技术，针对60多种网络流量进行抽象建模，秒级攻击响应速度和超百种攻击的全面防御。
+description:  '华为AntiDDoS1000系列DDoS防御系统运用大数据分析技术，针对60多种网络流量进行抽象建模，秒级攻击响应速度和超百种攻击的全面防御。
 
-AntiDDoS1000可以灵活部署在用户网络中，实时防御流量型攻击和应用层攻击。当攻击流量超过带宽或本地清洗设备防御能力时，AntiDDoS1000可以与上游运营商或ISP的AntiDDoS设备联动，防御大流量攻击，保护用户业务永续。
-default_thumbnail_image: images/plant1-lg.jpg
-default_original_image: images/plant1-lg.jpg
+AntiDDoS1000可以灵活部署在用户网络中，实时防御流量型攻击和应用层攻击。当攻击流量超过带宽或本地清洗设备防御能力时，AntiDDoS1000可以与上游运营商或ISP的AntiDDoS设备联动，防御大流量攻击，保护用户业务永续。'
 featured: true
 order: 180
 category: src/pages/category/网络安全.md
@@ -19,9 +17,9 @@ other4:
   images: {"antiddos1820":{"org":"AntiDDoS1820_pic","img":["front.png","front_left.png","front_top.png"]}}
 seo:
   title: 1000 | AntiDDoS1000系列DDoS防御系统 | null | DDoS攻击防御 | 网络安全 | 企业网络
-  description: 华为AntiDDoS1000系列DDoS防御系统运用大数据分析技术，针对60多种网络流量进行抽象建模，秒级攻击响应速度和超百种攻击的全面防御。
+  description: '华为AntiDDoS1000系列DDoS防御系统运用大数据分析技术，针对60多种网络流量进行抽象建模，秒级攻击响应速度和超百种攻击的全面防御。
 
-AntiDDoS1000可以灵活部署在用户网络中，实时防御流量型攻击和应用层攻击。当攻击流量超过带宽或本地清洗设备防御能力时，AntiDDoS1000可以与上游运营商或ISP的AntiDDoS设备联动，防御大流量攻击，保护用户业务永续。
+AntiDDoS1000可以灵活部署在用户网络中，实时防御流量型攻击和应用层攻击。当攻击流量超过带宽或本地清洗设备防御能力时，AntiDDoS1000可以与上游运营商或ISP的AntiDDoS设备联动，防御大流量攻击，保护用户业务永续。'
   extra:
     - name: 'og:type'
       value: website
@@ -30,9 +28,9 @@ AntiDDoS1000可以灵活部署在用户网络中，实时防御流量型攻击�
       value: 河南网田
       keyName: property
     - name: 'og:description'
-      value: 华为AntiDDoS1000系列DDoS防御系统运用大数据分析技术，针对60多种网络流量进行抽象建模，秒级攻击响应速度和超百种攻击的全面防御。
+      value: '华为AntiDDoS1000系列DDoS防御系统运用大数据分析技术，针对60多种网络流量进行抽象建模，秒级攻击响应速度和超百种攻击的全面防御。
 
-AntiDDoS1000可以灵活部署在用户网络中，实时防御流量型攻击和应用层攻击。当攻击流量超过带宽或本地清洗设备防御能力时，AntiDDoS1000可以与上游运营商或ISP的AntiDDoS设备联动，防御大流量攻击，保护用户业务永续。
+AntiDDoS1000可以灵活部署在用户网络中，实时防御流量型攻击和应用层攻击。当攻击流量超过带宽或本地清洗设备防御能力时，AntiDDoS1000可以与上游运营商或ISP的AntiDDoS设备联动，防御大流量攻击，保护用户业务永续。'
       keyName: property
     - name: Robots
       value: all

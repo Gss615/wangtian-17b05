@@ -2,9 +2,7 @@
 id: '1'
 price: '49.40'
 title: FusionServer Pro X6000 V6高密服务器
-description: FusionServer Pro X6000 V6服务器是针对互联网、HPC、云计算、数据中心等业务应用需求而推出的新一代2U高密度服务器产品，对软件定义存储、大数据和SDI基础架构等进行优化和架构创新，满足服务器大规模部署。
-default_thumbnail_image: images/plant1-lg.jpg
-default_original_image: images/plant1-lg.jpg
+description:  'FusionServer Pro X6000 V6服务器是针对互联网、HPC、云计算、数据中心等业务应用需求而推出的新一代2U高密度服务器产品，对软件定义存储、大数据和SDI基础架构等进行优化和架构创新，满足服务器大规模部署。'
 featured: true
 order: 300
 category: src/pages/category/服务器 - 计算.md
@@ -17,7 +15,7 @@ other4:
   images: {"other":{"org":"other","img":["FusionServer Pro X6000 V6高密服务器.png"]}}
 seo:
   title: x6000-v6 | FusionServer Pro X6000 V6高密服务器 | FusionServer Pro高密服务器 | FusionServer Pro智能服务器 | 服务器 - 计算 | 数据中心
-  description: FusionServer Pro X6000 V6服务器是针对互联网、HPC、云计算、数据中心等业务应用需求而推出的新一代2U高密度服务器产品，对软件定义存储、大数据和SDI基础架构等进行优化和架构创新，满足服务器大规模部署。
+  description: 'FusionServer Pro X6000 V6服务器是针对互联网、HPC、云计算、数据中心等业务应用需求而推出的新一代2U高密度服务器产品，对软件定义存储、大数据和SDI基础架构等进行优化和架构创新，满足服务器大规模部署。'
   extra:
     - name: 'og:type'
       value: website
@@ -26,7 +24,7 @@ seo:
       value: 河南网田
       keyName: property
     - name: 'og:description'
-      value: FusionServer Pro X6000 V6服务器是针对互联网、HPC、云计算、数据中心等业务应用需求而推出的新一代2U高密度服务器产品，对软件定义存储、大数据和SDI基础架构等进行优化和架构创新，满足服务器大规模部署。
+      value: 'FusionServer Pro X6000 V6服务器是针对互联网、HPC、云计算、数据中心等业务应用需求而推出的新一代2U高密度服务器产品，对软件定义存储、大数据和SDI基础架构等进行优化和架构创新，满足服务器大规模部署。'
       keyName: property
     - name: Robots
       value: all

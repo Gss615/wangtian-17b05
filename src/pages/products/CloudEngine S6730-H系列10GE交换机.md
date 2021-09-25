@@ -2,9 +2,7 @@
 id: '1'
 price: '49.40'
 title: CloudEngine S6730-H系列10GE交换机
-description: CloudEngine S6730-H系列10GE交换机，是华为公司推出的全新10GE盒式交换机，具备随板AC能力，可管理大规格数量的AP；具备业务随行能力，提供一致的用户体验；具备VXLAN能力，支持网络虚拟化功能；内置安全探针，支持异常流量检测、加密流量的威胁分析，以及全网威胁诱捕等功能，可广泛应用于企业园区、运营商、高校、政府等应用场景。
-default_thumbnail_image: images/plant1-lg.jpg
-default_original_image: images/plant1-lg.jpg
+description:  'CloudEngine S6730-H系列10GE交换机，是华为公司推出的全新10GE盒式交换机，具备随板AC能力，可管理大规格数量的AP；具备业务随行能力，提供一致的用户体验；具备VXLAN能力，支持网络虚拟化功能；内置安全探针，支持异常流量检测、加密流量的威胁分析，以及全网威胁诱捕等功能，可广泛应用于企业园区、运营商、高校、政府等应用场景。'
 featured: true
 order: 4
 category: src/pages/category/交换机.md
@@ -17,7 +15,7 @@ other4:
   images: {"s6700-24-ei":{"org":"S6700-24-EI_pic","img":["01.png","02.png","03.png","04.png","08.png"]}}
 seo:
   title: s6730-h | CloudEngine S6730-H系列10GE交换机 | 核心/汇聚交换机 | 园区交换机 | 交换机 | 企业网络
-  description: CloudEngine S6730-H系列10GE交换机，是华为公司推出的全新10GE盒式交换机，具备随板AC能力，可管理大规格数量的AP；具备业务随行能力，提供一致的用户体验；具备VXLAN能力，支持网络虚拟化功能；内置安全探针，支持异常流量检测、加密流量的威胁分析，以及全网威胁诱捕等功能，可广泛应用于企业园区、运营商、高校、政府等应用场景。
+  description: 'CloudEngine S6730-H系列10GE交换机，是华为公司推出的全新10GE盒式交换机，具备随板AC能力，可管理大规格数量的AP；具备业务随行能力，提供一致的用户体验；具备VXLAN能力，支持网络虚拟化功能；内置安全探针，支持异常流量检测、加密流量的威胁分析，以及全网威胁诱捕等功能，可广泛应用于企业园区、运营商、高校、政府等应用场景。'
   extra:
     - name: 'og:type'
       value: website
@@ -26,7 +24,7 @@ seo:
       value: 河南网田
       keyName: property
     - name: 'og:description'
-      value: CloudEngine S6730-H系列10GE交换机，是华为公司推出的全新10GE盒式交换机，具备随板AC能力，可管理大规格数量的AP；具备业务随行能力，提供一致的用户体验；具备VXLAN能力，支持网络虚拟化功能；内置安全探针，支持异常流量检测、加密流量的威胁分析，以及全网威胁诱捕等功能，可广泛应用于企业园区、运营商、高校、政府等应用场景。
+      value: 'CloudEngine S6730-H系列10GE交换机，是华为公司推出的全新10GE盒式交换机，具备随板AC能力，可管理大规格数量的AP；具备业务随行能力，提供一致的用户体验；具备VXLAN能力，支持网络虚拟化功能；内置安全探针，支持异常流量检测、加密流量的威胁分析，以及全网威胁诱捕等功能，可广泛应用于企业园区、运营商、高校、政府等应用场景。'
       keyName: property
     - name: Robots
       value: all

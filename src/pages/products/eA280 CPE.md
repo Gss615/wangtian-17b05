@@ -2,11 +2,9 @@
 id: '1'
 price: '49.40'
 title: eA280 CPE
-description: 华为eA280 LTE CPE（Long Term Evolution）室内无线网关CPE（Customer Premises Equipment）承担LTE无线广域网数据、本地有线无线局域网数据之间的转换任务，具备回传功能，可独立使用。
+description:  '华为eA280 LTE CPE（Long Term Evolution）室内无线网关CPE（Customer Premises Equipment）承担LTE无线广域网数据、本地有线无线局域网数据之间的转换任务，具备回传功能，可独立使用。
 
-eA280支持LTE R11/12标准。支持有线和无线网络接入。
-default_thumbnail_image: images/plant1-lg.jpg
-default_original_image: images/plant1-lg.jpg
+eA280支持LTE R11/12标准。支持有线和无线网络接入。'
 featured: true
 order: 363
 category: src/pages/category/eLTE综合接入解决方案.md
@@ -19,9 +17,9 @@ other4:
   images: {"other":{"org":"other","img":["eA280 CPE.png"]}}
 seo:
   title: ea280-lte-cpe | eA280 CPE | null | 终端 | eLTE综合接入解决方案 | 企业无线
-  description: 华为eA280 LTE CPE（Long Term Evolution）室内无线网关CPE（Customer Premises Equipment）承担LTE无线广域网数据、本地有线无线局域网数据之间的转换任务，具备回传功能，可独立使用。
+  description: '华为eA280 LTE CPE（Long Term Evolution）室内无线网关CPE（Customer Premises Equipment）承担LTE无线广域网数据、本地有线无线局域网数据之间的转换任务，具备回传功能，可独立使用。
 
-eA280支持LTE R11/12标准。支持有线和无线网络接入。
+eA280支持LTE R11/12标准。支持有线和无线网络接入。'
   extra:
     - name: 'og:type'
       value: website
@@ -30,9 +28,9 @@ eA280支持LTE R11/12标准。支持有线和无线网络接入。
       value: 河南网田
       keyName: property
     - name: 'og:description'
-      value: 华为eA280 LTE CPE（Long Term Evolution）室内无线网关CPE（Customer Premises Equipment）承担LTE无线广域网数据、本地有线无线局域网数据之间的转换任务，具备回传功能，可独立使用。
+      value: '华为eA280 LTE CPE（Long Term Evolution）室内无线网关CPE（Customer Premises Equipment）承担LTE无线广域网数据、本地有线无线局域网数据之间的转换任务，具备回传功能，可独立使用。
 
-eA280支持LTE R11/12标准。支持有线和无线网络接入。
+eA280支持LTE R11/12标准。支持有线和无线网络接入。'
       keyName: property
     - name: Robots
       value: all

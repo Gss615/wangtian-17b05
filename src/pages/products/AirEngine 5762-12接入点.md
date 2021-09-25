@@ -2,9 +2,7 @@
 id: '1'
 price: '49.40'
 title: AirEngine 5762-12接入点
-description: AirEngine 5762-12是华为发布的支持Wi-Fi 6（802.11ax）标准的室内AP。支持2.4GHz（2x2）和5GHz（2x2）双频同时提供业务，整机速率可达2.975Gbps。支持高带宽、高并发且体积小巧，便于客户灵活部署，有效节约客户投资，适用于中小型企业办公、医院、咖啡厅等室内覆盖场景。
-default_thumbnail_image: images/plant1-lg.jpg
-default_original_image: images/plant1-lg.jpg
+description:  'AirEngine 5762-12是华为发布的支持Wi-Fi 6（802.11ax）标准的室内AP。支持2.4GHz（2x2）和5GHz（2x2）双频同时提供业务，整机速率可达2.975Gbps。支持高带宽、高并发且体积小巧，便于客户灵活部署，有效节约客户投资，适用于中小型企业办公、医院、咖啡厅等室内覆盖场景。'
 featured: true
 order: 95
 category: src/pages/category/无线局域网.md
@@ -17,7 +15,7 @@ other4:
   images: {"other":{"org":"other","img":["AirEngine 5762-12接入点.png"]}}
 seo:
   title: airengine-5762-12 | AirEngine 5762-12接入点 | AirEngine 5700系列 | 室内接入点 | 无线局域网 | 企业网络
-  description: AirEngine 5762-12是华为发布的支持Wi-Fi 6（802.11ax）标准的室内AP。支持2.4GHz（2x2）和5GHz（2x2）双频同时提供业务，整机速率可达2.975Gbps。支持高带宽、高并发且体积小巧，便于客户灵活部署，有效节约客户投资，适用于中小型企业办公、医院、咖啡厅等室内覆盖场景。
+  description: 'AirEngine 5762-12是华为发布的支持Wi-Fi 6（802.11ax）标准的室内AP。支持2.4GHz（2x2）和5GHz（2x2）双频同时提供业务，整机速率可达2.975Gbps。支持高带宽、高并发且体积小巧，便于客户灵活部署，有效节约客户投资，适用于中小型企业办公、医院、咖啡厅等室内覆盖场景。'
   extra:
     - name: 'og:type'
       value: website
@@ -26,7 +24,7 @@ seo:
       value: 河南网田
       keyName: property
     - name: 'og:description'
-      value: AirEngine 5762-12是华为发布的支持Wi-Fi 6（802.11ax）标准的室内AP。支持2.4GHz（2x2）和5GHz（2x2）双频同时提供业务，整机速率可达2.975Gbps。支持高带宽、高并发且体积小巧，便于客户灵活部署，有效节约客户投资，适用于中小型企业办公、医院、咖啡厅等室内覆盖场景。
+      value: 'AirEngine 5762-12是华为发布的支持Wi-Fi 6（802.11ax）标准的室内AP。支持2.4GHz（2x2）和5GHz（2x2）双频同时提供业务，整机速率可达2.975Gbps。支持高带宽、高并发且体积小巧，便于客户灵活部署，有效节约客户投资，适用于中小型企业办公、医院、咖啡厅等室内覆盖场景。'
       keyName: property
     - name: Robots
       value: all

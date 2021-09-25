@@ -2,9 +2,7 @@
 id: '1'
 price: '49.40'
 title: AirEngine 5760-22W接入点
-description: AirEngine 5760-22W是华为发布的支持Wi-Fi 6（802.11ax）标准的Wi-Fi 6面板AP。支持2.4GHz（2×2）和5GHz （4×4）双频同时提供业务，整机速率可达5.37Gbps。内置智能天线，信号随用户而动，极大地增强用户对无线网络的使用体验，适用于酒店客房、学生宿舍、医院病房、小型办公室等房间面积较小，户型较密集场景。
-default_thumbnail_image: images/plant1-lg.jpg
-default_original_image: images/plant1-lg.jpg
+description:  'AirEngine 5760-22W是华为发布的支持Wi-Fi 6（802.11ax）标准的Wi-Fi 6面板AP。支持2.4GHz（2×2）和5GHz （4×4）双频同时提供业务，整机速率可达5.37Gbps。内置智能天线，信号随用户而动，极大地增强用户对无线网络的使用体验，适用于酒店客房、学生宿舍、医院病房、小型办公室等房间面积较小，户型较密集场景。'
 featured: true
 order: 96
 category: src/pages/category/无线局域网.md
@@ -17,7 +15,7 @@ other4:
   images: {"airengine5760-22w":{"org":"AirEngine5760-22W_pic","img":["bottom.png","front.png","front_left.png","front_right.png","rear_bottom.png","rear_top.png","top.png"]}}
 seo:
   title: airengine-5760-22w | AirEngine 5760-22W接入点 | AirEngine 5700系列 | 室内接入点 | 无线局域网 | 企业网络
-  description: AirEngine 5760-22W是华为发布的支持Wi-Fi 6（802.11ax）标准的Wi-Fi 6面板AP。支持2.4GHz（2×2）和5GHz （4×4）双频同时提供业务，整机速率可达5.37Gbps。内置智能天线，信号随用户而动，极大地增强用户对无线网络的使用体验，适用于酒店客房、学生宿舍、医院病房、小型办公室等房间面积较小，户型较密集场景。
+  description: 'AirEngine 5760-22W是华为发布的支持Wi-Fi 6（802.11ax）标准的Wi-Fi 6面板AP。支持2.4GHz（2×2）和5GHz （4×4）双频同时提供业务，整机速率可达5.37Gbps。内置智能天线，信号随用户而动，极大地增强用户对无线网络的使用体验，适用于酒店客房、学生宿舍、医院病房、小型办公室等房间面积较小，户型较密集场景。'
   extra:
     - name: 'og:type'
       value: website
@@ -26,7 +24,7 @@ seo:
       value: 河南网田
       keyName: property
     - name: 'og:description'
-      value: AirEngine 5760-22W是华为发布的支持Wi-Fi 6（802.11ax）标准的Wi-Fi 6面板AP。支持2.4GHz（2×2）和5GHz （4×4）双频同时提供业务，整机速率可达5.37Gbps。内置智能天线，信号随用户而动，极大地增强用户对无线网络的使用体验，适用于酒店客房、学生宿舍、医院病房、小型办公室等房间面积较小，户型较密集场景。
+      value: 'AirEngine 5760-22W是华为发布的支持Wi-Fi 6（802.11ax）标准的Wi-Fi 6面板AP。支持2.4GHz（2×2）和5GHz （4×4）双频同时提供业务，整机速率可达5.37Gbps。内置智能天线，信号随用户而动，极大地增强用户对无线网络的使用体验，适用于酒店客房、学生宿舍、医院病房、小型办公室等房间面积较小，户型较密集场景。'
       keyName: property
     - name: Robots
       value: all

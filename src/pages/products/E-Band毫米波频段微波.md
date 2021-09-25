@@ -2,9 +2,7 @@
 id: '1'
 price: '49.40'
 title: E-Band毫米波频段微波
-description: 华为E-Band微波系列RTN380/380H，工作在71-86 GHz的毫米波频段，频谱费用低，资源丰富，具有高达10 Gbit/s的超大传输容量，适用于大带宽IP业务汇聚传输和光传送网的微波补网。全室外设备形态和极简的运维特性有利于城区的密集部署，充分满足企业专线互联、ISP固定宽带回传等多种场景大带宽无线传输的需求。
-default_thumbnail_image: images/plant1-lg.jpg
-default_original_image: images/plant1-lg.jpg
+description:  '华为E-Band微波系列RTN380/380H，工作在71-86 GHz的毫米波频段，频谱费用低，资源丰富，具有高达10 Gbit/s的超大传输容量，适用于大带宽IP业务汇聚传输和光传送网的微波补网。全室外设备形态和极简的运维特性有利于城区的密集部署，充分满足企业专线互联、ISP固定宽带回传等多种场景大带宽无线传输的需求。'
 featured: true
 order: 359
 category: src/pages/category/企业微波解决方案.md
@@ -17,7 +15,7 @@ other4:
   images: {"other":{"org":"other","img":["E-Band毫米波频段微波.png"]}}
 seo:
   title: e-Band-millimeter | E-Band毫米波频段微波 | null | null | 企业微波解决方案 | 企业无线
-  description: 华为E-Band微波系列RTN380/380H，工作在71-86 GHz的毫米波频段，频谱费用低，资源丰富，具有高达10 Gbit/s的超大传输容量，适用于大带宽IP业务汇聚传输和光传送网的微波补网。全室外设备形态和极简的运维特性有利于城区的密集部署，充分满足企业专线互联、ISP固定宽带回传等多种场景大带宽无线传输的需求。
+  description: '华为E-Band微波系列RTN380/380H，工作在71-86 GHz的毫米波频段，频谱费用低，资源丰富，具有高达10 Gbit/s的超大传输容量，适用于大带宽IP业务汇聚传输和光传送网的微波补网。全室外设备形态和极简的运维特性有利于城区的密集部署，充分满足企业专线互联、ISP固定宽带回传等多种场景大带宽无线传输的需求。'
   extra:
     - name: 'og:type'
       value: website
@@ -26,7 +24,7 @@ seo:
       value: 河南网田
       keyName: property
     - name: 'og:description'
-      value: 华为E-Band微波系列RTN380/380H，工作在71-86 GHz的毫米波频段，频谱费用低，资源丰富，具有高达10 Gbit/s的超大传输容量，适用于大带宽IP业务汇聚传输和光传送网的微波补网。全室外设备形态和极简的运维特性有利于城区的密集部署，充分满足企业专线互联、ISP固定宽带回传等多种场景大带宽无线传输的需求。
+      value: '华为E-Band微波系列RTN380/380H，工作在71-86 GHz的毫米波频段，频谱费用低，资源丰富，具有高达10 Gbit/s的超大传输容量，适用于大带宽IP业务汇聚传输和光传送网的微波补网。全室外设备形态和极简的运维特性有利于城区的密集部署，充分满足企业专线互联、ISP固定宽带回传等多种场景大带宽无线传输的需求。'
       keyName: property
     - name: Robots
       value: all

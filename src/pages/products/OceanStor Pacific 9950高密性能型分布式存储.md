@@ -2,15 +2,13 @@
 id: '1'
 price: '49.40'
 title: OceanStor Pacific 9950高密性能型分布式存储
-description: 华为OceanStor Pacific 9950高密高性能存储系统，每个5U机箱里可容纳8个存储节点，采用全NVMe SSD主存，结合全PCIe 4.0设计，每机箱可提供128TB至614.4TB裸容量，以及高达160GB/s带宽、200万IOPS领先性能，相较业界其他同类产品每U性能密度高30%。关键特点：
+description:  '华为OceanStor Pacific 9950高密高性能存储系统，每个5U机箱里可容纳8个存储节点，采用全NVMe SSD主存，结合全PCIe 4.0设计，每机箱可提供128TB至614.4TB裸容量，以及高达160GB/s带宽、200万IOPS领先性能，相较业界其他同类产品每U性能密度高30%。关键特点：
 
 • Half-Palm高密形态NVMe SSD，单位空间多容纳33%全闪介质；
 • 每节点32GB专属备电设计，关键数据内存级时延；
 • 前端、数据和介质接口1 : 1 : 1.25最优带宽比设计，充分释放处理器潜能。
 
-OceanStor Pacific 9950凭借业界领先的性能，可为高性能计算、AI应用、大数据分析等场景提供高效数据访问服务。
-default_thumbnail_image: images/plant1-lg.jpg
-default_original_image: images/plant1-lg.jpg
+OceanStor Pacific 9950凭借业界领先的性能，可为高性能计算、AI应用、大数据分析等场景提供高效数据访问服务。'
 featured: true
 order: 271
 category: src/pages/category/海量存储.md
@@ -23,13 +21,13 @@ other4:
   images: {"other":{"org":"other","img":["OceanStor Pacific 9950高密性能型分布式存储.png"]}}
 seo:
   title: oceanstor-pacific-9950 | OceanStor Pacific 9950高密性能型分布式存储 | 性能型 | OceanStor Pacific 系列存储 | 海量存储 | 数据存储
-  description: 华为OceanStor Pacific 9950高密高性能存储系统，每个5U机箱里可容纳8个存储节点，采用全NVMe SSD主存，结合全PCIe 4.0设计，每机箱可提供128TB至614.4TB裸容量，以及高达160GB/s带宽、200万IOPS领先性能，相较业界其他同类产品每U性能密度高30%。关键特点：
+  description: '华为OceanStor Pacific 9950高密高性能存储系统，每个5U机箱里可容纳8个存储节点，采用全NVMe SSD主存，结合全PCIe 4.0设计，每机箱可提供128TB至614.4TB裸容量，以及高达160GB/s带宽、200万IOPS领先性能，相较业界其他同类产品每U性能密度高30%。关键特点：
 
 • Half-Palm高密形态NVMe SSD，单位空间多容纳33%全闪介质；
 • 每节点32GB专属备电设计，关键数据内存级时延；
 • 前端、数据和介质接口1 : 1 : 1.25最优带宽比设计，充分释放处理器潜能。
 
-OceanStor Pacific 9950凭借业界领先的性能，可为高性能计算、AI应用、大数据分析等场景提供高效数据访问服务。
+OceanStor Pacific 9950凭借业界领先的性能，可为高性能计算、AI应用、大数据分析等场景提供高效数据访问服务。'
   extra:
     - name: 'og:type'
       value: website
@@ -38,13 +36,13 @@ OceanStor Pacific 9950凭借业界领先的性能，可为高性能计算、AI�
       value: 河南网田
       keyName: property
     - name: 'og:description'
-      value: 华为OceanStor Pacific 9950高密高性能存储系统，每个5U机箱里可容纳8个存储节点，采用全NVMe SSD主存，结合全PCIe 4.0设计，每机箱可提供128TB至614.4TB裸容量，以及高达160GB/s带宽、200万IOPS领先性能，相较业界其他同类产品每U性能密度高30%。关键特点：
+      value: '华为OceanStor Pacific 9950高密高性能存储系统，每个5U机箱里可容纳8个存储节点，采用全NVMe SSD主存，结合全PCIe 4.0设计，每机箱可提供128TB至614.4TB裸容量，以及高达160GB/s带宽、200万IOPS领先性能，相较业界其他同类产品每U性能密度高30%。关键特点：
 
 • Half-Palm高密形态NVMe SSD，单位空间多容纳33%全闪介质；
 • 每节点32GB专属备电设计，关键数据内存级时延；
 • 前端、数据和介质接口1 : 1 : 1.25最优带宽比设计，充分释放处理器潜能。
 
-OceanStor Pacific 9950凭借业界领先的性能，可为高性能计算、AI应用、大数据分析等场景提供高效数据访问服务。
+OceanStor Pacific 9950凭借业界领先的性能，可为高性能计算、AI应用、大数据分析等场景提供高效数据访问服务。'
       keyName: property
     - name: Robots
       value: all

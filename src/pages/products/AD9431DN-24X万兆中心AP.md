@@ -2,11 +2,9 @@
 id: '1'
 price: '49.40'
 title: AD9431DN-24X万兆中心AP
-description: AD9431DN-24X是华为敏捷分布式Wi-Fi方案中的新一代中心AP，支持4个万兆上行接口，可以直连多个远端单元部署到室内。万兆中心AP和远端单元之间使用网线连接，集中处理业务转发。
+description:  'AD9431DN-24X是华为敏捷分布式Wi-Fi方案中的新一代中心AP，支持4个万兆上行接口，可以直连多个远端单元部署到室内。万兆中心AP和远端单元之间使用网线连接，集中处理业务转发。
 
-适用于学校、酒店、医院以及办公会议室等房间密度大、墙体结构复杂、业务带宽高的场景。
-default_thumbnail_image: images/plant1-lg.jpg
-default_original_image: images/plant1-lg.jpg
+适用于学校、酒店、医院以及办公会议室等房间密度大、墙体结构复杂、业务带宽高的场景。'
 featured: true
 order: 159
 category: src/pages/category/无线局域网.md
@@ -19,9 +17,9 @@ other4:
   images: {"ad9430dn-24":{"org":"AD9430DN-24_pic","img":["01.png","02.png","03.png","04.png","05.png","06.png","07.png"]}}
 seo:
   title: ad9431dn-24x | AD9431DN-24X万兆中心AP | null | 场景化产品系列 | 无线局域网 | 企业网络
-  description: AD9431DN-24X是华为敏捷分布式Wi-Fi方案中的新一代中心AP，支持4个万兆上行接口，可以直连多个远端单元部署到室内。万兆中心AP和远端单元之间使用网线连接，集中处理业务转发。
+  description: 'AD9431DN-24X是华为敏捷分布式Wi-Fi方案中的新一代中心AP，支持4个万兆上行接口，可以直连多个远端单元部署到室内。万兆中心AP和远端单元之间使用网线连接，集中处理业务转发。
 
-适用于学校、酒店、医院以及办公会议室等房间密度大、墙体结构复杂、业务带宽高的场景。
+适用于学校、酒店、医院以及办公会议室等房间密度大、墙体结构复杂、业务带宽高的场景。'
   extra:
     - name: 'og:type'
       value: website
@@ -30,9 +28,9 @@ seo:
       value: 河南网田
       keyName: property
     - name: 'og:description'
-      value: AD9431DN-24X是华为敏捷分布式Wi-Fi方案中的新一代中心AP，支持4个万兆上行接口，可以直连多个远端单元部署到室内。万兆中心AP和远端单元之间使用网线连接，集中处理业务转发。
+      value: 'AD9431DN-24X是华为敏捷分布式Wi-Fi方案中的新一代中心AP，支持4个万兆上行接口，可以直连多个远端单元部署到室内。万兆中心AP和远端单元之间使用网线连接，集中处理业务转发。
 
-适用于学校、酒店、医院以及办公会议室等房间密度大、墙体结构复杂、业务带宽高的场景。
+适用于学校、酒店、医院以及办公会议室等房间密度大、墙体结构复杂、业务带宽高的场景。'
       keyName: property
     - name: Robots
       value: all

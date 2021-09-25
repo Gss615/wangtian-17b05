@@ -2,9 +2,7 @@
 id: '1'
 price: '49.40'
 title: AirEngine 5760-10 接入点
-description: AirEngine 5760-10是华为发布的支持Wi-Fi 6（802.11ax）标准的无线接入点产品。支持2×2 MIMO，2.4GHz和5GHz双频同时提供业务，整机速率可达1.775Gbps。内置智能天线，信号随用户而动，带来更好的覆盖效果。适合部署在中小型企业、咖啡厅、休闲中心等场景。
-default_thumbnail_image: images/plant1-lg.jpg
-default_original_image: images/plant1-lg.jpg
+description:  'AirEngine 5760-10是华为发布的支持Wi-Fi 6（802.11ax）标准的无线接入点产品。支持2×2 MIMO，2.4GHz和5GHz双频同时提供业务，整机速率可达1.775Gbps。内置智能天线，信号随用户而动，带来更好的覆盖效果。适合部署在中小型企业、咖啡厅、休闲中心等场景。'
 featured: true
 order: 90
 category: src/pages/category/无线局域网.md
@@ -17,7 +15,7 @@ other4:
   images: {"airengine5760-10":{"org":"AirEngine5760-10_pic","img":["bottom.png","front_left.png","front_right.png","front_top.png","rear_top.png","top.png"]}}
 seo:
   title: airengine-5760-10 | AirEngine 5760-10 接入点 | AirEngine 5700系列 | 室内接入点 | 无线局域网 | 企业网络
-  description: AirEngine 5760-10是华为发布的支持Wi-Fi 6（802.11ax）标准的无线接入点产品。支持2×2 MIMO，2.4GHz和5GHz双频同时提供业务，整机速率可达1.775Gbps。内置智能天线，信号随用户而动，带来更好的覆盖效果。适合部署在中小型企业、咖啡厅、休闲中心等场景。
+  description: 'AirEngine 5760-10是华为发布的支持Wi-Fi 6（802.11ax）标准的无线接入点产品。支持2×2 MIMO，2.4GHz和5GHz双频同时提供业务，整机速率可达1.775Gbps。内置智能天线，信号随用户而动，带来更好的覆盖效果。适合部署在中小型企业、咖啡厅、休闲中心等场景。'
   extra:
     - name: 'og:type'
       value: website
@@ -26,7 +24,7 @@ seo:
       value: 河南网田
       keyName: property
     - name: 'og:description'
-      value: AirEngine 5760-10是华为发布的支持Wi-Fi 6（802.11ax）标准的无线接入点产品。支持2×2 MIMO，2.4GHz和5GHz双频同时提供业务，整机速率可达1.775Gbps。内置智能天线，信号随用户而动，带来更好的覆盖效果。适合部署在中小型企业、咖啡厅、休闲中心等场景。
+      value: 'AirEngine 5760-10是华为发布的支持Wi-Fi 6（802.11ax）标准的无线接入点产品。支持2×2 MIMO，2.4GHz和5GHz双频同时提供业务，整机速率可达1.775Gbps。内置智能天线，信号随用户而动，带来更好的覆盖效果。适合部署在中小型企业、咖啡厅、休闲中心等场景。'
       keyName: property
     - name: Robots
       value: all

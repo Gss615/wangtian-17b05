@@ -2,14 +2,12 @@
 id: '1'
 price: '49.40'
 title: Rapid
-description: eLTE快速部署系统集成了基站、核心网、调度系统等功能，具有一体化、小型化的特点，特别适合紧急情况下需要快速部署的场景，比如网络瘫痪及大事件等情况。
+description:  'eLTE快速部署系统集成了基站、核心网、调度系统等功能，具有一体化、小型化的特点，特别适合紧急情况下需要快速部署的场景，比如网络瘫痪及大事件等情况。
 
 eLTE快速部署系统能够快速部署，在一定范围内提供通讯保障，为现场人员提供语音、调度、数据传输、视频监控等业务，并支持微波和卫星等多种回传方式。
 
 
-
-default_thumbnail_image: images/plant1-lg.jpg
-default_original_image: images/plant1-lg.jpg
+'
 featured: true
 order: 356
 category: src/pages/category/eLTE宽带集群解决方案.md
@@ -22,12 +20,12 @@ other4:
   images: {"other":{"org":"other","img":["Rapid.png"]}}
 seo:
   title: elte-rapid | Rapid | null | Rapid快速部署系统 | eLTE宽带集群解决方案 | 企业无线
-  description: eLTE快速部署系统集成了基站、核心网、调度系统等功能，具有一体化、小型化的特点，特别适合紧急情况下需要快速部署的场景，比如网络瘫痪及大事件等情况。
+  description: 'eLTE快速部署系统集成了基站、核心网、调度系统等功能，具有一体化、小型化的特点，特别适合紧急情况下需要快速部署的场景，比如网络瘫痪及大事件等情况。
 
 eLTE快速部署系统能够快速部署，在一定范围内提供通讯保障，为现场人员提供语音、调度、数据传输、视频监控等业务，并支持微波和卫星等多种回传方式。
 
 
-
+'
   extra:
     - name: 'og:type'
       value: website
@@ -36,12 +34,12 @@ eLTE快速部署系统能够快速部署，在一定范围内提供通讯保障�
       value: 河南网田
       keyName: property
     - name: 'og:description'
-      value: eLTE快速部署系统集成了基站、核心网、调度系统等功能，具有一体化、小型化的特点，特别适合紧急情况下需要快速部署的场景，比如网络瘫痪及大事件等情况。
+      value: 'eLTE快速部署系统集成了基站、核心网、调度系统等功能，具有一体化、小型化的特点，特别适合紧急情况下需要快速部署的场景，比如网络瘫痪及大事件等情况。
 
 eLTE快速部署系统能够快速部署，在一定范围内提供通讯保障，为现场人员提供语音、调度、数据传输、视频监控等业务，并支持微波和卫星等多种回传方式。
 
 
-
+'
       keyName: property
     - name: Robots
       value: all

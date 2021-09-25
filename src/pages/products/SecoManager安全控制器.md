@@ -2,11 +2,9 @@
 id: '1'
 price: '49.40'
 title: SecoManager安全控制器
-description: SecoManager是华为面向数据中心、园区等不同场景推出的安全控制器，可实现全网安全策略集中管理、安全业务编排和高性能日志管理。
+description:  'SecoManager是华为面向数据中心、园区等不同场景推出的安全控制器，可实现全网安全策略集中管理、安全业务编排和高性能日志管理。
 
-SecoManager通过用户业务分区和应用的业务编排，自动完成安全策略的生成与部署，实现安全业务分钟级部署，有效降低安全运维成本。SecoManager协同SDN控制器和HiSec Insight安全态势感知系统联动，将威胁分钟级闭环处置，大幅提升企业网络的威胁防御能力，帮助企业构建全网主动防御体系。
-default_thumbnail_image: images/plant1-lg.jpg
-default_original_image: images/plant1-lg.jpg
+SecoManager通过用户业务分区和应用的业务编排，自动完成安全策略的生成与部署，实现安全业务分钟级部署，有效降低安全运维成本。SecoManager协同SDN控制器和HiSec Insight安全态势感知系统联动，将威胁分钟级闭环处置，大幅提升企业网络的威胁防御能力，帮助企业构建全网主动防御体系。'
 featured: true
 order: 186
 category: src/pages/category/网络安全.md
@@ -19,9 +17,9 @@ other4:
   images: {"other":{"org":"other","img":["SecoManager安全控制器.png"]}}
 seo:
   title: secomanager | SecoManager安全控制器 | null | 安全管理 | 网络安全 | 企业网络
-  description: SecoManager是华为面向数据中心、园区等不同场景推出的安全控制器，可实现全网安全策略集中管理、安全业务编排和高性能日志管理。
+  description: 'SecoManager是华为面向数据中心、园区等不同场景推出的安全控制器，可实现全网安全策略集中管理、安全业务编排和高性能日志管理。
 
-SecoManager通过用户业务分区和应用的业务编排，自动完成安全策略的生成与部署，实现安全业务分钟级部署，有效降低安全运维成本。SecoManager协同SDN控制器和HiSec Insight安全态势感知系统联动，将威胁分钟级闭环处置，大幅提升企业网络的威胁防御能力，帮助企业构建全网主动防御体系。
+SecoManager通过用户业务分区和应用的业务编排，自动完成安全策略的生成与部署，实现安全业务分钟级部署，有效降低安全运维成本。SecoManager协同SDN控制器和HiSec Insight安全态势感知系统联动，将威胁分钟级闭环处置，大幅提升企业网络的威胁防御能力，帮助企业构建全网主动防御体系。'
   extra:
     - name: 'og:type'
       value: website
@@ -30,9 +28,9 @@ SecoManager通过用户业务分区和应用的业务编排，自动完成安全
       value: 河南网田
       keyName: property
     - name: 'og:description'
-      value: SecoManager是华为面向数据中心、园区等不同场景推出的安全控制器，可实现全网安全策略集中管理、安全业务编排和高性能日志管理。
+      value: 'SecoManager是华为面向数据中心、园区等不同场景推出的安全控制器，可实现全网安全策略集中管理、安全业务编排和高性能日志管理。
 
-SecoManager通过用户业务分区和应用的业务编排，自动完成安全策略的生成与部署，实现安全业务分钟级部署，有效降低安全运维成本。SecoManager协同SDN控制器和HiSec Insight安全态势感知系统联动，将威胁分钟级闭环处置，大幅提升企业网络的威胁防御能力，帮助企业构建全网主动防御体系。
+SecoManager通过用户业务分区和应用的业务编排，自动完成安全策略的生成与部署，实现安全业务分钟级部署，有效降低安全运维成本。SecoManager协同SDN控制器和HiSec Insight安全态势感知系统联动，将威胁分钟级闭环处置，大幅提升企业网络的威胁防御能力，帮助企业构建全网主动防御体系。'
       keyName: property
     - name: Robots
       value: all

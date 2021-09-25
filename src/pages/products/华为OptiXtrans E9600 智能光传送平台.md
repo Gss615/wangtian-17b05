@@ -2,11 +2,9 @@
 id: '1'
 price: '49.40'
 title: 华为OptiXtrans E9600 智能光传送平台
-description: 华为OptiXtrans E9600 是面向企业ON2.0时代的大容量、智能化、融合光和电新一代增强型MS-OTN平台。
+description:  '华为OptiXtrans E9600 是面向企业ON2.0时代的大容量、智能化、融合光和电新一代增强型MS-OTN平台。
 
-新一代T级交叉平台，可灵活处理OTN/VC/PKT各类型颗粒，同时具备平滑演进到Liquid OTN能力。高集成、低功耗，支持100M~400GE任意速率业务接入，单波100G~800G按需调速。AI运维，实现网络的自动化驾驶，应对网络规模增长，运维压力。
-default_thumbnail_image: images/plant1-lg.jpg
-default_original_image: images/plant1-lg.jpg
+新一代T级交叉平台，可灵活处理OTN/VC/PKT各类型颗粒，同时具备平滑演进到Liquid OTN能力。高集成、低功耗，支持100M~400GE任意速率业务接入，单波100G~800G按需调速。AI运维，实现网络的自动化驾驶，应对网络规模增长，运维压力。'
 featured: true
 order: 250
 category: src/pages/category/全光承载解决方案.md
@@ -19,9 +17,9 @@ other4:
   images: {"other":{"org":"other","img":["华为OptiXtrans E9600 智能光传送平台.png"]}}
 seo:
   title: optixtrans-e9600 | 华为OptiXtrans E9600 智能光传送平台 | null | null | 全光承载解决方案 | 企业光网络
-  description: 华为OptiXtrans E9600 是面向企业ON2.0时代的大容量、智能化、融合光和电新一代增强型MS-OTN平台。
+  description: '华为OptiXtrans E9600 是面向企业ON2.0时代的大容量、智能化、融合光和电新一代增强型MS-OTN平台。
 
-新一代T级交叉平台，可灵活处理OTN/VC/PKT各类型颗粒，同时具备平滑演进到Liquid OTN能力。高集成、低功耗，支持100M~400GE任意速率业务接入，单波100G~800G按需调速。AI运维，实现网络的自动化驾驶，应对网络规模增长，运维压力。
+新一代T级交叉平台，可灵活处理OTN/VC/PKT各类型颗粒，同时具备平滑演进到Liquid OTN能力。高集成、低功耗，支持100M~400GE任意速率业务接入，单波100G~800G按需调速。AI运维，实现网络的自动化驾驶，应对网络规模增长，运维压力。'
   extra:
     - name: 'og:type'
       value: website
@@ -30,9 +28,9 @@ seo:
       value: 河南网田
       keyName: property
     - name: 'og:description'
-      value: 华为OptiXtrans E9600 是面向企业ON2.0时代的大容量、智能化、融合光和电新一代增强型MS-OTN平台。
+      value: '华为OptiXtrans E9600 是面向企业ON2.0时代的大容量、智能化、融合光和电新一代增强型MS-OTN平台。
 
-新一代T级交叉平台，可灵活处理OTN/VC/PKT各类型颗粒，同时具备平滑演进到Liquid OTN能力。高集成、低功耗，支持100M~400GE任意速率业务接入，单波100G~800G按需调速。AI运维，实现网络的自动化驾驶，应对网络规模增长，运维压力。
+新一代T级交叉平台，可灵活处理OTN/VC/PKT各类型颗粒，同时具备平滑演进到Liquid OTN能力。高集成、低功耗，支持100M~400GE任意速率业务接入，单波100G~800G按需调速。AI运维，实现网络的自动化驾驶，应对网络规模增长，运维压力。'
       keyName: property
     - name: Robots
       value: all

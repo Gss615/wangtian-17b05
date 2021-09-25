@@ -2,9 +2,7 @@
 id: '1'
 price: '49.40'
 title: AirEngine 6761S-21接入点
-description: AirEngine 6761S-21是华为面向SMB市场发布的的支持Wi-Fi 6（802.11ax）标准的无线接入点产品。支持2.4GHz（4x4）和5GHz（4x4）及独立射频扫描，整机速率可达3.55Gbps。内置动态变焦智能天线，可随接入用户密集程度，动态调整智能天线覆盖范围，极大地增强用户对无线网络的使用体验。适用于移动办公、教育、场馆等人流密集场景。
-default_thumbnail_image: images/plant1-lg.jpg
-default_original_image: images/plant1-lg.jpg
+description:  'AirEngine 6761S-21是华为面向SMB市场发布的的支持Wi-Fi 6（802.11ax）标准的无线接入点产品。支持2.4GHz（4x4）和5GHz（4x4）及独立射频扫描，整机速率可达3.55Gbps。内置动态变焦智能天线，可随接入用户密集程度，动态调整智能天线覆盖范围，极大地增强用户对无线网络的使用体验。适用于移动办公、教育、场馆等人流密集场景。'
 featured: true
 order: 85
 category: src/pages/category/无线局域网.md
@@ -17,7 +15,7 @@ other4:
   images: {"airengine6761s-21":{"org":"AirEngine6761S-21_pic","img":["bottom.png","front.png","front_left.png","front_right.png","rear.png","rear_top.png","top.png"]}}
 seo:
   title: airengine-6761s-21 | AirEngine 6761S-21接入点 | AirEngine 6700 系列 | 室内接入点 | 无线局域网 | 企业网络
-  description: AirEngine 6761S-21是华为面向SMB市场发布的的支持Wi-Fi 6（802.11ax）标准的无线接入点产品。支持2.4GHz（4x4）和5GHz（4x4）及独立射频扫描，整机速率可达3.55Gbps。内置动态变焦智能天线，可随接入用户密集程度，动态调整智能天线覆盖范围，极大地增强用户对无线网络的使用体验。适用于移动办公、教育、场馆等人流密集场景。
+  description: 'AirEngine 6761S-21是华为面向SMB市场发布的的支持Wi-Fi 6（802.11ax）标准的无线接入点产品。支持2.4GHz（4x4）和5GHz（4x4）及独立射频扫描，整机速率可达3.55Gbps。内置动态变焦智能天线，可随接入用户密集程度，动态调整智能天线覆盖范围，极大地增强用户对无线网络的使用体验。适用于移动办公、教育、场馆等人流密集场景。'
   extra:
     - name: 'og:type'
       value: website
@@ -26,7 +24,7 @@ seo:
       value: 河南网田
       keyName: property
     - name: 'og:description'
-      value: AirEngine 6761S-21是华为面向SMB市场发布的的支持Wi-Fi 6（802.11ax）标准的无线接入点产品。支持2.4GHz（4x4）和5GHz（4x4）及独立射频扫描，整机速率可达3.55Gbps。内置动态变焦智能天线，可随接入用户密集程度，动态调整智能天线覆盖范围，极大地增强用户对无线网络的使用体验。适用于移动办公、教育、场馆等人流密集场景。
+      value: 'AirEngine 6761S-21是华为面向SMB市场发布的的支持Wi-Fi 6（802.11ax）标准的无线接入点产品。支持2.4GHz（4x4）和5GHz（4x4）及独立射频扫描，整机速率可达3.55Gbps。内置动态变焦智能天线，可随接入用户密集程度，动态调整智能天线覆盖范围，极大地增强用户对无线网络的使用体验。适用于移动办公、教育、场馆等人流密集场景。'
       keyName: property
     - name: Robots
       value: all

@@ -2,15 +2,13 @@
 id: '1'
 price: '49.40'
 title: iMaster NCE-WAN
-description: 作为华为CloudWAN解决方案的核心组件，iMaster NCE-WAN是华为推出的面向企业分支网络场景的自动驾驶网络管理控制系统，应用EVPN等技术实现网络虚拟化、策略集中化以及管理云化，为企业快速提供云化专线管理服务，加速业务上云与数字化转型。
+description:  '作为华为CloudWAN解决方案的核心组件，iMaster NCE-WAN是华为推出的面向企业分支网络场景的自动驾驶网络管理控制系统，应用EVPN等技术实现网络虚拟化、策略集中化以及管理云化，为企业快速提供云化专线管理服务，加速业务上云与数字化转型。
 
 业务快速发放，实现业务快速部署与上线，多组网编排能力满足不同行业需求；
 基于应用的体验优化，FEC等广域优化技术保障关键应用体验；
 基于意图的监控&运维、TOPO，45+报表等提升运维效率
 
-iMaster NCE-WAN可实现对企业互联业务实现全流程管理，助力企业更好地应对云化时代的业务需求，实现商业成功
-default_thumbnail_image: images/plant1-lg.jpg
-default_original_image: images/plant1-lg.jpg
+iMaster NCE-WAN可实现对企业互联业务实现全流程管理，助力企业更好地应对云化时代的业务需求，实现商业成功'
 featured: true
 order: 192
 category: src/pages/category/网络管控&分析软件.md
@@ -23,13 +21,13 @@ other4:
   images: {"other":{"org":"other","img":["iMaster NCE-WAN.png"]}}
 seo:
   title: imaster-nce-wan | iMaster NCE-WAN | null | SD-WAN自动驾驶管理控制系统 | 网络管控&分析软件 | 企业网络
-  description: 作为华为CloudWAN解决方案的核心组件，iMaster NCE-WAN是华为推出的面向企业分支网络场景的自动驾驶网络管理控制系统，应用EVPN等技术实现网络虚拟化、策略集中化以及管理云化，为企业快速提供云化专线管理服务，加速业务上云与数字化转型。
+  description: '作为华为CloudWAN解决方案的核心组件，iMaster NCE-WAN是华为推出的面向企业分支网络场景的自动驾驶网络管理控制系统，应用EVPN等技术实现网络虚拟化、策略集中化以及管理云化，为企业快速提供云化专线管理服务，加速业务上云与数字化转型。
 
 业务快速发放，实现业务快速部署与上线，多组网编排能力满足不同行业需求；
 基于应用的体验优化，FEC等广域优化技术保障关键应用体验；
 基于意图的监控&运维、TOPO，45+报表等提升运维效率
 
-iMaster NCE-WAN可实现对企业互联业务实现全流程管理，助力企业更好地应对云化时代的业务需求，实现商业成功
+iMaster NCE-WAN可实现对企业互联业务实现全流程管理，助力企业更好地应对云化时代的业务需求，实现商业成功'
   extra:
     - name: 'og:type'
       value: website
@@ -38,13 +36,13 @@ iMaster NCE-WAN可实现对企业互联业务实现全流程管理，助力企�
       value: 河南网田
       keyName: property
     - name: 'og:description'
-      value: 作为华为CloudWAN解决方案的核心组件，iMaster NCE-WAN是华为推出的面向企业分支网络场景的自动驾驶网络管理控制系统，应用EVPN等技术实现网络虚拟化、策略集中化以及管理云化，为企业快速提供云化专线管理服务，加速业务上云与数字化转型。
+      value: '作为华为CloudWAN解决方案的核心组件，iMaster NCE-WAN是华为推出的面向企业分支网络场景的自动驾驶网络管理控制系统，应用EVPN等技术实现网络虚拟化、策略集中化以及管理云化，为企业快速提供云化专线管理服务，加速业务上云与数字化转型。
 
 业务快速发放，实现业务快速部署与上线，多组网编排能力满足不同行业需求；
 基于应用的体验优化，FEC等广域优化技术保障关键应用体验；
 基于意图的监控&运维、TOPO，45+报表等提升运维效率
 
-iMaster NCE-WAN可实现对企业互联业务实现全流程管理，助力企业更好地应对云化时代的业务需求，实现商业成功
+iMaster NCE-WAN可实现对企业互联业务实现全流程管理，助力企业更好地应对云化时代的业务需求，实现商业成功'
       keyName: property
     - name: Robots
       value: all

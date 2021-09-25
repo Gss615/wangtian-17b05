@@ -2,11 +2,9 @@
 id: '1'
 price: '49.40'
 title: EG860 CPE
-description: EG860 CPE是基于TD-LTE技术的宽带无线路由器，主要实现行业宽带数据接入。
+description:  'EG860 CPE是基于TD-LTE技术的宽带无线路由器，主要实现行业宽带数据接入。
 
-EG860 CPE支持通过网口有线方式或WiFi无线方式接入到LTE无线网络，完成各种数据业务转换功能，可部署在室外，也可部署在室内。可广泛应用于各行业，进行固定或车载等数据采集、无线高清视频监控。
-default_thumbnail_image: images/plant1-lg.jpg
-default_original_image: images/plant1-lg.jpg
+EG860 CPE支持通过网口有线方式或WiFi无线方式接入到LTE无线网络，完成各种数据业务转换功能，可部署在室外，也可部署在室内。可广泛应用于各行业，进行固定或车载等数据采集、无线高清视频监控。'
 featured: true
 order: 355
 category: src/pages/category/eLTE宽带集群解决方案.md
@@ -19,9 +17,9 @@ other4:
   images: {"other":{"org":"other","img":["EG860 CPE.png"]}}
 seo:
   title: eg860-cpe | EG860 CPE | null | 终端 | eLTE宽带集群解决方案 | 企业无线
-  description: EG860 CPE是基于TD-LTE技术的宽带无线路由器，主要实现行业宽带数据接入。
+  description: 'EG860 CPE是基于TD-LTE技术的宽带无线路由器，主要实现行业宽带数据接入。
 
-EG860 CPE支持通过网口有线方式或WiFi无线方式接入到LTE无线网络，完成各种数据业务转换功能，可部署在室外，也可部署在室内。可广泛应用于各行业，进行固定或车载等数据采集、无线高清视频监控。
+EG860 CPE支持通过网口有线方式或WiFi无线方式接入到LTE无线网络，完成各种数据业务转换功能，可部署在室外，也可部署在室内。可广泛应用于各行业，进行固定或车载等数据采集、无线高清视频监控。'
   extra:
     - name: 'og:type'
       value: website
@@ -30,9 +28,9 @@ EG860 CPE支持通过网口有线方式或WiFi无线方式接入到LTE无线网
       value: 河南网田
       keyName: property
     - name: 'og:description'
-      value: EG860 CPE是基于TD-LTE技术的宽带无线路由器，主要实现行业宽带数据接入。
+      value: 'EG860 CPE是基于TD-LTE技术的宽带无线路由器，主要实现行业宽带数据接入。
 
-EG860 CPE支持通过网口有线方式或WiFi无线方式接入到LTE无线网络，完成各种数据业务转换功能，可部署在室外，也可部署在室内。可广泛应用于各行业，进行固定或车载等数据采集、无线高清视频监控。
+EG860 CPE支持通过网口有线方式或WiFi无线方式接入到LTE无线网络，完成各种数据业务转换功能，可部署在室外，也可部署在室内。可广泛应用于各行业，进行固定或车载等数据采集、无线高清视频监控。'
       keyName: property
     - name: Robots
       value: all

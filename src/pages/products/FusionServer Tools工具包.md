@@ -2,9 +2,7 @@
 id: '1'
 price: '49.40'
 title: FusionServer Tools工具包
-description: FusionServer Tools工具包提供了带内带外服务器快捷运维的小工具，能够帮助客户在单机场景或者没有上层管理软件的场景，也能够快速便携的对服务器进行配置，故障诊断、例行巡检、系统部署。
-default_thumbnail_image: images/plant1-lg.jpg
-default_original_image: images/plant1-lg.jpg
+description:  'FusionServer Tools工具包提供了带内带外服务器快捷运维的小工具，能够帮助客户在单机场景或者没有上层管理软件的场景，也能够快速便携的对服务器进行配置，故障诊断、例行巡检、系统部署。'
 featured: true
 order: 339
 category: src/pages/category/服务器 - 计算.md
@@ -17,7 +15,7 @@ other4:
   images: {"other":{"org":"other","img":["FusionServer Tools工具包.png"]}}
 seo:
   title: tools | FusionServer Tools工具包 | null | 智能管理软件 | 服务器 - 计算 | 数据中心
-  description: FusionServer Tools工具包提供了带内带外服务器快捷运维的小工具，能够帮助客户在单机场景或者没有上层管理软件的场景，也能够快速便携的对服务器进行配置，故障诊断、例行巡检、系统部署。
+  description: 'FusionServer Tools工具包提供了带内带外服务器快捷运维的小工具，能够帮助客户在单机场景或者没有上层管理软件的场景，也能够快速便携的对服务器进行配置，故障诊断、例行巡检、系统部署。'
   extra:
     - name: 'og:type'
       value: website
@@ -26,7 +24,7 @@ seo:
       value: 河南网田
       keyName: property
     - name: 'og:description'
-      value: FusionServer Tools工具包提供了带内带外服务器快捷运维的小工具，能够帮助客户在单机场景或者没有上层管理软件的场景，也能够快速便携的对服务器进行配置，故障诊断、例行巡检、系统部署。
+      value: 'FusionServer Tools工具包提供了带内带外服务器快捷运维的小工具，能够帮助客户在单机场景或者没有上层管理软件的场景，也能够快速便携的对服务器进行配置，故障诊断、例行巡检、系统部署。'
       keyName: property
     - name: Robots
       value: all

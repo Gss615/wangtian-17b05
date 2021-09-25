@@ -2,9 +2,7 @@
 id: '1'
 price: '49.40'
 title: 华为OptiXstar P502E
-description: 华为OptiXstar P502E产品是面向企业园区、视频回传等场景设计的ONU设备，支持10G EPON非对称SFP光模块接入， 并提供4个GE接口，为用户带来高质量的语音、数据和高清视频等业务体验。
-default_thumbnail_image: images/plant1-lg.jpg
-default_original_image: images/plant1-lg.jpg
+description:  '华为OptiXstar P502E产品是面向企业园区、视频回传等场景设计的ONU设备，支持10G EPON非对称SFP光模块接入， 并提供4个GE接口，为用户带来高质量的语音、数据和高清视频等业务体验。'
 featured: true
 order: 218
 category: src/pages/category/光终端.md
@@ -17,7 +15,7 @@ other4:
   images: {"other":{"org":"other","img":["华为OptiXstar P502E.png"]}}
 seo:
   title: optixstar-p502e | 华为OptiXstar P502E | null | ONU | 光终端 | 企业光网络
-  description: 华为OptiXstar P502E产品是面向企业园区、视频回传等场景设计的ONU设备，支持10G EPON非对称SFP光模块接入， 并提供4个GE接口，为用户带来高质量的语音、数据和高清视频等业务体验。
+  description: '华为OptiXstar P502E产品是面向企业园区、视频回传等场景设计的ONU设备，支持10G EPON非对称SFP光模块接入， 并提供4个GE接口，为用户带来高质量的语音、数据和高清视频等业务体验。'
   extra:
     - name: 'og:type'
       value: website
@@ -26,7 +24,7 @@ seo:
       value: 河南网田
       keyName: property
     - name: 'og:description'
-      value: 华为OptiXstar P502E产品是面向企业园区、视频回传等场景设计的ONU设备，支持10G EPON非对称SFP光模块接入， 并提供4个GE接口，为用户带来高质量的语音、数据和高清视频等业务体验。
+      value: '华为OptiXstar P502E产品是面向企业园区、视频回传等场景设计的ONU设备，支持10G EPON非对称SFP光模块接入， 并提供4个GE接口，为用户带来高质量的语音、数据和高清视频等业务体验。'
       keyName: property
     - name: Robots
       value: all

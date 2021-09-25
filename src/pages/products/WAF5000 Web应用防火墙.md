@@ -2,11 +2,9 @@
 id: '1'
 price: '49.40'
 title: WAF5000 Web应用防火墙
-description: WAF5000 Web应用防火墙采用独创的行为状态链检测技术，有效应对盗链、跨站请求伪造等Web特殊攻击。智能联动ms级锁定功能可有效降低入侵风险，以满足各类法律法规如PCI、等级保护、企业内部控制规范等要求，全方位保障客户的Web应用业务安全运行。
+description:  'WAF5000 Web应用防火墙采用独创的行为状态链检测技术，有效应对盗链、跨站请求伪造等Web特殊攻击。智能联动ms级锁定功能可有效降低入侵风险，以满足各类法律法规如PCI、等级保护、企业内部控制规范等要求，全方位保障客户的Web应用业务安全运行。
 
-WAF5000系列产品是华为面向政府、企业和ISP推出的专业级Web应用防火墙。
-default_thumbnail_image: images/plant1-lg.jpg
-default_original_image: images/plant1-lg.jpg
+WAF5000系列产品是华为面向政府、企业和ISP推出的专业级Web应用防火墙。'
 featured: true
 order: 177
 category: src/pages/category/网络安全.md
@@ -19,9 +17,9 @@ other4:
   images: {"waf5110":{"org":"WAF5110_pic","img":["front.png","front_left.png","front_right.png","front_top.png","left.png","rear.png","rear_left.png","rear_right.png","rear_top.png","right.png"]}}
 seo:
   title: waf | WAF5000 Web应用防火墙 | null | 防火墙及应用安全网关 | 网络安全 | 企业网络
-  description: WAF5000 Web应用防火墙采用独创的行为状态链检测技术，有效应对盗链、跨站请求伪造等Web特殊攻击。智能联动ms级锁定功能可有效降低入侵风险，以满足各类法律法规如PCI、等级保护、企业内部控制规范等要求，全方位保障客户的Web应用业务安全运行。
+  description: 'WAF5000 Web应用防火墙采用独创的行为状态链检测技术，有效应对盗链、跨站请求伪造等Web特殊攻击。智能联动ms级锁定功能可有效降低入侵风险，以满足各类法律法规如PCI、等级保护、企业内部控制规范等要求，全方位保障客户的Web应用业务安全运行。
 
-WAF5000系列产品是华为面向政府、企业和ISP推出的专业级Web应用防火墙。
+WAF5000系列产品是华为面向政府、企业和ISP推出的专业级Web应用防火墙。'
   extra:
     - name: 'og:type'
       value: website
@@ -30,9 +28,9 @@ WAF5000系列产品是华为面向政府、企业和ISP推出的专业级Web应�
       value: 河南网田
       keyName: property
     - name: 'og:description'
-      value: WAF5000 Web应用防火墙采用独创的行为状态链检测技术，有效应对盗链、跨站请求伪造等Web特殊攻击。智能联动ms级锁定功能可有效降低入侵风险，以满足各类法律法规如PCI、等级保护、企业内部控制规范等要求，全方位保障客户的Web应用业务安全运行。
+      value: 'WAF5000 Web应用防火墙采用独创的行为状态链检测技术，有效应对盗链、跨站请求伪造等Web特殊攻击。智能联动ms级锁定功能可有效降低入侵风险，以满足各类法律法规如PCI、等级保护、企业内部控制规范等要求，全方位保障客户的Web应用业务安全运行。
 
-WAF5000系列产品是华为面向政府、企业和ISP推出的专业级Web应用防火墙。
+WAF5000系列产品是华为面向政府、企业和ISP推出的专业级Web应用防火墙。'
       keyName: property
     - name: Robots
       value: all

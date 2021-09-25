@@ -2,9 +2,7 @@
 id: '1'
 price: '49.40'
 title: 华为OptiXstar T620W
-description: 华为OptiXstar T620W系列产品是面向企业园区的挂杆式AP设备，网络侧提供1个GPON接口和一个GE接口，用户侧提供1个GE以太网接口，为用户提供高清的视频回传服务。T620W系列产品包含T620W-45（内置 45°水平波宽天线）与T620W-90（内置 90°水平波宽天线）两款产品。
-default_thumbnail_image: images/plant1-lg.jpg
-default_original_image: images/plant1-lg.jpg
+description:  '华为OptiXstar T620W系列产品是面向企业园区的挂杆式AP设备，网络侧提供1个GPON接口和一个GE接口，用户侧提供1个GE以太网接口，为用户提供高清的视频回传服务。T620W系列产品包含T620W-45（内置 45°水平波宽天线）与T620W-90（内置 90°水平波宽天线）两款产品。'
 featured: true
 order: 215
 category: src/pages/category/光终端.md
@@ -17,7 +15,7 @@ other4:
   images: {"other":{"org":"other","img":["华为OptiXstar T620W.png"]}}
 seo:
   title: optixstar-t620w | 华为OptiXstar T620W | null | ONU | 光终端 | 企业光网络
-  description: 华为OptiXstar T620W系列产品是面向企业园区的挂杆式AP设备，网络侧提供1个GPON接口和一个GE接口，用户侧提供1个GE以太网接口，为用户提供高清的视频回传服务。T620W系列产品包含T620W-45（内置 45°水平波宽天线）与T620W-90（内置 90°水平波宽天线）两款产品。
+  description: '华为OptiXstar T620W系列产品是面向企业园区的挂杆式AP设备，网络侧提供1个GPON接口和一个GE接口，用户侧提供1个GE以太网接口，为用户提供高清的视频回传服务。T620W系列产品包含T620W-45（内置 45°水平波宽天线）与T620W-90（内置 90°水平波宽天线）两款产品。'
   extra:
     - name: 'og:type'
       value: website
@@ -26,7 +24,7 @@ seo:
       value: 河南网田
       keyName: property
     - name: 'og:description'
-      value: 华为OptiXstar T620W系列产品是面向企业园区的挂杆式AP设备，网络侧提供1个GPON接口和一个GE接口，用户侧提供1个GE以太网接口，为用户提供高清的视频回传服务。T620W系列产品包含T620W-45（内置 45°水平波宽天线）与T620W-90（内置 90°水平波宽天线）两款产品。
+      value: '华为OptiXstar T620W系列产品是面向企业园区的挂杆式AP设备，网络侧提供1个GPON接口和一个GE接口，用户侧提供1个GE以太网接口，为用户提供高清的视频回传服务。T620W系列产品包含T620W-45（内置 45°水平波宽天线）与T620W-90（内置 90°水平波宽天线）两款产品。'
       keyName: property
     - name: Robots
       value: all

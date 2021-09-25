@@ -2,11 +2,9 @@
 id: '1'
 price: '49.40'
 title: CloudEngine S5735S-L-M系列视频监控交换机
-description: CloudEngine S5735S-L-M系列交换机是华为公司面向视频监控、安防行业推出的视频监控千兆接入交换机，可以提供灵活的全千兆接入及固定千兆上行端口。
+description:  'CloudEngine S5735S-L-M系列交换机是华为公司面向视频监控、安防行业推出的视频监控千兆接入交换机，可以提供灵活的全千兆接入及固定千兆上行端口。
 
-CloudEngine S5735S-L系列交换机基于新一代高性能硬件和华为公司统一的VRP（Versatile Routing Platform）软件平台，支持独家的增强型媒体传输质量指标（eMDI）特性，提供音视频业务质量的智能监控和诊断，同时支持灵活的以太组网，多样的安全控制等特点，支持多种三层路由协议，具备更高性能和更丰富的业务处理能力，可广泛应用于企业园区视频监控等应用场景。
-default_thumbnail_image: images/plant1-lg.jpg
-default_original_image: images/plant1-lg.jpg
+CloudEngine S5735S-L系列交换机基于新一代高性能硬件和华为公司统一的VRP（Versatile Routing Platform）软件平台，支持独家的增强型媒体传输质量指标（eMDI）特性，提供音视频业务质量的智能监控和诊断，同时支持灵活的以太组网，多样的安全控制等特点，支持多种三层路由协议，具备更高性能和更丰富的业务处理能力，可广泛应用于企业园区视频监控等应用场景。'
 featured: true
 order: 45
 category: src/pages/category/交换机.md
@@ -19,9 +17,9 @@ other4:
   images: {"s5720-36c-ei-ac":{"org":"S5720-36C-EI-AC_pic","img":["01.png","02.png","03.png","04.png","07.png","08.png"]}}
 seo:
   title: s5735s-l-m | CloudEngine S5735S-L-M系列视频监控交换机 | 行业专用交换机 | 园区交换机 | 交换机 | 企业网络
-  description: CloudEngine S5735S-L-M系列交换机是华为公司面向视频监控、安防行业推出的视频监控千兆接入交换机，可以提供灵活的全千兆接入及固定千兆上行端口。
+  description: 'CloudEngine S5735S-L-M系列交换机是华为公司面向视频监控、安防行业推出的视频监控千兆接入交换机，可以提供灵活的全千兆接入及固定千兆上行端口。
 
-CloudEngine S5735S-L系列交换机基于新一代高性能硬件和华为公司统一的VRP（Versatile Routing Platform）软件平台，支持独家的增强型媒体传输质量指标（eMDI）特性，提供音视频业务质量的智能监控和诊断，同时支持灵活的以太组网，多样的安全控制等特点，支持多种三层路由协议，具备更高性能和更丰富的业务处理能力，可广泛应用于企业园区视频监控等应用场景。
+CloudEngine S5735S-L系列交换机基于新一代高性能硬件和华为公司统一的VRP（Versatile Routing Platform）软件平台，支持独家的增强型媒体传输质量指标（eMDI）特性，提供音视频业务质量的智能监控和诊断，同时支持灵活的以太组网，多样的安全控制等特点，支持多种三层路由协议，具备更高性能和更丰富的业务处理能力，可广泛应用于企业园区视频监控等应用场景。'
   extra:
     - name: 'og:type'
       value: website
@@ -30,9 +28,9 @@ CloudEngine S5735S-L系列交换机基于新一代高性能硬件和华为公司
       value: 河南网田
       keyName: property
     - name: 'og:description'
-      value: CloudEngine S5735S-L-M系列交换机是华为公司面向视频监控、安防行业推出的视频监控千兆接入交换机，可以提供灵活的全千兆接入及固定千兆上行端口。
+      value: 'CloudEngine S5735S-L-M系列交换机是华为公司面向视频监控、安防行业推出的视频监控千兆接入交换机，可以提供灵活的全千兆接入及固定千兆上行端口。
 
-CloudEngine S5735S-L系列交换机基于新一代高性能硬件和华为公司统一的VRP（Versatile Routing Platform）软件平台，支持独家的增强型媒体传输质量指标（eMDI）特性，提供音视频业务质量的智能监控和诊断，同时支持灵活的以太组网，多样的安全控制等特点，支持多种三层路由协议，具备更高性能和更丰富的业务处理能力，可广泛应用于企业园区视频监控等应用场景。
+CloudEngine S5735S-L系列交换机基于新一代高性能硬件和华为公司统一的VRP（Versatile Routing Platform）软件平台，支持独家的增强型媒体传输质量指标（eMDI）特性，提供音视频业务质量的智能监控和诊断，同时支持灵活的以太组网，多样的安全控制等特点，支持多种三层路由协议，具备更高性能和更丰富的业务处理能力，可广泛应用于企业园区视频监控等应用场景。'
       keyName: property
     - name: Robots
       value: all

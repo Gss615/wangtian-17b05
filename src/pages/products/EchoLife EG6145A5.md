@@ -2,10 +2,8 @@
 id: '1'
 price: '49.40'
 title: EchoLife EG6145A5
-description: 华为EchoLife EG6145A5是智能网关设备，提供1个POTS语音接口、1个GE/FE自适应以太端口，3个FE以太端口，1个USB端口和2.4GHz Wi-Fi。应用灵活，支持即插即用、远程诊断、绿色节能等特性。
-EG6145A5支持GPON技术，实现FTTH组网场景下家庭用户的超宽带接入，其高性能的转发能力有效保障话音、数据和高清视频的业务体验，为FTTH部署提供理想的终端解决方案和面向未来的业务支撑能力。
-default_thumbnail_image: images/plant1-lg.jpg
-default_original_image: images/plant1-lg.jpg
+description:  '华为EchoLife EG6145A5是智能网关设备，提供1个POTS语音接口、1个GE/FE自适应以太端口，3个FE以太端口，1个USB端口和2.4GHz Wi-Fi。应用灵活，支持即插即用、远程诊断、绿色节能等特性。
+EG6145A5支持GPON技术，实现FTTH组网场景下家庭用户的超宽带接入，其高性能的转发能力有效保障话音、数据和高清视频的业务体验，为FTTH部署提供理想的终端解决方案和面向未来的业务支撑能力。'
 featured: true
 order: 239
 category: src/pages/category/光终端.md
@@ -18,8 +16,8 @@ other4:
   images: {"other":{"org":"other","img":["EchoLife EG6145A5.png"]}}
 seo:
   title: echolife-eg6145a5 | EchoLife EG6145A5 | null | ONT | 光终端 | 企业光网络
-  description: 华为EchoLife EG6145A5是智能网关设备，提供1个POTS语音接口、1个GE/FE自适应以太端口，3个FE以太端口，1个USB端口和2.4GHz Wi-Fi。应用灵活，支持即插即用、远程诊断、绿色节能等特性。
-EG6145A5支持GPON技术，实现FTTH组网场景下家庭用户的超宽带接入，其高性能的转发能力有效保障话音、数据和高清视频的业务体验，为FTTH部署提供理想的终端解决方案和面向未来的业务支撑能力。
+  description: '华为EchoLife EG6145A5是智能网关设备，提供1个POTS语音接口、1个GE/FE自适应以太端口，3个FE以太端口，1个USB端口和2.4GHz Wi-Fi。应用灵活，支持即插即用、远程诊断、绿色节能等特性。
+EG6145A5支持GPON技术，实现FTTH组网场景下家庭用户的超宽带接入，其高性能的转发能力有效保障话音、数据和高清视频的业务体验，为FTTH部署提供理想的终端解决方案和面向未来的业务支撑能力。'
   extra:
     - name: 'og:type'
       value: website
@@ -28,8 +26,8 @@ EG6145A5支持GPON技术，实现FTTH组网场景下家庭用户的超宽带接�
       value: 河南网田
       keyName: property
     - name: 'og:description'
-      value: 华为EchoLife EG6145A5是智能网关设备，提供1个POTS语音接口、1个GE/FE自适应以太端口，3个FE以太端口，1个USB端口和2.4GHz Wi-Fi。应用灵活，支持即插即用、远程诊断、绿色节能等特性。
-EG6145A5支持GPON技术，实现FTTH组网场景下家庭用户的超宽带接入，其高性能的转发能力有效保障话音、数据和高清视频的业务体验，为FTTH部署提供理想的终端解决方案和面向未来的业务支撑能力。
+      value: '华为EchoLife EG6145A5是智能网关设备，提供1个POTS语音接口、1个GE/FE自适应以太端口，3个FE以太端口，1个USB端口和2.4GHz Wi-Fi。应用灵活，支持即插即用、远程诊断、绿色节能等特性。
+EG6145A5支持GPON技术，实现FTTH组网场景下家庭用户的超宽带接入，其高性能的转发能力有效保障话音、数据和高清视频的业务体验，为FTTH部署提供理想的终端解决方案和面向未来的业务支撑能力。'
       keyName: property
     - name: Robots
       value: all

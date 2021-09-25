@@ -2,9 +2,7 @@
 id: '1'
 price: '49.40'
 title: NetEngine AR300系列企业路由器
-description: NetEngine AR300系列企业路由器是华为面向SMB和微型企业推出的新一代盒式系列产品，集路由、交换、安全等丰富业务特性于一体，满足企业客户的业务多元化和高性能需求。
-default_thumbnail_image: images/plant1-lg.jpg
-default_original_image: images/plant1-lg.jpg
+description:  'NetEngine AR300系列企业路由器是华为面向SMB和微型企业推出的新一代盒式系列产品，集路由、交换、安全等丰富业务特性于一体，满足企业客户的业务多元化和高性能需求。'
 featured: true
 order: 77
 category: src/pages/category/路由器.md
@@ -17,7 +15,7 @@ other4:
   images: {"ar301":{"org":"AR301_pic","img":["front_left.png","front_right.png","front_top.png","rear.png"]}}
 seo:
   title: ar300 | NetEngine AR300系列企业路由器 | AR 商业系列企业路由器 (中国区） | AR系列接入路由器 | 路由器 | 企业网络
-  description: NetEngine AR300系列企业路由器是华为面向SMB和微型企业推出的新一代盒式系列产品，集路由、交换、安全等丰富业务特性于一体，满足企业客户的业务多元化和高性能需求。
+  description: 'NetEngine AR300系列企业路由器是华为面向SMB和微型企业推出的新一代盒式系列产品，集路由、交换、安全等丰富业务特性于一体，满足企业客户的业务多元化和高性能需求。'
   extra:
     - name: 'og:type'
       value: website
@@ -26,7 +24,7 @@ seo:
       value: 河南网田
       keyName: property
     - name: 'og:description'
-      value: NetEngine AR300系列企业路由器是华为面向SMB和微型企业推出的新一代盒式系列产品，集路由、交换、安全等丰富业务特性于一体，满足企业客户的业务多元化和高性能需求。
+      value: 'NetEngine AR300系列企业路由器是华为面向SMB和微型企业推出的新一代盒式系列产品，集路由、交换、安全等丰富业务特性于一体，满足企业客户的业务多元化和高性能需求。'
       keyName: property
     - name: Robots
       value: all

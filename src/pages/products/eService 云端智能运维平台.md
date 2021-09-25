@@ -2,9 +2,7 @@
 id: '1'
 price: '49.40'
 title: eService 云端智能运维平台
-description: 华为eService云端智能运维平台，利用大数据分析和AI技术，为华为服务器、存储等数据基础设施提供故障自动上报、容量预测、性能预测、硬盘故障预测、问题处理进展跟踪等服务。
-default_thumbnail_image: images/plant1-lg.jpg
-default_original_image: images/plant1-lg.jpg
+description:  '华为eService云端智能运维平台，利用大数据分析和AI技术，为华为服务器、存储等数据基础设施提供故障自动上报、容量预测、性能预测、硬盘故障预测、问题处理进展跟踪等服务。'
 featured: true
 order: 279
 category: src/pages/category/数据管理.md
@@ -17,7 +15,7 @@ other4:
   images: {"other":{"org":"other","img":["eService 云端智能运维平台.png"]}}
 seo:
   title: eservice | eService 云端智能运维平台 | null | null | 数据管理 | 数据存储
-  description: 华为eService云端智能运维平台，利用大数据分析和AI技术，为华为服务器、存储等数据基础设施提供故障自动上报、容量预测、性能预测、硬盘故障预测、问题处理进展跟踪等服务。
+  description: '华为eService云端智能运维平台，利用大数据分析和AI技术，为华为服务器、存储等数据基础设施提供故障自动上报、容量预测、性能预测、硬盘故障预测、问题处理进展跟踪等服务。'
   extra:
     - name: 'og:type'
       value: website
@@ -26,7 +24,7 @@ seo:
       value: 河南网田
       keyName: property
     - name: 'og:description'
-      value: 华为eService云端智能运维平台，利用大数据分析和AI技术，为华为服务器、存储等数据基础设施提供故障自动上报、容量预测、性能预测、硬盘故障预测、问题处理进展跟踪等服务。
+      value: '华为eService云端智能运维平台，利用大数据分析和AI技术，为华为服务器、存储等数据基础设施提供故障自动上报、容量预测、性能预测、硬盘故障预测、问题处理进展跟踪等服务。'
       keyName: property
     - name: Robots
       value: all

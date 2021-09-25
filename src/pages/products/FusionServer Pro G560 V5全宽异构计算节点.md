@@ -2,9 +2,7 @@
 id: '1'
 price: '49.40'
 title: FusionServer Pro G560 V5全宽异构计算节点
-description: 华为FusionServer Pro G560 V5是全宽异构计算节点，具有高密的异构计算能力，支持GPUDirect RDMA和P2P，以及NVLink互联技术；支持一键切换异构拓扑，为多样化应用负载提供最优的异构拓扑配置；基于全模块化设计，支持CPU和异构部件的长期演进。FusionServer Pro G560 V5适配AI训练、HPC、智能云和数据库等应用场景加速。
-default_thumbnail_image: images/plant1-lg.jpg
-default_original_image: images/plant1-lg.jpg
+description:  '华为FusionServer Pro G560 V5是全宽异构计算节点，具有高密的异构计算能力，支持GPUDirect RDMA和P2P，以及NVLink互联技术；支持一键切换异构拓扑，为多样化应用负载提供最优的异构拓扑配置；基于全模块化设计，支持CPU和异构部件的长期演进。FusionServer Pro G560 V5适配AI训练、HPC、智能云和数据库等应用场景加速。'
 featured: true
 order: 336
 category: src/pages/category/服务器 - 计算.md
@@ -17,7 +15,7 @@ other4:
   images: {"other":{"org":"other","img":["FusionServer Pro G560 V5全宽异构计算节点.png"]}}
 seo:
   title: g560-v5 | FusionServer Pro G560 V5全宽异构计算节点服务器 | null | 昇腾计算 | 服务器 - 计算 | 数据中心
-  description: 华为FusionServer Pro G560 V5是全宽异构计算节点，具有高密的异构计算能力，支持GPUDirect RDMA和P2P，以及NVLink互联技术；支持一键切换异构拓扑，为多样化应用负载提供最优的异构拓扑配置；基于全模块化设计，支持CPU和异构部件的长期演进。FusionServer Pro G560 V5适配AI训练、HPC、智能云和数据库等应用场景加速。
+  description: '华为FusionServer Pro G560 V5是全宽异构计算节点，具有高密的异构计算能力，支持GPUDirect RDMA和P2P，以及NVLink互联技术；支持一键切换异构拓扑，为多样化应用负载提供最优的异构拓扑配置；基于全模块化设计，支持CPU和异构部件的长期演进。FusionServer Pro G560 V5适配AI训练、HPC、智能云和数据库等应用场景加速。'
   extra:
     - name: 'og:type'
       value: website
@@ -26,7 +24,7 @@ seo:
       value: 河南网田
       keyName: property
     - name: 'og:description'
-      value: 华为FusionServer Pro G560 V5是全宽异构计算节点，具有高密的异构计算能力，支持GPUDirect RDMA和P2P，以及NVLink互联技术；支持一键切换异构拓扑，为多样化应用负载提供最优的异构拓扑配置；基于全模块化设计，支持CPU和异构部件的长期演进。FusionServer Pro G560 V5适配AI训练、HPC、智能云和数据库等应用场景加速。
+      value: '华为FusionServer Pro G560 V5是全宽异构计算节点，具有高密的异构计算能力，支持GPUDirect RDMA和P2P，以及NVLink互联技术；支持一键切换异构拓扑，为多样化应用负载提供最优的异构拓扑配置；基于全模块化设计，支持CPU和异构部件的长期演进。FusionServer Pro G560 V5适配AI训练、HPC、智能云和数据库等应用场景加速。'
       keyName: property
     - name: Robots
       value: all

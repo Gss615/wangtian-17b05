@@ -2,9 +2,7 @@
 id: '1'
 price: '49.40'
 title: AirEngine 5761-10W接入点
-description: 新一代Wi-Fi 6 （802.11ax）标准面板式接入点设备（AP），2.4GHz频段支持 2x2 MU-MIMO和2条空间流，5GHz频段支持 2x2 MU-MIMO和2条空间流，整机速率达1.77Gbps。适用于酒店、宿舍等房间密集场所。
-default_thumbnail_image: images/plant1-lg.jpg
-default_original_image: images/plant1-lg.jpg
+description:  '新一代Wi-Fi 6 （802.11ax）标准面板式接入点设备（AP），2.4GHz频段支持 2x2 MU-MIMO和2条空间流，5GHz频段支持 2x2 MU-MIMO和2条空间流，整机速率达1.77Gbps。适用于酒店、宿舍等房间密集场所。'
 featured: true
 order: 100
 category: src/pages/category/无线局域网.md
@@ -17,7 +15,7 @@ other4:
   images: {"airengine5761-10w":{"org":"AirEngine5761-10W_pic","img":["front_bottom.png","front_top.png","top.png"]}}
 seo:
   title: airengine-5761-10w | AirEngine 5761-10W接入点 | AirEngine 5700系列 | 室内接入点 | 无线局域网 | 企业网络
-  description: 新一代Wi-Fi 6 （802.11ax）标准面板式接入点设备（AP），2.4GHz频段支持 2x2 MU-MIMO和2条空间流，5GHz频段支持 2x2 MU-MIMO和2条空间流，整机速率达1.77Gbps。适用于酒店、宿舍等房间密集场所。
+  description: '新一代Wi-Fi 6 （802.11ax）标准面板式接入点设备（AP），2.4GHz频段支持 2x2 MU-MIMO和2条空间流，5GHz频段支持 2x2 MU-MIMO和2条空间流，整机速率达1.77Gbps。适用于酒店、宿舍等房间密集场所。'
   extra:
     - name: 'og:type'
       value: website
@@ -26,7 +24,7 @@ seo:
       value: 河南网田
       keyName: property
     - name: 'og:description'
-      value: 新一代Wi-Fi 6 （802.11ax）标准面板式接入点设备（AP），2.4GHz频段支持 2x2 MU-MIMO和2条空间流，5GHz频段支持 2x2 MU-MIMO和2条空间流，整机速率达1.77Gbps。适用于酒店、宿舍等房间密集场所。
+      value: '新一代Wi-Fi 6 （802.11ax）标准面板式接入点设备（AP），2.4GHz频段支持 2x2 MU-MIMO和2条空间流，5GHz频段支持 2x2 MU-MIMO和2条空间流，整机速率达1.77Gbps。适用于酒店、宿舍等房间密集场所。'
       keyName: property
     - name: Robots
       value: all

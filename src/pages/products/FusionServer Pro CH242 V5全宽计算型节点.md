@@ -2,9 +2,7 @@
 id: '1'
 price: '49.40'
 title: FusionServer Pro CH242 V5全宽计算型节点
-description: CH242 V5四路全宽计算节点为虚拟化、数据库、ERP、HPC等业务需求进行优化设计，具有超高处理性能、可扩展性和可靠性，满足企业关键业务所需。CH242 V5可支持全系列CPU(最高功耗达205W)，提供48个DDR4 DIMM插槽，并支持8个M.2 SSD存储。
-default_thumbnail_image: images/plant1-lg.jpg
-default_original_image: images/plant1-lg.jpg
+description:  'CH242 V5四路全宽计算节点为虚拟化、数据库、ERP、HPC等业务需求进行优化设计，具有超高处理性能、可扩展性和可靠性，满足企业关键业务所需。CH242 V5可支持全系列CPU(最高功耗达205W)，提供48个DDR4 DIMM插槽，并支持8个M.2 SSD存储。'
 featured: true
 order: 298
 category: src/pages/category/服务器 - 计算.md
@@ -17,7 +15,7 @@ other4:
   images: {"other":{"org":"other","img":["FusionServer Pro CH242 V5全宽计算型节点.png"]}}
 seo:
   title: ch242-v5-node | FusionServer CH242 V5全宽计算型节点 | FusionServer刀片服务器 | FusionServer Pro智能服务器 | 服务器 - 计算 | 数据中心
-  description: CH242 V5四路全宽计算节点为虚拟化、数据库、ERP、HPC等业务需求进行优化设计，具有超高处理性能、可扩展性和可靠性，满足企业关键业务所需。CH242 V5可支持全系列CPU(最高功耗达205W)，提供48个DDR4 DIMM插槽，并支持8个M.2 SSD存储。
+  description: 'CH242 V5四路全宽计算节点为虚拟化、数据库、ERP、HPC等业务需求进行优化设计，具有超高处理性能、可扩展性和可靠性，满足企业关键业务所需。CH242 V5可支持全系列CPU(最高功耗达205W)，提供48个DDR4 DIMM插槽，并支持8个M.2 SSD存储。'
   extra:
     - name: 'og:type'
       value: website
@@ -26,7 +24,7 @@ seo:
       value: 河南网田
       keyName: property
     - name: 'og:description'
-      value: CH242 V5四路全宽计算节点为虚拟化、数据库、ERP、HPC等业务需求进行优化设计，具有超高处理性能、可扩展性和可靠性，满足企业关键业务所需。CH242 V5可支持全系列CPU(最高功耗达205W)，提供48个DDR4 DIMM插槽，并支持8个M.2 SSD存储。
+      value: 'CH242 V5四路全宽计算节点为虚拟化、数据库、ERP、HPC等业务需求进行优化设计，具有超高处理性能、可扩展性和可靠性，满足企业关键业务所需。CH242 V5可支持全系列CPU(最高功耗达205W)，提供48个DDR4 DIMM插槽，并支持8个M.2 SSD存储。'
       keyName: property
     - name: Robots
       value: all

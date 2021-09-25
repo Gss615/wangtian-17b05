@@ -2,13 +2,11 @@
 id: '1'
 price: '49.40'
 title: CloudEngine 5800系列数据中心交换机
-description: CloudEngine 5800是支持40GE上行接口的千兆接入交换机，最大支持9台堆叠，风道方向可以灵活选择，满足云网络高密千兆接入需求。
+description:  'CloudEngine 5800是支持40GE上行接口的千兆接入交换机，最大支持9台堆叠，风道方向可以灵活选择，满足云网络高密千兆接入需求。
 
 CloudEngine 5800系列交换机定位于数据中心的高密千兆接入，帮助企业和运营商构建面向云计算时代的数据中心网络平台，也可以用于园区网的汇聚或接入。
 
-CloudEngine 5800可以与华为新一代核心交换机CloudEngine 16800/CloudEngine 12800配合，构建弹性、简单、开放、安全的云数据中心网络。
-default_thumbnail_image: images/plant1-lg.jpg
-default_original_image: images/plant1-lg.jpg
+CloudEngine 5800可以与华为新一代核心交换机CloudEngine 16800/CloudEngine 12800配合，构建弹性、简单、开放、安全的云数据中心网络。'
 featured: true
 order: 54
 category: src/pages/category/交换机.md
@@ -21,11 +19,11 @@ other4:
   images: {"ce5850-48t4s2q-hi":{"org":"CE5850-48T4S2Q-HI_pic","img":["01.png","02.png","03.png","04.png","07.png","08.png"]}}
 seo:
   title: ce5800 | CloudEngine 5800系列数据中心交换机 | 盒式接入交换机 | 数据中心交换机 | 交换机 | 企业网络
-  description: CloudEngine 5800是支持40GE上行接口的千兆接入交换机，最大支持9台堆叠，风道方向可以灵活选择，满足云网络高密千兆接入需求。
+  description: 'CloudEngine 5800是支持40GE上行接口的千兆接入交换机，最大支持9台堆叠，风道方向可以灵活选择，满足云网络高密千兆接入需求。
 
 CloudEngine 5800系列交换机定位于数据中心的高密千兆接入，帮助企业和运营商构建面向云计算时代的数据中心网络平台，也可以用于园区网的汇聚或接入。
 
-CloudEngine 5800可以与华为新一代核心交换机CloudEngine 16800/CloudEngine 12800配合，构建弹性、简单、开放、安全的云数据中心网络。
+CloudEngine 5800可以与华为新一代核心交换机CloudEngine 16800/CloudEngine 12800配合，构建弹性、简单、开放、安全的云数据中心网络。'
   extra:
     - name: 'og:type'
       value: website
@@ -34,11 +32,11 @@ CloudEngine 5800可以与华为新一代核心交换机CloudEngine 16800/CloudEn
       value: 河南网田
       keyName: property
     - name: 'og:description'
-      value: CloudEngine 5800是支持40GE上行接口的千兆接入交换机，最大支持9台堆叠，风道方向可以灵活选择，满足云网络高密千兆接入需求。
+      value: 'CloudEngine 5800是支持40GE上行接口的千兆接入交换机，最大支持9台堆叠，风道方向可以灵活选择，满足云网络高密千兆接入需求。
 
 CloudEngine 5800系列交换机定位于数据中心的高密千兆接入，帮助企业和运营商构建面向云计算时代的数据中心网络平台，也可以用于园区网的汇聚或接入。
 
-CloudEngine 5800可以与华为新一代核心交换机CloudEngine 16800/CloudEngine 12800配合，构建弹性、简单、开放、安全的云数据中心网络。
+CloudEngine 5800可以与华为新一代核心交换机CloudEngine 16800/CloudEngine 12800配合，构建弹性、简单、开放、安全的云数据中心网络。'
       keyName: property
     - name: Robots
       value: all

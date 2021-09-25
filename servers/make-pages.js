@@ -12,9 +12,7 @@ const templates = (title,dec,img,order,category,template,table,features,link,tag
 id: '1'
 price: '49.40'
 title: ${title}
-description: ${dec}
-default_thumbnail_image: images/plant1-lg.jpg
-default_original_image: images/plant1-lg.jpg
+description:  '${dec}'
 featured: true
 order: ${order}
 category: ${category}
@@ -27,7 +25,7 @@ other4:
   images: ${JSON.stringify(img)}
 seo:
   title: ${tags}
-  description: ${dec}
+  description: '${dec}'
   extra:
     - name: 'og:type'
       value: website
@@ -36,7 +34,7 @@ seo:
       value: 河南网田
       keyName: property
     - name: 'og:description'
-      value: ${dec}
+      value: '${dec}'
       keyName: property
     - name: Robots
       value: all

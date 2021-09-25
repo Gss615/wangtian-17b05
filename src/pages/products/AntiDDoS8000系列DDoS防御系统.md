@@ -2,9 +2,7 @@
 id: '1'
 price: '49.40'
 title: AntiDDoS8000系列DDoS防御系统
-description: 华为AntiDDoS8000系列DDoS防御系统，运用大数据分析技术，针对60多种网络流量进行抽象建模，可以实现T级防护性能，秒级攻击响应速度和超百种攻击的全面防御。通过与华为云清洗中心联动，可以实现分层清洗，为用户提供从网络链路带宽到在线业务的全面防护。
-default_thumbnail_image: images/plant1-lg.jpg
-default_original_image: images/plant1-lg.jpg
+description:  '华为AntiDDoS8000系列DDoS防御系统，运用大数据分析技术，针对60多种网络流量进行抽象建模，可以实现T级防护性能，秒级攻击响应速度和超百种攻击的全面防御。通过与华为云清洗中心联动，可以实现分层清洗，为用户提供从网络链路带宽到在线业务的全面防护。'
 featured: true
 order: 181
 category: src/pages/category/网络安全.md
@@ -17,7 +15,7 @@ other4:
   images: {"antiddos8030":{"org":"AntiDDoS8030_pic","img":["01-Front.png","02-Front_looking_down.png","03-Front_left_down.png","04-Front_right_down.png","08-Rear_looking_down.png","09-Rear_left_down.png","10-Rear_right_down.png"]}}
 seo:
   title: 8000 | AntiDDoS8000系列DDoS防御系统 | null | DDoS攻击防御 | 网络安全 | 企业网络
-  description: 华为AntiDDoS8000系列DDoS防御系统，运用大数据分析技术，针对60多种网络流量进行抽象建模，可以实现T级防护性能，秒级攻击响应速度和超百种攻击的全面防御。通过与华为云清洗中心联动，可以实现分层清洗，为用户提供从网络链路带宽到在线业务的全面防护。
+  description: '华为AntiDDoS8000系列DDoS防御系统，运用大数据分析技术，针对60多种网络流量进行抽象建模，可以实现T级防护性能，秒级攻击响应速度和超百种攻击的全面防御。通过与华为云清洗中心联动，可以实现分层清洗，为用户提供从网络链路带宽到在线业务的全面防护。'
   extra:
     - name: 'og:type'
       value: website
@@ -26,7 +24,7 @@ seo:
       value: 河南网田
       keyName: property
     - name: 'og:description'
-      value: 华为AntiDDoS8000系列DDoS防御系统，运用大数据分析技术，针对60多种网络流量进行抽象建模，可以实现T级防护性能，秒级攻击响应速度和超百种攻击的全面防御。通过与华为云清洗中心联动，可以实现分层清洗，为用户提供从网络链路带宽到在线业务的全面防护。
+      value: '华为AntiDDoS8000系列DDoS防御系统，运用大数据分析技术，针对60多种网络流量进行抽象建模，可以实现T级防护性能，秒级攻击响应速度和超百种攻击的全面防御。通过与华为云清洗中心联动，可以实现分层清洗，为用户提供从网络链路带宽到在线业务的全面防护。'
       keyName: property
     - name: Robots
       value: all

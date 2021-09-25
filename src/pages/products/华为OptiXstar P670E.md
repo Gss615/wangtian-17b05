@@ -2,11 +2,9 @@
 id: '1'
 price: '49.40'
 title: 华为OptiXstar P670E
-description: 华为OptiXstar P670E系列产品是面向企业园区的面板式ONU设备，可简单快速的安装在86型电工盒上。上行提供1个GPON端口，用户侧提供1个GE以太网接口和1个POTS语音接口。
+description:  '华为OptiXstar P670E系列产品是面向企业园区的面板式ONU设备，可简单快速的安装在86型电工盒上。上行提供1个GPON端口，用户侧提供1个GE以太网接口和1个POTS语音接口。
 
-包含P670E(交流供电)和P670E-H(光电复合缆供电)2款产品，其中光电复合缆通过同时提供光纤的高带宽和铜线的供电能力，彻底解决光纤远端设备供电困难的问题。
-default_thumbnail_image: images/plant1-lg.jpg
-default_original_image: images/plant1-lg.jpg
+包含P670E(交流供电)和P670E-H(光电复合缆供电)2款产品，其中光电复合缆通过同时提供光纤的高带宽和铜线的供电能力，彻底解决光纤远端设备供电困难的问题。'
 featured: true
 order: 211
 category: src/pages/category/光终端.md
@@ -19,9 +17,9 @@ other4:
   images: {"other":{"org":"other","img":["华为OptiXstar P670E.png"]}}
 seo:
   title: optixstar-p670e | 华为OptiXstar P670E | null | ONU | 光终端 | 企业光网络
-  description: 华为OptiXstar P670E系列产品是面向企业园区的面板式ONU设备，可简单快速的安装在86型电工盒上。上行提供1个GPON端口，用户侧提供1个GE以太网接口和1个POTS语音接口。
+  description: '华为OptiXstar P670E系列产品是面向企业园区的面板式ONU设备，可简单快速的安装在86型电工盒上。上行提供1个GPON端口，用户侧提供1个GE以太网接口和1个POTS语音接口。
 
-包含P670E(交流供电)和P670E-H(光电复合缆供电)2款产品，其中光电复合缆通过同时提供光纤的高带宽和铜线的供电能力，彻底解决光纤远端设备供电困难的问题。
+包含P670E(交流供电)和P670E-H(光电复合缆供电)2款产品，其中光电复合缆通过同时提供光纤的高带宽和铜线的供电能力，彻底解决光纤远端设备供电困难的问题。'
   extra:
     - name: 'og:type'
       value: website
@@ -30,9 +28,9 @@ seo:
       value: 河南网田
       keyName: property
     - name: 'og:description'
-      value: 华为OptiXstar P670E系列产品是面向企业园区的面板式ONU设备，可简单快速的安装在86型电工盒上。上行提供1个GPON端口，用户侧提供1个GE以太网接口和1个POTS语音接口。
+      value: '华为OptiXstar P670E系列产品是面向企业园区的面板式ONU设备，可简单快速的安装在86型电工盒上。上行提供1个GPON端口，用户侧提供1个GE以太网接口和1个POTS语音接口。
 
-包含P670E(交流供电)和P670E-H(光电复合缆供电)2款产品，其中光电复合缆通过同时提供光纤的高带宽和铜线的供电能力，彻底解决光纤远端设备供电困难的问题。
+包含P670E(交流供电)和P670E-H(光电复合缆供电)2款产品，其中光电复合缆通过同时提供光纤的高带宽和铜线的供电能力，彻底解决光纤远端设备供电困难的问题。'
       keyName: property
     - name: Robots
       value: all

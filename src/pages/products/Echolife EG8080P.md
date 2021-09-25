@@ -2,9 +2,7 @@
 id: '1'
 price: '49.40'
 title: Echolife EG8080P
-description: EchoLife EG8080P是华为Agile POL解决方案的路由型ONU，通过GPON技术实现超宽带接入。上行提供1个GPON端口，用户侧提供8个GE以太网接口并支持POE功能，通过高性能的转发能力有效保障语音、数据和高清视频的业务体验，为企业园区网络部署提供理想的解决方案和面向未来的业务支撑能力。
-default_thumbnail_image: images/plant1-lg.jpg
-default_original_image: images/plant1-lg.jpg
+description:  'EchoLife EG8080P是华为Agile POL解决方案的路由型ONU，通过GPON技术实现超宽带接入。上行提供1个GPON端口，用户侧提供8个GE以太网接口并支持POE功能，通过高性能的转发能力有效保障语音、数据和高清视频的业务体验，为企业园区网络部署提供理想的解决方案和面向未来的业务支撑能力。'
 featured: true
 order: 233
 category: src/pages/category/光终端.md
@@ -17,7 +15,7 @@ other4:
   images: {"other":{"org":"other","img":["Echolife EG8080P.png"]}}
 seo:
   title: echolife-eg8080p | EchoLife EG8080P | null | ONU | 光终端 | 企业光网络
-  description: EchoLife EG8080P是华为Agile POL解决方案的路由型ONU，通过GPON技术实现超宽带接入。上行提供1个GPON端口，用户侧提供8个GE以太网接口并支持POE功能，通过高性能的转发能力有效保障语音、数据和高清视频的业务体验，为企业园区网络部署提供理想的解决方案和面向未来的业务支撑能力。
+  description: 'EchoLife EG8080P是华为Agile POL解决方案的路由型ONU，通过GPON技术实现超宽带接入。上行提供1个GPON端口，用户侧提供8个GE以太网接口并支持POE功能，通过高性能的转发能力有效保障语音、数据和高清视频的业务体验，为企业园区网络部署提供理想的解决方案和面向未来的业务支撑能力。'
   extra:
     - name: 'og:type'
       value: website
@@ -26,7 +24,7 @@ seo:
       value: 河南网田
       keyName: property
     - name: 'og:description'
-      value: EchoLife EG8080P是华为Agile POL解决方案的路由型ONU，通过GPON技术实现超宽带接入。上行提供1个GPON端口，用户侧提供8个GE以太网接口并支持POE功能，通过高性能的转发能力有效保障语音、数据和高清视频的业务体验，为企业园区网络部署提供理想的解决方案和面向未来的业务支撑能力。
+      value: 'EchoLife EG8080P是华为Agile POL解决方案的路由型ONU，通过GPON技术实现超宽带接入。上行提供1个GPON端口，用户侧提供8个GE以太网接口并支持POE功能，通过高性能的转发能力有效保障语音、数据和高清视频的业务体验，为企业园区网络部署提供理想的解决方案和面向未来的业务支撑能力。'
       keyName: property
     - name: Robots
       value: all

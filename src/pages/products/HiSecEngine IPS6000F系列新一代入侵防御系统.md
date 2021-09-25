@@ -2,11 +2,9 @@
 id: '1'
 price: '49.40'
 title: HiSecEngine IPS6000F系列新一代入侵防御系统
-description: HiSecEngine IPS6000F系列产品是华为推出的新一代专业入侵防御产品，在传统IPS产品的基础上进行了扩展：采用全新软硬件架构，增加网络环境感知能力、深度应用感知能力、内容感知能力，以及对未知威胁的防御能力，实现了更精准的检测能力、更优化的管理体验。
+description:  'HiSecEngine IPS6000F系列产品是华为推出的新一代专业入侵防御产品，在传统IPS产品的基础上进行了扩展：采用全新软硬件架构，增加网络环境感知能力、深度应用感知能力、内容感知能力，以及对未知威胁的防御能力，实现了更精准的检测能力、更优化的管理体验。
 
-HiSecEngine IPS6000F系列入侵防御产品主要应用于企业、IDC、校园网和运营商等，更好地保障客户应用和业务安全，实现对网络基础设施、服务器、客户端以及网络带宽性能的全面防护。
-default_thumbnail_image: images/plant1-lg.jpg
-default_original_image: images/plant1-lg.jpg
+HiSecEngine IPS6000F系列入侵防御产品主要应用于企业、IDC、校园网和运营商等，更好地保障客户应用和业务安全，实现对网络基础设施、服务器、客户端以及网络带宽性能的全面防护。'
 featured: true
 order: 174
 category: src/pages/category/网络安全.md
@@ -19,9 +17,9 @@ other4:
   images: {"ips6585f":{"org":"IPS6585F_pic","img":["front.png","front_left.png","front_right.png","front_top.png","rear.png","rear_left.png","rear_right.png","rear_top.png"]}}
 seo:
   title: ips6000f | HiSecEngine IPS6000F系列新一代入侵防御系统 | null | 防火墙及应用安全网关 | 网络安全 | 企业网络
-  description: HiSecEngine IPS6000F系列产品是华为推出的新一代专业入侵防御产品，在传统IPS产品的基础上进行了扩展：采用全新软硬件架构，增加网络环境感知能力、深度应用感知能力、内容感知能力，以及对未知威胁的防御能力，实现了更精准的检测能力、更优化的管理体验。
+  description: 'HiSecEngine IPS6000F系列产品是华为推出的新一代专业入侵防御产品，在传统IPS产品的基础上进行了扩展：采用全新软硬件架构，增加网络环境感知能力、深度应用感知能力、内容感知能力，以及对未知威胁的防御能力，实现了更精准的检测能力、更优化的管理体验。
 
-HiSecEngine IPS6000F系列入侵防御产品主要应用于企业、IDC、校园网和运营商等，更好地保障客户应用和业务安全，实现对网络基础设施、服务器、客户端以及网络带宽性能的全面防护。
+HiSecEngine IPS6000F系列入侵防御产品主要应用于企业、IDC、校园网和运营商等，更好地保障客户应用和业务安全，实现对网络基础设施、服务器、客户端以及网络带宽性能的全面防护。'
   extra:
     - name: 'og:type'
       value: website
@@ -30,9 +28,9 @@ HiSecEngine IPS6000F系列入侵防御产品主要应用于企业、IDC、校园
       value: 河南网田
       keyName: property
     - name: 'og:description'
-      value: HiSecEngine IPS6000F系列产品是华为推出的新一代专业入侵防御产品，在传统IPS产品的基础上进行了扩展：采用全新软硬件架构，增加网络环境感知能力、深度应用感知能力、内容感知能力，以及对未知威胁的防御能力，实现了更精准的检测能力、更优化的管理体验。
+      value: 'HiSecEngine IPS6000F系列产品是华为推出的新一代专业入侵防御产品，在传统IPS产品的基础上进行了扩展：采用全新软硬件架构，增加网络环境感知能力、深度应用感知能力、内容感知能力，以及对未知威胁的防御能力，实现了更精准的检测能力、更优化的管理体验。
 
-HiSecEngine IPS6000F系列入侵防御产品主要应用于企业、IDC、校园网和运营商等，更好地保障客户应用和业务安全，实现对网络基础设施、服务器、客户端以及网络带宽性能的全面防护。
+HiSecEngine IPS6000F系列入侵防御产品主要应用于企业、IDC、校园网和运营商等，更好地保障客户应用和业务安全，实现对网络基础设施、服务器、客户端以及网络带宽性能的全面防护。'
       keyName: property
     - name: Robots
       value: all

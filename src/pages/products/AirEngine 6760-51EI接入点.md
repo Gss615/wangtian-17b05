@@ -2,9 +2,7 @@
 id: '1'
 price: '49.40'
 title: AirEngine 6760-51EI接入点
-description: AirEngine 6760-51EI是华为发布的支持Wi-Fi 6（802.11ax）标准的轨道交通无线接入点产品。支持4条空间流，整机速率可达4.8Gbps。该产品满足EN50155车载电子设备标准要求，适用于交通行业车地回传场景。
-default_thumbnail_image: images/plant1-lg.jpg
-default_original_image: images/plant1-lg.jpg
+description:  'AirEngine 6760-51EI是华为发布的支持Wi-Fi 6（802.11ax）标准的轨道交通无线接入点产品。支持4条空间流，整机速率可达4.8Gbps。该产品满足EN50155车载电子设备标准要求，适用于交通行业车地回传场景。'
 featured: true
 order: 157
 category: src/pages/category/无线局域网.md
@@ -17,7 +15,7 @@ other4:
   images: {"airengine6760-51ei":{"org":"AirEngine6760-51EI_pic","img":["front_left.png","front_right.png","front_top.png","left.png","rear_left.png","rear_right.png","rear_top.png","right.png","top.png"]}}
 seo:
   title: airengine-6760-51ei | AirEngine 6760-51EI接入点 | null | 场景化产品系列 | 无线局域网 | 企业网络
-  description: AirEngine 6760-51EI是华为发布的支持Wi-Fi 6（802.11ax）标准的轨道交通无线接入点产品。支持4条空间流，整机速率可达4.8Gbps。该产品满足EN50155车载电子设备标准要求，适用于交通行业车地回传场景。
+  description: 'AirEngine 6760-51EI是华为发布的支持Wi-Fi 6（802.11ax）标准的轨道交通无线接入点产品。支持4条空间流，整机速率可达4.8Gbps。该产品满足EN50155车载电子设备标准要求，适用于交通行业车地回传场景。'
   extra:
     - name: 'og:type'
       value: website
@@ -26,7 +24,7 @@ seo:
       value: 河南网田
       keyName: property
     - name: 'og:description'
-      value: AirEngine 6760-51EI是华为发布的支持Wi-Fi 6（802.11ax）标准的轨道交通无线接入点产品。支持4条空间流，整机速率可达4.8Gbps。该产品满足EN50155车载电子设备标准要求，适用于交通行业车地回传场景。
+      value: 'AirEngine 6760-51EI是华为发布的支持Wi-Fi 6（802.11ax）标准的轨道交通无线接入点产品。支持4条空间流，整机速率可达4.8Gbps。该产品满足EN50155车载电子设备标准要求，适用于交通行业车地回传场景。'
       keyName: property
     - name: Robots
       value: all

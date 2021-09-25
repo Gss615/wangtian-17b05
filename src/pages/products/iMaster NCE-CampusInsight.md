@@ -2,9 +2,7 @@
 id: '1'
 price: '49.40'
 title: iMaster NCE-CampusInsight
-description: 华为iMaster NCE-CampusInsight园区网络分析器，颠覆传统聚焦资源状态的监控方式，通过Telemetry技术实时采集网络数据，利用大数据分析、机器学习算法学习网络行为并识别故障模式，帮助运维人员主动发现85%的网络问题，打造卓越的网络服务保障体验。
-default_thumbnail_image: images/plant1-lg.jpg
-default_original_image: images/plant1-lg.jpg
+description:  '华为iMaster NCE-CampusInsight园区网络分析器，颠覆传统聚焦资源状态的监控方式，通过Telemetry技术实时采集网络数据，利用大数据分析、机器学习算法学习网络行为并识别故障模式，帮助运维人员主动发现85%的网络问题，打造卓越的网络服务保障体验。'
 featured: true
 order: 189
 category: src/pages/category/网络管控&分析软件.md
@@ -17,7 +15,7 @@ other4:
   images: {"other":{"org":"other","img":["iMaster NCE-CampusInsight.png"]}}
 seo:
   title: campusinsight | iMaster NCE-CampusInsight园区网络分析器 | null | 园区自动驾驶网络管理控制系统 | 网络管控&分析软件 | 企业网络
-  description: 华为iMaster NCE-CampusInsight园区网络分析器，颠覆传统聚焦资源状态的监控方式，通过Telemetry技术实时采集网络数据，利用大数据分析、机器学习算法学习网络行为并识别故障模式，帮助运维人员主动发现85%的网络问题，打造卓越的网络服务保障体验。
+  description: '华为iMaster NCE-CampusInsight园区网络分析器，颠覆传统聚焦资源状态的监控方式，通过Telemetry技术实时采集网络数据，利用大数据分析、机器学习算法学习网络行为并识别故障模式，帮助运维人员主动发现85%的网络问题，打造卓越的网络服务保障体验。'
   extra:
     - name: 'og:type'
       value: website
@@ -26,7 +24,7 @@ seo:
       value: 河南网田
       keyName: property
     - name: 'og:description'
-      value: 华为iMaster NCE-CampusInsight园区网络分析器，颠覆传统聚焦资源状态的监控方式，通过Telemetry技术实时采集网络数据，利用大数据分析、机器学习算法学习网络行为并识别故障模式，帮助运维人员主动发现85%的网络问题，打造卓越的网络服务保障体验。
+      value: '华为iMaster NCE-CampusInsight园区网络分析器，颠覆传统聚焦资源状态的监控方式，通过Telemetry技术实时采集网络数据，利用大数据分析、机器学习算法学习网络行为并识别故障模式，帮助运维人员主动发现85%的网络问题，打造卓越的网络服务保障体验。'
       keyName: property
     - name: Robots
       value: all

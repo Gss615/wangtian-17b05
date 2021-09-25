@@ -2,15 +2,13 @@
 id: '1'
 price: '49.40'
 title: OceanStor Pacific 9540分布式存储
-description: OceanStor Pacific 9540是华为全新推出的每机箱4U、1节点形态分布式存储，每节点提供大容量和灵活的部件配置组合，以满足广泛的结构化与非结构化业务负载访问诉求。关键特点：
+description:  'OceanStor Pacific 9540是华为全新推出的每机箱4U、1节点形态分布式存储，每节点提供大容量和灵活的部件配置组合，以满足广泛的结构化与非结构化业务负载访问诉求。关键特点：
 
 • 每节点144 TB至504TB裸容量；
 • 最大22+2的EC冗余配比，91.6%硬盘空间利用率；
 • 可与OceanStor Pacific 9920组合构建数据分级存储方案。
 
-OceanStor Pacific 9540凭借优越的性价比，为虚拟化/云资源池、高性能计算、AI应用、大数据分析、海量数据长期备份与归档等场景提供灵活的数据存取服务。
-default_thumbnail_image: images/plant1-lg.jpg
-default_original_image: images/plant1-lg.jpg
+OceanStor Pacific 9540凭借优越的性价比，为虚拟化/云资源池、高性能计算、AI应用、大数据分析、海量数据长期备份与归档等场景提供灵活的数据存取服务。'
 featured: true
 order: 274
 category: src/pages/category/海量存储.md
@@ -23,13 +21,13 @@ other4:
   images: {"other":{"org":"other","img":["OceanStor Pacific 9540分布式存储.png"]}}
 seo:
   title: oceanstor-pacific-9540 | OceanStor Pacific 9540分布式存储  | 容量型 | OceanStor Pacific 系列存储 | 海量存储 | 数据存储
-  description: OceanStor Pacific 9540是华为全新推出的每机箱4U、1节点形态分布式存储，每节点提供大容量和灵活的部件配置组合，以满足广泛的结构化与非结构化业务负载访问诉求。关键特点：
+  description: 'OceanStor Pacific 9540是华为全新推出的每机箱4U、1节点形态分布式存储，每节点提供大容量和灵活的部件配置组合，以满足广泛的结构化与非结构化业务负载访问诉求。关键特点：
 
 • 每节点144 TB至504TB裸容量；
 • 最大22+2的EC冗余配比，91.6%硬盘空间利用率；
 • 可与OceanStor Pacific 9920组合构建数据分级存储方案。
 
-OceanStor Pacific 9540凭借优越的性价比，为虚拟化/云资源池、高性能计算、AI应用、大数据分析、海量数据长期备份与归档等场景提供灵活的数据存取服务。
+OceanStor Pacific 9540凭借优越的性价比，为虚拟化/云资源池、高性能计算、AI应用、大数据分析、海量数据长期备份与归档等场景提供灵活的数据存取服务。'
   extra:
     - name: 'og:type'
       value: website
@@ -38,13 +36,13 @@ OceanStor Pacific 9540凭借优越的性价比，为虚拟化/云资源池、高
       value: 河南网田
       keyName: property
     - name: 'og:description'
-      value: OceanStor Pacific 9540是华为全新推出的每机箱4U、1节点形态分布式存储，每节点提供大容量和灵活的部件配置组合，以满足广泛的结构化与非结构化业务负载访问诉求。关键特点：
+      value: 'OceanStor Pacific 9540是华为全新推出的每机箱4U、1节点形态分布式存储，每节点提供大容量和灵活的部件配置组合，以满足广泛的结构化与非结构化业务负载访问诉求。关键特点：
 
 • 每节点144 TB至504TB裸容量；
 • 最大22+2的EC冗余配比，91.6%硬盘空间利用率；
 • 可与OceanStor Pacific 9920组合构建数据分级存储方案。
 
-OceanStor Pacific 9540凭借优越的性价比，为虚拟化/云资源池、高性能计算、AI应用、大数据分析、海量数据长期备份与归档等场景提供灵活的数据存取服务。
+OceanStor Pacific 9540凭借优越的性价比，为虚拟化/云资源池、高性能计算、AI应用、大数据分析、海量数据长期备份与归档等场景提供灵活的数据存取服务。'
       keyName: property
     - name: Robots
       value: all

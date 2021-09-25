@@ -2,11 +2,9 @@
 id: '1'
 price: '49.40'
 title: CloudEngine 12800系列数据中心交换机
-description: CloudEngine 12800系列交换机是华为公司面向数据中心网络推出的高性能核心交换机，提供稳定、可靠、安全的高性能L2/L3层交换服务，实现弹性、虚拟、敏捷和高品质的网络。
+description:  'CloudEngine 12800系列交换机是华为公司面向数据中心网络推出的高性能核心交换机，提供稳定、可靠、安全的高性能L2/L3层交换服务，实现弹性、虚拟、敏捷和高品质的网络。
 
-CloudEngine 12800提供1290/3870Tbps超大交换容量；单设备支持576个100GE，576个40GE，2304个25GE或2304个10GE全线速接口。CloudEngine 12800系列支持工业级可靠性，以及严格前后风道设计，并支持全面的虚拟化能力和丰富的数据中心特性。此外，CloudEngine 12800系列采用了多种绿色节能创新技术，大幅降低设备能源消耗。
-default_thumbnail_image: images/plant1-lg.jpg
-default_original_image: images/plant1-lg.jpg
+CloudEngine 12800提供1290/3870Tbps超大交换容量；单设备支持576个100GE，576个40GE，2304个25GE或2304个10GE全线速接口。CloudEngine 12800系列支持工业级可靠性，以及严格前后风道设计，并支持全面的虚拟化能力和丰富的数据中心特性。此外，CloudEngine 12800系列采用了多种绿色节能创新技术，大幅降低设备能源消耗。'
 featured: true
 order: 49
 category: src/pages/category/交换机.md
@@ -19,9 +17,9 @@ other4:
   images: {"ce12804s":{"org":"CE12804S_pic","img":["01-Front.png","02-Front_looking_down.png","03-Front_left.png","05-Front_right.png","07-Rear.png","09-Rear_left_looking_down.png","10-Rear_right_looking_down.png","11-Left_side.png","12-Right_side.png"]}}
 seo:
   title: ce12800 | CloudEngine 12800系列数据中心交换机 | 框式核心交换机 | 数据中心交换机 | 交换机 | 企业网络
-  description: CloudEngine 12800系列交换机是华为公司面向数据中心网络推出的高性能核心交换机，提供稳定、可靠、安全的高性能L2/L3层交换服务，实现弹性、虚拟、敏捷和高品质的网络。
+  description: 'CloudEngine 12800系列交换机是华为公司面向数据中心网络推出的高性能核心交换机，提供稳定、可靠、安全的高性能L2/L3层交换服务，实现弹性、虚拟、敏捷和高品质的网络。
 
-CloudEngine 12800提供1290/3870Tbps超大交换容量；单设备支持576个100GE，576个40GE，2304个25GE或2304个10GE全线速接口。CloudEngine 12800系列支持工业级可靠性，以及严格前后风道设计，并支持全面的虚拟化能力和丰富的数据中心特性。此外，CloudEngine 12800系列采用了多种绿色节能创新技术，大幅降低设备能源消耗。
+CloudEngine 12800提供1290/3870Tbps超大交换容量；单设备支持576个100GE，576个40GE，2304个25GE或2304个10GE全线速接口。CloudEngine 12800系列支持工业级可靠性，以及严格前后风道设计，并支持全面的虚拟化能力和丰富的数据中心特性。此外，CloudEngine 12800系列采用了多种绿色节能创新技术，大幅降低设备能源消耗。'
   extra:
     - name: 'og:type'
       value: website
@@ -30,9 +28,9 @@ CloudEngine 12800提供1290/3870Tbps超大交换容量；单设备支持576个10
       value: 河南网田
       keyName: property
     - name: 'og:description'
-      value: CloudEngine 12800系列交换机是华为公司面向数据中心网络推出的高性能核心交换机，提供稳定、可靠、安全的高性能L2/L3层交换服务，实现弹性、虚拟、敏捷和高品质的网络。
+      value: 'CloudEngine 12800系列交换机是华为公司面向数据中心网络推出的高性能核心交换机，提供稳定、可靠、安全的高性能L2/L3层交换服务，实现弹性、虚拟、敏捷和高品质的网络。
 
-CloudEngine 12800提供1290/3870Tbps超大交换容量；单设备支持576个100GE，576个40GE，2304个25GE或2304个10GE全线速接口。CloudEngine 12800系列支持工业级可靠性，以及严格前后风道设计，并支持全面的虚拟化能力和丰富的数据中心特性。此外，CloudEngine 12800系列采用了多种绿色节能创新技术，大幅降低设备能源消耗。
+CloudEngine 12800提供1290/3870Tbps超大交换容量；单设备支持576个100GE，576个40GE，2304个25GE或2304个10GE全线速接口。CloudEngine 12800系列支持工业级可靠性，以及严格前后风道设计，并支持全面的虚拟化能力和丰富的数据中心特性。此外，CloudEngine 12800系列采用了多种绿色节能创新技术，大幅降低设备能源消耗。'
       keyName: property
     - name: Robots
       value: all

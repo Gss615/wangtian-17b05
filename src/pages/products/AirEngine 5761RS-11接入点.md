@@ -2,9 +2,7 @@
 id: '1'
 price: '49.40'
 title: AirEngine 5761RS-11接入点
-description: AirEngine 5761RS-11是华为面向SMB市场发布的的支持Wi-Fi 6（802.11ax）标准的室外AP。支持2.4GHz（2x2）+ 5GHz（2x2）双频同时提供业务，整机速率可达1.775Gbps。具有卓越的室外覆盖性能及超强的IP68防水防尘和防雷电能力。适用于高密场馆、广场、步行街、游乐场等覆盖场景。
-default_thumbnail_image: images/plant1-lg.jpg
-default_original_image: images/plant1-lg.jpg
+description:  'AirEngine 5761RS-11是华为面向SMB市场发布的的支持Wi-Fi 6（802.11ax）标准的室外AP。支持2.4GHz（2x2）+ 5GHz（2x2）双频同时提供业务，整机速率可达1.775Gbps。具有卓越的室外覆盖性能及超强的IP68防水防尘和防雷电能力。适用于高密场馆、广场、步行街、游乐场等覆盖场景。'
 featured: true
 order: 134
 category: src/pages/category/无线局域网.md
@@ -17,7 +15,7 @@ other4:
   images: {"airengine5761rs-11":{"org":"AirEngine5761RS-11_pic","img":["bottom.png","front.png","front_left.png","front_right.png","rear.png","rear_top.png","top.png"]}}
 seo:
   title: airengine-5761rs-11 | AirEngine 5761RS-11接入点 | AirEngine 5700R 系列 | 室外接入点 | 无线局域网 | 企业网络
-  description: AirEngine 5761RS-11是华为面向SMB市场发布的的支持Wi-Fi 6（802.11ax）标准的室外AP。支持2.4GHz（2x2）+ 5GHz（2x2）双频同时提供业务，整机速率可达1.775Gbps。具有卓越的室外覆盖性能及超强的IP68防水防尘和防雷电能力。适用于高密场馆、广场、步行街、游乐场等覆盖场景。
+  description: 'AirEngine 5761RS-11是华为面向SMB市场发布的的支持Wi-Fi 6（802.11ax）标准的室外AP。支持2.4GHz（2x2）+ 5GHz（2x2）双频同时提供业务，整机速率可达1.775Gbps。具有卓越的室外覆盖性能及超强的IP68防水防尘和防雷电能力。适用于高密场馆、广场、步行街、游乐场等覆盖场景。'
   extra:
     - name: 'og:type'
       value: website
@@ -26,7 +24,7 @@ seo:
       value: 河南网田
       keyName: property
     - name: 'og:description'
-      value: AirEngine 5761RS-11是华为面向SMB市场发布的的支持Wi-Fi 6（802.11ax）标准的室外AP。支持2.4GHz（2x2）+ 5GHz（2x2）双频同时提供业务，整机速率可达1.775Gbps。具有卓越的室外覆盖性能及超强的IP68防水防尘和防雷电能力。适用于高密场馆、广场、步行街、游乐场等覆盖场景。
+      value: 'AirEngine 5761RS-11是华为面向SMB市场发布的的支持Wi-Fi 6（802.11ax）标准的室外AP。支持2.4GHz（2x2）+ 5GHz（2x2）双频同时提供业务，整机速率可达1.775Gbps。具有卓越的室外覆盖性能及超强的IP68防水防尘和防雷电能力。适用于高密场馆、广场、步行街、游乐场等覆盖场景。'
       keyName: property
     - name: Robots
       value: all

@@ -2,9 +2,7 @@
 id: '1'
 price: '49.40'
 title: DME 数据管理引擎
-description: 数据管理引擎是面向全场景的智能存储管理平台，具备融合、智能、开放三大优势，简化存储管理与运维，提升数据中心运营效率，使能存储全生命周期自动驾驶。
-default_thumbnail_image: images/plant1-lg.jpg
-default_original_image: images/plant1-lg.jpg
+description:  '数据管理引擎是面向全场景的智能存储管理平台，具备融合、智能、开放三大优势，简化存储管理与运维，提升数据中心运营效率，使能存储全生命周期自动驾驶。'
 featured: true
 order: 278
 category: src/pages/category/数据管理.md
@@ -17,7 +15,7 @@ other4:
   images: {"other":{"org":"other","img":["DME 数据管理引擎.png"]}}
 seo:
   title: data-management-engine | DME Storage 数据管理引擎 | null | null | 数据管理 | 数据存储
-  description: 数据管理引擎是面向全场景的智能存储管理平台，具备融合、智能、开放三大优势，简化存储管理与运维，提升数据中心运营效率，使能存储全生命周期自动驾驶。
+  description: '数据管理引擎是面向全场景的智能存储管理平台，具备融合、智能、开放三大优势，简化存储管理与运维，提升数据中心运营效率，使能存储全生命周期自动驾驶。'
   extra:
     - name: 'og:type'
       value: website
@@ -26,7 +24,7 @@ seo:
       value: 河南网田
       keyName: property
     - name: 'og:description'
-      value: 数据管理引擎是面向全场景的智能存储管理平台，具备融合、智能、开放三大优势，简化存储管理与运维，提升数据中心运营效率，使能存储全生命周期自动驾驶。
+      value: '数据管理引擎是面向全场景的智能存储管理平台，具备融合、智能、开放三大优势，简化存储管理与运维，提升数据中心运营效率，使能存储全生命周期自动驾驶。'
       keyName: property
     - name: Robots
       value: all

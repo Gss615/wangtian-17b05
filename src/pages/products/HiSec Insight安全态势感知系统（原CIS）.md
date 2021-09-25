@@ -2,9 +2,7 @@
 id: '1'
 price: '49.40'
 title: HiSec Insight安全态势感知系统（原CIS）
-description: HiSec Insight安全态势感知（原CIS）基于成熟自研商用大数据平台FusionInsight开发，结合智能检测算法可进行多维度海量数据关联分析，主动实时的发现各类安全威胁事件，还原出整个APT攻击链攻击行为。同时华为安全态势感知可采集和存储多类网络信息数据，帮助用户在发现威胁后调查取证以及处置问责。华为安全态势感知以发现威胁、阻断威胁、取证、溯源、响应、处置的思路设计，助力用户完成全流程威胁事件闭环。
-default_thumbnail_image: images/plant1-lg.jpg
-default_original_image: images/plant1-lg.jpg
+description:  'HiSec Insight安全态势感知（原CIS）基于成熟自研商用大数据平台FusionInsight开发，结合智能检测算法可进行多维度海量数据关联分析，主动实时的发现各类安全威胁事件，还原出整个APT攻击链攻击行为。同时华为安全态势感知可采集和存储多类网络信息数据，帮助用户在发现威胁后调查取证以及处置问责。华为安全态势感知以发现威胁、阻断威胁、取证、溯源、响应、处置的思路设计，助力用户完成全流程威胁事件闭环。'
 featured: true
 order: 184
 category: src/pages/category/网络安全.md
@@ -17,7 +15,7 @@ other4:
   images: {"other":{"org":"other","img":["HiSec Insight安全态势感知系统（原CIS）.png"]}}
 seo:
   title: cis | HiSec Insight安全态势感知系统 | null | 大数据分析及APT防御 | 网络安全 | 企业网络
-  description: HiSec Insight安全态势感知（原CIS）基于成熟自研商用大数据平台FusionInsight开发，结合智能检测算法可进行多维度海量数据关联分析，主动实时的发现各类安全威胁事件，还原出整个APT攻击链攻击行为。同时华为安全态势感知可采集和存储多类网络信息数据，帮助用户在发现威胁后调查取证以及处置问责。华为安全态势感知以发现威胁、阻断威胁、取证、溯源、响应、处置的思路设计，助力用户完成全流程威胁事件闭环。
+  description: 'HiSec Insight安全态势感知（原CIS）基于成熟自研商用大数据平台FusionInsight开发，结合智能检测算法可进行多维度海量数据关联分析，主动实时的发现各类安全威胁事件，还原出整个APT攻击链攻击行为。同时华为安全态势感知可采集和存储多类网络信息数据，帮助用户在发现威胁后调查取证以及处置问责。华为安全态势感知以发现威胁、阻断威胁、取证、溯源、响应、处置的思路设计，助力用户完成全流程威胁事件闭环。'
   extra:
     - name: 'og:type'
       value: website
@@ -26,7 +24,7 @@ seo:
       value: 河南网田
       keyName: property
     - name: 'og:description'
-      value: HiSec Insight安全态势感知（原CIS）基于成熟自研商用大数据平台FusionInsight开发，结合智能检测算法可进行多维度海量数据关联分析，主动实时的发现各类安全威胁事件，还原出整个APT攻击链攻击行为。同时华为安全态势感知可采集和存储多类网络信息数据，帮助用户在发现威胁后调查取证以及处置问责。华为安全态势感知以发现威胁、阻断威胁、取证、溯源、响应、处置的思路设计，助力用户完成全流程威胁事件闭环。
+      value: 'HiSec Insight安全态势感知（原CIS）基于成熟自研商用大数据平台FusionInsight开发，结合智能检测算法可进行多维度海量数据关联分析，主动实时的发现各类安全威胁事件，还原出整个APT攻击链攻击行为。同时华为安全态势感知可采集和存储多类网络信息数据，帮助用户在发现威胁后调查取证以及处置问责。华为安全态势感知以发现威胁、阻断威胁、取证、溯源、响应、处置的思路设计，助力用户完成全流程威胁事件闭环。'
       keyName: property
     - name: Robots
       value: all

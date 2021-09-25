@@ -2,9 +2,7 @@
 id: '1'
 price: '49.40'
 title: FusionServer Pro XH628 V5服务器节点
-description: FusionServer Pro XH628 V5是4U双槽双路服务器节点，可最多配置2个2.5英寸和12个2.5英寸或3.5英寸SAS/SATA/SSD硬盘，兼具高密计算和海量存储能力。
-default_thumbnail_image: images/plant1-lg.jpg
-default_original_image: images/plant1-lg.jpg
+description:  'FusionServer Pro XH628 V5是4U双槽双路服务器节点，可最多配置2个2.5英寸和12个2.5英寸或3.5英寸SAS/SATA/SSD硬盘，兼具高密计算和海量存储能力。'
 featured: true
 order: 305
 category: src/pages/category/服务器 - 计算.md
@@ -17,7 +15,7 @@ other4:
   images: {"other":{"org":"other","img":["FusionServer Pro XH628 V5服务器节点.png"]}}
 seo:
   title: xh628-v5 | FusionServer Pro XH628 V5服务器节点 | FusionServer Pro高密服务器 | FusionServer Pro智能服务器 | 服务器 - 计算 | 数据中心
-  description: FusionServer Pro XH628 V5是4U双槽双路服务器节点，可最多配置2个2.5英寸和12个2.5英寸或3.5英寸SAS/SATA/SSD硬盘，兼具高密计算和海量存储能力。
+  description: 'FusionServer Pro XH628 V5是4U双槽双路服务器节点，可最多配置2个2.5英寸和12个2.5英寸或3.5英寸SAS/SATA/SSD硬盘，兼具高密计算和海量存储能力。'
   extra:
     - name: 'og:type'
       value: website
@@ -26,7 +24,7 @@ seo:
       value: 河南网田
       keyName: property
     - name: 'og:description'
-      value: FusionServer Pro XH628 V5是4U双槽双路服务器节点，可最多配置2个2.5英寸和12个2.5英寸或3.5英寸SAS/SATA/SSD硬盘，兼具高密计算和海量存储能力。
+      value: 'FusionServer Pro XH628 V5是4U双槽双路服务器节点，可最多配置2个2.5英寸和12个2.5英寸或3.5英寸SAS/SATA/SSD硬盘，兼具高密计算和海量存储能力。'
       keyName: property
     - name: Robots
       value: all

@@ -2,7 +2,7 @@
 id: '1'
 price: '49.40'
 title: 华为OptiXstar MA5621E
-description: 华为 OptiXstar MA5621E是华为工业光网解决方案的盒式ONU，网络侧提供GPON或EPON双上行接口，用户侧提供8个GE以太网接口，通过高性能的转发能力，为电力、制造、交通等工业生产场景提供理想的网络解决方案。
+description:  '华为 OptiXstar MA5621E是华为工业光网解决方案的盒式ONU，网络侧提供GPON或EPON双上行接口，用户侧提供8个GE以太网接口，通过高性能的转发能力，为电力、制造、交通等工业生产场景提供理想的网络解决方案。
 
 工业级设计，高可靠，高防护
 • 双GPON/EPON上行
@@ -10,9 +10,7 @@ description: 华为 OptiXstar MA5621E是华为工业光网解决方案的盒式O
 • 网口共模6kV防雷能力
 • 简易部署，轻松运维
 • 室内桌面平放、19寸机柜或网络箱安装
-• eSight集中管理
-default_thumbnail_image: images/plant1-lg.jpg
-default_original_image: images/plant1-lg.jpg
+• eSight集中管理'
 featured: true
 order: 206
 category: src/pages/category/光终端.md
@@ -25,7 +23,7 @@ other4:
   images: {"other":{"org":"other","img":["华为OptiXstar MA5621E.png"]}}
 seo:
   title: optixstar-ma5621e | 华为OptiXstar MA5621E | null | ONU | 光终端 | 企业光网络
-  description: 华为 OptiXstar MA5621E是华为工业光网解决方案的盒式ONU，网络侧提供GPON或EPON双上行接口，用户侧提供8个GE以太网接口，通过高性能的转发能力，为电力、制造、交通等工业生产场景提供理想的网络解决方案。
+  description: '华为 OptiXstar MA5621E是华为工业光网解决方案的盒式ONU，网络侧提供GPON或EPON双上行接口，用户侧提供8个GE以太网接口，通过高性能的转发能力，为电力、制造、交通等工业生产场景提供理想的网络解决方案。
 
 工业级设计，高可靠，高防护
 • 双GPON/EPON上行
@@ -33,7 +31,7 @@ seo:
 • 网口共模6kV防雷能力
 • 简易部署，轻松运维
 • 室内桌面平放、19寸机柜或网络箱安装
-• eSight集中管理
+• eSight集中管理'
   extra:
     - name: 'og:type'
       value: website
@@ -42,7 +40,7 @@ seo:
       value: 河南网田
       keyName: property
     - name: 'og:description'
-      value: 华为 OptiXstar MA5621E是华为工业光网解决方案的盒式ONU，网络侧提供GPON或EPON双上行接口，用户侧提供8个GE以太网接口，通过高性能的转发能力，为电力、制造、交通等工业生产场景提供理想的网络解决方案。
+      value: '华为 OptiXstar MA5621E是华为工业光网解决方案的盒式ONU，网络侧提供GPON或EPON双上行接口，用户侧提供8个GE以太网接口，通过高性能的转发能力，为电力、制造、交通等工业生产场景提供理想的网络解决方案。
 
 工业级设计，高可靠，高防护
 • 双GPON/EPON上行
@@ -50,7 +48,7 @@ seo:
 • 网口共模6kV防雷能力
 • 简易部署，轻松运维
 • 室内桌面平放、19寸机柜或网络箱安装
-• eSight集中管理
+• eSight集中管理'
       keyName: property
     - name: Robots
       value: all

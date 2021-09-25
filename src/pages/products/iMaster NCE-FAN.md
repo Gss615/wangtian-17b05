@@ -2,11 +2,9 @@
 id: '1'
 price: '49.40'
 title: iMaster NCE-FAN
-description: iMaster NCE-FAN是华为“智简全光网”的核心使能部件，应用于接入家庭宽带、家庭网络等多种场景。
+description:  'iMaster NCE-FAN是华为“智简全光网”的核心使能部件，应用于接入家庭宽带、家庭网络等多种场景。
 
-通过自动化管控和智能运维，提升用户体验和运维效率，转变基于用户投诉的存量运维模式，打造下一代自动化的接入网络。
-default_thumbnail_image: images/plant1-lg.jpg
-default_original_image: images/plant1-lg.jpg
+通过自动化管控和智能运维，提升用户体验和运维效率，转变基于用户投诉的存量运维模式，打造下一代自动化的接入网络。'
 featured: true
 order: 249
 category: src/pages/category/光终端.md
@@ -19,9 +17,9 @@ other4:
   images: {"other":{"org":"other","img":["iMaster NCE-FAN.png"]}}
 seo:
   title: imaster-nce-fan | iMaster NCE-FAN | null | 接入网络云化引擎 | 光终端 | 企业光网络
-  description: iMaster NCE-FAN是华为“智简全光网”的核心使能部件，应用于接入家庭宽带、家庭网络等多种场景。
+  description: 'iMaster NCE-FAN是华为“智简全光网”的核心使能部件，应用于接入家庭宽带、家庭网络等多种场景。
 
-通过自动化管控和智能运维，提升用户体验和运维效率，转变基于用户投诉的存量运维模式，打造下一代自动化的接入网络。
+通过自动化管控和智能运维，提升用户体验和运维效率，转变基于用户投诉的存量运维模式，打造下一代自动化的接入网络。'
   extra:
     - name: 'og:type'
       value: website
@@ -30,9 +28,9 @@ seo:
       value: 河南网田
       keyName: property
     - name: 'og:description'
-      value: iMaster NCE-FAN是华为“智简全光网”的核心使能部件，应用于接入家庭宽带、家庭网络等多种场景。
+      value: 'iMaster NCE-FAN是华为“智简全光网”的核心使能部件，应用于接入家庭宽带、家庭网络等多种场景。
 
-通过自动化管控和智能运维，提升用户体验和运维效率，转变基于用户投诉的存量运维模式，打造下一代自动化的接入网络。
+通过自动化管控和智能运维，提升用户体验和运维效率，转变基于用户投诉的存量运维模式，打造下一代自动化的接入网络。'
       keyName: property
     - name: Robots
       value: all

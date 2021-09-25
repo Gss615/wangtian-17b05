@@ -2,11 +2,9 @@
 id: '1'
 price: '49.40'
 title: CloudEngine 8800系列数据中心交换机
-description: CloudEngine 8800系列交换机是面向数据中心推出的新一代高性能、高密度、低时延灵活插卡以太网交换机，可以与华为CloudEngine系列数据中心交换机CloudEngine 16800/CloudEngine 12800/CloudEngine 6800/CloudEngine 5800配合，构建弹性、简单、开放、安全的云数据中心网络。
+description:  'CloudEngine 8800系列交换机是面向数据中心推出的新一代高性能、高密度、低时延灵活插卡以太网交换机，可以与华为CloudEngine系列数据中心交换机CloudEngine 16800/CloudEngine 12800/CloudEngine 6800/CloudEngine 5800配合，构建弹性、简单、开放、安全的云数据中心网络。
 
-CloudEngine 8800交换机提供高密度的400GE/200GE/100GE/40GE/25GE/10GE端口，支持丰富的数据中心特性和高性能的堆叠，帮助企业和运营商构建面向云计算时代的数据中心网络平台。CloudEngine 8800交换机定位于数据中心的核心或汇聚，也可以用于园区网的核心或汇聚。
-default_thumbnail_image: images/plant1-lg.jpg
-default_original_image: images/plant1-lg.jpg
+CloudEngine 8800交换机提供高密度的400GE/200GE/100GE/40GE/25GE/10GE端口，支持丰富的数据中心特性和高性能的堆叠，帮助企业和运营商构建面向云计算时代的数据中心网络平台。CloudEngine 8800交换机定位于数据中心的核心或汇聚，也可以用于园区网的核心或汇聚。'
 featured: true
 order: 52
 category: src/pages/category/交换机.md
@@ -19,9 +17,9 @@ other4:
   images: {"ce8860-4c-ei":{"org":"CE8860-4C-EI_pic","img":["IMG_6544.png","IMG_6546.png","IMG_6547.png","IMG_6550.png","IMG_6552.png","IMG_6554.png"]}}
 seo:
   title: ce8800 | CloudEngine 8800数据系列中心交换机 | 盒式接入交换机 | 数据中心交换机 | 交换机 | 企业网络
-  description: CloudEngine 8800系列交换机是面向数据中心推出的新一代高性能、高密度、低时延灵活插卡以太网交换机，可以与华为CloudEngine系列数据中心交换机CloudEngine 16800/CloudEngine 12800/CloudEngine 6800/CloudEngine 5800配合，构建弹性、简单、开放、安全的云数据中心网络。
+  description: 'CloudEngine 8800系列交换机是面向数据中心推出的新一代高性能、高密度、低时延灵活插卡以太网交换机，可以与华为CloudEngine系列数据中心交换机CloudEngine 16800/CloudEngine 12800/CloudEngine 6800/CloudEngine 5800配合，构建弹性、简单、开放、安全的云数据中心网络。
 
-CloudEngine 8800交换机提供高密度的400GE/200GE/100GE/40GE/25GE/10GE端口，支持丰富的数据中心特性和高性能的堆叠，帮助企业和运营商构建面向云计算时代的数据中心网络平台。CloudEngine 8800交换机定位于数据中心的核心或汇聚，也可以用于园区网的核心或汇聚。
+CloudEngine 8800交换机提供高密度的400GE/200GE/100GE/40GE/25GE/10GE端口，支持丰富的数据中心特性和高性能的堆叠，帮助企业和运营商构建面向云计算时代的数据中心网络平台。CloudEngine 8800交换机定位于数据中心的核心或汇聚，也可以用于园区网的核心或汇聚。'
   extra:
     - name: 'og:type'
       value: website
@@ -30,9 +28,9 @@ CloudEngine 8800交换机提供高密度的400GE/200GE/100GE/40GE/25GE/10GE端�
       value: 河南网田
       keyName: property
     - name: 'og:description'
-      value: CloudEngine 8800系列交换机是面向数据中心推出的新一代高性能、高密度、低时延灵活插卡以太网交换机，可以与华为CloudEngine系列数据中心交换机CloudEngine 16800/CloudEngine 12800/CloudEngine 6800/CloudEngine 5800配合，构建弹性、简单、开放、安全的云数据中心网络。
+      value: 'CloudEngine 8800系列交换机是面向数据中心推出的新一代高性能、高密度、低时延灵活插卡以太网交换机，可以与华为CloudEngine系列数据中心交换机CloudEngine 16800/CloudEngine 12800/CloudEngine 6800/CloudEngine 5800配合，构建弹性、简单、开放、安全的云数据中心网络。
 
-CloudEngine 8800交换机提供高密度的400GE/200GE/100GE/40GE/25GE/10GE端口，支持丰富的数据中心特性和高性能的堆叠，帮助企业和运营商构建面向云计算时代的数据中心网络平台。CloudEngine 8800交换机定位于数据中心的核心或汇聚，也可以用于园区网的核心或汇聚。
+CloudEngine 8800交换机提供高密度的400GE/200GE/100GE/40GE/25GE/10GE端口，支持丰富的数据中心特性和高性能的堆叠，帮助企业和运营商构建面向云计算时代的数据中心网络平台。CloudEngine 8800交换机定位于数据中心的核心或汇聚，也可以用于园区网的核心或汇聚。'
       keyName: property
     - name: Robots
       value: all
