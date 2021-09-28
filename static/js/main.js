@@ -11,9 +11,9 @@ fetch(templatesUrl)
       fragment.innerHTML = html;
       document.body.appendChild(fragment);
 
-      var script = document.createElement('script');
-      script.src = 'https://cdn.snipcart.com/themes/v3.0.18/default/snipcart.js';
-      document.body.appendChild(script);
+      // var script = document.createElement('script');
+      // script.src = 'https://cdn.snipcart.com/themes/v3.0.18/default/snipcart.js';
+      // document.body.appendChild(script);
     });
 
 // Handle hamburger menu toggle
