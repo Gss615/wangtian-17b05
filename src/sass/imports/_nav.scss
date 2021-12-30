@@ -129,7 +129,7 @@
 }
 
 @each $palette in map-keys($theme_palettes) {
-  .palette-#{$palette} {
+  .palette-#{""+$palette} {
     .nav {
       &--light {
         color: map-deep-get($theme-palettes, $palette, "lighter");

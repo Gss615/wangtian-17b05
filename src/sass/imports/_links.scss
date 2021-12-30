@@ -70,7 +70,7 @@
 }
 
 @each $palette in map-keys($theme_palettes) {
-  .palette-#{$palette} {
+  .palette-#{""+$palette} {
     .link {
       border-color: map-deep-get($theme-palettes, $palette, "active");
       color: map-deep-get($theme-palettes, $palette, "active");

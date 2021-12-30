@@ -75,7 +75,7 @@
 }
 
 @each $palette in map-keys($theme_palettes) {
-  .palette-#{$palette} {
+  .palette-#{""+$palette} {
     .promo {
       &__section {
         &:last-child {

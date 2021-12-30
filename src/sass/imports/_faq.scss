@@ -51,7 +51,7 @@
 }
 
 @each $palette in map-keys($theme_palettes) {
-  .palette-#{$palette} {
+  .palette-#{""+$palette} {
     .faq {
       &__question {
         color: map-deep-get($theme-palettes, $palette, "dark");
