@@ -12,7 +12,7 @@ other2:
   features: []
 other3: https://e.huawei.com/cn/material/networking/ar/62305c3507d2460ebf85c938eb8bea91
 other4:
-  images: {"ar6120":{"org":"AR6120_pic","img":["front.png","front_left.png","front_right.png","front_top.png","rear.png"]}}
+  images: {"ar6120":{"org":"AR6120_pic","img":["front.webp","front_left.webp","front_right.webp","front_top.webp","rear.webp"]}}
 seo:
   title: new-ar-router | NetEngine AR系列企业路由器 | null | AR系列接入路由器 | 路由器 | 企业网络
   description: 'NetEngine AR系列企业路由器是华为面向云化时代推出的首款企业级AR路由器，具备3倍业界转发性能，5G超宽上行，同时融合SD-WAN、云管理、VPN、 MPLS、安全、语音等多种功能，帮助全球客户轻松应对企业上行流量激增和未来业务多元化发展。'
@@ -30,7 +30,3 @@ seo:
       value: all
 template: product
 ---
-
-# Nulla suscipit
-
-Aliquam quis laoreet lectus. Proin non mattis nulla, quis posuere mi. Mauris venenatis, magna at pellentesque commodo, lectus risus vehicula elit, nec dignissim nisl sapien id leo. Nulla non pretium metus, vitae finibus lectus. Aliquam in posuere risus. Curabitur ultrices ornare magna porttitor commodo. Curabitur eu tempor orci, sed pretium quam. Vestibulum condimentum, arcu nec pulvinar fringilla, lorem odio varius arcu, in porta tellus eros sed neque. Suspendisse efficitur eget erat sit amet efficitur. Proin maximus nibh eu sapien consequat, non porttitor risus consequat. Donec maximus odio sed nibh convallis luctus.

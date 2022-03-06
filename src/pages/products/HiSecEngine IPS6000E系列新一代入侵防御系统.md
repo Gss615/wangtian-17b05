@@ -14,7 +14,7 @@ other2:
   features: [{"title":"全新软硬件架构","dec":["","内置加速引擎，处理性能提升至业界2倍",""]},{"title":"高级威胁防御","dec":["","基于信誉体系和沙箱技术，秒级响应未知威胁/APT攻击",""]},{"title":"威胁日志智能分级","dec":["过滤85%+无效日志,提升管理效率"]}]
 other3: https://e.huawei.com/cn/material/networking/networksecurity/4b8aaa5bee574d579672ef1926a992fa
 other4:
-  images: {"other":{"org":"other","img":["HiSecEngine IPS6000E系列新一代入侵防御系统.png"]}}
+  images: {"other":{"org":"other","img":["HiSecEngine IPS6000E系列新一代入侵防御系统.webp"]}}
 seo:
   title: ips6000e | HiSecEngine IPS6000E系列新一代入侵防御系统 | null | 防火墙及应用安全网关 | 网络安全 | 企业网络
   description: 'HiSecEngine IPS6000E系列产品是华为推出的新一代专业入侵防御产品，主要应用于企业、IDC、校园网和运营商等，为客户提供运营安全保障。
@@ -36,7 +36,3 @@ HiSecEngine IPS6000E系列产品在传统IPS产品的基础上进行了扩展：
       value: all
 template: product
 ---
-
-# Nulla suscipit
-
-Aliquam quis laoreet lectus. Proin non mattis nulla, quis posuere mi. Mauris venenatis, magna at pellentesque commodo, lectus risus vehicula elit, nec dignissim nisl sapien id leo. Nulla non pretium metus, vitae finibus lectus. Aliquam in posuere risus. Curabitur ultrices ornare magna porttitor commodo. Curabitur eu tempor orci, sed pretium quam. Vestibulum condimentum, arcu nec pulvinar fringilla, lorem odio varius arcu, in porta tellus eros sed neque. Suspendisse efficitur eget erat sit amet efficitur. Proin maximus nibh eu sapien consequat, non porttitor risus consequat. Donec maximus odio sed nibh convallis luctus.

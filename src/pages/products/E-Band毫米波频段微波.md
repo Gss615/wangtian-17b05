@@ -12,7 +12,7 @@ other2:
   features: [{"title":"频谱费用低","dec":["","E-Band毫米波段频谱资源丰富，费用低",""]},{"title":"超大传输容量","dec":["","最大10 Gbit/s超大传输容量",""]},{"title":"全室外密集部署","dec":["","全室外安装，极简运维，利于密集部署",""]}]
 other3: null
 other4:
-  images: {"other":{"org":"other","img":["E-Band毫米波频段微波.png"]}}
+  images: {"other":{"org":"other","img":["E-Band毫米波频段微波.webp"]}}
 seo:
   title: e-Band-millimeter | E-Band毫米波频段微波 | null | null | 企业微波解决方案 | 企业无线
   description: '华为E-Band微波系列RTN380/380H，工作在71-86 GHz的毫米波频段，频谱费用低，资源丰富，具有高达10 Gbit/s的超大传输容量，适用于大带宽IP业务汇聚传输和光传送网的微波补网。全室外设备形态和极简的运维特性有利于城区的密集部署，充分满足企业专线互联、ISP固定宽带回传等多种场景大带宽无线传输的需求。'
@@ -30,7 +30,3 @@ seo:
       value: all
 template: product
 ---
-
-# Nulla suscipit
-
-Aliquam quis laoreet lectus. Proin non mattis nulla, quis posuere mi. Mauris venenatis, magna at pellentesque commodo, lectus risus vehicula elit, nec dignissim nisl sapien id leo. Nulla non pretium metus, vitae finibus lectus. Aliquam in posuere risus. Curabitur ultrices ornare magna porttitor commodo. Curabitur eu tempor orci, sed pretium quam. Vestibulum condimentum, arcu nec pulvinar fringilla, lorem odio varius arcu, in porta tellus eros sed neque. Suspendisse efficitur eget erat sit amet efficitur. Proin maximus nibh eu sapien consequat, non porttitor risus consequat. Donec maximus odio sed nibh convallis luctus.

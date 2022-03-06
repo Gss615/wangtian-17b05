@@ -19,7 +19,7 @@ other2:
   features: [{"title":"小体积大容量，综合业务承载","dec":["","设备深度仅220mm，有效节省机房空间；支持2Mbps至100Gbps的丰富接口，为客户提供综合业务承载服务",""]},{"title":"多种创新技术，提升用户体验","dec":["","采用华为自研NP芯片、创新的IP硬管道和IP FPM等技术，为客户提供高质量和高可靠的网络，极大提升用户体验",""]},{"title":"SDN智能控制，网络极简高效","dec":["","基于SDN架构，实现业务快速开通，解决流量负载均衡问题，让网络更简单高效，帮助客户实现商业成功",""]}]
 other3: null
 other4:
-  images: {"other":{"org":"other","img":["NetEngine20E-S系列.png"]}}
+  images: {"other":{"org":"other","img":["NetEngine20E-S系列.webp"]}}
 seo:
   title: ne20e-s | NetEngine20E系列 | 业务汇聚路由器 | NE系列路由器 | 路由器 | 企业网络
   description: '华为NetEngine20E-S系列综合业务承载路由器可适用于企业各种类型和规模的网络：
@@ -51,7 +51,3 @@ seo:
       value: all
 template: product
 ---
-
-# Nulla suscipit
-
-Aliquam quis laoreet lectus. Proin non mattis nulla, quis posuere mi. Mauris venenatis, magna at pellentesque commodo, lectus risus vehicula elit, nec dignissim nisl sapien id leo. Nulla non pretium metus, vitae finibus lectus. Aliquam in posuere risus. Curabitur ultrices ornare magna porttitor commodo. Curabitur eu tempor orci, sed pretium quam. Vestibulum condimentum, arcu nec pulvinar fringilla, lorem odio varius arcu, in porta tellus eros sed neque. Suspendisse efficitur eget erat sit amet efficitur. Proin maximus nibh eu sapien consequat, non porttitor risus consequat. Donec maximus odio sed nibh convallis luctus.

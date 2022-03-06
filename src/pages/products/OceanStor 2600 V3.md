@@ -16,7 +16,7 @@ other2:
   features: [{"title":"全闪存优化","dec":["","面向全闪存设计的存储操作系统、领先一代的硬件平台，提供高IOPS低时延业务体验",""]},{"title":"融合高效","dec":["","融合SAN与NAS，SSD，备份，异构虚拟化于一体，资源按需供给，支持面向未来云架构平滑演进",""]},{"title":"业务永续","dec":["","领先的SAN与NAS一体化双活方案，帮助用户实现业务永续",""]}]
 other3: https://e.huawei.com/cn/material/datacenter/storage/981c7f9f650b456cabe93edf3de9ea02
 other4:
-  images: {"other":{"org":"other","img":["OceanStor 2600 V3.png"]}}
+  images: {"other":{"org":"other","img":["OceanStor 2600 V3.webp"]}}
 seo:
   title: oceanstor-2600-v3 | OceanStor 2600 V3存储系统 | null | null | 混合闪存存储 | 数据存储
   description: '华为OceanStor 2600 V3是面向闪存优化设计的中端入门级存储，满足云时代对存储系统更高性能、更低时延、更加弹性的要求。在全闪存配置时，能够实现高性能并达到<1ms的低时延，并创新性的兼具SAN和NAS一体化、多控、双活等能力。
@@ -42,7 +42,3 @@ OceanStor 2600 V3可扩展到8控，256GB缓存，支持16Gbps FC、PCI-E 3.0、
       value: all
 template: product
 ---
-
-# Nulla suscipit
-
-Aliquam quis laoreet lectus. Proin non mattis nulla, quis posuere mi. Mauris venenatis, magna at pellentesque commodo, lectus risus vehicula elit, nec dignissim nisl sapien id leo. Nulla non pretium metus, vitae finibus lectus. Aliquam in posuere risus. Curabitur ultrices ornare magna porttitor commodo. Curabitur eu tempor orci, sed pretium quam. Vestibulum condimentum, arcu nec pulvinar fringilla, lorem odio varius arcu, in porta tellus eros sed neque. Suspendisse efficitur eget erat sit amet efficitur. Proin maximus nibh eu sapien consequat, non porttitor risus consequat. Donec maximus odio sed nibh convallis luctus.

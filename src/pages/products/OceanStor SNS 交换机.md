@@ -12,7 +12,7 @@ other2:
   features: [{"title":"易运维","dec":["交换机采用第六代光纤通道技术并提供有内置工具，可帮助企业实现更有效的管控并获取有用信息，快速确定存储层的故障根源并加快故障排除时间，确保达到关键服务水平协议（SLA）要求"]},{"title":"高密度","dec":["提供行业领先的端口密度和空间利用率，进而简化扩展和数据中心整合。利用这种高密度设计，企业可以在一个数据中心内安装更多设备，减少占地面积，降低成本和管理复杂性"]},{"title":"虚拟化","dec":["交换机为当前高度虚拟化环境和云环境提供了一个关键组件，简化服务器虚拟化并满足SSD苛刻的吞吐量需求，支持在云环境中通过虚拟网络架构、服务质量和分区特性支持多租户，最大限度地减少故障停机"]}]
 other3: 
 other4:
-  images: {"other":{"org":"other","img":["OceanStor SNS 交换机.png"]}}
+  images: {"other":{"org":"other","img":["OceanStor SNS 交换机.webp"]}}
 seo:
   title: oceanstor-sns | OceanStor SNS 交换机 | null | null | 存储网络 Storage Network  | 数据存储
   description: '华为OceanStor SNS 交换机，为存储业务量身打造的网络连接设备，满足超大规模虚拟化、更大型的云基础架构及不断增长的闪存存储环境业务需求。'
@@ -30,7 +30,3 @@ seo:
       value: all
 template: product
 ---
-
-# Nulla suscipit
-
-Aliquam quis laoreet lectus. Proin non mattis nulla, quis posuere mi. Mauris venenatis, magna at pellentesque commodo, lectus risus vehicula elit, nec dignissim nisl sapien id leo. Nulla non pretium metus, vitae finibus lectus. Aliquam in posuere risus. Curabitur ultrices ornare magna porttitor commodo. Curabitur eu tempor orci, sed pretium quam. Vestibulum condimentum, arcu nec pulvinar fringilla, lorem odio varius arcu, in porta tellus eros sed neque. Suspendisse efficitur eget erat sit amet efficitur. Proin maximus nibh eu sapien consequat, non porttitor risus consequat. Donec maximus odio sed nibh convallis luctus.

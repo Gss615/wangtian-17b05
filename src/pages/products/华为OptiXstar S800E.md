@@ -12,7 +12,7 @@ other2:
   features: [{"title":"QOS","dec":["以太端口限速\n802.1p优先级\nSP/WRR/SP+WRR\n广播报文速率限制\n基于VLAN、802.1p、以 太端口及其任意组合的流映射"]},{"title":"组播","dec":["IGMP v2/v3 snooping\nMLD v1/v2 snooping\n快速离开\n下行组播VLAN切换/透传/剥离\nIGMP/MLD协议报文限速"]},{"title":"智能运维","dec":["变长OMCI\nOLT发起的流氓ONT检测和隔离\nPPPoE/DHCP仿真"]}]
 other3: null
 other4:
-  images: {"other":{"org":"other","img":["华为OptiXstar S800E.png"]}}
+  images: {"other":{"org":"other","img":["华为OptiXstar S800E.webp"]}}
 seo:
   title: optixstar-s800e | 华为OptiXstar S800E | null | ONU | 光终端 | 企业光网络
   description: '华为OptiXstar S800E是一款微型XGS-PON SFP ONU设备，可插在摄像头或AP设备的SFP端口中，为它们提供XGSPON接入，满足视频回传或无线回传等需求。'
@@ -30,7 +30,3 @@ seo:
       value: all
 template: product
 ---
-
-# Nulla suscipit
-
-Aliquam quis laoreet lectus. Proin non mattis nulla, quis posuere mi. Mauris venenatis, magna at pellentesque commodo, lectus risus vehicula elit, nec dignissim nisl sapien id leo. Nulla non pretium metus, vitae finibus lectus. Aliquam in posuere risus. Curabitur ultrices ornare magna porttitor commodo. Curabitur eu tempor orci, sed pretium quam. Vestibulum condimentum, arcu nec pulvinar fringilla, lorem odio varius arcu, in porta tellus eros sed neque. Suspendisse efficitur eget erat sit amet efficitur. Proin maximus nibh eu sapien consequat, non porttitor risus consequat. Donec maximus odio sed nibh convallis luctus.

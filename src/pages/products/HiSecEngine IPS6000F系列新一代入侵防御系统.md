@@ -14,7 +14,7 @@ other2:
   features: [{"title":"全新软硬件架构","dec":["专用多核平台+全新IPS检测引擎，威胁检测性能大幅提升"]},{"title":"全面精准检测","dec":["针对系统、应用、恶意软件及客户端攻击等进行全面、多重检测"]},{"title":"快速有效防御","dec":["及时捕获最新威胁特征、发布签名、升级检测引擎，快速有效阻断攻击"]}]
 other3: null
 other4:
-  images: {"ips6585f":{"org":"IPS6585F_pic","img":["front.png","front_left.png","front_right.png","front_top.png","rear.png","rear_left.png","rear_right.png","rear_top.png"]}}
+  images: {"ips6585f":{"org":"IPS6585F_pic","img":["front.webp","front_left.webp","front_right.webp","front_top.webp","rear.webp","rear_left.webp","rear_right.webp","rear_top.webp"]}}
 seo:
   title: ips6000f | HiSecEngine IPS6000F系列新一代入侵防御系统 | null | 防火墙及应用安全网关 | 网络安全 | 企业网络
   description: 'HiSecEngine IPS6000F系列产品是华为推出的新一代专业入侵防御产品，在传统IPS产品的基础上进行了扩展：采用全新软硬件架构，增加网络环境感知能力、深度应用感知能力、内容感知能力，以及对未知威胁的防御能力，实现了更精准的检测能力、更优化的管理体验。
@@ -36,7 +36,3 @@ HiSecEngine IPS6000F系列入侵防御产品主要应用于企业、IDC、校园
       value: all
 template: product
 ---
-
-# Nulla suscipit
-
-Aliquam quis laoreet lectus. Proin non mattis nulla, quis posuere mi. Mauris venenatis, magna at pellentesque commodo, lectus risus vehicula elit, nec dignissim nisl sapien id leo. Nulla non pretium metus, vitae finibus lectus. Aliquam in posuere risus. Curabitur ultrices ornare magna porttitor commodo. Curabitur eu tempor orci, sed pretium quam. Vestibulum condimentum, arcu nec pulvinar fringilla, lorem odio varius arcu, in porta tellus eros sed neque. Suspendisse efficitur eget erat sit amet efficitur. Proin maximus nibh eu sapien consequat, non porttitor risus consequat. Donec maximus odio sed nibh convallis luctus.

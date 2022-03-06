@@ -12,7 +12,7 @@ other2:
   features: [{"title":"强劲性能，超高密度","dec":["","支持24条DDR4内存，支持4*3.5”或8*2.5”(可配置4*NVMe SSD)或10*2.5”(可配置8*NVMe SSD)本地硬盘配置。",""]},{"title":"智慧节能，更高能效","dec":["","DEMT智慧节能策略，部件休眠、供电关相、PID节能调速、电源主备供电等多维度节能技术，能耗更省；可选配550W/900W/1200W/1500W等不同电源模块，1200W/1500W采用直流及高压直流HVDC技术，提高能源利用率。",""]},{"title":"智能管理，开放集成","dec":["","全生命周期智能运维，FDM深度故障诊断技术，核心部件故障诊断准确率达93%；板载网卡满足网络高IO业务所需，配置简洁；标准化开放接口及开发指南，易于第三方管理软件无缝集成。",""]}]
 other3: https://e.huawei.com/cn/material/datacenter/server/82d4d43165554139ad1afc7831719d49
 other4:
-  images: {"other":{"org":"other","img":["FusionServer Pro 1288H V5机架服务器.png"]}}
+  images: {"other":{"org":"other","img":["FusionServer Pro 1288H V5机架服务器.webp"]}}
 seo:
   title: 1288h-v5 | FusionServer Pro 1288H V5机架服务器 | FusionServer Pro机架服务器 | FusionServer Pro智能服务器 | 服务器 - 计算 | 数据中心
   description: '华为FusionServer Pro 1288H V5是一款1U2路机架服务器，适用于云计算虚拟化、高性能计算(HPC)、大数据处理等负载的高密度部署，提升数据中心空间利用率。1288H V5在1U空间里可配置2路处理器、24条DDR4内存及4*3.5”或10*2.5”的本地存储资源（可配置4/8个NVMe SSD硬盘）。 集成DEMT智能功耗管理、FDM智能故障管理等专利技术，可选配华为FusionDirector全生命周期管理软件，能够有效降低运营成本、提升投资回报。'
@@ -30,7 +30,3 @@ seo:
       value: all
 template: product
 ---
-
-# Nulla suscipit
-
-Aliquam quis laoreet lectus. Proin non mattis nulla, quis posuere mi. Mauris venenatis, magna at pellentesque commodo, lectus risus vehicula elit, nec dignissim nisl sapien id leo. Nulla non pretium metus, vitae finibus lectus. Aliquam in posuere risus. Curabitur ultrices ornare magna porttitor commodo. Curabitur eu tempor orci, sed pretium quam. Vestibulum condimentum, arcu nec pulvinar fringilla, lorem odio varius arcu, in porta tellus eros sed neque. Suspendisse efficitur eget erat sit amet efficitur. Proin maximus nibh eu sapien consequat, non porttitor risus consequat. Donec maximus odio sed nibh convallis luctus.

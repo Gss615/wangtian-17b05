@@ -12,7 +12,7 @@ other2:
   features: [{"title":"存储更大","dec":["45个2.5英寸硬盘\n34个NVMe SSD\n12TB内存容量"]},{"title":"算力更强","dec":["80核通用算力\n4个300W全高全长双宽GPU加速卡\n8个全高全长单宽GPU加速卡\n11个半高半长半宽GPU加速卡"]},{"title":"配置更多","dec":["灵活可选32DIMM和16DIMM机型\n2个OCP3.0网卡，可热插拔\n14个PCIe 4.0扩展插槽，支持多种应用\n2个M.2 SSD，热插拔，硬RAID"]}]
 other3: null
 other4:
-  images: {"other":{"org":"other","img":["FusionServer Pro 2288H V6 机架服务器.png"]}}
+  images: {"other":{"org":"other","img":["FusionServer Pro 2288H V6 机架服务器.webp"]}}
 seo:
   title: 2288h-v6 | FusionServer Pro 2288H V6 机架服务器 | FusionServer Pro机架服务器 | FusionServer Pro智能服务器 | 服务器 - 计算 | 数据中心
   description: '华为FusionServer Pro 2288H V6是一款2U2路机架服务器，配置灵活，可广泛适用于云计算、虚拟化、数据库、大数据等负载2288H V6可配置2路英特尔®至强®可扩展处理器、16/32条DDR4内存、14个 PCIe扩展槽、支持大容量的本地存储资源。集成DEMT智能功耗管理、FDM智能故障管理等专利技术，可选配华为FusionDirector全生命周期管理软件，能够有效降低运营成本、提升投资回报。'
@@ -30,7 +30,3 @@ seo:
       value: all
 template: product
 ---
-
-# Nulla suscipit
-
-Aliquam quis laoreet lectus. Proin non mattis nulla, quis posuere mi. Mauris venenatis, magna at pellentesque commodo, lectus risus vehicula elit, nec dignissim nisl sapien id leo. Nulla non pretium metus, vitae finibus lectus. Aliquam in posuere risus. Curabitur ultrices ornare magna porttitor commodo. Curabitur eu tempor orci, sed pretium quam. Vestibulum condimentum, arcu nec pulvinar fringilla, lorem odio varius arcu, in porta tellus eros sed neque. Suspendisse efficitur eget erat sit amet efficitur. Proin maximus nibh eu sapien consequat, non porttitor risus consequat. Donec maximus odio sed nibh convallis luctus.

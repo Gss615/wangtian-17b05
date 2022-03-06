@@ -12,7 +12,7 @@ other2:
   features: [{"title":"Wi-Fi 6 （802.11ax）技术","dec":["MU-MIMO、OFDMA、1024QAM调制方式，使数据传输有序、高效，整机4条空间流，空口速率可达1.77 Gbps"]},{"title":"丰富的接口","dec":["整机支持4 x GE下行接口，2xRJ45直通口（兼容RJ11），可为酒店、宿舍场景下用户提供足够的下行接口"]},{"title":"安装灵活","dec":["支持86mm面板的暗盒安装，及配套安装件实现壁挂式安装。安装灵活，适用不用场景需求"]}]
 other3: https://e.huawei.com/cn/material/networking/campus-network/wlan/c23036b5b695458ea99e9f78c8be67d3
 other4:
-  images: {"airengine5761-10w":{"org":"AirEngine5761-10W_pic","img":["front_bottom.png","front_top.png","top.png"]}}
+  images: {"airengine5761-10w":{"org":"AirEngine5761-10W_pic","img":["front_bottom.webp","front_top.webp","top.webp"]}}
 seo:
   title: airengine-5761-10w | AirEngine 5761-10W接入点 | AirEngine 5700系列 | 室内接入点 | 无线局域网 | 企业网络
   description: '新一代Wi-Fi 6 （802.11ax）标准面板式接入点设备（AP），2.4GHz频段支持 2x2 MU-MIMO和2条空间流，5GHz频段支持 2x2 MU-MIMO和2条空间流，整机速率达1.77Gbps。适用于酒店、宿舍等房间密集场所。'
@@ -30,7 +30,3 @@ seo:
       value: all
 template: product
 ---
-
-# Nulla suscipit
-
-Aliquam quis laoreet lectus. Proin non mattis nulla, quis posuere mi. Mauris venenatis, magna at pellentesque commodo, lectus risus vehicula elit, nec dignissim nisl sapien id leo. Nulla non pretium metus, vitae finibus lectus. Aliquam in posuere risus. Curabitur ultrices ornare magna porttitor commodo. Curabitur eu tempor orci, sed pretium quam. Vestibulum condimentum, arcu nec pulvinar fringilla, lorem odio varius arcu, in porta tellus eros sed neque. Suspendisse efficitur eget erat sit amet efficitur. Proin maximus nibh eu sapien consequat, non porttitor risus consequat. Donec maximus odio sed nibh convallis luctus.

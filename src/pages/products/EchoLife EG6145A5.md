@@ -13,7 +13,7 @@ other2:
   features: [{"title":"智能业务","dec":["防蹭网\nWi-Fi定时开关\nWi-Fi智能共享：\nPortal、802.1x认证\n基于Soft GRE"]},{"title":"智能运维","dec":["IPTV视频质量诊断（VMOS&eMDI)\nOLT发起的流氓ONT检测和隔离\nPPPOE/DHCP仿真测试\nWLAN仿真"]},{"title":"节电","dec":["指示灯节能"]}]
 other3: null
 other4:
-  images: {"other":{"org":"other","img":["EchoLife EG6145A5.png"]}}
+  images: {"other":{"org":"other","img":["EchoLife EG6145A5.webp"]}}
 seo:
   title: echolife-eg6145a5 | EchoLife EG6145A5 | null | ONT | 光终端 | 企业光网络
   description: '华为EchoLife EG6145A5是智能网关设备，提供1个POTS语音接口、1个GE/FE自适应以太端口，3个FE以太端口，1个USB端口和2.4GHz Wi-Fi。应用灵活，支持即插即用、远程诊断、绿色节能等特性。
@@ -33,7 +33,3 @@ EG6145A5支持GPON技术，实现FTTH组网场景下家庭用户的超宽带接�
       value: all
 template: product
 ---
-
-# Nulla suscipit
-
-Aliquam quis laoreet lectus. Proin non mattis nulla, quis posuere mi. Mauris venenatis, magna at pellentesque commodo, lectus risus vehicula elit, nec dignissim nisl sapien id leo. Nulla non pretium metus, vitae finibus lectus. Aliquam in posuere risus. Curabitur ultrices ornare magna porttitor commodo. Curabitur eu tempor orci, sed pretium quam. Vestibulum condimentum, arcu nec pulvinar fringilla, lorem odio varius arcu, in porta tellus eros sed neque. Suspendisse efficitur eget erat sit amet efficitur. Proin maximus nibh eu sapien consequat, non porttitor risus consequat. Donec maximus odio sed nibh convallis luctus.

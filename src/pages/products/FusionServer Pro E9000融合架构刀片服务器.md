@@ -14,7 +14,7 @@ other2:
   features: [{"title":"卓越性能","dec":["","最大支持64个处理器，背板带宽32Tbit/s，支持40GE、IB EDR(100G)、OPA，可演进至100GE；全宽槽位最多可配置15个2.5英寸硬盘/12个NVMe SSD盘，存储容量业界领先。",""]},{"title":"融合架构","dec":["","计算、存储、网络、管理融合，散热、供电模块化设计；2路、4路计算节点动态扩展架构。",""]},{"title":"智能管理","dec":["","全生命周期智能运维，大幅提升部署及运维效率；标准化开放接口，支持Restful接口和IPMI V2.0规范，易于第三方管理软件无缝集成。",""]}]
 other3: https://e.huawei.com/cn/material/datacenter/server/70999e0267bd4e46993e5f5a858fb6c5
 other4:
-  images: {"other":{"org":"other","img":["FusionServer Pro E9000融合架构刀片服务器.png"]}}
+  images: {"other":{"org":"other","img":["FusionServer Pro E9000融合架构刀片服务器.webp"]}}
 seo:
   title: e9000-server-chassis | FusionServer E9000融合架构刀片服务器 | FusionServer刀片服务器 | FusionServer Pro智能服务器 | 服务器 - 计算 | 数据中心
   description: '华为FusionServer Pro E9000融合架构刀片服务器继承华为在ICT领域的多年技术积累，实现计算、存储、网络、管理的融合，支撑运营商、企业高端核心应用， 是虚拟化、关键业务、高性能计算的理想选择。
@@ -36,7 +36,3 @@ E9000机箱采用12U/16刀片结构，供电、散热、管理、交换等全冗
       value: all
 template: product
 ---
-
-# Nulla suscipit
-
-Aliquam quis laoreet lectus. Proin non mattis nulla, quis posuere mi. Mauris venenatis, magna at pellentesque commodo, lectus risus vehicula elit, nec dignissim nisl sapien id leo. Nulla non pretium metus, vitae finibus lectus. Aliquam in posuere risus. Curabitur ultrices ornare magna porttitor commodo. Curabitur eu tempor orci, sed pretium quam. Vestibulum condimentum, arcu nec pulvinar fringilla, lorem odio varius arcu, in porta tellus eros sed neque. Suspendisse efficitur eget erat sit amet efficitur. Proin maximus nibh eu sapien consequat, non porttitor risus consequat. Donec maximus odio sed nibh convallis luctus.

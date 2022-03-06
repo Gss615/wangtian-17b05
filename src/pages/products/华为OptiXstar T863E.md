@@ -12,7 +12,7 @@ other2:
   features: [{"title":"“绿色”环保，无源免维","dec":["",""]},{"title":null,"dec":[]},{"title":null,"dec":[]},{"title":null,"dec":[]},{"title":"系统稳固，极致“安全”","dec":["",""]},{"title":null,"dec":[]},{"title":null,"dec":[]},{"title":null,"dec":[]},{"title":"“超宽”双链，极速体验","dec":["",""]},{"title":null,"dec":[]},{"title":null,"dec":[]},{"title":null,"dec":[]},{"title":"边缘“智能” 高效运营","dec":["",""]},{"title":null,"dec":[]}]
 other3: null
 other4:
-  images: {"other":{"org":"other","img":["华为OptiXstar T863E.png"]}}
+  images: {"other":{"org":"other","img":["华为OptiXstar T863E.webp"]}}
 seo:
   title: optixstar-t863e | 华为OptiXstar T863E | null | ONU | 光终端 | 企业光网络
   description: '华为OptiXstar T863E产品是华为工业光网解决方案的ORE，面向矿业、油气、电力、交通等工业场景，网络侧提供GPON、XGS-PON双上行接口，用户侧提供8个GE以太网接口。'
@@ -30,7 +30,3 @@ seo:
       value: all
 template: product
 ---
-
-# Nulla suscipit
-
-Aliquam quis laoreet lectus. Proin non mattis nulla, quis posuere mi. Mauris venenatis, magna at pellentesque commodo, lectus risus vehicula elit, nec dignissim nisl sapien id leo. Nulla non pretium metus, vitae finibus lectus. Aliquam in posuere risus. Curabitur ultrices ornare magna porttitor commodo. Curabitur eu tempor orci, sed pretium quam. Vestibulum condimentum, arcu nec pulvinar fringilla, lorem odio varius arcu, in porta tellus eros sed neque. Suspendisse efficitur eget erat sit amet efficitur. Proin maximus nibh eu sapien consequat, non porttitor risus consequat. Donec maximus odio sed nibh convallis luctus.

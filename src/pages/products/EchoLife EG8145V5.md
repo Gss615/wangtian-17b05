@@ -12,7 +12,7 @@ other2:
   features: [{"title":"即插即用","dec":["","通过网管自动下发配置，无需现场调测，高效运维",""]},{"title":"全方位的Triple Play服务","dec":["","提供丰富的接口，实现上网、语音等多种接入业务，为用户提供全方位的Triple Play服务",""]},{"title":"绿色节能","dec":["","采用高集成SOC芯片，单芯片集成PON，语音，网关及LSW等模块，节能25％",""]}]
 other3: null
 other4:
-  images: {"other":{"org":"other","img":["EchoLife EG8145V5.png"]}}
+  images: {"other":{"org":"other","img":["EchoLife EG8145V5.webp"]}}
 seo:
   title: echolife-eg8145v5 | EchoLife EG8145V5 | null | ONT | 光终端 | 企业光网络
   description: 'EchoLife EG8145V5 ONT是华为FTTH解决方案中的一款智能路由型光网络终端，通过使用 GPON 技术，为家庭用户提供超宽带接入。EG8145V5 支持802.11ac 双频WiFi, 具有高性能转发功能, 可确保语音、互联网和高清视频服务的优质体验。'
@@ -30,7 +30,3 @@ seo:
       value: all
 template: product
 ---
-
-# Nulla suscipit
-
-Aliquam quis laoreet lectus. Proin non mattis nulla, quis posuere mi. Mauris venenatis, magna at pellentesque commodo, lectus risus vehicula elit, nec dignissim nisl sapien id leo. Nulla non pretium metus, vitae finibus lectus. Aliquam in posuere risus. Curabitur ultrices ornare magna porttitor commodo. Curabitur eu tempor orci, sed pretium quam. Vestibulum condimentum, arcu nec pulvinar fringilla, lorem odio varius arcu, in porta tellus eros sed neque. Suspendisse efficitur eget erat sit amet efficitur. Proin maximus nibh eu sapien consequat, non porttitor risus consequat. Donec maximus odio sed nibh convallis luctus.

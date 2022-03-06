@@ -12,7 +12,7 @@ other2:
   features: [{"title":"802.11ax技术","dec":["MU-MIMO及OFDMA技术，使数据传输有序、高效1024QAM调制方式，整机4条空间流，空口速率高达2.975Gbps"]},{"title":"VIP用户带宽预留","dec":["基于切片技术为VIP用户及应用预留一部分专用频谱，保障VIP用户体验"]},{"title":"云管理","dec":["可通过华为云管理平台对AP设备及业务进行管理和运维，节省网络运维成本"]}]
 other3: https://e.huawei.com/cn/material/networking/campus-network/wlan/1d1ecaee0ed1493789c142f1220e9b2c
 other4:
-  images: {"other":{"org":"other","img":["AirEngine 5762-12接入点.png"]}}
+  images: {"other":{"org":"other","img":["AirEngine 5762-12接入点.webp"]}}
 seo:
   title: airengine-5762-12 | AirEngine 5762-12接入点 | AirEngine 5700系列 | 室内接入点 | 无线局域网 | 企业网络
   description: 'AirEngine 5762-12是华为发布的支持Wi-Fi 6（802.11ax）标准的室内AP。支持2.4GHz（2x2）和5GHz（2x2）双频同时提供业务，整机速率可达2.975Gbps。支持高带宽、高并发且体积小巧，便于客户灵活部署，有效节约客户投资，适用于中小型企业办公、医院、咖啡厅等室内覆盖场景。'
@@ -30,7 +30,3 @@ seo:
       value: all
 template: product
 ---
-
-# Nulla suscipit
-
-Aliquam quis laoreet lectus. Proin non mattis nulla, quis posuere mi. Mauris venenatis, magna at pellentesque commodo, lectus risus vehicula elit, nec dignissim nisl sapien id leo. Nulla non pretium metus, vitae finibus lectus. Aliquam in posuere risus. Curabitur ultrices ornare magna porttitor commodo. Curabitur eu tempor orci, sed pretium quam. Vestibulum condimentum, arcu nec pulvinar fringilla, lorem odio varius arcu, in porta tellus eros sed neque. Suspendisse efficitur eget erat sit amet efficitur. Proin maximus nibh eu sapien consequat, non porttitor risus consequat. Donec maximus odio sed nibh convallis luctus.

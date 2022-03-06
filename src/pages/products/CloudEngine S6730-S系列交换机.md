@@ -12,7 +12,7 @@ other2:
   features: [{"title":"网络智能运维","dec":["支持Telemetry技术，实时采集设备数据，配合园区网络分析器及时发现影响用户体验的网络问题，精准保障用户体验"]},{"title":"自动化网络服务","dec":["基于VxLAN的网络虚拟化，业务网络自动化部署，实现“一网多用”，降低OPEX 80%。"]},{"title":"集成安全能力","dec":["通过内置的安全探针识别潜在的威胁流量，配合HiSec Insight系统进行安全威胁事件检测，实现全网安全协防。"]}]
 other3: https://e.huawei.com/cn/material/networking/5ca35b9b95a94fbaad20de9f14fc758e
 other4:
-  images: {"s6700-24-ei":{"org":"S6700-24-EI_pic","img":["01.png","02.png","03.png","04.png","08.png"]}}
+  images: {"s6700-24-ei":{"org":"S6700-24-EI_pic","img":["01.webp","02.webp","03.webp","04.webp","08.webp"]}}
 seo:
   title: s6730-s | CloudEngine S6730-S系列交换机 | 核心/汇聚交换机 | 园区交换机 | 交换机 | 企业网络
   description: 'CloudEngine S6730-S系列交换机是华为公司自主开发的新一代万兆盒式交换机，提供全线速万兆接入接口和40GE上行接口。同时支持丰富的业务特性、完善的安全控制策略、丰富的QoS等特性以满足园区和数据中心网络的可扩展性、可靠性、可管理性及安全性等诸多挑战。'
@@ -30,7 +30,3 @@ seo:
       value: all
 template: product
 ---
-
-# Nulla suscipit
-
-Aliquam quis laoreet lectus. Proin non mattis nulla, quis posuere mi. Mauris venenatis, magna at pellentesque commodo, lectus risus vehicula elit, nec dignissim nisl sapien id leo. Nulla non pretium metus, vitae finibus lectus. Aliquam in posuere risus. Curabitur ultrices ornare magna porttitor commodo. Curabitur eu tempor orci, sed pretium quam. Vestibulum condimentum, arcu nec pulvinar fringilla, lorem odio varius arcu, in porta tellus eros sed neque. Suspendisse efficitur eget erat sit amet efficitur. Proin maximus nibh eu sapien consequat, non porttitor risus consequat. Donec maximus odio sed nibh convallis luctus.

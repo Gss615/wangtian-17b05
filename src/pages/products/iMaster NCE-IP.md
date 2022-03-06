@@ -12,7 +12,7 @@ other2:
   features: [{"title":"IP网络业务自动化","dec":["","通过业务抽象和模型驱动，NCE可以实现IP网络业务发放自动化；\nNCE提供多种业务配置模板、大幅缩减业务发放参数配置，支持批量发放和自动校验参数；\n通过业务驱动隧道自动创建，业务驱动自动创建，基于SLA约束的隧道路径集中计算，发放流程极简与SLA保障。",""]},{"title":"网络路径导航","dec":["","基于整网拓扑信息和隧道信息集中算路，基于Σ(隧道带宽*Cost)最小原则实现全局优化，可以将网络的带宽资源利用率进一步提高到80%；\n支持局部调优，针对局部拥塞隧道和链路进行优化，全网影响小；\n支持对TE网络拓扑信息和隧道约束进行的集中配置和管理，有利于简化网络的运维。",""]},{"title":"网络切片","dec":["","全生命周期自动化管理，创建、监控、调整、删除；\n网络分片功能采用FlexE接口或信道化接口将一张物理网切割为多个带宽硬隔离的切片；\n每个切片独立布放业务，带宽硬隔离，相互不影响。解决客户一网多用的诉求。",""]}]
 other3: null
 other4:
-  images: {"other":{"org":"other","img":["iMaster NCE-IP.png"]}}
+  images: {"other":{"org":"other","img":["iMaster NCE-IP.webp"]}}
 seo:
   title: imaster-nce-ip | iMaster NCE-IP | null | 广域自动驾驶网络管理控制系统 | 网络管控&分析软件 | 企业网络
   description: 'HUAWEI iMaster NCE-IP 自动驾驶网络管理与控制系统是业界首个集管理、控制、分析和AI智能功能于一体的网络自动化与智能化平台，实现了物理网络与商业意图的有效连接，向下实现全局网络的集中管理、控制和分析，面向商业和业务意图使能资源云化、全生命周期网络自动化，以及数据分析驱动的智能闭环；向上提供开放网络API与IT快速集成。让网络更加简单、智慧、开放和安全， 加速企业的业务转型和创新。'
@@ -30,7 +30,3 @@ seo:
       value: all
 template: product
 ---
-
-# Nulla suscipit
-
-Aliquam quis laoreet lectus. Proin non mattis nulla, quis posuere mi. Mauris venenatis, magna at pellentesque commodo, lectus risus vehicula elit, nec dignissim nisl sapien id leo. Nulla non pretium metus, vitae finibus lectus. Aliquam in posuere risus. Curabitur ultrices ornare magna porttitor commodo. Curabitur eu tempor orci, sed pretium quam. Vestibulum condimentum, arcu nec pulvinar fringilla, lorem odio varius arcu, in porta tellus eros sed neque. Suspendisse efficitur eget erat sit amet efficitur. Proin maximus nibh eu sapien consequat, non porttitor risus consequat. Donec maximus odio sed nibh convallis luctus.

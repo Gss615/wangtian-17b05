@@ -16,7 +16,7 @@ other2:
   features: []
 other3: null
 other4:
-  images: {"other":{"org":"other","img":["OceanStor Dorado 6800 V6.png"]}}
+  images: {"other":{"org":"other","img":["OceanStor Dorado 6800 V6.webp"]}}
 seo:
   title: oceanstor-dorado-6800-V6 | OceanStor Dorado 6800 V6 | null | null | 全闪存存储 | 数据存储
   description: '华为OceanStor Dorado 6800 V6高端入门级全闪存存储系统，可提供业界领先的性能，6个9级别的可靠性（99.9999 ％）和智能加速，满足企业核心业务日益提高的数据服务要求。
@@ -42,7 +42,3 @@ OceanStor Dorado 6800 V6可以满足大中型企业核心业务的可靠性和�
       value: all
 template: product
 ---
-
-# Nulla suscipit
-
-Aliquam quis laoreet lectus. Proin non mattis nulla, quis posuere mi. Mauris venenatis, magna at pellentesque commodo, lectus risus vehicula elit, nec dignissim nisl sapien id leo. Nulla non pretium metus, vitae finibus lectus. Aliquam in posuere risus. Curabitur ultrices ornare magna porttitor commodo. Curabitur eu tempor orci, sed pretium quam. Vestibulum condimentum, arcu nec pulvinar fringilla, lorem odio varius arcu, in porta tellus eros sed neque. Suspendisse efficitur eget erat sit amet efficitur. Proin maximus nibh eu sapien consequat, non porttitor risus consequat. Donec maximus odio sed nibh convallis luctus.

@@ -20,7 +20,7 @@ other2:
   features: [{"title":"组网保护","dec":["GPON Type B/Type C保护\nEPON Type B/Type D保护\n环网检测"]},{"title":"安全","dec":["MAC过滤/IP地址过滤/URL过滤\n防DoS攻击\n会话个数限制\n设备访问控制\n支持802.1x的EAP-MD5/TLS/TTLS/PEAP四种鉴权方式"]},{"title":"智能运维","dec":["XML/Web UI管理\neSight集中管理\n流氓ONT检测和自律\nPPPoE/DHCP仿真测试\n串口数据采集和发送/串口采集数据透传"]}]
 other3: null
 other4:
-  images: {"other":{"org":"other","img":["华为OptiXstar MA5621E.png"]}}
+  images: {"other":{"org":"other","img":["华为OptiXstar MA5621E.webp"]}}
 seo:
   title: optixstar-ma5621e | 华为OptiXstar MA5621E | null | ONU | 光终端 | 企业光网络
   description: '华为 OptiXstar MA5621E是华为工业光网解决方案的盒式ONU，网络侧提供GPON或EPON双上行接口，用户侧提供8个GE以太网接口，通过高性能的转发能力，为电力、制造、交通等工业生产场景提供理想的网络解决方案。
@@ -54,7 +54,3 @@ seo:
       value: all
 template: product
 ---
-
-# Nulla suscipit
-
-Aliquam quis laoreet lectus. Proin non mattis nulla, quis posuere mi. Mauris venenatis, magna at pellentesque commodo, lectus risus vehicula elit, nec dignissim nisl sapien id leo. Nulla non pretium metus, vitae finibus lectus. Aliquam in posuere risus. Curabitur ultrices ornare magna porttitor commodo. Curabitur eu tempor orci, sed pretium quam. Vestibulum condimentum, arcu nec pulvinar fringilla, lorem odio varius arcu, in porta tellus eros sed neque. Suspendisse efficitur eget erat sit amet efficitur. Proin maximus nibh eu sapien consequat, non porttitor risus consequat. Donec maximus odio sed nibh convallis luctus.

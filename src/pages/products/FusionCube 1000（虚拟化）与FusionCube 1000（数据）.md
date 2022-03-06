@@ -14,7 +14,7 @@ other2:
   features: [{"title":"极简管理","dec":["","• 出厂预集成，30分钟完成部署\n• 硬件、软件、资源统一管理\n• 一键式运维，效率提升100%",""]},{"title":"极优效率","dec":["","• 支持重删压缩，压缩比达3:1\n• 支持EC，支持22+2，存储利用率高达90%",""]},{"title":"极速性能","dec":["","• 单节点性能超10万 IOPS\n• 1TB数据重构，只需15分钟，业界第一",""]},{"title":"极致可靠","dec":["","• 支持双活，支撑业务零中断\n• 支持异步复制，RPO时间小于5分钟\n• 兼容业界主流备份软件",""]}]
 other3: https://e.huawei.com/cn/material/storage/fusioncube/8fabe9ba738c4c65a7133e84e6fb652c
 other4:
-  images: {"other":{"org":"other","img":["FusionCube 1000（虚拟化）与FusionCube 1000（数据）.png"]}}
+  images: {"other":{"org":"other","img":["FusionCube 1000（虚拟化）与FusionCube 1000（数据）.webp"]}}
 seo:
   title: fusioncube-hci | FusionCube 1000虚拟化与数据解决方案 | null | null | 超融合 HCI | 数据存储
   description: '华为FusionCube 1000（虚拟化）与FusionCube 1000（数据）是基于分布式架构的超融合数据基础设施，为企业提供全栈IT能力。其遵循开放架构标准，融合计算、存储为一体，并预集成分布式存储引擎、虚拟化和云管理软件，资源可按需调配、线性扩展。
@@ -36,7 +36,3 @@ FusionCube 1000（虚拟化）与FusionCube 1000（数据）可以根据业务�
       value: all
 template: product
 ---
-
-# Nulla suscipit
-
-Aliquam quis laoreet lectus. Proin non mattis nulla, quis posuere mi. Mauris venenatis, magna at pellentesque commodo, lectus risus vehicula elit, nec dignissim nisl sapien id leo. Nulla non pretium metus, vitae finibus lectus. Aliquam in posuere risus. Curabitur ultrices ornare magna porttitor commodo. Curabitur eu tempor orci, sed pretium quam. Vestibulum condimentum, arcu nec pulvinar fringilla, lorem odio varius arcu, in porta tellus eros sed neque. Suspendisse efficitur eget erat sit amet efficitur. Proin maximus nibh eu sapien consequat, non porttitor risus consequat. Donec maximus odio sed nibh convallis luctus.

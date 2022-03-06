@@ -12,7 +12,7 @@ other2:
   features: [{"title":"高密计算，极致性能","dec":["2U机框最多可容纳4个1U半宽双路服务器节点，共8个Intel® Xeon® 第三代Xeon®可扩展处理器（270W）；24块NVMe SSD存储，支持2+4均衡；8通道DDR4 3200内存，带宽提升45%"]},{"title":"汇聚管理，便捷维护","dec":["采用各节点iBMC协同管理方式，融合了刀片和机架的优点，节点后置，后出线；模块化设计，硬盘、节点、电源、OCP卡、风扇支持热插拔，大幅提升运维效率"]},{"title":"共享架构、高效节能","dec":["服务器节点共享4个电源，1+1或2+2冗余，整框最高支持4个3000W电源模块；硬盘无背板和翼型对旋风扇设计，进风量提升35%；大尺寸VC连体散热器，相变均温VC技术，导热系数提升15倍以上"]}]
 other3: null
 other4:
-  images: {"other":{"org":"other","img":["FusionServer Pro X6000 V6高密服务器.png"]}}
+  images: {"other":{"org":"other","img":["FusionServer Pro X6000 V6高密服务器.webp"]}}
 seo:
   title: x6000-v6 | FusionServer Pro X6000 V6高密服务器 | FusionServer Pro高密服务器 | FusionServer Pro智能服务器 | 服务器 - 计算 | 数据中心
   description: 'FusionServer Pro X6000 V6服务器是针对互联网、HPC、云计算、数据中心等业务应用需求而推出的新一代2U高密度服务器产品，对软件定义存储、大数据和SDI基础架构等进行优化和架构创新，满足服务器大规模部署。'
@@ -30,7 +30,3 @@ seo:
       value: all
 template: product
 ---
-
-# Nulla suscipit
-
-Aliquam quis laoreet lectus. Proin non mattis nulla, quis posuere mi. Mauris venenatis, magna at pellentesque commodo, lectus risus vehicula elit, nec dignissim nisl sapien id leo. Nulla non pretium metus, vitae finibus lectus. Aliquam in posuere risus. Curabitur ultrices ornare magna porttitor commodo. Curabitur eu tempor orci, sed pretium quam. Vestibulum condimentum, arcu nec pulvinar fringilla, lorem odio varius arcu, in porta tellus eros sed neque. Suspendisse efficitur eget erat sit amet efficitur. Proin maximus nibh eu sapien consequat, non porttitor risus consequat. Donec maximus odio sed nibh convallis luctus.

@@ -12,7 +12,7 @@ other2:
   features: [{"title":"极速体验","dec":["整机16x16 MU-MIMO,16条空间流，空口速率高达10.75 Gbps, OFDMA与MU-MIMO联合调度，使数据传输有序、高效"]},{"title":"8T8R 超远覆盖","dec":["独家2.4GHz频段8T8R，极大提升Wi-Fi信号的发射和接收能力，有效提升覆盖距离40%"]},{"title":"工业级设计","dec":["5KA天馈防雷，以太网接口6KA/6KV增强防雷设计，IP68防水防尘等级， -40℃ ～+65℃宽温工作，满足工业级使用要求"]}]
 other3: https://e.huawei.com/cn/material/networking/campus-network/wlan/dcfd74d8c6304d4d99b12792188e1233
 other4:
-  images: {"airengine8760-x1-pro":{"org":"AirEngine8760-X1-PRO_pic","img":["bottom.png","front.png","front_left.png","front_right.png","front_top.png","front_top_2.png","rear_top.png","top.png"]}}
+  images: {"airengine8760-x1-pro":{"org":"AirEngine8760-X1-PRO_pic","img":["bottom.webp","front.webp","front_left.webp","front_right.webp","front_top.webp","front_top_2.webp","rear_top.webp","top.webp"]}}
 seo:
   title: airengine-8760r-x1-8760r-x1e | AirEngine 8760R-X1 & 8760R-X1E接入点 | AirEngine 8700R系列 | 室外接入点 | 无线局域网 | 企业网络
   description: 'AirEngine 8760R-X1 & AirEngine 8760R-X1E是支持802.11ax(Wi-Fi 6)标准的新一代旗舰型室外AP。整机支持16条空间流，速率可达10.75Gbps 。独家支持2.4GHz频段8T8R，具有卓越的室外覆盖性能以及超强的IP68防水防尘和6KV/6KA防雷电能力。适用于高密场馆、广场、体育场馆、游乐场等室外覆盖场景。'
@@ -30,7 +30,3 @@ seo:
       value: all
 template: product
 ---
-
-# Nulla suscipit
-
-Aliquam quis laoreet lectus. Proin non mattis nulla, quis posuere mi. Mauris venenatis, magna at pellentesque commodo, lectus risus vehicula elit, nec dignissim nisl sapien id leo. Nulla non pretium metus, vitae finibus lectus. Aliquam in posuere risus. Curabitur ultrices ornare magna porttitor commodo. Curabitur eu tempor orci, sed pretium quam. Vestibulum condimentum, arcu nec pulvinar fringilla, lorem odio varius arcu, in porta tellus eros sed neque. Suspendisse efficitur eget erat sit amet efficitur. Proin maximus nibh eu sapien consequat, non porttitor risus consequat. Donec maximus odio sed nibh convallis luctus.

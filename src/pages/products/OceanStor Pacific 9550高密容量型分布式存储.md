@@ -18,7 +18,7 @@ other2:
   features: []
 other3: null
 other4:
-  images: {"other":{"org":"other","img":["OceanStor Pacific 9550高密容量型分布式存储.png"]}}
+  images: {"other":{"org":"other","img":["OceanStor Pacific 9550高密容量型分布式存储.webp"]}}
 seo:
   title: oceanstor-pacific-9550 | OceanStor Pacific 9550高密容量型分布式存储 | 容量型 | OceanStor Pacific 系列存储 | 海量存储 | 数据存储
   description: '华为OceanStor Pacific 9550高密容量型存储系统，可为用户提供极致性价比的数据存储服务。在每个5U的机箱中集成2个存储节点，采用HDD大容量主存，每机箱可提供720TB至1680TB超大裸容量，相比通用存储型服务器可降低62.5%的机柜空间占用。它广泛适用于海量非结构化数据存储，且可与OceanStor Pacific 9950高密性能型存储配合形成数据分级存储方案，最大程度帮助用户优化投资。关键特点：
@@ -48,7 +48,3 @@ OceanStor Pacific 9550凭借业界领先的容量密度，可为高性能计算�
       value: all
 template: product
 ---
-
-# Nulla suscipit
-
-Aliquam quis laoreet lectus. Proin non mattis nulla, quis posuere mi. Mauris venenatis, magna at pellentesque commodo, lectus risus vehicula elit, nec dignissim nisl sapien id leo. Nulla non pretium metus, vitae finibus lectus. Aliquam in posuere risus. Curabitur ultrices ornare magna porttitor commodo. Curabitur eu tempor orci, sed pretium quam. Vestibulum condimentum, arcu nec pulvinar fringilla, lorem odio varius arcu, in porta tellus eros sed neque. Suspendisse efficitur eget erat sit amet efficitur. Proin maximus nibh eu sapien consequat, non porttitor risus consequat. Donec maximus odio sed nibh convallis luctus.

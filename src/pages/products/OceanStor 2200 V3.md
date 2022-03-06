@@ -16,7 +16,7 @@ other2:
   features: [{"title":"卓越经济","dec":["","采用全新多核处理器，支持16Gbps FC等主机接口，内部采用新一代PCI-E 3.0总线，并采用12Gbps SAS 3.0高速硬盘接口，性能及规格全面领先同级产品。",""]},{"title":"丰富精巧","dec":["","通过Smart系列软件为入门级用户提供更高效的存储资源使用效率，通过Hyper系列数据保护软件满足用户本地、异地以及多地数据保护需求，保障业务连续性和数据可用性。",""]},{"title":"传承创新","dec":["","面向全闪存的优化设计，将SSD性能发挥到极致；一套设备兼容SAN和NAS两种服务，满足业务弹性发展，简化业务部署，提升存储资源利用率，有效降低TCO；",""]}]
 other3: https://e.huawei.com/cn/material/datacenter/storage/9d6a746ca28d4cf38b3f680c1c727ade
 other4:
-  images: {"other":{"org":"other","img":["OceanStor 2200 V3.png"]}}
+  images: {"other":{"org":"other","img":["OceanStor 2200 V3.webp"]}}
 seo:
   title: oceanstor-2200-v3 | OceanStor 2200 V3存储系统 | null | null | 混合闪存存储 | 数据存储
   description: '华为OceanStor 2200 V3是面向全闪存设计的企业入门级存储产品，满足中小型企业数据库OLTP/OLAP、Exchange、服务器虚拟化和视频监控等各种应用需求。
@@ -42,7 +42,3 @@ seo:
       value: all
 template: product
 ---
-
-# Nulla suscipit
-
-Aliquam quis laoreet lectus. Proin non mattis nulla, quis posuere mi. Mauris venenatis, magna at pellentesque commodo, lectus risus vehicula elit, nec dignissim nisl sapien id leo. Nulla non pretium metus, vitae finibus lectus. Aliquam in posuere risus. Curabitur ultrices ornare magna porttitor commodo. Curabitur eu tempor orci, sed pretium quam. Vestibulum condimentum, arcu nec pulvinar fringilla, lorem odio varius arcu, in porta tellus eros sed neque. Suspendisse efficitur eget erat sit amet efficitur. Proin maximus nibh eu sapien consequat, non porttitor risus consequat. Donec maximus odio sed nibh convallis luctus.

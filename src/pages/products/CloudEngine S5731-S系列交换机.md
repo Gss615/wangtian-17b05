@@ -14,7 +14,7 @@ other2:
   features: [{"title":"自动化网络服务","dec":["基于VxLAN的网络虚拟化，业务网络自动化部署，实现“一网多用”，降低OPEX 80%。"]},{"title":"极简网络运维","dec":["SVF将园区“核心/汇聚+接入交换机+AP”的网络架构虚拟为一台网元；SVF Client角色支持即插即用，极简网络运维。"]},{"title":"集成安全能力","dec":["通过内置的安全探针识别潜在的威胁流量，配合HiSec Insight系统进行安全威胁事件检测，实现全网安全协防。"]}]
 other3: https://e.huawei.com/cn/material/networking/9b88d80032e2450987d7b34ec524ff16
 other4:
-  images: {"s5720-36c-ei-ac":{"org":"S5720-36C-EI-AC_pic","img":["01.png","02.png","03.png","04.png","07.png","08.png"]}}
+  images: {"s5720-36c-ei-ac":{"org":"S5720-36C-EI-AC_pic","img":["01.webp","02.webp","03.webp","04.webp","07.webp","08.webp"]}}
 seo:
   title: s5731-s | CloudEngine S5731-S系列交换机 | 接入交换机 | 园区交换机 | 交换机 | 企业网络
   description: 'CloudEngine S5731-S系列交换机是华为公司全新研发的标准型千兆接入交换机，可以提供全千兆电口接入及固定万兆上行端口。
@@ -36,7 +36,3 @@ CloudEngine S5731-S系列交换机是华为公司推出的新一代千兆接入�
       value: all
 template: product
 ---
-
-# Nulla suscipit
-
-Aliquam quis laoreet lectus. Proin non mattis nulla, quis posuere mi. Mauris venenatis, magna at pellentesque commodo, lectus risus vehicula elit, nec dignissim nisl sapien id leo. Nulla non pretium metus, vitae finibus lectus. Aliquam in posuere risus. Curabitur ultrices ornare magna porttitor commodo. Curabitur eu tempor orci, sed pretium quam. Vestibulum condimentum, arcu nec pulvinar fringilla, lorem odio varius arcu, in porta tellus eros sed neque. Suspendisse efficitur eget erat sit amet efficitur. Proin maximus nibh eu sapien consequat, non porttitor risus consequat. Donec maximus odio sed nibh convallis luctus.

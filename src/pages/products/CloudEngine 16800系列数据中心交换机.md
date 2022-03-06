@@ -12,7 +12,7 @@ other2:
   features: [{"title":"超大容量","dec":["","734/3096Tbps交换容量，支持400GE平滑演进，应对未来数字流量激增需求。",""]},{"title":"智能引擎","dec":["","独创iLossless算法，全网流量实时学习训练，实现网络自适应，自优化。实现网络0丢包与E2Eμs级时延，达到最高吞吐量。",""]},{"title":"智能运维","dec":["","毫秒级Telemetry数据采集，为智能运维平台构建数据基础。1-3-5智能运维，90%故障主动预测。",""]}]
 other3: https://e.huawei.com/cn/material/networking/dcswitch/56bd18285f654c68b0c1001efaf63b6b
 other4:
-  images: {"ce16804":{"org":"CE16804_pic","img":["front.png","front_left.png","front_right.png","front_top.png","left.png","rear.png","rear_left.png","rear_right.png","right.png"]}}
+  images: {"ce16804":{"org":"CE16804_pic","img":["front.webp","front_left.webp","front_right.webp","front_top.webp","left.webp","rear.webp","rear_left.webp","rear_right.webp","right.webp"]}}
 seo:
   title: ce16800 | CloudEngine 16800系列数据中心交换机 | 框式核心交换机 | 数据中心交换机 | 交换机 | 企业网络
   description: 'CloudEngine 16800是华为推出的面向智能时代的数据中心交换机。承载独创的iLossless 智能无损交换算法，对全网流量进行实时的学习训练，实现网络0丢包，达到最高吞吐量。'
@@ -30,7 +30,3 @@ seo:
       value: all
 template: product
 ---
-
-# Nulla suscipit
-
-Aliquam quis laoreet lectus. Proin non mattis nulla, quis posuere mi. Mauris venenatis, magna at pellentesque commodo, lectus risus vehicula elit, nec dignissim nisl sapien id leo. Nulla non pretium metus, vitae finibus lectus. Aliquam in posuere risus. Curabitur ultrices ornare magna porttitor commodo. Curabitur eu tempor orci, sed pretium quam. Vestibulum condimentum, arcu nec pulvinar fringilla, lorem odio varius arcu, in porta tellus eros sed neque. Suspendisse efficitur eget erat sit amet efficitur. Proin maximus nibh eu sapien consequat, non porttitor risus consequat. Donec maximus odio sed nibh convallis luctus.

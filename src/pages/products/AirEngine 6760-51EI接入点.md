@@ -12,7 +12,7 @@ other2:
   features: [{"title":"802.11ax技术","dec":["MU-MIMO及OFDMA技术，使数据传输有序、高效1024QAM调制方式，整机4条空间流，空口速率高达4.8Gbps"]},{"title":"快速链路切换技术","dec":["采用先建链后切换的“软切换”技术，实现车地通信链路快速切换，最大可能的降低切换过程中的丢包率"]},{"title":"高防护","dec":["采用高等级压铸铝材质，满足防震标准和防水、防火要求，符合轨道交通行业专业车载部署要求"]}]
 other3: https://e.huawei.com/cn/material/networking/campus-network/wlan/f1d91ebe9b04457199f5687353407ab1
 other4:
-  images: {"airengine6760-51ei":{"org":"AirEngine6760-51EI_pic","img":["front_left.png","front_right.png","front_top.png","left.png","rear_left.png","rear_right.png","rear_top.png","right.png","top.png"]}}
+  images: {"airengine6760-51ei":{"org":"AirEngine6760-51EI_pic","img":["front_left.webp","front_right.webp","front_top.webp","left.webp","rear_left.webp","rear_right.webp","rear_top.webp","right.webp","top.webp"]}}
 seo:
   title: airengine-6760-51ei | AirEngine 6760-51EI接入点 | null | 场景化产品系列 | 无线局域网 | 企业网络
   description: 'AirEngine 6760-51EI是华为发布的支持Wi-Fi 6（802.11ax）标准的轨道交通无线接入点产品。支持4条空间流，整机速率可达4.8Gbps。该产品满足EN50155车载电子设备标准要求，适用于交通行业车地回传场景。'
@@ -30,7 +30,3 @@ seo:
       value: all
 template: product
 ---
-
-# Nulla suscipit
-
-Aliquam quis laoreet lectus. Proin non mattis nulla, quis posuere mi. Mauris venenatis, magna at pellentesque commodo, lectus risus vehicula elit, nec dignissim nisl sapien id leo. Nulla non pretium metus, vitae finibus lectus. Aliquam in posuere risus. Curabitur ultrices ornare magna porttitor commodo. Curabitur eu tempor orci, sed pretium quam. Vestibulum condimentum, arcu nec pulvinar fringilla, lorem odio varius arcu, in porta tellus eros sed neque. Suspendisse efficitur eget erat sit amet efficitur. Proin maximus nibh eu sapien consequat, non porttitor risus consequat. Donec maximus odio sed nibh convallis luctus.

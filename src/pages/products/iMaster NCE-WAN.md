@@ -18,7 +18,7 @@ other2:
   features: [{"title":"业务快速发放","dec":["提供多种广域链路接入，20+组网编排能力，满足各行各业的组网需求，提供多种ZTP开局方式，提升业务部署效率，助力客户业务快速上线。"]},{"title":"基于应用的体验优化","dec":["提供基于应用的智能选路，通过带宽利用率、链路质量等多种选路策略，提高线路利用率，FEC等广域优化技术保障关键应用体验，多POP组网提供高品质专线，增加客户粘性。"]},{"title":"可视化运维","dec":["提供智能策略推荐，可基于AI构建客户网络画像实现分钟级网络异常流量探测，一体化运维界面提供TPOPO、45+报表，有效提升运维效率和业务体验质量。"]}]
 other3: null
 other4:
-  images: {"other":{"org":"other","img":["iMaster NCE-WAN.png"]}}
+  images: {"other":{"org":"other","img":["iMaster NCE-WAN.webp"]}}
 seo:
   title: imaster-nce-wan | iMaster NCE-WAN | null | SD-WAN自动驾驶管理控制系统 | 网络管控&分析软件 | 企业网络
   description: '作为华为CloudWAN解决方案的核心组件，iMaster NCE-WAN是华为推出的面向企业分支网络场景的自动驾驶网络管理控制系统，应用EVPN等技术实现网络虚拟化、策略集中化以及管理云化，为企业快速提供云化专线管理服务，加速业务上云与数字化转型。
@@ -48,7 +48,3 @@ iMaster NCE-WAN可实现对企业互联业务实现全流程管理，助力企�
       value: all
 template: product
 ---
-
-# Nulla suscipit
-
-Aliquam quis laoreet lectus. Proin non mattis nulla, quis posuere mi. Mauris venenatis, magna at pellentesque commodo, lectus risus vehicula elit, nec dignissim nisl sapien id leo. Nulla non pretium metus, vitae finibus lectus. Aliquam in posuere risus. Curabitur ultrices ornare magna porttitor commodo. Curabitur eu tempor orci, sed pretium quam. Vestibulum condimentum, arcu nec pulvinar fringilla, lorem odio varius arcu, in porta tellus eros sed neque. Suspendisse efficitur eget erat sit amet efficitur. Proin maximus nibh eu sapien consequat, non porttitor risus consequat. Donec maximus odio sed nibh convallis luctus.

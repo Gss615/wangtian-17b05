@@ -12,7 +12,7 @@ other2:
   features: [{"title":"千兆接入","dec":["","支持802.11ac wave 2标准，MU-MIMO，2.4GHz和5GHz双射频同时提供业务，整机速率1.267Gbps",""]},{"title":"双网口","dec":["","数据冗余备份，且支持双PoE供电，提升可靠性",""]},{"title":"平滑演进","dec":["","本地和云管理模式灵活切换，平滑演进保护投资",""]}]
 other3: 
 other4:
-  images: {"ap4051dn-s":{"org":"AP4051DN-S_pic","img":["01.png","02.png","03.png","04.png","05.png","06.png","07.png"]}}
+  images: {"ap4051dn-s":{"org":"AP4051DN-S_pic","img":["01.webp","02.webp","03.webp","04.webp","05.webp","06.webp","07.webp"]}}
 seo:
   title: ap4051dn-s | AP4051DN-S接入点 | AP4000系列 | 室内接入点 | 无线局域网 | 企业网络
   description: 'AP4051DN-S接入点是面向分销市场的无线接入点产品，支持802.11ac wave 2标准的、2×2 MIMO和2条空间流，同时支持11n和11ac协议，可使无线网络带宽突破千兆，极大地增强用户对无线网络的使用体验，适合部署在中小型企业，机场车站、体育场馆、咖啡厅、休闲中心等商业环境。'
@@ -30,7 +30,3 @@ seo:
       value: all
 template: product
 ---
-
-# Nulla suscipit
-
-Aliquam quis laoreet lectus. Proin non mattis nulla, quis posuere mi. Mauris venenatis, magna at pellentesque commodo, lectus risus vehicula elit, nec dignissim nisl sapien id leo. Nulla non pretium metus, vitae finibus lectus. Aliquam in posuere risus. Curabitur ultrices ornare magna porttitor commodo. Curabitur eu tempor orci, sed pretium quam. Vestibulum condimentum, arcu nec pulvinar fringilla, lorem odio varius arcu, in porta tellus eros sed neque. Suspendisse efficitur eget erat sit amet efficitur. Proin maximus nibh eu sapien consequat, non porttitor risus consequat. Donec maximus odio sed nibh convallis luctus.

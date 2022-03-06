@@ -12,7 +12,7 @@ other2:
   features: [{"title":"超强AI算力","dec":["• 47U 高度提供最高20.48 PFLOPS FP16超强AI算力"]},{"title":"更优AI能效","dec":["提供20.48 PFLOPS/43 kW超高能效比"]},{"title":"最佳AI拓展","dec":["• 支持机柜单元扩展，最大可拓展至4096颗昇腾910芯片集群，总算力达1 EFLOPS FP16"]}]
 other3: null
 other4:
-  images: {"other":{"org":"other","img":["Atlas 900 PoD（型号：9000）.png"]}}
+  images: {"other":{"org":"other","img":["Atlas 900 PoD（型号：9000）.webp"]}}
 seo:
   title: atlas-900-pod-9000 | Atlas 900 PoD（型号：9000） | null | 昇腾计算 | 服务器 - 计算 | 数据中心
   description: 'Atlas 900 PoD（型号：9000）是基于华为昇腾910+ 鲲鹏920 处理器的AI训练集群基础单元，具有超强AI算力、更优AI能效、最佳AI拓展等特点。该基础单元广泛应用于深度学习模型开发和训练，适用于智慧城市、智慧医疗、天文探索、石油勘探等需要大AI算力的领域。'
@@ -30,7 +30,3 @@ seo:
       value: all
 template: product
 ---
-
-# Nulla suscipit
-
-Aliquam quis laoreet lectus. Proin non mattis nulla, quis posuere mi. Mauris venenatis, magna at pellentesque commodo, lectus risus vehicula elit, nec dignissim nisl sapien id leo. Nulla non pretium metus, vitae finibus lectus. Aliquam in posuere risus. Curabitur ultrices ornare magna porttitor commodo. Curabitur eu tempor orci, sed pretium quam. Vestibulum condimentum, arcu nec pulvinar fringilla, lorem odio varius arcu, in porta tellus eros sed neque. Suspendisse efficitur eget erat sit amet efficitur. Proin maximus nibh eu sapien consequat, non porttitor risus consequat. Donec maximus odio sed nibh convallis luctus.

@@ -12,7 +12,7 @@ other2:
   features: [{"title":"更强性能，更高效率","dec":["","2U空间内可配置4个处理器；支持32条DDR4内存；支持最大25个2.5”本地硬盘配置；支持2*GE+2*10GE的板载网络，满足98%应用场景的网络需求。",""]},{"title":"智慧节能，更高能效","dec":["","专利的DEMT智能功耗管理技术，采用部件休眠、PID节能调速、电源主备供电等多维度节能措施，在不影响负载性能的前提下节省整机功耗高达15%；可选配2000W白金交流电源模块，采用直流及高压直流HVDC技术，提高能源利用率。\n"]},{"title":"智能管理，开放集成","dec":["","全生命周期智能运维，FDM深度故障诊断技术，核心部件故障诊断准确率达93%；板载网卡满足网络高IO业务所需，配置简洁；标准化开放接口及开发指南，易于第三方管理软件无缝集成。",""]}]
 other3: https://e.huawei.com/cn/material/datacenter/server/82d4d43165554139ad1afc7831719d49
 other4:
-  images: {"other":{"org":"other","img":["FusionServer Pro 2488 V5机架服务器.png"]}}
+  images: {"other":{"org":"other","img":["FusionServer Pro 2488 V5机架服务器.webp"]}}
 seo:
   title: 2488-v5 | FusionServer 2488 V5机架服务器 | FusionServer Pro机架服务器 | FusionServer Pro智能服务器 | 服务器 - 计算 | 数据中心
   description: '华为FusionServer Pro 2488 V5是最新推出的2U4路机架服务器，适用于虚拟化、高性能计算(HPC)、数据库、SAP HANA等计算密集型场景，相比于2台传统2U2路机架服务器，在虚拟化应用场景中1台2488 V5可以带来约32%的OPEX节省。2488 V5在2U空间内可配置4个处理器，32条DDR4内存，以及最多25*2.5”的本地存储资源（可配置8个NVMe SSD）。集成DEMT智能功耗管理、FDM智能故障管理等专利技术，可选配华为FusionDirector全生命周期管理软件，能够有效降低运营成本、提升投资回报。'
@@ -30,7 +30,3 @@ seo:
       value: all
 template: product
 ---
-
-# Nulla suscipit
-
-Aliquam quis laoreet lectus. Proin non mattis nulla, quis posuere mi. Mauris venenatis, magna at pellentesque commodo, lectus risus vehicula elit, nec dignissim nisl sapien id leo. Nulla non pretium metus, vitae finibus lectus. Aliquam in posuere risus. Curabitur ultrices ornare magna porttitor commodo. Curabitur eu tempor orci, sed pretium quam. Vestibulum condimentum, arcu nec pulvinar fringilla, lorem odio varius arcu, in porta tellus eros sed neque. Suspendisse efficitur eget erat sit amet efficitur. Proin maximus nibh eu sapien consequat, non porttitor risus consequat. Donec maximus odio sed nibh convallis luctus.

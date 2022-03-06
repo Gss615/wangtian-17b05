@@ -12,7 +12,7 @@ other2:
   features: [{"title":"智能天线","dec":["内置双频共口面智能天线，自动抑制干扰，覆盖半径提升20%，同位置信号强度提升100%，给用户带来稳定无死角的覆盖"]},{"title":"丰富的接口","dec":["提供1x1GE电口，4xGE下行接口，2xRJ45直通口（兼容RJ11）"]},{"title":"云管理","dec":["可通过华为云管理平台对AP设备及业务进行管理和运维，节省网络运维成本"]}]
 other3: https://e.huawei.com/cn/material/networking/campus-network/wlan/27f19bd9f0b54e649ca897bbb832d5fb
 other4:
-  images: {"airengine5761-11wd":{"org":"AirEngine5761-11WD_pic","img":["front.png","front_bottom.png","front_left.png","front_right.png","rear.png","rear_bottom.png"]}}
+  images: {"airengine5761-11wd":{"org":"AirEngine5761-11WD_pic","img":["front.webp","front_bottom.webp","front_left.webp","front_right.webp","rear.webp","rear_bottom.webp"]}}
 seo:
   title: airengine-5761-11wd | AirEngine 5761-11WD远端单元 | null | 场景化产品系列 | 无线局域网 | 企业网络
   description: 'AirEngine 5761-11WD是华为新一代敏捷分布式解决方案远端单元。支持Wi-Fi 6 （802.11ax）标准。内置智能天线，信号随用户而动，带来更好的覆盖效果。支持2×2 MIMO，2.4GHz和5GHz双频同时提供业务，整机速率可达1.775Gbps，适用于酒店、宿舍、医院等室内覆盖场景。'
@@ -30,7 +30,3 @@ seo:
       value: all
 template: product
 ---
-
-# Nulla suscipit
-
-Aliquam quis laoreet lectus. Proin non mattis nulla, quis posuere mi. Mauris venenatis, magna at pellentesque commodo, lectus risus vehicula elit, nec dignissim nisl sapien id leo. Nulla non pretium metus, vitae finibus lectus. Aliquam in posuere risus. Curabitur ultrices ornare magna porttitor commodo. Curabitur eu tempor orci, sed pretium quam. Vestibulum condimentum, arcu nec pulvinar fringilla, lorem odio varius arcu, in porta tellus eros sed neque. Suspendisse efficitur eget erat sit amet efficitur. Proin maximus nibh eu sapien consequat, non porttitor risus consequat. Donec maximus odio sed nibh convallis luctus.

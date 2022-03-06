@@ -18,7 +18,7 @@ other2:
   features: []
 other3: null
 other4:
-  images: {"other":{"org":"other","img":["OceanStor Pacific 9950高密性能型分布式存储.png"]}}
+  images: {"other":{"org":"other","img":["OceanStor Pacific 9950高密性能型分布式存储.webp"]}}
 seo:
   title: oceanstor-pacific-9950 | OceanStor Pacific 9950高密性能型分布式存储 | 性能型 | OceanStor Pacific 系列存储 | 海量存储 | 数据存储
   description: '华为OceanStor Pacific 9950高密高性能存储系统，每个5U机箱里可容纳8个存储节点，采用全NVMe SSD主存，结合全PCIe 4.0设计，每机箱可提供128TB至614.4TB裸容量，以及高达160GB/s带宽、200万IOPS领先性能，相较业界其他同类产品每U性能密度高30%。关键特点：
@@ -48,7 +48,3 @@ OceanStor Pacific 9950凭借业界领先的性能，可为高性能计算、AI�
       value: all
 template: product
 ---
-
-# Nulla suscipit
-
-Aliquam quis laoreet lectus. Proin non mattis nulla, quis posuere mi. Mauris venenatis, magna at pellentesque commodo, lectus risus vehicula elit, nec dignissim nisl sapien id leo. Nulla non pretium metus, vitae finibus lectus. Aliquam in posuere risus. Curabitur ultrices ornare magna porttitor commodo. Curabitur eu tempor orci, sed pretium quam. Vestibulum condimentum, arcu nec pulvinar fringilla, lorem odio varius arcu, in porta tellus eros sed neque. Suspendisse efficitur eget erat sit amet efficitur. Proin maximus nibh eu sapien consequat, non porttitor risus consequat. Donec maximus odio sed nibh convallis luctus.

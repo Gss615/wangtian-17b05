@@ -12,7 +12,7 @@ other2:
   features: [{"title":"自适应阵列天线技术","dec":["对终端进行精准覆盖，降低干扰，提升信号质量，信号随用户而动"]},{"title":"物联网扩展","dec":["USB扩展物联网模块，支持RFID、ZigBee等物联协议"]},{"title":"云管理","dec":["可通过华为云管理平台对AP设备及业务进行管理和运维，节省网络运维成本"]}]
 other3: https://e.huawei.com/cn/material/networking/wlan/fa7155bce1d348e292dc96f2e5881ef4
 other4:
-  images: {"airengine5760-10":{"org":"AirEngine5760-10_pic","img":["bottom.png","front_left.png","front_right.png","front_top.png","rear_top.png","top.png"]}}
+  images: {"airengine5760-10":{"org":"AirEngine5760-10_pic","img":["bottom.webp","front_left.webp","front_right.webp","front_top.webp","rear_top.webp","top.webp"]}}
 seo:
   title: airengine-5760-10 | AirEngine 5760-10 接入点 | AirEngine 5700系列 | 室内接入点 | 无线局域网 | 企业网络
   description: 'AirEngine 5760-10是华为发布的支持Wi-Fi 6（802.11ax）标准的无线接入点产品。支持2×2 MIMO，2.4GHz和5GHz双频同时提供业务，整机速率可达1.775Gbps。内置智能天线，信号随用户而动，带来更好的覆盖效果。适合部署在中小型企业、咖啡厅、休闲中心等场景。'
@@ -30,7 +30,3 @@ seo:
       value: all
 template: product
 ---
-
-# Nulla suscipit
-
-Aliquam quis laoreet lectus. Proin non mattis nulla, quis posuere mi. Mauris venenatis, magna at pellentesque commodo, lectus risus vehicula elit, nec dignissim nisl sapien id leo. Nulla non pretium metus, vitae finibus lectus. Aliquam in posuere risus. Curabitur ultrices ornare magna porttitor commodo. Curabitur eu tempor orci, sed pretium quam. Vestibulum condimentum, arcu nec pulvinar fringilla, lorem odio varius arcu, in porta tellus eros sed neque. Suspendisse efficitur eget erat sit amet efficitur. Proin maximus nibh eu sapien consequat, non porttitor risus consequat. Donec maximus odio sed nibh convallis luctus.

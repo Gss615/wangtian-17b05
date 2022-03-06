@@ -12,7 +12,7 @@ other2:
   features: [{"title":"极简：4-in-1技术融合","dec":["基于MS-OTN架构，融合PCM/SDH/PKT/OTN技术，业务统一承载，简化网络，降低TCO"]},{"title":"超宽：带宽无忧","dec":["OTN容量单子架最大可达2.8T，单槽位支持200G接入容量；单波200G，最大支持80波DWDM，单纤容量16T"]},{"title":"智能：智能运维，化被动为主动","dec":["基于iMaster NCE-T 提供资源实时可视、敏捷业务发放，网络自动运维等丰富的功能"]}]
 other3: null
 other4:
-  images: {"other":{"org":"other","img":["华为OptiXtrans E6600 多业务光传送平台.png"]}}
+  images: {"other":{"org":"other","img":["华为OptiXtrans E6600 多业务光传送平台.webp"]}}
 seo:
   title: optiXtrans-e6600 | 华为OptiXtrans E6600 多业务光传送平台 | null | 波分 | 光传送 | 企业光网络
   description: '基于MS-OTN架构，支持PCM、SDH、分组和OTN业务的4-in-1高集成度光电融合平台，并支持向下一代传送技术Liquid OTN平滑演进，为能源，交通，政府，银行等行业提供高效的传输解决方案。'
@@ -30,7 +30,3 @@ seo:
       value: all
 template: product
 ---
-
-# Nulla suscipit
-
-Aliquam quis laoreet lectus. Proin non mattis nulla, quis posuere mi. Mauris venenatis, magna at pellentesque commodo, lectus risus vehicula elit, nec dignissim nisl sapien id leo. Nulla non pretium metus, vitae finibus lectus. Aliquam in posuere risus. Curabitur ultrices ornare magna porttitor commodo. Curabitur eu tempor orci, sed pretium quam. Vestibulum condimentum, arcu nec pulvinar fringilla, lorem odio varius arcu, in porta tellus eros sed neque. Suspendisse efficitur eget erat sit amet efficitur. Proin maximus nibh eu sapien consequat, non porttitor risus consequat. Donec maximus odio sed nibh convallis luctus.

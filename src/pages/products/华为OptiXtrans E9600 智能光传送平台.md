@@ -14,7 +14,7 @@ other2:
   features: [{"title":"超宽：新速率+新频谱","dec":["超强“车载”，单波100G~800G可调；超宽“车道”，Super C 120波，可平滑到C+L，扩容到200波+，单纤容量48T+；光+电灵活调度，打造立体高速互联网络。"]},{"title":"极简：五合一统一平台","dec":["光/Ponder/OTN/VC/PKT 五合一，简化设备类型；OTN/VC/PKT业务统一调度、统一承载，简化网络层次，提升带宽利用率。"]},{"title":"智能：AI助运维，化被动为主动","dec":["基于SDN设计理念，构建和支撑虚拟化带宽运营服务，支撑波分网络向云时代的传送网转型，在线、智能、可视化及基于大数据故障预测，将被动响应转换为主动运维，提升服务质量，降低OPEX。"]}]
 other3: null
 other4:
-  images: {"other":{"org":"other","img":["华为OptiXtrans E9600 智能光传送平台.png"]}}
+  images: {"other":{"org":"other","img":["华为OptiXtrans E9600 智能光传送平台.webp"]}}
 seo:
   title: optixtrans-e9600 | 华为OptiXtrans E9600 智能光传送平台 | null | null | 全光承载解决方案 | 企业光网络
   description: '华为OptiXtrans E9600 是面向企业ON2.0时代的大容量、智能化、融合光和电新一代增强型MS-OTN平台。
@@ -36,7 +36,3 @@ seo:
       value: all
 template: product
 ---
-
-# Nulla suscipit
-
-Aliquam quis laoreet lectus. Proin non mattis nulla, quis posuere mi. Mauris venenatis, magna at pellentesque commodo, lectus risus vehicula elit, nec dignissim nisl sapien id leo. Nulla non pretium metus, vitae finibus lectus. Aliquam in posuere risus. Curabitur ultrices ornare magna porttitor commodo. Curabitur eu tempor orci, sed pretium quam. Vestibulum condimentum, arcu nec pulvinar fringilla, lorem odio varius arcu, in porta tellus eros sed neque. Suspendisse efficitur eget erat sit amet efficitur. Proin maximus nibh eu sapien consequat, non porttitor risus consequat. Donec maximus odio sed nibh convallis luctus.

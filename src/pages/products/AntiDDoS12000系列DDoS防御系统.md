@@ -12,7 +12,7 @@ other2:
   features: [{"title":"超高性能","dec":["采用领先的硬件架构，提供单机2Tbps+ DDoS防护性能"]},{"title":"极速响应","dec":["秒级甚至毫秒级攻击响应，有效应对新型DDoS攻击"]},{"title":"精准防御","dec":["全流量采集逐包分析，百种DDoS攻击精准防御"]}]
 other3: null
 other4:
-  images: {"antiddos12004":{"org":"AntiDDoS12004_pic","img":["front.png","front_left.png","front_right.png","front_top.png","rear.png"]}}
+  images: {"antiddos12004":{"org":"AntiDDoS12004_pic","img":["front.webp","front_left.webp","front_right.webp","front_top.webp","rear.webp"]}}
 seo:
   title: 12000 | AntiDDoS12000系列DDoS防御系统 | null | DDoS攻击防御 | 网络安全 | 企业网络
   description: '华为HiSecEngine AntiDDoS12000提供最高2T+安全防护性能和拓展能力，有效应对大流量DDoS攻击；针对上百种复杂攻击，秒级甚至毫秒级防御，有效阻断攻击，保护客户业务永续。'
@@ -30,7 +30,3 @@ seo:
       value: all
 template: product
 ---
-
-# Nulla suscipit
-
-Aliquam quis laoreet lectus. Proin non mattis nulla, quis posuere mi. Mauris venenatis, magna at pellentesque commodo, lectus risus vehicula elit, nec dignissim nisl sapien id leo. Nulla non pretium metus, vitae finibus lectus. Aliquam in posuere risus. Curabitur ultrices ornare magna porttitor commodo. Curabitur eu tempor orci, sed pretium quam. Vestibulum condimentum, arcu nec pulvinar fringilla, lorem odio varius arcu, in porta tellus eros sed neque. Suspendisse efficitur eget erat sit amet efficitur. Proin maximus nibh eu sapien consequat, non porttitor risus consequat. Donec maximus odio sed nibh convallis luctus.

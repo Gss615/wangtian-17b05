@@ -12,7 +12,7 @@ other2:
   features: [{"title":"高带宽接入","dec":["支持XGS-PON上行\n提供4个GE接口和1个2.5GE接口"]},{"title":"智能运维","dec":["XML/Web UI\n流氓ONT检测和自律\n环网检测/PPPoE仿真/DHCP仿真"]},{"title":"防雷","dec":["GE：共模4kV，差模0.5kV\nAC电源：共模6kV，差模6kV"]}]
 other3: null
 other4:
-  images: {"other":{"org":"other","img":["华为OptiXstar P812E.png"]}}
+  images: {"other":{"org":"other","img":["华为OptiXstar P812E.webp"]}}
 seo:
   title: optixstar-p812e | 华为OptiXstar P812E  | null | ONU | 光终端 | 企业光网络
   description: '华为OptiXstar P812E产品是面向企业园区、视频回传等场景设计的ONU设备，支持XGS-PON上行，可以提供4个GE接口和1个2.5GE接口，PoE/PoE+功能满足了设备的灵活供电，为用户带来高质量的语音、数据和高清视频等业务体验。'
@@ -30,7 +30,3 @@ seo:
       value: all
 template: product
 ---
-
-# Nulla suscipit
-
-Aliquam quis laoreet lectus. Proin non mattis nulla, quis posuere mi. Mauris venenatis, magna at pellentesque commodo, lectus risus vehicula elit, nec dignissim nisl sapien id leo. Nulla non pretium metus, vitae finibus lectus. Aliquam in posuere risus. Curabitur ultrices ornare magna porttitor commodo. Curabitur eu tempor orci, sed pretium quam. Vestibulum condimentum, arcu nec pulvinar fringilla, lorem odio varius arcu, in porta tellus eros sed neque. Suspendisse efficitur eget erat sit amet efficitur. Proin maximus nibh eu sapien consequat, non porttitor risus consequat. Donec maximus odio sed nibh convallis luctus.

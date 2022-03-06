@@ -14,7 +14,7 @@ other2:
   features: [{"title":"智能运维","dec":["","gRPC高速数据主动上报，全网路径主动探测，实时监测网络健康状态",""]},{"title":"虚拟","dec":["","1:16核心虚拟化，BGP-EVPN支持跨数据中心资源共享；Overlay虚拟化网络（VXLAN）的高性能硬件网关，支撑高达16M多租户的数据中心运营",""]},{"title":"品质","dec":["","专利的严格前后风道设计，线卡网板风道独立，提高散热效率；多种绿色节能创新技术，降低机房能耗。",""]}]
 other3: https://e.huawei.com/cn/material/networking/dcswitch/ba5a88d9fa674965a354bdf747376233
 other4:
-  images: {"ce12804s":{"org":"CE12804S_pic","img":["01-Front.png","02-Front_looking_down.png","03-Front_left.png","05-Front_right.png","07-Rear.png","09-Rear_left_looking_down.png","10-Rear_right_looking_down.png","11-Left_side.png","12-Right_side.png"]}}
+  images: {"ce12804s":{"org":"CE12804S_pic","img":["01-Front.webp","02-Front_looking_down.webp","03-Front_left.webp","05-Front_right.webp","07-Rear.webp","09-Rear_left_looking_down.webp","10-Rear_right_looking_down.webp","11-Left_side.webp","12-Right_side.webp"]}}
 seo:
   title: ce12800 | CloudEngine 12800系列数据中心交换机 | 框式核心交换机 | 数据中心交换机 | 交换机 | 企业网络
   description: 'CloudEngine 12800系列交换机是华为公司面向数据中心网络推出的高性能核心交换机，提供稳定、可靠、安全的高性能L2/L3层交换服务，实现弹性、虚拟、敏捷和高品质的网络。
@@ -36,7 +36,3 @@ CloudEngine 12800提供1290/3870Tbps超大交换容量；单设备支持576个10
       value: all
 template: product
 ---
-
-# Nulla suscipit
-
-Aliquam quis laoreet lectus. Proin non mattis nulla, quis posuere mi. Mauris venenatis, magna at pellentesque commodo, lectus risus vehicula elit, nec dignissim nisl sapien id leo. Nulla non pretium metus, vitae finibus lectus. Aliquam in posuere risus. Curabitur ultrices ornare magna porttitor commodo. Curabitur eu tempor orci, sed pretium quam. Vestibulum condimentum, arcu nec pulvinar fringilla, lorem odio varius arcu, in porta tellus eros sed neque. Suspendisse efficitur eget erat sit amet efficitur. Proin maximus nibh eu sapien consequat, non porttitor risus consequat. Donec maximus odio sed nibh convallis luctus.

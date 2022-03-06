@@ -14,7 +14,7 @@ other2:
   features: [{"title":"精准DDoS防护","dec":["","60+流量模型，100+防护类型，秒级响应",""]},{"title":"直路保护","dec":["","直路部署，实时防御流量型攻击和应用层攻击",""]},{"title":"分层防御","dec":["","与上游运营商或ISP的AntiDDoS设备联动，防御大流量攻击",""]}]
 other3: https://e.huawei.com/cn/material/networking/networksecurity/452411892f944e478b4ec20efc1524c8
 other4:
-  images: {"antiddos1820":{"org":"AntiDDoS1820_pic","img":["front.png","front_left.png","front_top.png"]}}
+  images: {"antiddos1820":{"org":"AntiDDoS1820_pic","img":["front.webp","front_left.webp","front_top.webp"]}}
 seo:
   title: 1000 | AntiDDoS1000系列DDoS防御系统 | null | DDoS攻击防御 | 网络安全 | 企业网络
   description: '华为AntiDDoS1000系列DDoS防御系统运用大数据分析技术，针对60多种网络流量进行抽象建模，秒级攻击响应速度和超百种攻击的全面防御。
@@ -36,7 +36,3 @@ AntiDDoS1000可以灵活部署在用户网络中，实时防御流量型攻击�
       value: all
 template: product
 ---
-
-# Nulla suscipit
-
-Aliquam quis laoreet lectus. Proin non mattis nulla, quis posuere mi. Mauris venenatis, magna at pellentesque commodo, lectus risus vehicula elit, nec dignissim nisl sapien id leo. Nulla non pretium metus, vitae finibus lectus. Aliquam in posuere risus. Curabitur ultrices ornare magna porttitor commodo. Curabitur eu tempor orci, sed pretium quam. Vestibulum condimentum, arcu nec pulvinar fringilla, lorem odio varius arcu, in porta tellus eros sed neque. Suspendisse efficitur eget erat sit amet efficitur. Proin maximus nibh eu sapien consequat, non porttitor risus consequat. Donec maximus odio sed nibh convallis luctus.

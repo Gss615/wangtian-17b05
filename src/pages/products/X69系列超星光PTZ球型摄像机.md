@@ -21,7 +21,7 @@ other2:
   features: []
 other3: null
 other4:
-  images: {"other":{"org":"other","img":["X69系列超星光PTZ球型摄像机.png"]}}
+  images: {"other":{"org":"other","img":["X69系列超星光PTZ球型摄像机.webp"]}}
 seo:
   title: X69-dome | X69系列超星光PTZ球型摄像机 | eXtra（X）系列 | 态势感知摄像机  | 软件定义摄像机 | 机器视觉
   description: '华为X69 系列摄像机拥有极致性能，提供丰富的功能，适用于各种复杂的态势监控场景。
@@ -57,7 +57,3 @@ seo:
       value: all
 template: product
 ---
-
-# Nulla suscipit
-
-Aliquam quis laoreet lectus. Proin non mattis nulla, quis posuere mi. Mauris venenatis, magna at pellentesque commodo, lectus risus vehicula elit, nec dignissim nisl sapien id leo. Nulla non pretium metus, vitae finibus lectus. Aliquam in posuere risus. Curabitur ultrices ornare magna porttitor commodo. Curabitur eu tempor orci, sed pretium quam. Vestibulum condimentum, arcu nec pulvinar fringilla, lorem odio varius arcu, in porta tellus eros sed neque. Suspendisse efficitur eget erat sit amet efficitur. Proin maximus nibh eu sapien consequat, non porttitor risus consequat. Donec maximus odio sed nibh convallis luctus.

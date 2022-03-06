@@ -12,7 +12,7 @@ other2:
   features: [{"title":"小角度天线","dec":["","降低干扰，并发提升50%",""]},{"title":"PoE out","dec":["","节省50%PoE交换机端口",""]},{"title":"易安装","dec":["","天线内置，安装时间节省80%",""]}]
 other3: null
 other4:
-  images: {"other":{"org":"other","img":["AP4050DN-HD接入点.png"]}}
+  images: {"other":{"org":"other","img":["AP4050DN-HD接入点.webp"]}}
 seo:
   title: ap4050dn-hd | AP4050DN-HD接入点 | AP4000系列 | 室内接入点 | 无线局域网 | 企业网络
   description: 'AP4050DN-HD无线接入点支持802.11ac wave2标准，2×2MIMO和两条空间流，整机速率1.267Gbps，内置智能高密天线，适合部署在室内场馆高密度场景。'
@@ -30,7 +30,3 @@ seo:
       value: all
 template: product
 ---
-
-# Nulla suscipit
-
-Aliquam quis laoreet lectus. Proin non mattis nulla, quis posuere mi. Mauris venenatis, magna at pellentesque commodo, lectus risus vehicula elit, nec dignissim nisl sapien id leo. Nulla non pretium metus, vitae finibus lectus. Aliquam in posuere risus. Curabitur ultrices ornare magna porttitor commodo. Curabitur eu tempor orci, sed pretium quam. Vestibulum condimentum, arcu nec pulvinar fringilla, lorem odio varius arcu, in porta tellus eros sed neque. Suspendisse efficitur eget erat sit amet efficitur. Proin maximus nibh eu sapien consequat, non porttitor risus consequat. Donec maximus odio sed nibh convallis luctus.

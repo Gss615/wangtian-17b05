@@ -12,7 +12,7 @@ other2:
   features: [{"title":"简单部署","dec":["12 Vdc，24 Vac，220 Vac输出\n体积小，重量轻，一站式抱杆安装"]},{"title":"高可靠性","dec":["IP55高防护等级\n-40 ℃ ~+55 ℃ 宽温度适应"]},{"title":"智能管理","dec":["远程网管，高效管理"]}]
 other3: null
 other4:
-  images: {"other":{"org":"other","img":["华为OptiXstar T672E-150G1.png"]}}
+  images: {"other":{"org":"other","img":["华为OptiXstar T672E-150G1.webp"]}}
 seo:
   title: optixstar-t672e-150g1 | 华为OptiXstar T672E-150G1 | null | ONU | 光终端 | 企业光网络
   description: '华为T672E-150G1（PowerCube 500) 一体化视频站点解决方案，电源和网络回传高度集成，广泛应用于智慧交通等场景。方案采用高性能功率模块、智能OSS，为视频监控系统提供持续供电，极大提高了系统可靠性和运维效率。'
@@ -30,7 +30,3 @@ seo:
       value: all
 template: product
 ---
-
-# Nulla suscipit
-
-Aliquam quis laoreet lectus. Proin non mattis nulla, quis posuere mi. Mauris venenatis, magna at pellentesque commodo, lectus risus vehicula elit, nec dignissim nisl sapien id leo. Nulla non pretium metus, vitae finibus lectus. Aliquam in posuere risus. Curabitur ultrices ornare magna porttitor commodo. Curabitur eu tempor orci, sed pretium quam. Vestibulum condimentum, arcu nec pulvinar fringilla, lorem odio varius arcu, in porta tellus eros sed neque. Suspendisse efficitur eget erat sit amet efficitur. Proin maximus nibh eu sapien consequat, non porttitor risus consequat. Donec maximus odio sed nibh convallis luctus.

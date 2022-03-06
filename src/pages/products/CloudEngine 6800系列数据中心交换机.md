@@ -18,7 +18,7 @@ other2:
   features: [{"title":"大缓存","dec":["","4GB 超大缓存，80倍于业界平均水平，轻松应对流量突发",""]},{"title":"智能运维","dec":["","全网路径主动探测，实时监测网络健康状态",""]},{"title":"开放","dec":["","互联互通开放SDN交换机，斩获日本Interop展金奖",""]}]
 other3: https://e.huawei.com/cn/material/networking/data-center-network/b69f6d1a1a1542959e3f28286af6dc45
 other4:
-  images: {"ce6850u-24s2q-hi":{"org":"CE6850U-24S2Q-HI_pic","img":["01.png","02.png","03.png","04.png","08.png","09.png"]}}
+  images: {"ce6850u-24s2q-hi":{"org":"CE6850U-24S2Q-HI_pic","img":["01.webp","02.webp","03.webp","04.webp","08.webp","09.webp"]}}
 seo:
   title: ce6800 | CloudEngine 6800系列数据中心交换机 | 盒式接入交换机 | 数据中心交换机 | 交换机 | 企业网络
   description: 'CloudEngine 6800系列交换机是华为公司面向数据中心推出的新一代高性能、高密度、低时延10GE/25GE以太网交换机。
@@ -48,7 +48,3 @@ CloudEngine 6800可以与华为数据中心核心交换机CloudEngine 16800/Clou
       value: all
 template: product
 ---
-
-# Nulla suscipit
-
-Aliquam quis laoreet lectus. Proin non mattis nulla, quis posuere mi. Mauris venenatis, magna at pellentesque commodo, lectus risus vehicula elit, nec dignissim nisl sapien id leo. Nulla non pretium metus, vitae finibus lectus. Aliquam in posuere risus. Curabitur ultrices ornare magna porttitor commodo. Curabitur eu tempor orci, sed pretium quam. Vestibulum condimentum, arcu nec pulvinar fringilla, lorem odio varius arcu, in porta tellus eros sed neque. Suspendisse efficitur eget erat sit amet efficitur. Proin maximus nibh eu sapien consequat, non porttitor risus consequat. Donec maximus odio sed nibh convallis luctus.

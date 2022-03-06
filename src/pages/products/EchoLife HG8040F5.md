@@ -12,7 +12,7 @@ other2:
   features: [{"title":"智能互联","dec":["Any port any service\n家长控制"]},{"title":"智能运维","dec":["IPTV视频质量诊断（仅增强型产品支持）\n主动/被动流氓ONT检测和隔离\nPPPOE/DHCP仿真测试\n变长OMCI"]},{"title":"QoS","dec":["以太端口限速\n802.1p优先级\nSP/WRR/SP+WRR\n广播报文速率限制"]}]
 other3: null
 other4:
-  images: {"other":{"org":"other","img":["EchoLife HG8040F5.png"]}}
+  images: {"other":{"org":"other","img":["EchoLife HG8040F5.webp"]}}
 seo:
   title: echolife-hg8040f5 | EchoLife HG8040F5 | null | ONT | 光终端 | 企业光网络
   description: '华为EchoLife HG8040F5是华为全光接入解决方案的路由型ONT，通过GPON/EPON技术实现用户的超宽带接入。'
@@ -30,7 +30,3 @@ seo:
       value: all
 template: product
 ---
-
-# Nulla suscipit
-
-Aliquam quis laoreet lectus. Proin non mattis nulla, quis posuere mi. Mauris venenatis, magna at pellentesque commodo, lectus risus vehicula elit, nec dignissim nisl sapien id leo. Nulla non pretium metus, vitae finibus lectus. Aliquam in posuere risus. Curabitur ultrices ornare magna porttitor commodo. Curabitur eu tempor orci, sed pretium quam. Vestibulum condimentum, arcu nec pulvinar fringilla, lorem odio varius arcu, in porta tellus eros sed neque. Suspendisse efficitur eget erat sit amet efficitur. Proin maximus nibh eu sapien consequat, non porttitor risus consequat. Donec maximus odio sed nibh convallis luctus.

@@ -12,7 +12,7 @@ other2:
   features: [{"title":"高密计算","dec":["","4U机框最多可容纳4个双槽双路服务器节点",""]},{"title":"海量存储","dec":["","每个计算节点支持最多2个2.5英寸和12个2.5英寸或3.5英寸SAS/SATA/SSD硬盘",""]},{"title":"简化管理","dec":["","支持多节点汇聚管理模式，减少75%的管理网线数量，提升管理效率",""]}]
 other3: null
 other4:
-  images: {"other":{"org":"other","img":["FusionServer Pro XH628 V5服务器节点.png"]}}
+  images: {"other":{"org":"other","img":["FusionServer Pro XH628 V5服务器节点.webp"]}}
 seo:
   title: xh628-v5 | FusionServer Pro XH628 V5服务器节点 | FusionServer Pro高密服务器 | FusionServer Pro智能服务器 | 服务器 - 计算 | 数据中心
   description: 'FusionServer Pro XH628 V5是4U双槽双路服务器节点，可最多配置2个2.5英寸和12个2.5英寸或3.5英寸SAS/SATA/SSD硬盘，兼具高密计算和海量存储能力。'
@@ -30,7 +30,3 @@ seo:
       value: all
 template: product
 ---
-
-# Nulla suscipit
-
-Aliquam quis laoreet lectus. Proin non mattis nulla, quis posuere mi. Mauris venenatis, magna at pellentesque commodo, lectus risus vehicula elit, nec dignissim nisl sapien id leo. Nulla non pretium metus, vitae finibus lectus. Aliquam in posuere risus. Curabitur ultrices ornare magna porttitor commodo. Curabitur eu tempor orci, sed pretium quam. Vestibulum condimentum, arcu nec pulvinar fringilla, lorem odio varius arcu, in porta tellus eros sed neque. Suspendisse efficitur eget erat sit amet efficitur. Proin maximus nibh eu sapien consequat, non porttitor risus consequat. Donec maximus odio sed nibh convallis luctus.

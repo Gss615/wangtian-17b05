@@ -14,7 +14,7 @@ other2:
   features: [{"title":"自动编排","dec":["","基于业务分区和应用的策略自动化编排，安全业务分钟级部署",""]},{"title":"智能运维","dec":["","基于应用可视和互访分析的动态策略优化，降低运维成本80%",""]},{"title":"网安协同","dec":["","协同网络与安全联动，威胁分钟级闭环处置",""]},{"title":"日志管理","dec":["百万级日志采集存储性能，NAT溯源轻松调查取证"]}]
 other3: https://e.huawei.com/cn/material/networking/networksecurity/167dffb906bc4483a3eeccdc75c9d461
 other4:
-  images: {"other":{"org":"other","img":["SecoManager安全控制器.png"]}}
+  images: {"other":{"org":"other","img":["SecoManager安全控制器.webp"]}}
 seo:
   title: secomanager | SecoManager安全控制器 | null | 安全管理 | 网络安全 | 企业网络
   description: 'SecoManager是华为面向数据中心、园区等不同场景推出的安全控制器，可实现全网安全策略集中管理、安全业务编排和高性能日志管理。
@@ -36,7 +36,3 @@ SecoManager通过用户业务分区和应用的业务编排，自动完成安全
       value: all
 template: product
 ---
-
-# Nulla suscipit
-
-Aliquam quis laoreet lectus. Proin non mattis nulla, quis posuere mi. Mauris venenatis, magna at pellentesque commodo, lectus risus vehicula elit, nec dignissim nisl sapien id leo. Nulla non pretium metus, vitae finibus lectus. Aliquam in posuere risus. Curabitur ultrices ornare magna porttitor commodo. Curabitur eu tempor orci, sed pretium quam. Vestibulum condimentum, arcu nec pulvinar fringilla, lorem odio varius arcu, in porta tellus eros sed neque. Suspendisse efficitur eget erat sit amet efficitur. Proin maximus nibh eu sapien consequat, non porttitor risus consequat. Donec maximus odio sed nibh convallis luctus.

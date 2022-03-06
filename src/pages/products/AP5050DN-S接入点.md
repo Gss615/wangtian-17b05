@@ -14,7 +14,7 @@ other2:
   features: [{"title":"高性能","dec":["","支持802.11ac wave 2标准，MU-MIMO，2.4GHz和5GHz双射频同时提供业务，整机速率2.33Gbps",""]},{"title":"高可靠","dec":["","支持双以太接口的链路聚合，保证链路可靠性的同时增加业务负载均衡能力",""]},{"title":"云管理","dec":["","可通过华为云管理平台对AP设备及业务进行管理和运维，节省网络运维成本",""]}]
 other3: https://e.huawei.com/cn/material/networking/wlan/0ac04447cf6f4e6c85e79c9813f36212
 other4:
-  images: {"ap5130dn":{"org":"AP5130DN_pic","img":["01.png","02.png","03.png","04.png","05.png"]}}
+  images: {"ap5130dn":{"org":"AP5130DN_pic","img":["01.webp","02.webp","03.webp","04.webp","05.webp"]}}
 seo:
   title: ap5050dn-s | AP5050DN-S接入点 | AP5000系列 | 室内接入点 | 无线局域网 | 企业网络
   description: '华为AP5050DN-S接入点支持802.11ac wave2标准，2.4G支持3×3MIMO和三条空间流，5G支持4×4MIMO和四条空间流，整机最高速率可达2.33Gbps。支持11n到11ac标准平滑过渡，可充分满足高清视频流、多媒体、桌面云应用等大带宽业务服务质量要求，让企业用户畅享优质无线业务。
@@ -36,7 +36,3 @@ AP5050DN-S是面向中小企业分销级市场推出的无线AP产品，适用�
       value: all
 template: product
 ---
-
-# Nulla suscipit
-
-Aliquam quis laoreet lectus. Proin non mattis nulla, quis posuere mi. Mauris venenatis, magna at pellentesque commodo, lectus risus vehicula elit, nec dignissim nisl sapien id leo. Nulla non pretium metus, vitae finibus lectus. Aliquam in posuere risus. Curabitur ultrices ornare magna porttitor commodo. Curabitur eu tempor orci, sed pretium quam. Vestibulum condimentum, arcu nec pulvinar fringilla, lorem odio varius arcu, in porta tellus eros sed neque. Suspendisse efficitur eget erat sit amet efficitur. Proin maximus nibh eu sapien consequat, non porttitor risus consequat. Donec maximus odio sed nibh convallis luctus.

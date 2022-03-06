@@ -14,7 +14,7 @@ other2:
   features: [{"title":"10GE极速接入","dec":["支持24口或48口全10GE接入，单端口提供60W大功率供电"]},{"title":"网络智能运维","dec":["支持Telemetry技术，实时采集设备数据，配合园区网络分析器及时发现影响用户体验的网络问题，精准保障用户体验"]},{"title":"威胁诱捕，防患未然","dec":["通过内置的安全探针识别潜在的威胁流量，配合HiSec Insight系统进行安全威胁事件检测，实现全网安全协防"]}]
 other3: https://e.huawei.com/cn/material/networking/campusswitch/36127ba866ee44eb90941c336a4004a8
 other4:
-  images: {"s5720-36c-ei-ac":{"org":"S5720-36C-EI-AC_pic","img":["01.png","02.png","03.png","04.png","07.png","08.png"]}}
+  images: {"s5720-36c-ei-ac":{"org":"S5720-36C-EI-AC_pic","img":["01.webp","02.webp","03.webp","04.webp","07.webp","08.webp"]}}
 seo:
   title: s5732-h-multi-ge | CloudEngine S5732-H系列多速率交换机 | 接入交换机 | 园区交换机 | 交换机 | 企业网络
   description: 'CloudEngine S5732-H系列下一代多速率以太网交换机，提供24口，48口款型，上行4个25GE及2个40GE，或2个100GE端口，支持一个扩展卡插槽。
@@ -36,7 +36,3 @@ CloudEngine S5732-H系列交换机是华为公司推出的新一代多速率交�
       value: all
 template: product
 ---
-
-# Nulla suscipit
-
-Aliquam quis laoreet lectus. Proin non mattis nulla, quis posuere mi. Mauris venenatis, magna at pellentesque commodo, lectus risus vehicula elit, nec dignissim nisl sapien id leo. Nulla non pretium metus, vitae finibus lectus. Aliquam in posuere risus. Curabitur ultrices ornare magna porttitor commodo. Curabitur eu tempor orci, sed pretium quam. Vestibulum condimentum, arcu nec pulvinar fringilla, lorem odio varius arcu, in porta tellus eros sed neque. Suspendisse efficitur eget erat sit amet efficitur. Proin maximus nibh eu sapien consequat, non porttitor risus consequat. Donec maximus odio sed nibh convallis luctus.

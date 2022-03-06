@@ -12,7 +12,7 @@ other2:
   features: [{"title":"卓越性能","dec":["","防火墙防御能力100%发挥，未知威胁检测性能提升5倍",""]},{"title":"智能防御","dec":["","网络边缘威胁实时处置，未知威胁检测准确率高达99%以上",""]},{"title":"极简运维","dec":["","基于业务部署与变更策略，安全运维OPEX降低80%以上",""]}]
 other3: https://e.huawei.com/cn/material/networking/networksecurity/c4a93fa1cb3442ba9bce8c8fccd2c859
 other4:
-  images: {"usg6510e":{"org":"USG6510E_pic","img":["front.png","front_top.png","rear_left.png","rear_top.png"]}}
+  images: {"usg6510e":{"org":"USG6510E_pic","img":["front.webp","front_top.webp","rear_left.webp","rear_top.webp"]}}
 seo:
   title: usg6500e-desktop | HiSecEngine USG6500E系列AI防火墙(桌面型)	 | null | 防火墙及应用安全网关 | 网络安全 | 企业网络
   description: '华为HiSecEngine USG6500E系列(桌面型)是为小型企业、行业分支、连锁商业机构设计开发的新一代的桌面型AI防火墙。除了传统防火墙管理模式，还支持云管模式。云管模式为大量分支机构安全接入网络提供了即插即用、业务配置自动化、运维自动化可视化和网络大数据分析等优势。产品提供模式匹配以及加解密业务处理加速能力，使得防火墙处理内容安全检测、IPSec等业务的性能显著提升。'
@@ -30,7 +30,3 @@ seo:
       value: all
 template: product
 ---
-
-# Nulla suscipit
-
-Aliquam quis laoreet lectus. Proin non mattis nulla, quis posuere mi. Mauris venenatis, magna at pellentesque commodo, lectus risus vehicula elit, nec dignissim nisl sapien id leo. Nulla non pretium metus, vitae finibus lectus. Aliquam in posuere risus. Curabitur ultrices ornare magna porttitor commodo. Curabitur eu tempor orci, sed pretium quam. Vestibulum condimentum, arcu nec pulvinar fringilla, lorem odio varius arcu, in porta tellus eros sed neque. Suspendisse efficitur eget erat sit amet efficitur. Proin maximus nibh eu sapien consequat, non porttitor risus consequat. Donec maximus odio sed nibh convallis luctus.

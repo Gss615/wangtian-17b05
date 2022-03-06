@@ -12,7 +12,7 @@ other2:
   features: [{"title":"极简网络运维","dec":["",""]},{"title":"无阻塞转发","dec":["提供二三层线速交换能力，所有端口无阻塞转发"]},{"title":"节能设计","dec":["",""]}]
 other3: https://e.huawei.com/cn/material/networking/campus-network/campusswitch/91ef292260384e649834280a0b5e282a
 other4:
-  images: {"s500-8t4s":{"org":"S500-8T4S_pic","img":["front.png","front_left.png","front_right.png","front_top.png","rear.png","rear_top.png"]}}
+  images: {"s500-8t4s":{"org":"S500-8T4S_pic","img":["front.webp","front_left.webp","front_right.webp","front_top.webp","rear.webp","rear_top.webp"]}}
 seo:
   title: s500 | CloudEngine S500系列交换机 | 接入交换机 | 园区交换机 | 交换机 | 企业网络
   description: 'CloudEngine S500系列交换机，是华为专为中小型企业设计的简单、灵活和可靠的新一代全管理型交换机，可广泛用于企业办公、生产等场景，助力企业实现数字化转型。'
@@ -30,7 +30,3 @@ seo:
       value: all
 template: product
 ---
-
-# Nulla suscipit
-
-Aliquam quis laoreet lectus. Proin non mattis nulla, quis posuere mi. Mauris venenatis, magna at pellentesque commodo, lectus risus vehicula elit, nec dignissim nisl sapien id leo. Nulla non pretium metus, vitae finibus lectus. Aliquam in posuere risus. Curabitur ultrices ornare magna porttitor commodo. Curabitur eu tempor orci, sed pretium quam. Vestibulum condimentum, arcu nec pulvinar fringilla, lorem odio varius arcu, in porta tellus eros sed neque. Suspendisse efficitur eget erat sit amet efficitur. Proin maximus nibh eu sapien consequat, non porttitor risus consequat. Donec maximus odio sed nibh convallis luctus.

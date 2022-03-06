@@ -12,7 +12,7 @@ other2:
   features: [{"title":"超大容量，分级存储","dec":["采用新一代处理器，单颗处理器计算性能较上一代提升最高达40%；支持12条DDR4内存；支持24*3.5”+4*2.5”本地磁盘配置；支持2*GE+2*10GE的板载网络，满足98%应用场景的网络需求。"]},{"title":"智慧节能，优化能效","dec":["专利的DEMT智能功耗管理技术，采用部件休眠、PID节能调速、电源主备供电等多维度节能措施，节省整机功耗高达15%；采用80PLUS®白金高能效电源模块，高达94%的能效转换率，并通过中国节能环保产品认证。"]},{"title":"智能管理，开放集成","dec":["全生命周期智能运维，FDM深度故障诊断技术，核心部件故障诊断准确率达93%；板载网卡满足网络高IO业务所需，配置简洁；标准化开放接口及开发指南，易于第三方管理软件无缝集成。"]}]
 other3: null
 other4:
-  images: {"other":{"org":"other","img":["FusionServer Pro 2298 V5机架服务器.png"]}}
+  images: {"other":{"org":"other","img":["FusionServer Pro 2298 V5机架服务器.webp"]}}
 seo:
   title: 2298-v5 | FusionServer Pro 2298 V5机架服务器  | FusionServer Pro机架服务器 | FusionServer Pro智能服务器 | 服务器 - 计算 | 数据中心
   description: '华为FusionServer Pro 2298 V5是一款2U2路机架服务器，混合存储架构，数据分级存储。该机架服务器适用于热温冷数据分级部署、历史数据归档等业务需求，凭借高效设计，在确保卓越计算性能的同时，提供灵活、超大容量的本地存储扩展能力，降低数据存储成本。'
@@ -30,7 +30,3 @@ seo:
       value: all
 template: product
 ---
-
-# Nulla suscipit
-
-Aliquam quis laoreet lectus. Proin non mattis nulla, quis posuere mi. Mauris venenatis, magna at pellentesque commodo, lectus risus vehicula elit, nec dignissim nisl sapien id leo. Nulla non pretium metus, vitae finibus lectus. Aliquam in posuere risus. Curabitur ultrices ornare magna porttitor commodo. Curabitur eu tempor orci, sed pretium quam. Vestibulum condimentum, arcu nec pulvinar fringilla, lorem odio varius arcu, in porta tellus eros sed neque. Suspendisse efficitur eget erat sit amet efficitur. Proin maximus nibh eu sapien consequat, non porttitor risus consequat. Donec maximus odio sed nibh convallis luctus.

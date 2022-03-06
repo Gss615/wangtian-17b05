@@ -14,7 +14,7 @@ other2:
   features: [{"title":"超宽","dec":["","CloudEngine 8851 支持交换容量19.2Tbps，提供 32个100GEQSFP28接口或32个200GEQSFP56接口， 8个400GE QSFP-DD接口，构建灵活高密接入及汇聚能力。",""]},{"title":"虚拟","dec":["","作为Overlay虚拟化网络（VXLAN）的高性能硬件网关，支撑高达16M多租户的数据中心运营",""]},{"title":"智能","dec":["","FabricInsight智能运维，gRPC高速数据主动上报 ，全网路径主动探测，实时监测网络健康状态",""]}]
 other3: http://e.huawei.com/cn/material/onLineView?materialid=3dcb3aac151f4bbcb54be34b8efc825f
 other4:
-  images: {"ce8860-4c-ei":{"org":"CE8860-4C-EI_pic","img":["IMG_6544.png","IMG_6546.png","IMG_6547.png","IMG_6550.png","IMG_6552.png","IMG_6554.png"]}}
+  images: {"ce8860-4c-ei":{"org":"CE8860-4C-EI_pic","img":["IMG_6544.webp","IMG_6546.webp","IMG_6547.webp","IMG_6550.webp","IMG_6552.webp","IMG_6554.webp"]}}
 seo:
   title: ce8800 | CloudEngine 8800数据系列中心交换机 | 盒式接入交换机 | 数据中心交换机 | 交换机 | 企业网络
   description: 'CloudEngine 8800系列交换机是面向数据中心推出的新一代高性能、高密度、低时延灵活插卡以太网交换机，可以与华为CloudEngine系列数据中心交换机CloudEngine 16800/CloudEngine 12800/CloudEngine 6800/CloudEngine 5800配合，构建弹性、简单、开放、安全的云数据中心网络。
@@ -36,7 +36,3 @@ CloudEngine 8800交换机提供高密度的400GE/200GE/100GE/40GE/25GE/10GE端�
       value: all
 template: product
 ---
-
-# Nulla suscipit
-
-Aliquam quis laoreet lectus. Proin non mattis nulla, quis posuere mi. Mauris venenatis, magna at pellentesque commodo, lectus risus vehicula elit, nec dignissim nisl sapien id leo. Nulla non pretium metus, vitae finibus lectus. Aliquam in posuere risus. Curabitur ultrices ornare magna porttitor commodo. Curabitur eu tempor orci, sed pretium quam. Vestibulum condimentum, arcu nec pulvinar fringilla, lorem odio varius arcu, in porta tellus eros sed neque. Suspendisse efficitur eget erat sit amet efficitur. Proin maximus nibh eu sapien consequat, non porttitor risus consequat. Donec maximus odio sed nibh convallis luctus.

@@ -14,7 +14,7 @@ other2:
   features: [{"title":"纵深安全","dec":["","多项专利技术保障识别能力，精确识别OWASP Top 10等各种Web通用攻击；独创行为状态链检测技术，有效应对盗链、跨站请求伪造等Web特殊攻击。",""]},{"title":"优质访问体验","dec":["","用户行为异常检测引擎，快速识别正常行为，提供最优访问体验。",""]},{"title":"轻松管理","dec":["","WEB服务自发现，安全策略自学习，攻击者智能锁定。",""]}]
 other3: null
 other4:
-  images: {"waf5110":{"org":"WAF5110_pic","img":["front.png","front_left.png","front_right.png","front_top.png","left.png","rear.png","rear_left.png","rear_right.png","rear_top.png","right.png"]}}
+  images: {"waf5110":{"org":"WAF5110_pic","img":["front.webp","front_left.webp","front_right.webp","front_top.webp","left.webp","rear.webp","rear_left.webp","rear_right.webp","rear_top.webp","right.webp"]}}
 seo:
   title: waf | WAF5000 Web应用防火墙 | null | 防火墙及应用安全网关 | 网络安全 | 企业网络
   description: 'WAF5000 Web应用防火墙采用独创的行为状态链检测技术，有效应对盗链、跨站请求伪造等Web特殊攻击。智能联动ms级锁定功能可有效降低入侵风险，以满足各类法律法规如PCI、等级保护、企业内部控制规范等要求，全方位保障客户的Web应用业务安全运行。
@@ -36,7 +36,3 @@ WAF5000系列产品是华为面向政府、企业和ISP推出的专业级Web应�
       value: all
 template: product
 ---
-
-# Nulla suscipit
-
-Aliquam quis laoreet lectus. Proin non mattis nulla, quis posuere mi. Mauris venenatis, magna at pellentesque commodo, lectus risus vehicula elit, nec dignissim nisl sapien id leo. Nulla non pretium metus, vitae finibus lectus. Aliquam in posuere risus. Curabitur ultrices ornare magna porttitor commodo. Curabitur eu tempor orci, sed pretium quam. Vestibulum condimentum, arcu nec pulvinar fringilla, lorem odio varius arcu, in porta tellus eros sed neque. Suspendisse efficitur eget erat sit amet efficitur. Proin maximus nibh eu sapien consequat, non porttitor risus consequat. Donec maximus odio sed nibh convallis luctus.

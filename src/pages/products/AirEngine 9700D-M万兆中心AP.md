@@ -12,7 +12,7 @@ other2:
   features: [{"title":"弹性扩展","dec":["AirEngine 9700D-M可直接连接24个远端单元，并最多可通过交换机扩展至48个远端单元。"]},{"title":"简易管理","dec":["远端单元不占用AC License，只需管理少量AirEngine 9700D-M，近万个房间只需要200个AP的管理开销。"]},{"title":"云管理","dec":["可通过华为云管理平台对AP设备及业务进行管理和运维，节省网络运维成本；"]}]
 other3: https://e.huawei.com/cn/material/networking/campus-network/wlan/e6dc5aa8186941158bb77c9ce9d1a843
 other4:
-  images: {"airengine9700d-m":{"org":"AirEngine9700D-M_pic","img":["front.png","front_left.png","front_right.png","front_top.png","rear.png","rear_top.png"]}}
+  images: {"airengine9700d-m":{"org":"AirEngine9700D-M_pic","img":["front.webp","front_left.webp","front_right.webp","front_top.webp","rear.webp","rear_top.webp"]}}
 seo:
   title: airengine-9700d-m | AirEngine 9700D-M万兆中心AP | null | 场景化产品系列 | 无线局域网 | 企业网络
   description: 'AirEngine 9700D-M是华为分布式Wi-Fi方案中的中心AP，支持4个万兆上行接口，可以直连多个Wi-Fi 6远端单元部署到室内。万兆中心AP和Wi-Fi 6远端单元之间使用网线连接，集中处理业务转发。适用于学校、酒店、医院以及办公会议室等房间密度大、墙体结构复杂、业务带宽高的场景。'
@@ -30,7 +30,3 @@ seo:
       value: all
 template: product
 ---
-
-# Nulla suscipit
-
-Aliquam quis laoreet lectus. Proin non mattis nulla, quis posuere mi. Mauris venenatis, magna at pellentesque commodo, lectus risus vehicula elit, nec dignissim nisl sapien id leo. Nulla non pretium metus, vitae finibus lectus. Aliquam in posuere risus. Curabitur ultrices ornare magna porttitor commodo. Curabitur eu tempor orci, sed pretium quam. Vestibulum condimentum, arcu nec pulvinar fringilla, lorem odio varius arcu, in porta tellus eros sed neque. Suspendisse efficitur eget erat sit amet efficitur. Proin maximus nibh eu sapien consequat, non porttitor risus consequat. Donec maximus odio sed nibh convallis luctus.

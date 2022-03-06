@@ -16,7 +16,7 @@ other2:
   features: [{"title":"小体积，大带宽，宽温度","dec":["","业界最紧凑路由器，小尺寸、大带宽；-40ºC~70ºC宽温应用，适应恶劣环境",""]},{"title":"IP硬管道","dec":["","独创的IP硬管道技术，RFC 7625标准，提供类SDH的业务体验",""]},{"title":"多业务接入","dec":["","内置PCM子卡，接入各种低速业务，简化网络，统一运维；支持快速感知，通过实时告警/日志管理上报",""]}]
 other3: null
 other4:
-  images: {"other":{"org":"other","img":["NetEngine05E&NetEngine08E系列.png"]}}
+  images: {"other":{"org":"other","img":["NetEngine05E&NetEngine08E系列.webp"]}}
 seo:
   title: ne05e-08e | NetEngine05E&NetEngine08E系列 | 业务接入路由器 | NE系列路由器 | 路由器 | 企业网络
   description: '华为NetEngine 05E&NetEngine 08E系列产品基于华为NP芯片和SDN，采用无阻塞交换架构，体积小、带宽大，-40ºC~70ºC 宽温应用，能够适应各种恶劣环境，满足交通、金融、电力、政府、教育、企业等行业用户的多样化需求。
@@ -42,7 +42,3 @@ seo:
       value: all
 template: product
 ---
-
-# Nulla suscipit
-
-Aliquam quis laoreet lectus. Proin non mattis nulla, quis posuere mi. Mauris venenatis, magna at pellentesque commodo, lectus risus vehicula elit, nec dignissim nisl sapien id leo. Nulla non pretium metus, vitae finibus lectus. Aliquam in posuere risus. Curabitur ultrices ornare magna porttitor commodo. Curabitur eu tempor orci, sed pretium quam. Vestibulum condimentum, arcu nec pulvinar fringilla, lorem odio varius arcu, in porta tellus eros sed neque. Suspendisse efficitur eget erat sit amet efficitur. Proin maximus nibh eu sapien consequat, non porttitor risus consequat. Donec maximus odio sed nibh convallis luctus.

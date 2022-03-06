@@ -12,7 +12,7 @@ other2:
   features: [{"title":"卓越性能","dec":["全新软硬件平台，业务性能大幅提升"]},{"title":"智能防御","dec":["网络边缘威胁实时处置，未知威胁检测准确率高达99%"]},{"title":"极简运维","dec":["以威胁可视化定义新安全界面，大幅提升易用性"]}]
 other3: null
 other4:
-  images: {"usg6615f":{"org":"USG6615F_pic","img":["front.png","front_left.png","front_right.png","front_top.png","rear.png","rear_left.png","rear_right.png","rear_top.png"]}}
+  images: {"usg6615f":{"org":"USG6615F_pic","img":["front.webp","front_left.webp","front_right.webp","front_top.webp","rear.webp","rear_left.webp","rear_right.webp","rear_top.webp"]}}
 seo:
   title: usg6600f | HiSecEngine USG6600F系列AI防火墙 | null | 防火墙及应用安全网关 | 网络安全 | 企业网络
   description: '华为HiSecEngine USG6600F系列是华为面向下一代数据中心推出的万兆AI防火墙。HiSecEngine USG6600F系列基于最新软硬件平台，提供IPv4/IPv6共栈能力，业务性能大幅提升；使用智能技术有效检测高级威胁，增强边界防护能力。'
@@ -30,7 +30,3 @@ seo:
       value: all
 template: product
 ---
-
-# Nulla suscipit
-
-Aliquam quis laoreet lectus. Proin non mattis nulla, quis posuere mi. Mauris venenatis, magna at pellentesque commodo, lectus risus vehicula elit, nec dignissim nisl sapien id leo. Nulla non pretium metus, vitae finibus lectus. Aliquam in posuere risus. Curabitur ultrices ornare magna porttitor commodo. Curabitur eu tempor orci, sed pretium quam. Vestibulum condimentum, arcu nec pulvinar fringilla, lorem odio varius arcu, in porta tellus eros sed neque. Suspendisse efficitur eget erat sit amet efficitur. Proin maximus nibh eu sapien consequat, non porttitor risus consequat. Donec maximus odio sed nibh convallis luctus.

@@ -12,7 +12,7 @@ other2:
   features: [{"title":"强劲性能，灵活配置","dec":["2颗英特尔®至强®可扩展处理器，支持24条DDR4内存，支持8个半高半长GPU卡或者2个全高全长的GPU卡，支持20*3.5英寸或25*2.5英寸（可配置4个NVMe SSD硬盘）。"]},{"title":"智慧节能，优化能效","dec":["DEMT智能功耗管理专利技术，采用部件休眠、PID节能调速、电源主备供电等节能措施，节省整机功耗高达15%；采用80PLUS®钛金高能效电源模块，高达96%的能效转换率。"]},{"title":"智能管理，开放集成","dec":["FusionDirector五大智能管理，智能部署管理、资产管理、版本管理、能效管理和故障管理，端到端提升运维效率；标准化开放接口及开发指南，易于第三方管理软件无缝集成。"]}]
 other3: null
 other4:
-  images: {"other":{"org":"other","img":["FusionServer Pro 2288X V5机架服务器.png"]}}
+  images: {"other":{"org":"other","img":["FusionServer Pro 2288X V5机架服务器.webp"]}}
 seo:
   title: 2288x-v5 | FusionServer Pro 2288X V5机架服务器 | FusionServer Pro机架服务器 | FusionServer Pro智能服务器 | 服务器 - 计算 | 数据中心
   description: '华为FusionServer Pro 2288X V5是一款2U2路机架服务器，配置灵活，可广泛适用于云计算、虚拟化、数据库、大数据等负载。2288X V5可配置2路英特尔®至强®可扩展处理器、24条 DDR4内存、11个 PCIe扩展槽、支持大容量的本地存储资源。集成DEMT智能功耗管理、FDM智能故障管理等专利技术，可选配华为eSight或FusionDirector全生命周期管理软件，能够有效降低运营成本、提升投资回报。'
@@ -30,7 +30,3 @@ seo:
       value: all
 template: product
 ---
-
-# Nulla suscipit
-
-Aliquam quis laoreet lectus. Proin non mattis nulla, quis posuere mi. Mauris venenatis, magna at pellentesque commodo, lectus risus vehicula elit, nec dignissim nisl sapien id leo. Nulla non pretium metus, vitae finibus lectus. Aliquam in posuere risus. Curabitur ultrices ornare magna porttitor commodo. Curabitur eu tempor orci, sed pretium quam. Vestibulum condimentum, arcu nec pulvinar fringilla, lorem odio varius arcu, in porta tellus eros sed neque. Suspendisse efficitur eget erat sit amet efficitur. Proin maximus nibh eu sapien consequat, non porttitor risus consequat. Donec maximus odio sed nibh convallis luctus.

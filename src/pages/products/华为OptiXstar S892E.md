@@ -12,7 +12,7 @@ other2:
   features: [{"title":"超宽：“无”阻塞","dec":["上行2*XGS-PON，流量最大可达20Gbps\n下行4*10GE（PoE++），全速率接入4个Wi-Fi 6 AP"]},{"title":"可靠：“无”中断","dec":["XGS-PON TYPE-C 智能双活支持安全启动\n802.1X安全认证，IPv6/IPv4防火墙"]},{"title":"智能：“无”干预","dec":["即插即用，零配置部署\nEAI业务定向加速\n关键业务QoS优先保障"]}]
 other3: null
 other4:
-  images: {"other":{"org":"other","img":["华为OptiXstar S892E.png"]}}
+  images: {"other":{"org":"other","img":["华为OptiXstar S892E.webp"]}}
 seo:
   title: optixstar-s892e | 华为OptiXstar S892E | null | ONU | 光终端 | 企业光网络
   description: '华为OptiXstar S892E产品是面向企业园区Wi-Fi 6 AP回传场景设计的ONU设备，支持上行1或2个XGS-PON大带宽接口，下行支持4个10GE(PoE++)接口，为用户带来高质量的语音、数据和高清视频等业务体验'
@@ -30,7 +30,3 @@ seo:
       value: all
 template: product
 ---
-
-# Nulla suscipit
-
-Aliquam quis laoreet lectus. Proin non mattis nulla, quis posuere mi. Mauris venenatis, magna at pellentesque commodo, lectus risus vehicula elit, nec dignissim nisl sapien id leo. Nulla non pretium metus, vitae finibus lectus. Aliquam in posuere risus. Curabitur ultrices ornare magna porttitor commodo. Curabitur eu tempor orci, sed pretium quam. Vestibulum condimentum, arcu nec pulvinar fringilla, lorem odio varius arcu, in porta tellus eros sed neque. Suspendisse efficitur eget erat sit amet efficitur. Proin maximus nibh eu sapien consequat, non porttitor risus consequat. Donec maximus odio sed nibh convallis luctus.

@@ -16,7 +16,7 @@ other2:
   features: [{"title":"网络E2E自动部署","dec":["",""]},{"title":"网络仿真及校验","dec":["",""]},{"title":"故障1-3-5闭环","dec":["",""]}]
 other3: null
 other4:
-  images: {"other":{"org":"other","img":["iMaster NCE-Fabric.png"]}}
+  images: {"other":{"org":"other","img":["iMaster NCE-Fabric.webp"]}}
 seo:
   title: imaster-nce-fabric | iMaster NCE-Fabric | null | 数据中心自动驾驶网络管理控制系统 | 网络管控&分析软件 | 企业网络
   description: 'iMaster NCE-Fabric控制器是华为CloudFabric云数据中心网解决方案的核心组件，可实现对网络资源的统一控制和动态调度，快速部署云业务。华为CloudFabric云数据中心网解决方案为客户提供极简网络部署、智能化网络运维、超宽互联和开放生态的下一代数据中心网络，支持企业云业务高速发展。
@@ -42,7 +42,3 @@ iMaster NCE-Fabric提供高可靠集群能力，系统采用负载分担方式�
       value: all
 template: product
 ---
-
-# Nulla suscipit
-
-Aliquam quis laoreet lectus. Proin non mattis nulla, quis posuere mi. Mauris venenatis, magna at pellentesque commodo, lectus risus vehicula elit, nec dignissim nisl sapien id leo. Nulla non pretium metus, vitae finibus lectus. Aliquam in posuere risus. Curabitur ultrices ornare magna porttitor commodo. Curabitur eu tempor orci, sed pretium quam. Vestibulum condimentum, arcu nec pulvinar fringilla, lorem odio varius arcu, in porta tellus eros sed neque. Suspendisse efficitur eget erat sit amet efficitur. Proin maximus nibh eu sapien consequat, non porttitor risus consequat. Donec maximus odio sed nibh convallis luctus.

@@ -12,7 +12,7 @@ other2:
   features: [{"title":"融合","dec":["",""]},{"title":"智能","dec":["",""]},{"title":"开放","dec":["",""]}]
 other3: null
 other4:
-  images: {"other":{"org":"other","img":["DME 数据管理引擎.png"]}}
+  images: {"other":{"org":"other","img":["DME 数据管理引擎.webp"]}}
 seo:
   title: data-management-engine | DME Storage 数据管理引擎 | null | null | 数据管理 | 数据存储
   description: '数据管理引擎是面向全场景的智能存储管理平台，具备融合、智能、开放三大优势，简化存储管理与运维，提升数据中心运营效率，使能存储全生命周期自动驾驶。'
@@ -30,7 +30,3 @@ seo:
       value: all
 template: product
 ---
-
-# Nulla suscipit
-
-Aliquam quis laoreet lectus. Proin non mattis nulla, quis posuere mi. Mauris venenatis, magna at pellentesque commodo, lectus risus vehicula elit, nec dignissim nisl sapien id leo. Nulla non pretium metus, vitae finibus lectus. Aliquam in posuere risus. Curabitur ultrices ornare magna porttitor commodo. Curabitur eu tempor orci, sed pretium quam. Vestibulum condimentum, arcu nec pulvinar fringilla, lorem odio varius arcu, in porta tellus eros sed neque. Suspendisse efficitur eget erat sit amet efficitur. Proin maximus nibh eu sapien consequat, non porttitor risus consequat. Donec maximus odio sed nibh convallis luctus.

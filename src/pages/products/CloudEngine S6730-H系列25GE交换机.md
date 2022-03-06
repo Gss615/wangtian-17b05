@@ -12,7 +12,7 @@ other2:
   features: [{"title":"高密25G接入","dec":["220mm深高密25G盒式交换机，小巧轻便，部署灵活"]},{"title":"有线无线深度融合","dec":["支持1K无线AP管理，无线和有线的融合策略管理；突破了外置AC转发性能的瓶颈，从容面向Wi-Fi 6时代"]},{"title":"网络智能运维","dec":["支持Telemetry技术，实时采集设备数据，配合园区网络分析器及时发现影响用户体验的网络问题，精准保障用户体验"]}]
 other3: https://e.huawei.com/cn/material/networking/campus-network/campusswitch/4b546a00cce54ae18dfddfa0a0ff45ba
 other4:
-  images: {"s6730-h28y4c":{"org":"S6730-H28Y4C_pic","img":["front.png","front_HD.png","front_left.png","front_left_HD.png","front_right.png","front_right_HD.png","front_top.png","front_top_HD.png","rear_top.png"]}}
+  images: {"s6730-h28y4c":{"org":"S6730-H28Y4C_pic","img":["front.webp","front_HD.webp","front_left.webp","front_left_HD.webp","front_right.webp","front_right_HD.webp","front_top.webp","front_top_HD.webp","rear_top.webp"]}}
 seo:
   title: s6730-h-25ge | CloudEngine S6730-H系列25GE交换机 | 核心/汇聚交换机 | 园区交换机 | 交换机 | 企业网络
   description: 'CloudEngine S6730-H系列25GE交换机，是华为公司推出的全新25GE盒式交换机，具备随板AC能力，可管理大规模的AP；具备业务随行能力，提供一致的用户体验；具备VXLAN能力，支持网络虚拟化功能；内置安全探针，支持异常流量检测、加密流量的威胁分析，以及全网威胁诱捕等功能，可广泛应用于企业园区、运营商、高校、政府、数据中心等应用场景。'
@@ -30,7 +30,3 @@ seo:
       value: all
 template: product
 ---
-
-# Nulla suscipit
-
-Aliquam quis laoreet lectus. Proin non mattis nulla, quis posuere mi. Mauris venenatis, magna at pellentesque commodo, lectus risus vehicula elit, nec dignissim nisl sapien id leo. Nulla non pretium metus, vitae finibus lectus. Aliquam in posuere risus. Curabitur ultrices ornare magna porttitor commodo. Curabitur eu tempor orci, sed pretium quam. Vestibulum condimentum, arcu nec pulvinar fringilla, lorem odio varius arcu, in porta tellus eros sed neque. Suspendisse efficitur eget erat sit amet efficitur. Proin maximus nibh eu sapien consequat, non porttitor risus consequat. Donec maximus odio sed nibh convallis luctus.

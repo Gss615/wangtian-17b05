@@ -12,7 +12,7 @@ other2:
   features: [{"title":"资源部署","dec":["在自愿部署和划分阶段，NCE-T提供CPE快速部署能力和OVPN资源划分能力，TTM由天级->小时级。"]},{"title":"业务自动发放","dec":["在用户明确业务意图（源、宿,保护类型，带宽等）后，自动计算最优路由，并完成业务发放（实时、预约）。"]},{"title":"带宽按需调整/带宽日历","dec":["客户可根据其实际业务诉求，实现带宽的（实时/预约）扩容满足突发流量诉求。同时可实现Pay-as-Grow的商业模式。"]},{"title":"时延地图","dec":["网络时延可视可管、可监控、路径可选，服务高价值用户"]}]
 other3: null
 other4:
-  images: {"other":{"org":"other","img":["iMaster NCE-T.png"]}}
+  images: {"other":{"org":"other","img":["iMaster NCE-T.webp"]}}
 seo:
   title: imaster-nce-t | iMaster NCE-T | null | 波分 | 光传送 | 企业光网络
   description: 'iMaster NCE-T(Transport Domain)是华为“智慧光网”的核心使能部件，应用于骨干、城域、企业接入等多种传送组网场景，提供资源实时可视、敏捷业务发放，网络自动运维等丰富的功能特性，满足企业专线和DC互联对传送网络提出的创新业务体验和网络灵活高效的新要求。'
@@ -30,7 +30,8 @@ seo:
       value: all
 template: product
 ---
-
-# Nulla suscipit
-
-Aliquam quis laoreet lectus. Proin non mattis nulla, quis posuere mi. Mauris venenatis, magna at pellentesque commodo, lectus risus vehicula elit, nec dignissim nisl sapien id leo. Nulla non pretium metus, vitae finibus lectus. Aliquam in posuere risus. Curabitur ultrices ornare magna porttitor commodo. Curabitur eu tempor orci, sed pretium quam. Vestibulum condimentum, arcu nec pulvinar fringilla, lorem odio varius arcu, in porta tellus eros sed neque. Suspendisse efficitur eget erat sit amet efficitur. Proin maximus nibh eu sapien consequat, non porttitor risus consequat. Donec maximus odio sed nibh convallis luctus.titor risus consequat. Donec maximus odio sed nibh convallis luctus.
+ property
+    - name: Robots
+      value: all
+template: product
+---

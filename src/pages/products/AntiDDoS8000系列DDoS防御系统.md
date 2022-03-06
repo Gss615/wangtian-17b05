@@ -12,7 +12,7 @@ other2:
   features: [{"title":"T级DDoS防护","dec":["","1.92Tbps 防护性能，秒级响应",""]},{"title":"精准DDoS防护","dec":["","60+流量模型，100+防护类型",""]},{"title":"增值运营","dec":["","10万租户，差异化运营，租户自助Portal",""]}]
 other3: https://e.huawei.com/cn/material/networking/networksecurity/0b7e9317893b4369aaa1733ce96a2400
 other4:
-  images: {"antiddos8030":{"org":"AntiDDoS8030_pic","img":["01-Front.png","02-Front_looking_down.png","03-Front_left_down.png","04-Front_right_down.png","08-Rear_looking_down.png","09-Rear_left_down.png","10-Rear_right_down.png"]}}
+  images: {"antiddos8030":{"org":"AntiDDoS8030_pic","img":["01-Front.webp","02-Front_looking_down.webp","03-Front_left_down.webp","04-Front_right_down.webp","08-Rear_looking_down.webp","09-Rear_left_down.webp","10-Rear_right_down.webp"]}}
 seo:
   title: 8000 | AntiDDoS8000系列DDoS防御系统 | null | DDoS攻击防御 | 网络安全 | 企业网络
   description: '华为AntiDDoS8000系列DDoS防御系统，运用大数据分析技术，针对60多种网络流量进行抽象建模，可以实现T级防护性能，秒级攻击响应速度和超百种攻击的全面防御。通过与华为云清洗中心联动，可以实现分层清洗，为用户提供从网络链路带宽到在线业务的全面防护。'
@@ -30,7 +30,3 @@ seo:
       value: all
 template: product
 ---
-
-# Nulla suscipit
-
-Aliquam quis laoreet lectus. Proin non mattis nulla, quis posuere mi. Mauris venenatis, magna at pellentesque commodo, lectus risus vehicula elit, nec dignissim nisl sapien id leo. Nulla non pretium metus, vitae finibus lectus. Aliquam in posuere risus. Curabitur ultrices ornare magna porttitor commodo. Curabitur eu tempor orci, sed pretium quam. Vestibulum condimentum, arcu nec pulvinar fringilla, lorem odio varius arcu, in porta tellus eros sed neque. Suspendisse efficitur eget erat sit amet efficitur. Proin maximus nibh eu sapien consequat, non porttitor risus consequat. Donec maximus odio sed nibh convallis luctus.

@@ -12,7 +12,7 @@ other2:
   features: [{"title":"802.11ax技术","dec":["MU-MIMO及OFDMA技术，使数据传输有序、高效1024QAM调制方式，整机4条空间流，空口速率高达1.775Gbps"]},{"title":"智能天线","dec":["内置双频共口面智能天线，自动抑制干扰，覆盖半径提升20%，同位置信号强度提升100%，给用户带来稳定无死角的覆盖"]},{"title":"云管理","dec":["可通过华为云管理平台对AP设备及业务进行管理和运维，节省网络运维成本"]}]
 other3: https://e.huawei.com/cn/material/networking/campus-network/wlan/029266f91f934f4fa7e9928685767efe
 other4:
-  images: {"airengine5761s-11":{"org":"AirEngine5761S-11_pic","img":["front.png","front_bottom.png","front_left.png","front_right.png","front_top.png","rear.png","rear_top.png"]}}
+  images: {"airengine5761s-11":{"org":"AirEngine5761S-11_pic","img":["front.webp","front_bottom.webp","front_left.webp","front_right.webp","front_top.webp","rear.webp","rear_top.webp"]}}
 seo:
   title: airengine-5761s-11 | AirEngine 5761S-11接入点 | AirEngine 5700系列 | 室内接入点 | 无线局域网 | 企业网络
   description: 'AirEngine 5761S-11是华为面向SMB市场发布的支持Wi-Fi 6（802.11ax）标准的无线接入点产品。内置智能天线，信号随用户而动，带来更好的覆盖效果。支持2×2 MIMO，2.4GHz和5GHz双频同时提供业务，整机速率可达1.775Gbps，适用于中小型企业办公、医院、咖啡厅等室内覆盖场景。'
@@ -30,7 +30,3 @@ seo:
       value: all
 template: product
 ---
-
-# Nulla suscipit
-
-Aliquam quis laoreet lectus. Proin non mattis nulla, quis posuere mi. Mauris venenatis, magna at pellentesque commodo, lectus risus vehicula elit, nec dignissim nisl sapien id leo. Nulla non pretium metus, vitae finibus lectus. Aliquam in posuere risus. Curabitur ultrices ornare magna porttitor commodo. Curabitur eu tempor orci, sed pretium quam. Vestibulum condimentum, arcu nec pulvinar fringilla, lorem odio varius arcu, in porta tellus eros sed neque. Suspendisse efficitur eget erat sit amet efficitur. Proin maximus nibh eu sapien consequat, non porttitor risus consequat. Donec maximus odio sed nibh convallis luctus.

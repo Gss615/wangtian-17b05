@@ -18,7 +18,7 @@ other2:
   features: []
 other3: null
 other4:
-  images: {"other":{"org":"other","img":["OceanStor Pacific 9920分布式存储.png"]}}
+  images: {"other":{"org":"other","img":["OceanStor Pacific 9920分布式存储.webp"]}}
 seo:
   title: oceanstor-pacific-9920 | OceanStor Pacific 9920分布式存储  | 性能型 | OceanStor Pacific 系列存储 | 海量存储 | 数据存储
   description: 'OceanStor Pacific 9920是华为全新推出的每机箱2U、1节点形态的SSD全闪存分布式存储，提供卓越的性能和灵活的部件配置组合，满足多样的结构化与非结构化业务负载访问诉求。关键特点：
@@ -48,7 +48,3 @@ OceanStor Pacific 9920全闪存分布式存储可为虚拟化/云资源池、数
       value: all
 template: product
 ---
-
-# Nulla suscipit
-
-Aliquam quis laoreet lectus. Proin non mattis nulla, quis posuere mi. Mauris venenatis, magna at pellentesque commodo, lectus risus vehicula elit, nec dignissim nisl sapien id leo. Nulla non pretium metus, vitae finibus lectus. Aliquam in posuere risus. Curabitur ultrices ornare magna porttitor commodo. Curabitur eu tempor orci, sed pretium quam. Vestibulum condimentum, arcu nec pulvinar fringilla, lorem odio varius arcu, in porta tellus eros sed neque. Suspendisse efficitur eget erat sit amet efficitur. Proin maximus nibh eu sapien consequat, non porttitor risus consequat. Donec maximus odio sed nibh convallis luctus.

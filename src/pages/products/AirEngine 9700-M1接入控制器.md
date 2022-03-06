@@ -12,7 +12,7 @@ other2:
   features: [{"title":"高容量、高性能","dec":["支持12个GE口、12个10GE口和2个40G口，提供120Gbps的转发能力，可管理2048个AP"]},{"title":"使用灵活","dec":["灵活的数据转发方式，支持直接转发、隧道转发； 灵活的用户权限控制，提供基于用户和角色的访问控制策略控制能力"]},{"title":"网络运维方式丰富","dec":["丰富的网络运维方式，可通过网管eSight、WEB网管、命令行（CLI）进行维护"]}]
 other3: https://e.huawei.com/cn/material/networking/campus-network/wlan/436dee3f2c7d4e22b3ca5f0bdce9b5c1
 other4:
-  images: {"airengine9700-m1":{"org":"AirEngine9700-M1_pic","img":["front.png","front_left.png","front_right.png","front_top.png","left.png","rear.png","rear_top.png","right.png"]}}
+  images: {"airengine9700-m1":{"org":"AirEngine9700-M1_pic","img":["front.webp","front_left.webp","front_right.webp","front_top.webp","left.webp","rear.webp","rear_top.webp","right.webp"]}}
 seo:
   title: airengine-9700-m1 | AirEngine 9700-M1接入控制器 | null | 接入控制器 | 无线局域网 | 企业网络
   description: 'AirEngine 9700-M1是华为面向中大型企业园区、企业分支和校园推出的无线接入控制器（Access controller），最大可管理2048个AP，转发能力最高120Gbps。配合华为全系列802.11ac/802.11ax无线接入点，可组建中大型园区网络、企业办公网络、无线城域网络、热点覆盖等应用环境。'
@@ -30,7 +30,3 @@ seo:
       value: all
 template: product
 ---
-
-# Nulla suscipit
-
-Aliquam quis laoreet lectus. Proin non mattis nulla, quis posuere mi. Mauris venenatis, magna at pellentesque commodo, lectus risus vehicula elit, nec dignissim nisl sapien id leo. Nulla non pretium metus, vitae finibus lectus. Aliquam in posuere risus. Curabitur ultrices ornare magna porttitor commodo. Curabitur eu tempor orci, sed pretium quam. Vestibulum condimentum, arcu nec pulvinar fringilla, lorem odio varius arcu, in porta tellus eros sed neque. Suspendisse efficitur eget erat sit amet efficitur. Proin maximus nibh eu sapien consequat, non porttitor risus consequat. Donec maximus odio sed nibh convallis luctus.

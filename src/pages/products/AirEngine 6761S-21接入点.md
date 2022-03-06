@@ -12,7 +12,7 @@ other2:
   features: [{"title":"动态变焦智能天线","dec":["动态变焦智能天线的覆盖角度可随应用场景（高密/广覆盖）变化进行自适应动态调整，完美解决覆盖区域因蜂群效应而产生用户数及流量的突变"]},{"title":"独立射频扫描","dec":["配置独立射频扫描功能，在提升智能漫游、干扰源扫描定位、Wi-Fi定位精度同时，且不影响用户正常业务使用"]},{"title":"云管理","dec":["可通过华为云管理平台对AP设备及业务进行管理和运维，节省网络运维成本"]}]
 other3: https://e.huawei.com/cn/material/networking/campus-network/wlan/60951361ffbb483483d0698d83646f85
 other4:
-  images: {"airengine6761s-21":{"org":"AirEngine6761S-21_pic","img":["bottom.png","front.png","front_left.png","front_right.png","rear.png","rear_top.png","top.png"]}}
+  images: {"airengine6761s-21":{"org":"AirEngine6761S-21_pic","img":["bottom.webp","front.webp","front_left.webp","front_right.webp","rear.webp","rear_top.webp","top.webp"]}}
 seo:
   title: airengine-6761s-21 | AirEngine 6761S-21接入点 | AirEngine 6700 系列 | 室内接入点 | 无线局域网 | 企业网络
   description: 'AirEngine 6761S-21是华为面向SMB市场发布的的支持Wi-Fi 6（802.11ax）标准的无线接入点产品。支持2.4GHz（4x4）和5GHz（4x4）及独立射频扫描，整机速率可达3.55Gbps。内置动态变焦智能天线，可随接入用户密集程度，动态调整智能天线覆盖范围，极大地增强用户对无线网络的使用体验。适用于移动办公、教育、场馆等人流密集场景。'
@@ -30,7 +30,3 @@ seo:
       value: all
 template: product
 ---
-
-# Nulla suscipit
-
-Aliquam quis laoreet lectus. Proin non mattis nulla, quis posuere mi. Mauris venenatis, magna at pellentesque commodo, lectus risus vehicula elit, nec dignissim nisl sapien id leo. Nulla non pretium metus, vitae finibus lectus. Aliquam in posuere risus. Curabitur ultrices ornare magna porttitor commodo. Curabitur eu tempor orci, sed pretium quam. Vestibulum condimentum, arcu nec pulvinar fringilla, lorem odio varius arcu, in porta tellus eros sed neque. Suspendisse efficitur eget erat sit amet efficitur. Proin maximus nibh eu sapien consequat, non porttitor risus consequat. Donec maximus odio sed nibh convallis luctus.

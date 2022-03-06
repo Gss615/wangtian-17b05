@@ -12,7 +12,7 @@ other2:
   features: [{"title":"更强性能，更高效率","dec":["4个第三代英特尔®至强®可扩展处理器提供更强通用算力；支持48个DDR4内存和英特尔®傲腾™200系列，高达18TB内存容量；2个高性能双宽GPU加速卡，为AI推理和训练提供更强AI算力。"]},{"title":"智慧节能，更高能效","dec":["专利DEMT动态能效管理技术同等性能最高节能15%；高压直流电源模块支持94%以上的能源利用率；80PLUS®钛金高能效电源模块，高达96%的能效转换率。"]},{"title":"智能管理，开放集成","dec":["全生命周期智能运维，FDM深度故障诊断技术，故障诊断准确率达93%；标准化开放接口及开发指南，易于第三方管理软件无缝集成。"]}]
 other3: null
 other4:
-  images: {"other":{"org":"other","img":["FusionServer Pro 2488H V6机架服务器.png"]}}
+  images: {"other":{"org":"other","img":["FusionServer Pro 2488H V6机架服务器.webp"]}}
 seo:
   title: 2488h-v6 | FusionServer Pro 2488H V6机架服务器 | FusionServer Pro机架服务器 | FusionServer Pro智能服务器 | 服务器 - 计算 | 数据中心
   description: '华为FusionServer Pro 2488H V6是最新推出的2U4路机架服务器，适用于云计算、虚拟化、高性能计算(HPC)、数据库、SAP HANA等计算密集型场景。相比于2台2U2路机架服务器，在虚拟化应用中2488H V6可以带来更多的OPEX节省。2488H V6在2U空间内可配置4个第三代英特尔®至强®可扩展处理器，48条DDR4内存，11个PCIe扩展插槽以及最多25个2.5" 的本地存储资源。集成DEMT智能功耗管理、FDM智能故障管理等专利技术，可选配华为FusionDirector全生命周期管理软件，能够有效降低运营成本、提升投资回报。'
@@ -30,7 +30,3 @@ seo:
       value: all
 template: product
 ---
-
-# Nulla suscipit
-
-Aliquam quis laoreet lectus. Proin non mattis nulla, quis posuere mi. Mauris venenatis, magna at pellentesque commodo, lectus risus vehicula elit, nec dignissim nisl sapien id leo. Nulla non pretium metus, vitae finibus lectus. Aliquam in posuere risus. Curabitur ultrices ornare magna porttitor commodo. Curabitur eu tempor orci, sed pretium quam. Vestibulum condimentum, arcu nec pulvinar fringilla, lorem odio varius arcu, in porta tellus eros sed neque. Suspendisse efficitur eget erat sit amet efficitur. Proin maximus nibh eu sapien consequat, non porttitor risus consequat. Donec maximus odio sed nibh convallis luctus.

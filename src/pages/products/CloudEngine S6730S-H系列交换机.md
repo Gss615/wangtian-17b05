@@ -12,7 +12,7 @@ other2:
   features: [{"title":"有线无线深度融合","dec":["融合AC功能，可管理1K AP，实现有线无线网络的深度融合。"]},{"title":"自动化网络服务","dec":["基于VxLAN的网络虚拟化，业务网络自动化部署，实现“一网多用”，降低OPEX 80%。"]},{"title":"集成安全能力","dec":["通过内置的安全探针识别潜在的威胁流量，配合HiSec Insight系统进行安全威胁事件检测，实现全网安全协防。"]}]
 other3: null
 other4:
-  images: {"s6700-24-ei":{"org":"S6700-24-EI_pic","img":["01.png","02.png","03.png","04.png","08.png"]}}
+  images: {"s6700-24-ei":{"org":"S6700-24-EI_pic","img":["01.webp","02.webp","03.webp","04.webp","08.webp"]}}
 seo:
   title: s6730s-h | CloudEngine S6730S-H系列交换机 | 核心/汇聚交换机 | 园区交换机 | 交换机 | 企业网络
   description: 'CloudEngine S6730S-H系列全功能万兆交换机，是华为公司推出的新一代万兆盒式交换机，具备随板AC能力，可管理大规格数量的AP；具备业务随行能力，提供一致的用户体验；具备VXLAN能力，支持网络虚拟化功能；内置安全探针，支持异常流量检测、加密流量的威胁分析，以及全网威胁诱捕等功能，可广泛应用于企业园区、运营商、高校、政府等应用场景。'
@@ -30,7 +30,3 @@ seo:
       value: all
 template: product
 ---
-
-# Nulla suscipit
-
-Aliquam quis laoreet lectus. Proin non mattis nulla, quis posuere mi. Mauris venenatis, magna at pellentesque commodo, lectus risus vehicula elit, nec dignissim nisl sapien id leo. Nulla non pretium metus, vitae finibus lectus. Aliquam in posuere risus. Curabitur ultrices ornare magna porttitor commodo. Curabitur eu tempor orci, sed pretium quam. Vestibulum condimentum, arcu nec pulvinar fringilla, lorem odio varius arcu, in porta tellus eros sed neque. Suspendisse efficitur eget erat sit amet efficitur. Proin maximus nibh eu sapien consequat, non porttitor risus consequat. Donec maximus odio sed nibh convallis luctus.

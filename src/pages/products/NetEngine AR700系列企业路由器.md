@@ -12,7 +12,7 @@ other2:
   features: [{"title":"超宽5G灵活拓展","dec":["有线无线一体化\n支持5G-SIC板卡、RU-5G-101两种方式灵活拓展"]},{"title":"广域优化","dec":["多发选收，主动抗丢包\n逐包负载分担，带宽利用率>90%"]},{"title":"安全保障","dec":["支持防火墙、IPS、AV等安全功能，支持IPSec VPN，多重边缘防护，保障分支安全互联"]}]
 other3: null
 other4:
-  images: {"ar720":{"org":"AR720_pic","img":["front.png","front_left.png","front_right.png","front_top.png","rear.png","rear_left.png","rear_right.png","rear_top.png"]}}
+  images: {"ar720":{"org":"AR720_pic","img":["front.webp","front_left.webp","front_right.webp","front_top.webp","rear.webp","rear_left.webp","rear_right.webp","rear_top.webp"]}}
 seo:
   title: ar700 | NetEngine AR700系列企业路由器 | AR 商业系列企业路由器 (中国区） | AR系列接入路由器 | 路由器 | 企业网络
   description: '为面向企业中小型分支推出的框式系列产品，提供业界覆盖范围最广泛的业务插槽类型，集5G、路由、交换、VPN、安全、MPLS等丰富业务特性于一体，满足企业业务多元化和云化趋势下对网络设备高性能的需求。'
@@ -30,7 +30,3 @@ seo:
       value: all
 template: product
 ---
-
-# Nulla suscipit
-
-Aliquam quis laoreet lectus. Proin non mattis nulla, quis posuere mi. Mauris venenatis, magna at pellentesque commodo, lectus risus vehicula elit, nec dignissim nisl sapien id leo. Nulla non pretium metus, vitae finibus lectus. Aliquam in posuere risus. Curabitur ultrices ornare magna porttitor commodo. Curabitur eu tempor orci, sed pretium quam. Vestibulum condimentum, arcu nec pulvinar fringilla, lorem odio varius arcu, in porta tellus eros sed neque. Suspendisse efficitur eget erat sit amet efficitur. Proin maximus nibh eu sapien consequat, non porttitor risus consequat. Donec maximus odio sed nibh convallis luctus.

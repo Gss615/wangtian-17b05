@@ -12,7 +12,7 @@ other2:
   features: [{"title":"即插即用","dec":["","通过网管自动下发配置，无需现场调测即可上线，减轻网络部署的难度",""]},{"title":"上下行对称万兆能力","dec":["","支持光模块从GPON至10GPON灵活切换，面向未来4K密集摄像头部署场景，实现视频回传网络平滑演进，保护客户已有投资",""]},{"title":"宽温工业级能力","dec":["","单端口最高PoE++（60W）能力适合大功率球机部署；支持低至-40℃和高至 70℃的严酷室外环境使用，业务部署环境依赖度低",""]}]
 other3: null
 other4:
-  images: {"other":{"org":"other","img":["EchoLife EG8084P.png"]}}
+  images: {"other":{"org":"other","img":["EchoLife EG8084P.webp"]}}
 seo:
   title: eg8084p | EchoLife EG8084P | null | ONU | 光终端 | 企业光网络
   description: 'EchoLife EG8084P是针对政企，交通和大型园区等行业推出的工业型ONU，支持高性能转发功能，以确保良好的互联网和视频回传体验，可以安装在室内或室外的机架和网络箱中，也可以竖挂或安装到DIN导轨。'
@@ -30,7 +30,3 @@ seo:
       value: all
 template: product
 ---
-
-# Nulla suscipit
-
-Aliquam quis laoreet lectus. Proin non mattis nulla, quis posuere mi. Mauris venenatis, magna at pellentesque commodo, lectus risus vehicula elit, nec dignissim nisl sapien id leo. Nulla non pretium metus, vitae finibus lectus. Aliquam in posuere risus. Curabitur ultrices ornare magna porttitor commodo. Curabitur eu tempor orci, sed pretium quam. Vestibulum condimentum, arcu nec pulvinar fringilla, lorem odio varius arcu, in porta tellus eros sed neque. Suspendisse efficitur eget erat sit amet efficitur. Proin maximus nibh eu sapien consequat, non porttitor risus consequat. Donec maximus odio sed nibh convallis luctus.

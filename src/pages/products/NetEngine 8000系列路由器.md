@@ -14,7 +14,7 @@ other2:
   features: [{"title":"超宽平台","dec":["","业界首款400G平台盒式路由器，满足大容量融合承载。超高密设计，满足高密端口需求场景。NetEngine 8000以其紧凑型设计、超强的散热、超低的能耗和全业务特性，为客户打造一张极简、融合的超宽网络，降低成本。",""]},{"title":"基于SRv6的智能连接","dec":["","NetEngine 8000系列提供领先的SRv6能力，基于IPv6，有效应对海量连接；跨域自动连接，帮助客户一跳入云；分钟级业务发放，租户/应用级SLA保证，提升用户体验，帮助企业客户实现从MPLS到SRv6的平滑演进。",""]},{"title":"全生命周期自动化","dec":["","NetEngine 8000系列采用新一代的管理、控制、分析平台——网络云化引擎NCE，实现全生命周期自动化；NCE和SRv6配合，可以实现50ms保护、分钟级流量优化、秒级故障识别、分钟级故障定位，显著提升网络可用性，帮助企业客户的网络走向主动运维、智能运维。",""]}]
 other3: 
 other4:
-  images: {"other":{"org":"other","img":["NetEngine 8000系列路由器.png"]}}
+  images: {"other":{"org":"other","img":["NetEngine 8000系列路由器.webp"]}}
 seo:
   title: ne8000 | NetEngine 8000系列路由器 | 业务汇聚路由器 | NE系列路由器 | 路由器 | 企业网络
   description: 'NetEngine 8000 系列路由器是华为推出的面向云时代的全业务智能路由器平台，超宽的管道打造极简的网络，领先的SR/SRv6使能智能连接，新一代的智慧大脑实现全生命周期自动化、引领主动运维。系列产品涵盖大型框式、紧凑插卡盒式和固定盒式设备，完全满足核心、汇聚、接入等不同的网络场景，具备高性能、高可靠、低功耗、可演进等特性，可应用于企业广域网核心节点、大型企业接入节点、DC互联、园区互联与汇聚节点和各种大型IDC网络出口。
@@ -36,7 +36,3 @@ NetEngine 8000 系列是全新一代的领航产品，一上市便斩获多项�
       value: all
 template: product
 ---
-
-# Nulla suscipit
-
-Aliquam quis laoreet lectus. Proin non mattis nulla, quis posuere mi. Mauris venenatis, magna at pellentesque commodo, lectus risus vehicula elit, nec dignissim nisl sapien id leo. Nulla non pretium metus, vitae finibus lectus. Aliquam in posuere risus. Curabitur ultrices ornare magna porttitor commodo. Curabitur eu tempor orci, sed pretium quam. Vestibulum condimentum, arcu nec pulvinar fringilla, lorem odio varius arcu, in porta tellus eros sed neque. Suspendisse efficitur eget erat sit amet efficitur. Proin maximus nibh eu sapien consequat, non porttitor risus consequat. Donec maximus odio sed nibh convallis luctus.

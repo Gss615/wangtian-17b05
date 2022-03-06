@@ -12,7 +12,7 @@ other2:
   features: [{"title":"即插即用","dec":["通过网管自动下发配置，无需现场调测"]},{"title":"智能PoE供电","dec":["支持PoE，通过以太网线供电可以有效解决室内型AP（Access Point）等终端的供电"]},{"title":"防雷","dec":["GE接口：共模4kV，差模0.5kV\n配套AC电源：共模6kV，差模6kV"]}]
 other3: null
 other4:
-  images: {"other":{"org":"other","img":["EchoLife EG8020P.png"]}}
+  images: {"other":{"org":"other","img":["EchoLife EG8020P.webp"]}}
 seo:
   title: echolife-eg8020p | EchoLife EG8020P | null | ONU | 光终端 | 企业光网络
   description: '华为EchoLife EG8020P是用于华为POL解决方案的面板式ONU，可简单快速地安装在86型电工盒上，通过GPON技术实现超宽带接入。上行提供1个GPON端口，用户侧提供2个GE以太网接口并支持POE功能，通过高性能的转发能力有效保障语音、数据和高清视频的业务体验，为企业园区部署提供理想的解决方案和面向未来的业务支撑能力。'
@@ -30,7 +30,3 @@ seo:
       value: all
 template: product
 ---
-
-# Nulla suscipit
-
-Aliquam quis laoreet lectus. Proin non mattis nulla, quis posuere mi. Mauris venenatis, magna at pellentesque commodo, lectus risus vehicula elit, nec dignissim nisl sapien id leo. Nulla non pretium metus, vitae finibus lectus. Aliquam in posuere risus. Curabitur ultrices ornare magna porttitor commodo. Curabitur eu tempor orci, sed pretium quam. Vestibulum condimentum, arcu nec pulvinar fringilla, lorem odio varius arcu, in porta tellus eros sed neque. Suspendisse efficitur eget erat sit amet efficitur. Proin maximus nibh eu sapien consequat, non porttitor risus consequat. Donec maximus odio sed nibh convallis luctus.

@@ -14,7 +14,7 @@ other2:
   features: [{"title":"即插即用，灵活易安装","dec":["面板式ONU设备，可简单快速的安装在86型电工盒上；\n支持光电复合缆供电（POF)，解决末端供电困难"]},{"title":"高安全可靠","dec":["可靠性高，支持type B双归属业务保护；\n802.1x，IPv6/IPv4防火墙保证设备接入安全和网络安全"]},{"title":"智能运维","dec":["变长OMCI；\n主动/被动流氓ONT检测和隔离；\nPPPOE/DHCP仿真测试"]}]
 other3: null
 other4:
-  images: {"other":{"org":"other","img":["华为OptiXstar P670E.png"]}}
+  images: {"other":{"org":"other","img":["华为OptiXstar P670E.webp"]}}
 seo:
   title: optixstar-p670e | 华为OptiXstar P670E | null | ONU | 光终端 | 企业光网络
   description: '华为OptiXstar P670E系列产品是面向企业园区的面板式ONU设备，可简单快速的安装在86型电工盒上。上行提供1个GPON端口，用户侧提供1个GE以太网接口和1个POTS语音接口。
@@ -36,7 +36,3 @@ seo:
       value: all
 template: product
 ---
-
-# Nulla suscipit
-
-Aliquam quis laoreet lectus. Proin non mattis nulla, quis posuere mi. Mauris venenatis, magna at pellentesque commodo, lectus risus vehicula elit, nec dignissim nisl sapien id leo. Nulla non pretium metus, vitae finibus lectus. Aliquam in posuere risus. Curabitur ultrices ornare magna porttitor commodo. Curabitur eu tempor orci, sed pretium quam. Vestibulum condimentum, arcu nec pulvinar fringilla, lorem odio varius arcu, in porta tellus eros sed neque. Suspendisse efficitur eget erat sit amet efficitur. Proin maximus nibh eu sapien consequat, non porttitor risus consequat. Donec maximus odio sed nibh convallis luctus.

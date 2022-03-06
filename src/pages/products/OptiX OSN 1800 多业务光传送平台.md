@@ -14,7 +14,7 @@ other2:
   features: [{"title":"带宽无忧","dec":["","支持最大80波DWDM或8波CWDM传输，单波200G，单纤容量16T。OTN/PKT/SDH 任意业务接入/传输，简化网络结构，提升带宽利用率。",""]},{"title":"灵活布署","dec":["","适合抱杆、室外柜、19/23英寸机柜安装， 同时支持AC/DC供电，支持预安装、预盘纤、预配置及远程自动调测功能，降低工程交付难度和成本。",""]},{"title":"可靠性高","dec":["","提供多种设备级和网络级保护，全面保护业务。支持电层 ASON， 抗多次断纤。",""]}]
 other3: null
 other4:
-  images: {"other":{"org":"other","img":["OptiX OSN 1800 多业务光传送平台.png"]}}
+  images: {"other":{"org":"other","img":["OptiX OSN 1800 多业务光传送平台.webp"]}}
 seo:
   title: osn-1800 | OptiX OSN 1800 多业务光传送平台 | null | 波分 | 光传送 | 企业光网络
   description: 'OptiX OSN 1800 多业务光传送平台是新一代分组增强型多业务光传送平台，较高的集成度填补了城域设备形态的需求。
@@ -36,7 +36,7 @@ seo:
       value: all
 template: product
 ---
-
-# Nulla suscipit
-
-Aliquam quis laoreet lectus. Proin non mattis nulla, quis posuere mi. Mauris venenatis, magna at pellentesque commodo, lectus risus vehicula elit, nec dignissim nisl sapien id leo. Nulla non pretium metus, vitae finibus lectus. Aliquam in posuere risus. Curabitur ultrices ornare magna porttitor commodo. Curabitur eu tempor orci, sed pretium quam. Vestibulum condimentum, arcu nec pulvinar fringilla, lorem odio varius arcu, in porta tellus eros sed neque. Suspendisse efficitur eget erat sit amet efficitur. Proin maximus nibh eu sapien consequat, non porttitor risus consequat. Donec maximus odio sed nibh convallis luctus.ec maximus odio sed nibh convallis luctus.
+ts
+      value: all
+template: product
+---

@@ -12,7 +12,7 @@ other2:
   features: [{"title":"款型丰富","dec":["提供不同接口数量的系列产品，可满足客户不同应用场景需求。"]},{"title":"静音节能","dec":["支持端口低耗电闲置模式，大幅降低功耗；采用无风扇静音设计，降低整机功耗，同时让您免除噪音的烦扰"]},{"title":"无阻塞转发","dec":["提供二层线速交换能力，所有端口无阻塞转发"]}]
 other3: 
 other4:
-  images: {"s1720-28gwr-4p":{"org":"S1720-28GWR-4P_pic","img":["front.png","front_left.png","front_right.png","front_top.png","rear.png","rear_top.png"]}}
+  images: {"s1720-28gwr-4p":{"org":"S1720-28GWR-4P_pic","img":["front.webp","front_left.webp","front_right.webp","front_top.webp","rear.webp","rear_top.webp"]}}
 seo:
   title: cloudengine-s1730s | CloudEngine S1730S系列视频监控交换机 | 行业专用交换机 | 园区交换机 | 交换机 | 企业网络
   description: 'CloudEngine S视频监控交换机，是华为公司面向安平市场的视频监控场景推出的全新交换机系列。'
@@ -30,7 +30,3 @@ seo:
       value: all
 template: product
 ---
-
-# Nulla suscipit
-
-Aliquam quis laoreet lectus. Proin non mattis nulla, quis posuere mi. Mauris venenatis, magna at pellentesque commodo, lectus risus vehicula elit, nec dignissim nisl sapien id leo. Nulla non pretium metus, vitae finibus lectus. Aliquam in posuere risus. Curabitur ultrices ornare magna porttitor commodo. Curabitur eu tempor orci, sed pretium quam. Vestibulum condimentum, arcu nec pulvinar fringilla, lorem odio varius arcu, in porta tellus eros sed neque. Suspendisse efficitur eget erat sit amet efficitur. Proin maximus nibh eu sapien consequat, non porttitor risus consequat. Donec maximus odio sed nibh convallis luctus.

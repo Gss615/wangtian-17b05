@@ -12,7 +12,7 @@ other2:
   features: [{"title":"感知自进化","dec":["","基于自进化智能检测引擎，威胁检测精确率大于95%",""]},{"title":"运维自简化","dec":["","基于威胁知识图谱的推理分析与策略可视化编排，运营成本降低30%",""]},{"title":"应用自适应","dec":["","全国产化开放式数字安全底座，像搭乐高积木一样快速开发应用",""]}]
 other3: null
 other4:
-  images: {"other":{"org":"other","img":["HiSec Insight安全态势感知系统（原CIS）.png"]}}
+  images: {"other":{"org":"other","img":["HiSec Insight安全态势感知系统（原CIS）.webp"]}}
 seo:
   title: cis | HiSec Insight安全态势感知系统 | null | 大数据分析及APT防御 | 网络安全 | 企业网络
   description: 'HiSec Insight安全态势感知（原CIS）基于成熟自研商用大数据平台FusionInsight开发，结合智能检测算法可进行多维度海量数据关联分析，主动实时的发现各类安全威胁事件，还原出整个APT攻击链攻击行为。同时华为安全态势感知可采集和存储多类网络信息数据，帮助用户在发现威胁后调查取证以及处置问责。华为安全态势感知以发现威胁、阻断威胁、取证、溯源、响应、处置的思路设计，助力用户完成全流程威胁事件闭环。'
@@ -30,7 +30,3 @@ seo:
       value: all
 template: product
 ---
-
-# Nulla suscipit
-
-Aliquam quis laoreet lectus. Proin non mattis nulla, quis posuere mi. Mauris venenatis, magna at pellentesque commodo, lectus risus vehicula elit, nec dignissim nisl sapien id leo. Nulla non pretium metus, vitae finibus lectus. Aliquam in posuere risus. Curabitur ultrices ornare magna porttitor commodo. Curabitur eu tempor orci, sed pretium quam. Vestibulum condimentum, arcu nec pulvinar fringilla, lorem odio varius arcu, in porta tellus eros sed neque. Suspendisse efficitur eget erat sit amet efficitur. Proin maximus nibh eu sapien consequat, non porttitor risus consequat. Donec maximus odio sed nibh convallis luctus.

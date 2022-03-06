@@ -12,7 +12,7 @@ other2:
   features: [{"title":"上下行对称万兆能力","dec":["XGS-PON 上行口支持 type B 单双归属业务保护；\n上下行速率：上行 9.95Gbps，下行9.95Gpbs"]},{"title":"用户侧GPON，拓展覆盖范围","dec":["基于用户侧GPON口的 1:1VLAN/N:1 VLAN/VLAN透传；\n用户侧GPON口最多支持1：16 分光比，覆盖距离2KM"]},{"title":"LAN/WAN自适应","dec":["用户侧以太口可以用于上行；\n网络改造场景，灵活接入上一级设备"]}]
 other3: null
 other4:
-  images: {"other":{"org":"other","img":["华为OptiXstar P852E.png"]}}
+  images: {"other":{"org":"other","img":["华为OptiXstar P852E.webp"]}}
 seo:
   title: optixstar-p852e | 华为OptiXstar P852E  | null | ONU | 光终端 | 企业光网络
   description: '华为OptiXstar P852E产品是面向交通、安平场景设计的ONU设备，网络侧支撑XGS-PON接入，用户侧支撑4个GE接口和1个GPON接口，为全光交通路口、道路等提供高清的视频回传、信号控制、物联网接入等服务。'
@@ -30,7 +30,3 @@ seo:
       value: all
 template: product
 ---
-
-# Nulla suscipit
-
-Aliquam quis laoreet lectus. Proin non mattis nulla, quis posuere mi. Mauris venenatis, magna at pellentesque commodo, lectus risus vehicula elit, nec dignissim nisl sapien id leo. Nulla non pretium metus, vitae finibus lectus. Aliquam in posuere risus. Curabitur ultrices ornare magna porttitor commodo. Curabitur eu tempor orci, sed pretium quam. Vestibulum condimentum, arcu nec pulvinar fringilla, lorem odio varius arcu, in porta tellus eros sed neque. Suspendisse efficitur eget erat sit amet efficitur. Proin maximus nibh eu sapien consequat, non porttitor risus consequat. Donec maximus odio sed nibh convallis luctus.

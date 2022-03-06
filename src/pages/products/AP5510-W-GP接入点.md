@@ -12,7 +12,7 @@ other2:
   features: [{"title":"灵动的智能天线阵列技术","dec":["","对终端进行精准覆盖，降低干扰，提升信号质量，信号随用户而动；",""]},{"title":"丰富的接口","dec":["","提供1个GPON上行，4个GE下行接口",""]},{"title":"云管理","dec":["","可通过华为云管理平台对AP设备及业务进行管理和运维，节省网络运维成本；",""]}]
 other3: https://e.huawei.com/cn/material/networking/wlan/e5c2a8ee8d344368b0670ce83dbb320c
 other4:
-  images: {"ap5510-w-gp":{"org":"AP5510-W-GP_pic","img":["01-Front.png","02-Left.png","03-Bottom.png","05-Rear.png","06-Front_right_down.png","07-Rear_left_down.png"]}}
+  images: {"ap5510-w-gp":{"org":"AP5510-W-GP_pic","img":["01-Front.webp","02-Left.webp","03-Bottom.webp","05-Rear.webp","06-Front_right_down.webp","07-Rear_left_down.webp"]}}
 seo:
   title: ap5510-w-gp | AP5510-W-GP接入点 | AP5000系列 | 室内接入点 | 无线局域网 | 企业网络
   description: '华为AP5510-W-GP是符合802.11ac Wave 2标准协议的千兆面板AP，搭配安装件，可简单快速适配86/118/120多暗盒及非暗盒、挂墙场景。内置智能天线，隐式指示灯，全新“晨露”风格美观大方，支持GPON上行，适用于宿舍房间、酒店房间等体积较小，户型较密集场所。'
@@ -30,7 +30,3 @@ seo:
       value: all
 template: product
 ---
-
-# Nulla suscipit
-
-Aliquam quis laoreet lectus. Proin non mattis nulla, quis posuere mi. Mauris venenatis, magna at pellentesque commodo, lectus risus vehicula elit, nec dignissim nisl sapien id leo. Nulla non pretium metus, vitae finibus lectus. Aliquam in posuere risus. Curabitur ultrices ornare magna porttitor commodo. Curabitur eu tempor orci, sed pretium quam. Vestibulum condimentum, arcu nec pulvinar fringilla, lorem odio varius arcu, in porta tellus eros sed neque. Suspendisse efficitur eget erat sit amet efficitur. Proin maximus nibh eu sapien consequat, non porttitor risus consequat. Donec maximus odio sed nibh convallis luctus.

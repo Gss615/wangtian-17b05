@@ -12,7 +12,7 @@ other2:
   features: [{"title":"灵动的智能天线阵列技术","dec":["","对终端进行精准覆盖，降低干扰，提升信号质量，信号随用户而动",""]},{"title":"丰富的接口","dec":["","提供1个GE上行，4个GE下行接口，2个RJ45电话直通口（兼容RJ11）； 提供USB接口，可用于对外供电，也可用于存储",""]},{"title":"云管理","dec":["","可通过华为云管理平台对AP设备及业务进行管理和运维，节省网络运维成本",""]}]
 other3: https://e.huawei.com/cn/material/networking/wlan/fa048e900592402aac7c83c144653fcf
 other4:
-  images: {"ap2010dn":{"org":"AP2010DN_pic","img":["01.png","02.png","03.png","04.png","05.png","06.png"]}}
+  images: {"ap2010dn":{"org":"AP2010DN_pic","img":["01.webp","02.webp","03.webp","04.webp","05.webp","06.webp"]}}
 seo:
   title: ap2051dn-ap2051dn-e | AP2051DN & AP2051DN-E接入点 | AP2000系列 | 室内接入点 | 无线局域网 | 企业网络
   description: 'AP2051DN&AP2051DN-E是华为发布的支持802.11ac wave2标准的面板型无线接入点，内置智能天线，可有效提升覆盖范围，支持2×2MIMO和两条空间流，整机速率1.267Gbps，适用于酒店客房、学生宿舍、医院病房、小型办公室等房间面积较小，户型较密集场景。'
@@ -30,7 +30,3 @@ seo:
       value: all
 template: product
 ---
-
-# Nulla suscipit
-
-Aliquam quis laoreet lectus. Proin non mattis nulla, quis posuere mi. Mauris venenatis, magna at pellentesque commodo, lectus risus vehicula elit, nec dignissim nisl sapien id leo. Nulla non pretium metus, vitae finibus lectus. Aliquam in posuere risus. Curabitur ultrices ornare magna porttitor commodo. Curabitur eu tempor orci, sed pretium quam. Vestibulum condimentum, arcu nec pulvinar fringilla, lorem odio varius arcu, in porta tellus eros sed neque. Suspendisse efficitur eget erat sit amet efficitur. Proin maximus nibh eu sapien consequat, non porttitor risus consequat. Donec maximus odio sed nibh convallis luctus.

@@ -13,7 +13,7 @@ other2:
   features: [{"title":"智能天线","dec":["内置双频共口面智能天线，自动抑制干扰，覆盖半径提升20%，同位置信号强度提升100%，给用户带来稳定无死角的覆盖"]},{"title":"软件定义射频","dec":["双射频和三射频灵活切换，并发容量提升高达50%，灵活适应高带宽、高并发场景。"]},{"title":"物联网扩展","dec":["默认支持蓝牙5.0，此外通过内置双IoT插槽设计以及USB接口，可在一台AP上灵活支持多种物联网协议，如：RFID，ZigBee等，满足各类物联网终端的接入需求"]}]
 other3: https://e.huawei.com/cn/material/networking/campus-network/wlan/33dd63cd4ee243bc8d959010ae5a213f
 other4:
-  images: {"airengine5760-51":{"org":"AirEngine5760-51_pic","img":["bottom.png","front.png","front_left.png","front_right.png","front_top.png","front_top_2.png","rear_top.png","top.png"]}}
+  images: {"airengine5760-51":{"org":"AirEngine5760-51_pic","img":["bottom.webp","front.webp","front_left.webp","front_right.webp","front_top.webp","front_top_2.webp","rear_top.webp","top.webp"]}}
 seo:
   title: airengine-5760-51 | AirEngine 5760-51接入点 | AirEngine 5700系列 | 室内接入点 | 无线局域网 | 企业网络
   description: 'AirEngine 5760-51是华为发布的支持Wi-Fi 6（802.11ax）标准的新一代室内AP，适合部署在企业办公、零售、制造等场景。
@@ -33,7 +33,3 @@ seo:
       value: all
 template: product
 ---
-
-# Nulla suscipit
-
-Aliquam quis laoreet lectus. Proin non mattis nulla, quis posuere mi. Mauris venenatis, magna at pellentesque commodo, lectus risus vehicula elit, nec dignissim nisl sapien id leo. Nulla non pretium metus, vitae finibus lectus. Aliquam in posuere risus. Curabitur ultrices ornare magna porttitor commodo. Curabitur eu tempor orci, sed pretium quam. Vestibulum condimentum, arcu nec pulvinar fringilla, lorem odio varius arcu, in porta tellus eros sed neque. Suspendisse efficitur eget erat sit amet efficitur. Proin maximus nibh eu sapien consequat, non porttitor risus consequat. Donec maximus odio sed nibh convallis luctus.

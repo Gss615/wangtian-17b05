@@ -17,7 +17,7 @@ other2:
   features: []
 other3: null
 other4:
-  images: {"other":{"org":"other","img":["Rapid.png"]}}
+  images: {"other":{"org":"other","img":["Rapid.webp"]}}
 seo:
   title: elte-rapid | Rapid | null | Rapid快速部署系统 | eLTE宽带集群解决方案 | 企业无线
   description: 'eLTE快速部署系统集成了基站、核心网、调度系统等功能，具有一体化、小型化的特点，特别适合紧急情况下需要快速部署的场景，比如网络瘫痪及大事件等情况。
@@ -45,7 +45,3 @@ eLTE快速部署系统能够快速部署，在一定范围内提供通讯保障�
       value: all
 template: product
 ---
-
-# Nulla suscipit
-
-Aliquam quis laoreet lectus. Proin non mattis nulla, quis posuere mi. Mauris venenatis, magna at pellentesque commodo, lectus risus vehicula elit, nec dignissim nisl sapien id leo. Nulla non pretium metus, vitae finibus lectus. Aliquam in posuere risus. Curabitur ultrices ornare magna porttitor commodo. Curabitur eu tempor orci, sed pretium quam. Vestibulum condimentum, arcu nec pulvinar fringilla, lorem odio varius arcu, in porta tellus eros sed neque. Suspendisse efficitur eget erat sit amet efficitur. Proin maximus nibh eu sapien consequat, non porttitor risus consequat. Donec maximus odio sed nibh convallis luctus.

@@ -12,7 +12,7 @@ other2:
   features: [{"title":"最强算力密度","dec":["","最大可提供2P FLOPS@FP16/4U超强算力，算力密度达到业界2.5倍",""]},{"title":"灵活配置，适配多项负载","dec":["","支持SAS/SATA/NVMe/M.2 SSD硬盘多种组合灵活配置\n持板载网卡和灵活IO卡，提供丰富多样的网络接口",""]},{"title":"智能视频分析","dec":["","借助Atlas 300专用解码引擎，最多可对512路高清视频流实时转码和推理，适应各种视频图像分析场景",""]}]
 other3: null
 other4:
-  images: {"other":{"org":"other","img":["Atlas 800 AI服务器.png"]}}
+  images: {"other":{"org":"other","img":["Atlas 800 AI服务器.webp"]}}
 seo:
   title: atlas-800-ai-server | Atlas 800 AI服务器 | null | 昇腾计算 | 服务器 - 计算 | 数据中心
   description: 'Atlas 800 AI服务器主要应用于AI推理和训练场景，具有超强性能，为推理和训练场景构建高效能、低功耗的AI计算平台。支持多个Atlas 300 AI加速卡或板载加速模块，适应各种视频图像分析场景。主要应用于视频分析、深度学习训练等推理、训练场景中。'
@@ -30,7 +30,3 @@ seo:
       value: all
 template: product
 ---
-
-# Nulla suscipit
-
-Aliquam quis laoreet lectus. Proin non mattis nulla, quis posuere mi. Mauris venenatis, magna at pellentesque commodo, lectus risus vehicula elit, nec dignissim nisl sapien id leo. Nulla non pretium metus, vitae finibus lectus. Aliquam in posuere risus. Curabitur ultrices ornare magna porttitor commodo. Curabitur eu tempor orci, sed pretium quam. Vestibulum condimentum, arcu nec pulvinar fringilla, lorem odio varius arcu, in porta tellus eros sed neque. Suspendisse efficitur eget erat sit amet efficitur. Proin maximus nibh eu sapien consequat, non porttitor risus consequat. Donec maximus odio sed nibh convallis luctus.

@@ -12,7 +12,7 @@ other2:
   features: []
 other3: null
 other4:
-  images: {"other":{"org":"other","img":["EchoLife EG8240H5.png"]}}
+  images: {"other":{"org":"other","img":["EchoLife EG8240H5.webp"]}}
 seo:
   title: echolife-eg8240h5 | EchoLife EG8240H5 | null | ONT | 光终端 | 企业光网络
   description: 'EchoLife EG8240H5是室内型光网络终端（ONT）。通过GPON技术， 为用户提供超宽带接入。EG8240H5提供四个GE以太网接口以及2个POTS接口。EG8240H5具有高性能的业务转发能力，保证了互联网，语音电话和高清视频业务的良好体验。因此，EG8240H5为网络提供了完善的终端解决方案和面向未来的业务支撑能力。'
@@ -30,7 +30,3 @@ seo:
       value: all
 template: product
 ---
-
-# Nulla suscipit
-
-Aliquam quis laoreet lectus. Proin non mattis nulla, quis posuere mi. Mauris venenatis, magna at pellentesque commodo, lectus risus vehicula elit, nec dignissim nisl sapien id leo. Nulla non pretium metus, vitae finibus lectus. Aliquam in posuere risus. Curabitur ultrices ornare magna porttitor commodo. Curabitur eu tempor orci, sed pretium quam. Vestibulum condimentum, arcu nec pulvinar fringilla, lorem odio varius arcu, in porta tellus eros sed neque. Suspendisse efficitur eget erat sit amet efficitur. Proin maximus nibh eu sapien consequat, non porttitor risus consequat. Donec maximus odio sed nibh convallis luctus.

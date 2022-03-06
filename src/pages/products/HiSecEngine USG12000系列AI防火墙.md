@@ -16,7 +16,7 @@ other2:
   features: [{"title":"智能防御","dec":["独创AIE威胁检测引擎，未知威胁检测准确率高达99%以上"]},{"title":"极速高密","dec":["创新银河安全硬件平台，使能整机最大业务处理能力4.8T"]},{"title":"极简运维","dec":["智能安全运维平台，OPEX降低80%以上"]}]
 other3: null
 other4:
-  images: {"usg12004":{"org":"USG12004_pic","img":["front.png","front_left.png","front_right.png","front_top.png","rear.png"]}}
+  images: {"usg12004":{"org":"USG12004_pic","img":["front.webp","front_left.webp","front_right.webp","front_top.webp","rear.webp"]}}
 seo:
   title: usg12000 | HiSecEngine USG12000系列AI防火墙 | null | 防火墙及应用安全网关 | 网络安全 | 企业网络
   description: 'HiSecEngine USG12000系列防火墙（以下简称USG12000系列）是华为公司推出的首款T级AI防火墙，在网络边界实时防护已知与未知威胁，为大型数据中心、园区网络提供领先的安全防护能力。USG12000系列采用先进的硬件架构设计，应用多种绿色节能创新技术，大幅降低设备能源消耗。提供全类型接口板，单槽位接口密度最高可达18x100GE，满足大流量需求。
@@ -42,7 +42,3 @@ seo:
       value: all
 template: product
 ---
-
-# Nulla suscipit
-
-Aliquam quis laoreet lectus. Proin non mattis nulla, quis posuere mi. Mauris venenatis, magna at pellentesque commodo, lectus risus vehicula elit, nec dignissim nisl sapien id leo. Nulla non pretium metus, vitae finibus lectus. Aliquam in posuere risus. Curabitur ultrices ornare magna porttitor commodo. Curabitur eu tempor orci, sed pretium quam. Vestibulum condimentum, arcu nec pulvinar fringilla, lorem odio varius arcu, in porta tellus eros sed neque. Suspendisse efficitur eget erat sit amet efficitur. Proin maximus nibh eu sapien consequat, non porttitor risus consequat. Donec maximus odio sed nibh convallis luctus.

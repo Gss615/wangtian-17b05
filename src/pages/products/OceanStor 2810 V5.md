@@ -12,7 +12,7 @@ other2:
   features: [{"title":"一体化虚拟机内置，应用集成\n","dec":["一体化内置虚拟机，开放存储平台管理接口，支持策略管理，可根据用户需要和应用特性配置CPU策略；应用集成，一栈式提供软硬件服务，易交付，易应用，易运维。"]},{"title":"高可靠，高可用\n","dec":["基于华为企业级存储的可靠性设计，保证数据99.9999%可靠性；RAID2.0+软件架构，重构速度较传统方式最高提升20倍。"]},{"title":"易管理，易维护","dec":["虚拟机应用数据读写由底层存储资源池直接提供，缩短数据访问路径，提升系统性能；统一管理界面，多种告警手段，一键式升级，显著降低用户运维成本。"]}]
 other3: https://e.huawei.com/cn/material/datacenter/storage/c0178337e60e4502bfd616f9c1172cbf
 other4:
-  images: {"other":{"org":"other","img":["OceanStor 2810 V5.png"]}}
+  images: {"other":{"org":"other","img":["OceanStor 2810 V5.webp"]}}
 seo:
   title: 2810-v5 | OceanStor 2810 V5 | null | null | 混合闪存存储 | 数据存储
   description: '华为OceanStor 2810 V5存算一体化平台是根据存储产品应用现状和存储技术未来发展趋势，推出的新一代专用高性能融合存储设备。存储控制器在继承华为OceanStor 企业存储特性的同时提供开放融合数据平台，充分发挥控制器的富余计算能力。用户可将原先部署在物理服务器上的应用迁移到存储控制器内，并提供一体化集成虚拟机、应用隔离、资源控制、高可靠高可用等关键特性。易于快速集成ISV业务平台，显著降低用户TCO。'
@@ -30,7 +30,3 @@ seo:
       value: all
 template: product
 ---
-
-# Nulla suscipit
-
-Aliquam quis laoreet lectus. Proin non mattis nulla, quis posuere mi. Mauris venenatis, magna at pellentesque commodo, lectus risus vehicula elit, nec dignissim nisl sapien id leo. Nulla non pretium metus, vitae finibus lectus. Aliquam in posuere risus. Curabitur ultrices ornare magna porttitor commodo. Curabitur eu tempor orci, sed pretium quam. Vestibulum condimentum, arcu nec pulvinar fringilla, lorem odio varius arcu, in porta tellus eros sed neque. Suspendisse efficitur eget erat sit amet efficitur. Proin maximus nibh eu sapien consequat, non porttitor risus consequat. Donec maximus odio sed nibh convallis luctus.

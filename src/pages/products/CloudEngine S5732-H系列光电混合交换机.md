@@ -14,7 +14,7 @@ other2:
   features: [{"title":"300米PoE++","dec":["光电协同，可为Wi-Fi 6 AP提供300米超远距离PoE++供电及10Gbps极速接入"]},{"title":"内置随板AC","dec":["最大可管理1024台AP，实现有线及无线融合网络管理及用户的统一策略管控"]},{"title":"威胁诱捕，防患未然","dec":["通过内置的安全探针识别潜在的威胁流量，配合HiSec Insight系统进行安全威胁事件检测，实现全网安全协防"]}]
 other3: https://e.huawei.com/cn/material/networking/campus-network/campusswitch/d186706766eb4115a7667c52f86a617c
 other4:
-  images: {"s5732-h48xum2cc":{"org":"S5732-H48XUM2CC_pic","img":["front.png","front_HD.png","front_left.png","front_left_HD.png","front_right.png","front_right_HD.png","front_top.png","front_top_HD.png","rear_top.png","rear_top_HD.png"]}}
+  images: {"s5732-h48xum2cc":{"org":"S5732-H48XUM2CC_pic","img":["front.webp","front_HD.webp","front_left.webp","front_left_HD.webp","front_right.webp","front_right_HD.webp","front_top.webp","front_top_HD.webp","rear_top.webp","rear_top_HD.webp"]}}
 seo:
   title: s5732-h-hybrid-optical-electrical | CloudEngine S5732-H系列光电混合交换机 | 接入交换机 | 园区交换机 | 交换机 | 企业网络
   description: 'CloudEngine S5732-H系列全万兆光电混合以太网交换机，可提供24口万兆光口及24口万兆多速率电口混合接入，上行4个25GE及2个40GE，或2个100GE端口，支持一个扩展卡插槽。
@@ -36,7 +36,3 @@ CloudEngine S5732-H基于华为公司统一的VRP（Versatile Routing Platform�
       value: all
 template: product
 ---
-
-# Nulla suscipit
-
-Aliquam quis laoreet lectus. Proin non mattis nulla, quis posuere mi. Mauris venenatis, magna at pellentesque commodo, lectus risus vehicula elit, nec dignissim nisl sapien id leo. Nulla non pretium metus, vitae finibus lectus. Aliquam in posuere risus. Curabitur ultrices ornare magna porttitor commodo. Curabitur eu tempor orci, sed pretium quam. Vestibulum condimentum, arcu nec pulvinar fringilla, lorem odio varius arcu, in porta tellus eros sed neque. Suspendisse efficitur eget erat sit amet efficitur. Proin maximus nibh eu sapien consequat, non porttitor risus consequat. Donec maximus odio sed nibh convallis luctus.

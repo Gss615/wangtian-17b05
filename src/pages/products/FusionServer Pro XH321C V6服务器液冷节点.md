@@ -12,7 +12,7 @@ other2:
   features: [{"title":"高能效、高可靠","dec":["• CPU采用微通道冷板，内存间冷板走水优化设计，板级液冷散热比例高达80%\n• 支持45ºC温水散热，TCO降低20%\n• 支持系统水路、电路隔离设计，异常状态监控"]},{"title":"机柜级部署方案","dec":["• 适配FusionServer Pro液冷机柜，柜内集成manifold，支持与总管快速对接\n• 液冷机柜最多支持72个液冷节点。"]}]
 other3: null
 other4:
-  images: {"other":{"org":"other","img":["FusionServer Pro XH321C V6服务器液冷节点.png"]}}
+  images: {"other":{"org":"other","img":["FusionServer Pro XH321C V6服务器液冷节点.webp"]}}
 seo:
   title: xh321c-v6 | FusionServer Pro XH321C V6服务器液冷节点 | FusionServer Pro高密服务器 | FusionServer Pro智能服务器 | 服务器 - 计算 | 数据中心
   description: 'FusionServer Pro XH321C V6是华为最新一代1U半宽双路服务器液冷节点，支持CPU和内存液冷散热，支持45ºC温水散热。全液冷方案，散热比高达100%，PUE≤1.05；板级液冷方案，散热比高达80%，PUE≤1.1。'
@@ -30,7 +30,3 @@ seo:
       value: all
 template: product
 ---
-
-# Nulla suscipit
-
-Aliquam quis laoreet lectus. Proin non mattis nulla, quis posuere mi. Mauris venenatis, magna at pellentesque commodo, lectus risus vehicula elit, nec dignissim nisl sapien id leo. Nulla non pretium metus, vitae finibus lectus. Aliquam in posuere risus. Curabitur ultrices ornare magna porttitor commodo. Curabitur eu tempor orci, sed pretium quam. Vestibulum condimentum, arcu nec pulvinar fringilla, lorem odio varius arcu, in porta tellus eros sed neque. Suspendisse efficitur eget erat sit amet efficitur. Proin maximus nibh eu sapien consequat, non porttitor risus consequat. Donec maximus odio sed nibh convallis luctus.

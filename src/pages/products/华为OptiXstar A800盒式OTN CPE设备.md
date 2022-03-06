@@ -14,7 +14,7 @@ other2:
   features: [{"title":"小体积、高品质、高可靠","dec":["体积小、功耗低，OTN硬管道，业务物理隔离，独享带宽，安全可靠"]},{"title":"即插即用，30分钟内上线","dec":["方便安装，支持桌面，挂墙等多种安装；NCE管控，支持时延地图，实现专线业务端到端管理"]},{"title":"丰富接口，全面覆盖接入场景","dec":["GE/FE/E1等主流接口业务接入和传送；提供线路侧1+1保护"]}]
 other3: null
 other4:
-  images: {"other":{"org":"other","img":["华为OptiXstar A800盒式OTN CPE设备.png"]}}
+  images: {"other":{"org":"other","img":["华为OptiXstar A800盒式OTN CPE设备.webp"]}}
 seo:
   title: optixstar-a800 | 华为OptiXstar A800盒式OTN CPE设备 | null | CPE | 光终端 | 企业光网络
   description: '华为OptiXstar A800产品是固定盒式OTN客户终端设备(CPE)，主要应用在CPE末端接入场景，为政府、企业等提供可靠的OTN高品质专线解决方案。
@@ -36,7 +36,3 @@ seo:
       value: all
 template: product
 ---
-
-# Nulla suscipit
-
-Aliquam quis laoreet lectus. Proin non mattis nulla, quis posuere mi. Mauris venenatis, magna at pellentesque commodo, lectus risus vehicula elit, nec dignissim nisl sapien id leo. Nulla non pretium metus, vitae finibus lectus. Aliquam in posuere risus. Curabitur ultrices ornare magna porttitor commodo. Curabitur eu tempor orci, sed pretium quam. Vestibulum condimentum, arcu nec pulvinar fringilla, lorem odio varius arcu, in porta tellus eros sed neque. Suspendisse efficitur eget erat sit amet efficitur. Proin maximus nibh eu sapien consequat, non porttitor risus consequat. Donec maximus odio sed nibh convallis luctus.

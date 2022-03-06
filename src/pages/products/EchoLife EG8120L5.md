@@ -12,7 +12,7 @@ other2:
   features: [{"title":"智能互联","dec":["任意端口多业务\n家长控制"]},{"title":"智能运维","dec":["IPTV视频质量诊断（仅增强型产品支持）\n主动/被动流氓ONT检测和隔离\nPPPOE/DHCP仿真测试\n变长OMCI"]},{"title":"节电","dec":["动态节电\n指示灯节能"]}]
 other3: null
 other4:
-  images: {"other":{"org":"other","img":["EchoLife EG8120L5.png"]}}
+  images: {"other":{"org":"other","img":["EchoLife EG8120L5.webp"]}}
 seo:
   title: echolife-eg8120l5 | EchoLife EG8120L5 | null | ONT | 光终端 | 企业光网络
   description: '华为EchoLife EG8120L5是华为全光接入解决方案的路由型ONT，通过GPON技术实现用户的超宽带接入。支持1个GE和1个FE以太网接口，1个POTS口，通过高性能的转发能力有效保障数据和高清视频的业务体验，为客户提供理想的全光接入解决方案和面向未来的业务支撑能力。'
@@ -30,7 +30,3 @@ seo:
       value: all
 template: product
 ---
-
-# Nulla suscipit
-
-Aliquam quis laoreet lectus. Proin non mattis nulla, quis posuere mi. Mauris venenatis, magna at pellentesque commodo, lectus risus vehicula elit, nec dignissim nisl sapien id leo. Nulla non pretium metus, vitae finibus lectus. Aliquam in posuere risus. Curabitur ultrices ornare magna porttitor commodo. Curabitur eu tempor orci, sed pretium quam. Vestibulum condimentum, arcu nec pulvinar fringilla, lorem odio varius arcu, in porta tellus eros sed neque. Suspendisse efficitur eget erat sit amet efficitur. Proin maximus nibh eu sapien consequat, non porttitor risus consequat. Donec maximus odio sed nibh convallis luctus.

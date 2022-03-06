@@ -12,7 +12,7 @@ other2:
   features: [{"title":"海量吞吐","dec":["• 搭载高性能交换芯片，打造单槽位带宽领先、100GE端口密度领先的园区核心。\n• 采用信元交换技术，做到真正的无阻塞交换，业务零丢包。"]},{"title":"有线无线融合","dec":["• 园区有线、无线网络融合，一台设备可以管理超过5万的无线用户，10240台无线AP。\n• 有线、无线用户管理和策略融合，真正做到基于用户和应用的质量保障。"]},{"title":"全栈开放","dec":["• 采用全可编程交换芯片，业务升级无需更换硬件；\n• 丰富的开放接口和生态合作伙伴，客户现有网络平滑升级对接。"]}]
 other3: https://e.huawei.com/cn/material/networking/b9f58ad188994a3dbd56580b036230a3
 other4:
-  images: {"s12700e-4":{"org":"S12700E-4_pic","img":["front.png","front_HD.png","front_left.png","front_left_HD.png","front_right.png","front_right_HD.png","front_top.png","front_top_HD.png","rear_top.png","rear_top_HD.png"]}}
+  images: {"s12700e-4":{"org":"S12700E-4_pic","img":["front.webp","front_HD.webp","front_left.webp","front_left_HD.webp","front_right.webp","front_right_HD.webp","front_top.webp","front_top_HD.webp","rear_top.webp","rear_top_HD.webp"]}}
 seo:
   title: s12700e | CloudEngine S12700E系列交换机 | 核心/汇聚交换机 | 园区交换机 | 交换机 | 企业网络
   description: 'CloudEngine S12700E系列交换机是华为面向Wi-Fi 6全无线时代高端园区网络推出的全新一代旗舰级核心交换机，具备领先的数据交换能力及海量的终端接入能力，同时提供随板AC、VxLAN、业务随行、智能HQoS、iPCA、SVF等创新特性，是构建Wi-Fi 6时代高品质园区网络核心交换机的理想选择，助力全球客户数字化转型。'
@@ -30,7 +30,3 @@ seo:
       value: all
 template: product
 ---
-
-# Nulla suscipit
-
-Aliquam quis laoreet lectus. Proin non mattis nulla, quis posuere mi. Mauris venenatis, magna at pellentesque commodo, lectus risus vehicula elit, nec dignissim nisl sapien id leo. Nulla non pretium metus, vitae finibus lectus. Aliquam in posuere risus. Curabitur ultrices ornare magna porttitor commodo. Curabitur eu tempor orci, sed pretium quam. Vestibulum condimentum, arcu nec pulvinar fringilla, lorem odio varius arcu, in porta tellus eros sed neque. Suspendisse efficitur eget erat sit amet efficitur. Proin maximus nibh eu sapien consequat, non porttitor risus consequat. Donec maximus odio sed nibh convallis luctus.

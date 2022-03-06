@@ -12,7 +12,7 @@ other2:
   features: [{"title":"高密部署，极致算力","dec":["1U空间可支持80个计算核心\n最大内存容量12TB\n最大支持10个NVMe SSD"]},{"title":"灵活扩展，多样应用","dec":["2个OCP3.0网卡，可热插拔\n6个PCIe 4.0扩展槽位，\n2个M.2 SSD，热插拔，硬RAID\n7个热插拔对旋风扇，N+1冗余\n"]},{"title":"创新技术，智能运维","dec":["五大智能技术，运维效率提升30%\n标准化开放接口及指南，第三方集成更简单"]}]
 other3: null
 other4:
-  images: {"other":{"org":"other","img":["FusionServer Pro 1288H V6 机架服务器.png"]}}
+  images: {"other":{"org":"other","img":["FusionServer Pro 1288H V6 机架服务器.webp"]}}
 seo:
   title: 1288h-v6 | FusionServer Pro 1288H V6 机架服务器 | FusionServer Pro机架服务器 | FusionServer Pro智能服务器 | 服务器 - 计算 | 数据中心
   description: '华为FusionServer Pro 1288H V6是一款1U2路机架服务器，适用于云计算、虚拟化、高性能计算(HPC)、大数据处理等负载的高密度部署，提升数据中心空间利用率。1288H V6在1U空间里可配置2路英特尔®至强®可扩展处理器、32条DDR4内存及4*3.5"或10*2.5"的本地存储资源(可配置4/10个NVMe SSD硬盘)。 集成DEMT智能功耗管理、FDM智能故障管理等专利技术，可选配华为FusionDirector全生命周期管理软件，能够有效降低运营成本、提升投资回报。'
@@ -30,7 +30,3 @@ seo:
       value: all
 template: product
 ---
-
-# Nulla suscipit
-
-Aliquam quis laoreet lectus. Proin non mattis nulla, quis posuere mi. Mauris venenatis, magna at pellentesque commodo, lectus risus vehicula elit, nec dignissim nisl sapien id leo. Nulla non pretium metus, vitae finibus lectus. Aliquam in posuere risus. Curabitur ultrices ornare magna porttitor commodo. Curabitur eu tempor orci, sed pretium quam. Vestibulum condimentum, arcu nec pulvinar fringilla, lorem odio varius arcu, in porta tellus eros sed neque. Suspendisse efficitur eget erat sit amet efficitur. Proin maximus nibh eu sapien consequat, non porttitor risus consequat. Donec maximus odio sed nibh convallis luctus.

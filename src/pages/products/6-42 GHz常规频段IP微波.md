@@ -12,7 +12,7 @@ other2:
   features: [{"title":"超大传输容量","dec":["","单载波最大2 Gbit/s，单天线最大16 Gbit/s传输容量",""]},{"title":"多业务统一平台","dec":["","同一平台支持TDM/Hybrid/Packet/Routing四种业务",""]},{"title":"任意场景端到端组网","dec":["","分体式、全室外、全室内任意场景部署，端到端组网运维",""]}]
 other3: 
 other4:
-  images: {"other":{"org":"other","img":["6-42 GHz常规频段IP微波.png"]}}
+  images: {"other":{"org":"other","img":["6-42 GHz常规频段IP微波.webp"]}}
 seo:
   title: traditional-band | 6-42 GHz常规频段IP微波 | null | null | 企业微波解决方案 | 企业无线
   description: '华为6-42 GHz常规频段IP微波具有单载波最大2 Gbit/s，单天线最大16 Gbit/s的传输能力，是业界首个同一平台支持TDM/Hybrid/Packet/Routing四种业务的IP微波系统，满足行业大容量IP业务传输和传统PDH/SDH微波IP化改造的需要，提供分体式、全室外、全室内任意场景部署的灵活架构，设备可靠性高，支持端到端的统一运维管理，被广泛应用于政府、广电、油气、教育、电力等各个行业领域的宽带无线传输。'
@@ -30,7 +30,3 @@ seo:
       value: all
 template: product
 ---
-
-# Nulla suscipit
-
-Aliquam quis laoreet lectus. Proin non mattis nulla, quis posuere mi. Mauris venenatis, magna at pellentesque commodo, lectus risus vehicula elit, nec dignissim nisl sapien id leo. Nulla non pretium metus, vitae finibus lectus. Aliquam in posuere risus. Curabitur ultrices ornare magna porttitor commodo. Curabitur eu tempor orci, sed pretium quam. Vestibulum condimentum, arcu nec pulvinar fringilla, lorem odio varius arcu, in porta tellus eros sed neque. Suspendisse efficitur eget erat sit amet efficitur. Proin maximus nibh eu sapien consequat, non porttitor risus consequat. Donec maximus odio sed nibh convallis luctus.

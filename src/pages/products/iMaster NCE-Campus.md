@@ -12,7 +12,7 @@ other2:
   features: [{"title":"网络部署自动化","dec":["设备即插即用，分钟级网络发放；端到端 VxLAN 网络自动化部署，业务隔离，一网多用；LAN-WAN融合，统一管理，统一监控，端到端业务保障。"]},{"title":"业务策略自动化","dec":["海量终端准入认证，随时随地接入，业务随行，体验随身；智能识别终端，策略自动匹配，终端即插即用；基于用户、业务优先级的多级QoS层次化调度。"]},{"title":"智能运维","dec":["每用户每应用每时刻全旅程体验可视；主动问题识别、分钟级故障定位、智能故障预测；无线网络信道冲突评估，预测性调优，提升整网性能 50%+。"]}]
 other3: null
 other4:
-  images: {"other":{"org":"other","img":["iMaster NCE-Campus.png"]}}
+  images: {"other":{"org":"other","img":["iMaster NCE-Campus.webp"]}}
 seo:
   title: imaster-nce-campus | iMaster NCE-Campus | null | 园区自动驾驶网络管理控制系统 | 网络管控&分析软件 | 企业网络
   description: 'iMaster NCE-Campus 是华为面向园区网络的新 一代自动驾驶网络管理控制系统，是集管理、控制、分析和 AI 智能功能于一体的网络自动化与智能化平台，提供园区网络的全生命周期自动化、基于大数据和AI的故障智能闭环能力，帮助企业降低OPEX运维成本，加速企业云化与数字化转型，让网络管理更自动、网络运维更智能。'
@@ -30,7 +30,3 @@ seo:
       value: all
 template: product
 ---
-
-# Nulla suscipit
-
-Aliquam quis laoreet lectus. Proin non mattis nulla, quis posuere mi. Mauris venenatis, magna at pellentesque commodo, lectus risus vehicula elit, nec dignissim nisl sapien id leo. Nulla non pretium metus, vitae finibus lectus. Aliquam in posuere risus. Curabitur ultrices ornare magna porttitor commodo. Curabitur eu tempor orci, sed pretium quam. Vestibulum condimentum, arcu nec pulvinar fringilla, lorem odio varius arcu, in porta tellus eros sed neque. Suspendisse efficitur eget erat sit amet efficitur. Proin maximus nibh eu sapien consequat, non porttitor risus consequat. Donec maximus odio sed nibh convallis luctus.

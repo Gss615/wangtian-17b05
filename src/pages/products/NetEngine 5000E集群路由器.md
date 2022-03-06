@@ -12,7 +12,7 @@ other2:
   features: [{"title":"弹性扩展，持续演进","dec":["","提供更高性能和集成度、更低功耗的1.6T线卡，交换容量可达2105.04T；在业务不中断的情况下引入新的线卡框，支撑集群系统从 2+2 按需平滑扩容至 2+8；支持与前一代平台组成混合集群，保护客户既有投资",""]},{"title":"智能开放，构建全面可编程弹性网络","dec":["","基于软件定义网络（Software Defined Network，SDN）架构，支持全新的骨干网智能业务调优技术，可平滑满足企业SDN时代的网络需求，进一步支持网络虚拟化，支撑云时代应用的网络高效运营和发展",""]},{"title":"全方位的可靠设计，打造高品质网络","dec":["","从系统结构、硬件系统、软件系统三个维度确保高可靠性，保证系统可靠运行；提供IGP快速收敛、IP/LDP/TE/VLL快速重路由、BFD链路快速检测、TRUNK跨单板链路捆绑等保护机制，有效保证业务可靠运行",""]}]
 other3: https://e.huawei.com/cn/material/networking/core-routers/2137eb014b0041ecb8e9d293cfcb6375
 other4:
-  images: {"other":{"org":"other","img":["NetEngine 5000E集群路由器.png"]}}
+  images: {"other":{"org":"other","img":["NetEngine 5000E集群路由器.webp"]}}
 seo:
   title: ne5000e | NetEngine5000E集群 | 云骨干路由器 | NE系列路由器 | 路由器 | 企业网络
   description: '华为NetEngine5000E核心路由器是面向企业骨干网、城域网核心节点、数据中心互联节点和国际网关等推出的核心路由器产品，具有大容量、高可靠、绿色、智能等特点，支持单框、背靠背和多框集群模式，实现按需扩展，帮助企业用户轻松应对互联网流量快速增长和未来业务发展。'
@@ -30,7 +30,3 @@ seo:
       value: all
 template: product
 ---
-
-# Nulla suscipit
-
-Aliquam quis laoreet lectus. Proin non mattis nulla, quis posuere mi. Mauris venenatis, magna at pellentesque commodo, lectus risus vehicula elit, nec dignissim nisl sapien id leo. Nulla non pretium metus, vitae finibus lectus. Aliquam in posuere risus. Curabitur ultrices ornare magna porttitor commodo. Curabitur eu tempor orci, sed pretium quam. Vestibulum condimentum, arcu nec pulvinar fringilla, lorem odio varius arcu, in porta tellus eros sed neque. Suspendisse efficitur eget erat sit amet efficitur. Proin maximus nibh eu sapien consequat, non porttitor risus consequat. Donec maximus odio sed nibh convallis luctus.

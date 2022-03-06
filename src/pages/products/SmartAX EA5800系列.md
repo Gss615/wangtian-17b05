@@ -16,7 +16,7 @@ other2:
   features: [{"title":"分布式架构","dec":["","将业务处理分布到每个业务单板上，提升系统的交换容量和性能，单槽位吞吐量可达100Gbit/s，满足千兆超宽接入，保障4K视频等高带宽业务无卡顿",""]},{"title":"高可靠性","dec":["","TypeB/TypeC双归属实现异地容灾备份保护，双主控板、双电源板冗余备份，多重上行链路保护，提供安全可靠的运行环境",""]},{"title":"软件升级不断业务","dec":["","分布式架构下，控制与转发分离，保证设备在升级过程中业务不中断，减少用户投诉，白天也可随时升级",""]}]
 other3: null
 other4:
-  images: {"other":{"org":"other","img":["SmartAX EA5800系列.png"]}}
+  images: {"other":{"org":"other","img":["SmartAX EA5800系列.webp"]}}
 seo:
   title: ea5800 | SmartAX EA5800系列 | null | OLT | 光接入 | 企业光网络
   description: '构建超宽、绿色、智能的汇聚型接入网络：
@@ -42,7 +42,3 @@ seo:
       value: all
 template: product
 ---
-
-# Nulla suscipit
-
-Aliquam quis laoreet lectus. Proin non mattis nulla, quis posuere mi. Mauris venenatis, magna at pellentesque commodo, lectus risus vehicula elit, nec dignissim nisl sapien id leo. Nulla non pretium metus, vitae finibus lectus. Aliquam in posuere risus. Curabitur ultrices ornare magna porttitor commodo. Curabitur eu tempor orci, sed pretium quam. Vestibulum condimentum, arcu nec pulvinar fringilla, lorem odio varius arcu, in porta tellus eros sed neque. Suspendisse efficitur eget erat sit amet efficitur. Proin maximus nibh eu sapien consequat, non porttitor risus consequat. Donec maximus odio sed nibh convallis luctus.

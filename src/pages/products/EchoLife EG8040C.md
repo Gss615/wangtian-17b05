@@ -12,7 +12,7 @@ other2:
   features: [{"title":"PON特性","dec":["","GPON Class B+/EPON PX20+\n接收灵敏度：-27dBm\n过载光功率：GPON: -8dBm/EPON: -3dBm\n支持带阻滤波器（WBF）\nType B（单归属&双归属）",""]},{"title":"以太接入能力","dec":["","1:1 VLAN/N:1 VLAN/VLAN透传\nQinQ VLAN\nMAC地址限制\n千兆口支持10Mbit/s、100Mbit/s、 1000Mbit/s自适应",""]},{"title":"防雷","dec":["","电源：共模4kV，差模4kV\nGE：共模2.5kV",""]}]
 other3: null
 other4:
-  images: {"other":{"org":"other","img":["EchoLife EG8040C.png"]}}
+  images: {"other":{"org":"other","img":["EchoLife EG8040C.webp"]}}
 seo:
   title: eg8040c | EchoLife EG8040C | null | ONU | 光终端 | 企业光网络
   description: '华为EchoLife EG8040C是企业宽带接入ONU，通过GPON/EPON技术实现用户的超宽带接入，并提供防雷功能，全面保障业务。 支持4个GE以太网接口，通过高性能的转发能力有效保障数据和高清视频的业务体验，为客户提供理想的全光接入解决方案和面向未来的业务支撑能力。'
@@ -30,7 +30,3 @@ seo:
       value: all
 template: product
 ---
-
-# Nulla suscipit
-
-Aliquam quis laoreet lectus. Proin non mattis nulla, quis posuere mi. Mauris venenatis, magna at pellentesque commodo, lectus risus vehicula elit, nec dignissim nisl sapien id leo. Nulla non pretium metus, vitae finibus lectus. Aliquam in posuere risus. Curabitur ultrices ornare magna porttitor commodo. Curabitur eu tempor orci, sed pretium quam. Vestibulum condimentum, arcu nec pulvinar fringilla, lorem odio varius arcu, in porta tellus eros sed neque. Suspendisse efficitur eget erat sit amet efficitur. Proin maximus nibh eu sapien consequat, non porttitor risus consequat. Donec maximus odio sed nibh convallis luctus.

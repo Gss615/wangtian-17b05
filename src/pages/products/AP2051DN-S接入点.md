@@ -12,7 +12,7 @@ other2:
   features: [{"title":"灵动的智能天线阵列技术","dec":["","对终端进行精准覆盖，降低干扰，提升信号质量，信号随用户而动",""]},{"title":"丰富的接口","dec":["","提供1个GE上行，4个GE下行接口，2个RJ45电话直通口（兼容RJ11），USB接口（可用于对外供电或存储）",""]},{"title":"云管理","dec":["","通过华为云管理平台对AP设备及业务进行管理和运维，节省网络运维成本",""]}]
 other3: https://e.huawei.com/cn/material/networking/wlan/45ff526a8f1f4bb7b5f6bd22e49f5731
 other4:
-  images: {"ap2051dn-s":{"org":"AP2051DN-S_pic","img":["bottom.png","front_left.png","front_right.png","front_top.png","rear.png","rear_top.png","right.png","stand_left.png","stand_right.png","top.png"]}}
+  images: {"ap2051dn-s":{"org":"AP2051DN-S_pic","img":["bottom.webp","front_left.webp","front_right.webp","front_top.webp","rear.webp","rear_top.webp","right.webp","stand_left.webp","stand_right.webp","top.webp"]}}
 seo:
   title: ap2051dn-s | AP2051DN-S接入点 | AP2000系列 | 室内接入点 | 无线局域网 | 企业网络
   description: '华为AP2051DN-S接入点是面向中小企业分销级市场的新一代智能面板AP产品，支持802.11ac Wave 2标准协议，内置智能天线，可有效提升覆盖范围，支持2×2MIMO和两条空间流，整机速率1.267Gbps，适用于酒店客房、学生宿舍、医院病房、小型办公室等房间面积较小，户型较密集场景。'
@@ -30,7 +30,3 @@ seo:
       value: all
 template: product
 ---
-
-# Nulla suscipit
-
-Aliquam quis laoreet lectus. Proin non mattis nulla, quis posuere mi. Mauris venenatis, magna at pellentesque commodo, lectus risus vehicula elit, nec dignissim nisl sapien id leo. Nulla non pretium metus, vitae finibus lectus. Aliquam in posuere risus. Curabitur ultrices ornare magna porttitor commodo. Curabitur eu tempor orci, sed pretium quam. Vestibulum condimentum, arcu nec pulvinar fringilla, lorem odio varius arcu, in porta tellus eros sed neque. Suspendisse efficitur eget erat sit amet efficitur. Proin maximus nibh eu sapien consequat, non porttitor risus consequat. Donec maximus odio sed nibh convallis luctus.

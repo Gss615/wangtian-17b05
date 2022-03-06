@@ -14,7 +14,7 @@ other2:
   features: [{"title":"三层特性","dec":["PPPoE/静态IP/DHCP\nNAT/NAPT\n端口转发\nALG,UPnP\nDDNS/DNS server/DNS Client\nIPv6/IPv4双栈,DS-Lite\n静态路由/默认路由\n一个WAN承载多业务"]},{"title":"智能业务","dec":["防蹭网\nWi-Fi定时开关\nWi-Fi智能共享：Portal、802.1x认证基于Soft GRE的Wi-Fi"]},{"title":"智能运维","dec":["IPTV视频质量诊断(VMOS&eMDI)\nOLT发起的流氓ONT检测和隔离\n呼叫仿真/内、外线测试\nPPPOE/DHCP仿真测试\n一键诊断(Web)"]}]
 other3: null
 other4:
-  images: {"other":{"org":"other","img":["华为OptiXstar HN8346X6.png"]}}
+  images: {"other":{"org":"other","img":["华为OptiXstar HN8346X6.webp"]}}
 seo:
   title: optixstar-hn8346x6 | 华为OptiXstar HN8346X6 | null | ONT | 光终端 | 企业光网络
   description: '华为OptiXstar HN8346X6是华为全光接入解决方案的Wi-Fi 6万兆ONT，通过XG-PON或非对称10G EPON技术实现用户的超宽带接入。
@@ -36,7 +36,3 @@ seo:
       value: all
 template: product
 ---
-
-# Nulla suscipit
-
-Aliquam quis laoreet lectus. Proin non mattis nulla, quis posuere mi. Mauris venenatis, magna at pellentesque commodo, lectus risus vehicula elit, nec dignissim nisl sapien id leo. Nulla non pretium metus, vitae finibus lectus. Aliquam in posuere risus. Curabitur ultrices ornare magna porttitor commodo. Curabitur eu tempor orci, sed pretium quam. Vestibulum condimentum, arcu nec pulvinar fringilla, lorem odio varius arcu, in porta tellus eros sed neque. Suspendisse efficitur eget erat sit amet efficitur. Proin maximus nibh eu sapien consequat, non porttitor risus consequat. Donec maximus odio sed nibh convallis luctus.

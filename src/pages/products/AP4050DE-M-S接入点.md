@@ -12,7 +12,7 @@ other2:
   features: [{"title":"灵动的智能天线阵列技术","dec":["","对终端进行精准覆盖，降低干扰，提升信号质量，信号随用户而动；",""]},{"title":"千兆接入","dec":["","支持802.11ac wave 2标准，MU-MIMO，2.4GHz和5GHz双射频同时提供业务，整机速率1.267Gbps",""]},{"title":"云管理","dec":["","可通过华为云管理平台对AP设备及业务进行管理和运维，节省网络运维成本；",""]}]
 other3: https://e.huawei.com/cn/material/networking/wlan/dec0933cc9c546e8b9fea49b44327a99
 other4:
-  images: {"ap4050de-m-s":{"org":"AP4050DE-M-S_pic","img":["01.png","02.png","03.png","04.png","05.png"]}}
+  images: {"ap4050de-m-s":{"org":"AP4050DE-M-S_pic","img":["01.webp","02.webp","03.webp","04.webp","05.webp"]}}
 seo:
   title: ap4050de-m-s | AP4050DE-M-S接入点 | AP4000系列 | 室内接入点 | 无线局域网 | 企业网络
   description: 'AP4050DE-M-S是华为面向SMB发布的支持802.11ac wave 2标准的无线接入点产品，支持2×2MIMO和2条空间流，具有完善的业务支持能力，高可靠性，高安全性，网络部署简单，自动上线和配置，实时管理和维护等特点，满足网络部署要求。内置智能天线，同时支持11n和11ac协议，可使无线网络带宽突破千兆，极大地增强用户对无线网络的使用体验，适合部署在中小型企业，机场车站、体育场馆、咖啡厅、休闲中心等商业环境。'
@@ -30,7 +30,3 @@ seo:
       value: all
 template: product
 ---
-
-# Nulla suscipit
-
-Aliquam quis laoreet lectus. Proin non mattis nulla, quis posuere mi. Mauris venenatis, magna at pellentesque commodo, lectus risus vehicula elit, nec dignissim nisl sapien id leo. Nulla non pretium metus, vitae finibus lectus. Aliquam in posuere risus. Curabitur ultrices ornare magna porttitor commodo. Curabitur eu tempor orci, sed pretium quam. Vestibulum condimentum, arcu nec pulvinar fringilla, lorem odio varius arcu, in porta tellus eros sed neque. Suspendisse efficitur eget erat sit amet efficitur. Proin maximus nibh eu sapien consequat, non porttitor risus consequat. Donec maximus odio sed nibh convallis luctus.

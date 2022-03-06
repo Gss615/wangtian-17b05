@@ -14,7 +14,7 @@ other2:
   features: [{"title":"卓越性能","dec":["","高性能的读写访问，单节点带宽高达3.84 GB/s，整系统可达TB/s级",""]},{"title":"弹性空间","dec":["","3节点到288节点的Scale-out平滑扩展，消除多个命名空间带来的数据孤岛",""]},{"title":"简单易用","dec":["","统一命名空间，统一管理系统内所有软硬件资源，最小化系统管理维护复杂度",""]}]
 other3: https://e.huawei.com/cn/material/datacenter/storage/5279e853865841e88caf4ab2e97d70db
 other4:
-  images: {"other":{"org":"other","img":["OceanStor 9000 V5.png"]}}
+  images: {"other":{"org":"other","img":["OceanStor 9000 V5.webp"]}}
 seo:
   title: 9000 | OceanStor 9000 V5横向扩展文件存储 | null | null | 海量存储 | 数据存储
   description: '华为OceanStor 9000 V5横向扩展文件存储采用全对称分布式架构，以其业界领先的卓越性能、大规模横向扩展能力和超大单一文件系统为用户提供非结构化数据共享资源存储，是面向海量非结构化数据存储应用的横向扩展文件存储系统。
@@ -36,7 +36,3 @@ seo:
       value: all
 template: product
 ---
-
-# Nulla suscipit
-
-Aliquam quis laoreet lectus. Proin non mattis nulla, quis posuere mi. Mauris venenatis, magna at pellentesque commodo, lectus risus vehicula elit, nec dignissim nisl sapien id leo. Nulla non pretium metus, vitae finibus lectus. Aliquam in posuere risus. Curabitur ultrices ornare magna porttitor commodo. Curabitur eu tempor orci, sed pretium quam. Vestibulum condimentum, arcu nec pulvinar fringilla, lorem odio varius arcu, in porta tellus eros sed neque. Suspendisse efficitur eget erat sit amet efficitur. Proin maximus nibh eu sapien consequat, non porttitor risus consequat. Donec maximus odio sed nibh convallis luctus.

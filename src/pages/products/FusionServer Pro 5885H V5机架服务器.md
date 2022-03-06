@@ -12,7 +12,7 @@ other2:
   features: [{"title":"高效稳定，可扩展性强","dec":["","4U空间可配置4路处理器；支持48条DDR4内存；支持最大25*2.5\"本地硬盘配置；支持15个PCIe扩展槽位；支持2*GE+2*10GE的板载网络，满足98%应用场景的网络需求。",""]},{"title":"智慧节能，优化能效","dec":["","智能功耗管理技术，采用部件休眠、PID节能调速、电源主备供电等多维度节能措施，节省整机功耗高达15%；采用80PLUS®白金高能效电源模块，高达94%的能效转换率，并通过中国节能环保产品认证。",""]},{"title":"智能管理，开放集成","dec":["","全生命周期智能运维，FDM深度故障诊断技术，核心部件故障诊断准确率达93%；板载网卡满足网络高IO业务所需，配置简洁；标准化开放接口及开发指南，易于第三方管理软件无缝集成。",""]}]
 other3: https://e.huawei.com/cn/material/datacenter/server/82d4d43165554139ad1afc7831719d49
 other4:
-  images: {"other":{"org":"other","img":["FusionServer Pro 5885H V5机架服务器.png"]}}
+  images: {"other":{"org":"other","img":["FusionServer Pro 5885H V5机架服务器.webp"]}}
 seo:
   title: 5885h-v5 | FusionServer 5885H V5机架服务器 | FusionServer Pro机架服务器 | FusionServer Pro智能服务器 | 服务器 - 计算 | 数据中心
   description: '华为FusionServer Pro 5885H V5是一款4U4路机架服务器，适用于关键业务的高可靠高性能要求，以及虚拟化、高性能计算(HPC)、数据库等计算密集型业务需求。5885H V5在4U空间里可配置4路处理器、48条DDR4内存及最多25*2.5”的本地存储资源（可配置8个NVMe SSD）。集成DEMT智能功耗管理、FDM智能故障管理等专利技术，可选配华为FusionDirector全生命周期管理软件，能够有效降低运营成本、提升投资回报。'
@@ -30,7 +30,3 @@ seo:
       value: all
 template: product
 ---
-
-# Nulla suscipit
-
-Aliquam quis laoreet lectus. Proin non mattis nulla, quis posuere mi. Mauris venenatis, magna at pellentesque commodo, lectus risus vehicula elit, nec dignissim nisl sapien id leo. Nulla non pretium metus, vitae finibus lectus. Aliquam in posuere risus. Curabitur ultrices ornare magna porttitor commodo. Curabitur eu tempor orci, sed pretium quam. Vestibulum condimentum, arcu nec pulvinar fringilla, lorem odio varius arcu, in porta tellus eros sed neque. Suspendisse efficitur eget erat sit amet efficitur. Proin maximus nibh eu sapien consequat, non porttitor risus consequat. Donec maximus odio sed nibh convallis luctus.

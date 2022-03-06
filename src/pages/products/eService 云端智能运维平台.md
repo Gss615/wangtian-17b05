@@ -12,7 +12,7 @@ other2:
   features: [{"title":"智能","dec":["","• 基于云端大数据分析和AI技术，提前14天识别80%以上硬盘故障风险\n• 汇聚20万+套设备故障模式，为93%的故障问题提供处理建议，减少故障定位时间\n• 智能容量预测，提前12个月预知业务容量需求",""]},{"title":"实时","dec":["","• 7x24主动监控和在线运维，分钟级感知故障，风险与故障自动上报\n• 随时随地移动运维，实时掌握设备状态，提前规避系统风险，及时排除设备故障\n• 系统自动创建问题单，问题处理进度可视可追踪\n",""]},{"title":"安全","dec":["","• 数据采集过程业务数据零接触，操作记录全程可追溯可审计\n• 数据传输双向认证，数据只出不进，传输过程全程加密\n• AES256数据加密，数据服务99.9999%高可用，GDPR遵从\n",""]}]
 other3: null
 other4:
-  images: {"other":{"org":"other","img":["eService 云端智能运维平台.png"]}}
+  images: {"other":{"org":"other","img":["eService 云端智能运维平台.webp"]}}
 seo:
   title: eservice | eService 云端智能运维平台 | null | null | 数据管理 | 数据存储
   description: '华为eService云端智能运维平台，利用大数据分析和AI技术，为华为服务器、存储等数据基础设施提供故障自动上报、容量预测、性能预测、硬盘故障预测、问题处理进展跟踪等服务。'
@@ -30,7 +30,3 @@ seo:
       value: all
 template: product
 ---
-
-# Nulla suscipit
-
-Aliquam quis laoreet lectus. Proin non mattis nulla, quis posuere mi. Mauris venenatis, magna at pellentesque commodo, lectus risus vehicula elit, nec dignissim nisl sapien id leo. Nulla non pretium metus, vitae finibus lectus. Aliquam in posuere risus. Curabitur ultrices ornare magna porttitor commodo. Curabitur eu tempor orci, sed pretium quam. Vestibulum condimentum, arcu nec pulvinar fringilla, lorem odio varius arcu, in porta tellus eros sed neque. Suspendisse efficitur eget erat sit amet efficitur. Proin maximus nibh eu sapien consequat, non porttitor risus consequat. Donec maximus odio sed nibh convallis luctus.

@@ -12,7 +12,7 @@ other2:
   features: [{"title":"千兆接入","dec":["","支持802.11ac wave 2标准，MU-MIMO，2.4GHz和5GHz双射频同时提供业务，整机速率1.267Gbps",""]},{"title":"IoT Wi-Fi融合","dec":["","融合Wi-Fi和IoT网络，TCO降低50%",""]},{"title":"易扩展","dec":["","3个物联网模块插槽,可扩展，蓝牙，RFID, Zigbee等",""]}]
 other3: https://e.huawei.com/cn/material/networking/wlan/4fdd9607b3b54f77996741100134413d
 other4:
-  images: {"ap4050dn-e":{"org":"AP4050DN-E_pic","img":["01.png","02.png","03.png","04.png","05.png","06.png","07.png","08.png"]}}
+  images: {"ap4050dn-e":{"org":"AP4050DN-E_pic","img":["01.webp","02.webp","03.webp","04.webp","05.webp","06.webp","07.webp","08.webp"]}}
 seo:
   title: ap4050dn-e | AP4050DN-E接入点 | AP4000系列 | 室内接入点 | 无线局域网 | 企业网络
   description: 'AP4050DN-E接入点是支持802.11ac wave2标准的物联网型无线接入点，支持2×2MIMO和两条空间流，整机速率1.267Gbps，适合部署在商超、医疗、仓储、制造、物流等场景。'
@@ -30,7 +30,3 @@ seo:
       value: all
 template: product
 ---
-
-# Nulla suscipit
-
-Aliquam quis laoreet lectus. Proin non mattis nulla, quis posuere mi. Mauris venenatis, magna at pellentesque commodo, lectus risus vehicula elit, nec dignissim nisl sapien id leo. Nulla non pretium metus, vitae finibus lectus. Aliquam in posuere risus. Curabitur ultrices ornare magna porttitor commodo. Curabitur eu tempor orci, sed pretium quam. Vestibulum condimentum, arcu nec pulvinar fringilla, lorem odio varius arcu, in porta tellus eros sed neque. Suspendisse efficitur eget erat sit amet efficitur. Proin maximus nibh eu sapien consequat, non porttitor risus consequat. Donec maximus odio sed nibh convallis luctus.

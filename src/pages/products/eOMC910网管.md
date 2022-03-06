@@ -14,7 +14,7 @@ other2:
   features: []
 other3: null
 other4:
-  images: {"other":{"org":"other","img":["eOMC910网管.png"]}}
+  images: {"other":{"org":"other","img":["eOMC910网管.webp"]}}
 seo:
   title: eomc910 | eOMC910网管 | 网管 | 网络设备（3GPP） | eLTE宽带集群解决方案 | 企业无线
   description: 'eOMC910是eLTE宽带集群系统中的综合网元管理平台，可管理eLTE系统中的基站和核心网在内的所有网元、海量终端设备和调度系统，同时具备独立的告警管理和运营管理功能。
@@ -36,7 +36,4 @@ seo:
       value: all
 template: product
 ---
-
-# Nulla suscipit
-
-Aliquam quis laoreet lectus. Proin non mattis nulla, quis posuere mi. Mauris venenatis, magna at pellentesque commodo, lectus risus vehicula elit, nec dignissim nisl sapien id leo. Nulla non pretium metus, vitae finibus lectus. Aliquam in posuere risus. Curabitur ultrices ornare magna porttitor commodo. Curabitur eu tempor orci, sed pretium quam. Vestibulum condimentum, arcu nec pulvinar fringilla, lorem odio varius arcu, in porta tellus eros sed neque. Suspendisse efficitur eget erat sit amet efficitur. Proin maximus nibh eu sapien consequat, non porttitor risus consequat. Donec maximus odio sed nibh convallis luctus.us.
+--

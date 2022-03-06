@@ -12,7 +12,7 @@ other2:
   features: [{"title":"简单存","dec":["• 一全栈设计，一站式交付\n• 综合接入（办公、IoT、AI及视频等）\n• 宽部署环境要求，可部署于办公室"]},{"title":"统一管","dec":["","• 10类对象统一管理：应用、虚拟机、容器、\n服务器、网络、网关、存储、UPS和传感器\n• 2万站点可视化远程管理",""]},{"title":"智运维","dec":["","• 一键式巡检、健康检查、应用下发及扩容\n• 根因分析与定位",""]}]
 other3: https://e.huawei.com/cn/material/storage/fusioncube/25d05b02b749437eac96e0b8c2d0b952
 other4:
-  images: {"other":{"org":"other","img":["FusionCube 1000（机柜）.png"]}}
+  images: {"other":{"org":"other","img":["FusionCube 1000（机柜）.webp"]}}
 seo:
   title: fusioncube-1000 | FusionCube 1000（机柜） | null | null | 超融合 HCI | 数据存储
   description: '华为FusionCube 1000（机柜）是全栈一体化解决方案，融合了计算、存储、网络、虚拟化、UPS资源等企业数字化的必要资源，可根据客户规划事先完成预连线预配置，整柜交付，客户开箱即可用；并通过FusionCube Center Vision实现远程集中管理，远程运维，降低企业运维成本。华为FusionCube 1000（机柜）是智慧园区、企业分支机构、企业边缘场景的理想数字化基础设施。'
@@ -30,7 +30,3 @@ seo:
       value: all
 template: product
 ---
-
-# Nulla suscipit
-
-Aliquam quis laoreet lectus. Proin non mattis nulla, quis posuere mi. Mauris venenatis, magna at pellentesque commodo, lectus risus vehicula elit, nec dignissim nisl sapien id leo. Nulla non pretium metus, vitae finibus lectus. Aliquam in posuere risus. Curabitur ultrices ornare magna porttitor commodo. Curabitur eu tempor orci, sed pretium quam. Vestibulum condimentum, arcu nec pulvinar fringilla, lorem odio varius arcu, in porta tellus eros sed neque. Suspendisse efficitur eget erat sit amet efficitur. Proin maximus nibh eu sapien consequat, non porttitor risus consequat. Donec maximus odio sed nibh convallis luctus.

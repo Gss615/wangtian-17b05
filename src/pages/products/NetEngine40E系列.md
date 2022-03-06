@@ -14,7 +14,7 @@ other2:
   features: [{"title":"超宽2T单板","dec":["","业界领先的超宽2T单板，未来满足向400G端口、4T单板演进，实现大容量业务承载，满足未来带宽增长需求",""]},{"title":"领先的SDN商用能力","dec":["","基于创新的SDN架构，业界领先的MPLS网络和裸IP网络调优技术，解决网络流量负载不均、带宽利用率低，以及故障时网络拓扑重复计算，影响网络收敛效率等问题",""]},{"title":"创新的IP硬管道技术","dec":["","IP硬管道技术是华为在IP领域的一大创新，利用MPLS-TE、HQoS等技术，通过硬件资源预留方式，确保硬管道带宽不被抢占，实现类似SDH的刚性管道，为企业提供高品质的IP专线解决方案",""]}]
 other3: 
 other4:
-  images: {"ne40e-x8":{"org":"NE40E-X8_pic","img":["front_left_NE40E-X8.png"]}}
+  images: {"ne40e-x8":{"org":"NE40E-X8_pic","img":["front_left_NE40E-X8.webp"]}}
 seo:
   title: ne40e | NetEngine40E系列 | 业务汇聚路由器 | NE系列路由器 | 路由器 | 企业网络
   description: 'NetEngine 40E高端全业务路由器基于2T硬件平台设计，大容量的2T路由线卡，成熟的广域SDN方案，可编程的NP芯片和VRP软件平台，具备高性能、低功耗、可演进等特性，领先的SRv6技术实现网络的智能连接，可应用于企业广域网核心节点、大型企业接入节点、园区互联与汇聚节点和各种大型IDC网络出口。
@@ -36,7 +36,3 @@ NetEngine40E产品技术领航、性能稳定，多次获得国际金奖，广�
       value: all
 template: product
 ---
-
-# Nulla suscipit
-
-Aliquam quis laoreet lectus. Proin non mattis nulla, quis posuere mi. Mauris venenatis, magna at pellentesque commodo, lectus risus vehicula elit, nec dignissim nisl sapien id leo. Nulla non pretium metus, vitae finibus lectus. Aliquam in posuere risus. Curabitur ultrices ornare magna porttitor commodo. Curabitur eu tempor orci, sed pretium quam. Vestibulum condimentum, arcu nec pulvinar fringilla, lorem odio varius arcu, in porta tellus eros sed neque. Suspendisse efficitur eget erat sit amet efficitur. Proin maximus nibh eu sapien consequat, non porttitor risus consequat. Donec maximus odio sed nibh convallis luctus.

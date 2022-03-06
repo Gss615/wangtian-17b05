@@ -14,7 +14,7 @@ other2:
   features: [{"title":"稳定可靠","dec":["领先的SmartMatrix系统架构，SAN与NAS一体化免网关一体化双活，实现99.9999%高可用，帮助用户实现业务永续。"]},{"title":"卓越性能","dec":["基于自研处理器的新一代硬件平台、深度闪存优化的系统设计，快速响应核心业务需求；极具灵活扩展，最大支持16控，16TB缓存，性能高达数百万IOPS。"]},{"title":"智能云化","dec":["eService实现存储云端7*24主动监控和远程维护，AI实现故障诊断、分析预测与业务评估，并通过混合云方案等助力企业云化转型。"]}]
 other3: null
 other4:
-  images: {"other":{"org":"other","img":["OceanStor 6810 V5.png"]}}
+  images: {"other":{"org":"other","img":["OceanStor 6810 V5.webp"]}}
 seo:
   title: oceanstor-6810-v5 | OceanStor 6810 V5 | null | null | 混合闪存存储 | 数据存储
   description: '华为OceanStor 6810 V5是基于华为自研多核处理器和SmartMatrix系统架构的高端智能混合闪存存储系统，为企业核心业务提供最高水平的数据服务。
@@ -36,7 +36,3 @@ seo:
       value: all
 template: product
 ---
-
-# Nulla suscipit
-
-Aliquam quis laoreet lectus. Proin non mattis nulla, quis posuere mi. Mauris venenatis, magna at pellentesque commodo, lectus risus vehicula elit, nec dignissim nisl sapien id leo. Nulla non pretium metus, vitae finibus lectus. Aliquam in posuere risus. Curabitur ultrices ornare magna porttitor commodo. Curabitur eu tempor orci, sed pretium quam. Vestibulum condimentum, arcu nec pulvinar fringilla, lorem odio varius arcu, in porta tellus eros sed neque. Suspendisse efficitur eget erat sit amet efficitur. Proin maximus nibh eu sapien consequat, non porttitor risus consequat. Donec maximus odio sed nibh convallis luctus.

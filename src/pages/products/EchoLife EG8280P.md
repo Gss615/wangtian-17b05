@@ -12,7 +12,7 @@ other2:
   features: [{"title":"多业务接入","dec":["","支持桌面云，PC，IP话机，传统POTS话机，IPTV等多业务接入",""]},{"title":"即插即用，业务自动发放","dec":["","配合eSight网管，支持即插即用和业务自动发放特性",""]},{"title":"SIP/H.248自适应","dec":["","支持完备的语音VoIP特性，支持SIP/H.248自适应（EG8280P）",""]}]
 other3: null
 other4:
-  images: {"other":{"org":"other","img":["EchoLife EG8280P.png"]}}
+  images: {"other":{"org":"other","img":["EchoLife EG8280P.webp"]}}
 seo:
   title: echolife-eg8280p | EchoLife EG8280P | null | ONU | 光终端 | 企业光网络
   description: 'Echolife EG8280P支持GPON/XG-PON/XGS-PON上行，适用于光纤到房间多业务接入场景，用户侧提供8个GE以太接口、2个POTS语音接口，支持单端口POE供电功率30W，整机支持120W功率输出。'
@@ -30,7 +30,3 @@ seo:
       value: all
 template: product
 ---
-
-# Nulla suscipit
-
-Aliquam quis laoreet lectus. Proin non mattis nulla, quis posuere mi. Mauris venenatis, magna at pellentesque commodo, lectus risus vehicula elit, nec dignissim nisl sapien id leo. Nulla non pretium metus, vitae finibus lectus. Aliquam in posuere risus. Curabitur ultrices ornare magna porttitor commodo. Curabitur eu tempor orci, sed pretium quam. Vestibulum condimentum, arcu nec pulvinar fringilla, lorem odio varius arcu, in porta tellus eros sed neque. Suspendisse efficitur eget erat sit amet efficitur. Proin maximus nibh eu sapien consequat, non porttitor risus consequat. Donec maximus odio sed nibh convallis luctus.

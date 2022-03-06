@@ -12,7 +12,7 @@ other2:
   features: [{"title":"自动业务发放","dec":["免认证\nXML/OMCI/TR069"]},{"title":"智能运维","dec":["XML/Web UI\n流氓ONT检测和自律\n环网检测/PPPoE仿真/DHCP仿真"]},{"title":"防雷","dec":["GE：共模4kV，差模0.5Kv；\nAC电源：共模6kV，差模6kV"]}]
 other3: null
 other4:
-  images: {"other":{"org":"other","img":["华为OptiXstar P612E.png"]}}
+  images: {"other":{"org":"other","img":["华为OptiXstar P612E.webp"]}}
 seo:
   title: optixstar-p612e | 华为OptiXstar P612E  | null | ONU | 光终端 | 企业光网络
   description: '华为OptiXstar P612E 产品是面向企业园区用户设计的ONU设备，可以提供4个带PoE/PoE+功能的GE接口，为用户提供高速宽带、企业专线，视频监控等多种业务。'
@@ -30,7 +30,3 @@ seo:
       value: all
 template: product
 ---
-
-# Nulla suscipit
-
-Aliquam quis laoreet lectus. Proin non mattis nulla, quis posuere mi. Mauris venenatis, magna at pellentesque commodo, lectus risus vehicula elit, nec dignissim nisl sapien id leo. Nulla non pretium metus, vitae finibus lectus. Aliquam in posuere risus. Curabitur ultrices ornare magna porttitor commodo. Curabitur eu tempor orci, sed pretium quam. Vestibulum condimentum, arcu nec pulvinar fringilla, lorem odio varius arcu, in porta tellus eros sed neque. Suspendisse efficitur eget erat sit amet efficitur. Proin maximus nibh eu sapien consequat, non porttitor risus consequat. Donec maximus odio sed nibh convallis luctus.

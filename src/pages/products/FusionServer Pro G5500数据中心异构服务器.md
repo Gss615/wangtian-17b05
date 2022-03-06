@@ -12,7 +12,7 @@ other2:
   features: [{"title":"卓越的异构计算能力","dec":["","4U机箱支持最多8块全高全长、双槽位、功耗最高350W或 32块半高半长、单槽位、功耗最高75W的异构加速卡\n支持GPUDirect RDMA和Peer-to-Peer。",""]},{"title":"灵活的异构拓扑配置","dec":["","支持1个全宽或2个半宽异构计算节点；支持一键切换拓扑，支持CPU/GPU配置比为1:2、1:4、1:8的多种拓扑。",""]},{"title":"全模块化设计","dec":["","采用解耦的CPU模块和异构模块设计，支持CPU和异构部件的长期演进；电源、硬盘、风扇模块化，支持热插拔和冗余备份。",""]}]
 other3: https://e.huawei.com/cn/material/datacenter/server/9fa928714de8405099ebd7f9779be1fd
 other4:
-  images: {"other":{"org":"other","img":["FusionServer Pro G5500数据中心异构服务器.png"]}}
+  images: {"other":{"org":"other","img":["FusionServer Pro G5500数据中心异构服务器.webp"]}}
 seo:
   title: g5500 | FusionServer Pro G5500数据中心异构服务器 | null | 昇腾计算 | 服务器 - 计算 | 数据中心
   description: '华为FusionServer Pro G5500是面向数据中心部署的异构服务器，具有高密的异构计算能力，支持GPUDirect RDMA和P2P；支持一键切换异构拓扑，为多样化应用负载提供最优的异构拓扑配置；基于全模块化设计，支持CPU和异构部件的长期演进。FusionServer Pro G5500是适配AI、HPC、智能云、视频分析和数据库加速等应用场景的最佳异构计算平台。'
@@ -30,7 +30,6 @@ seo:
       value: all
 template: product
 ---
-
-# Nulla suscipit
-
-Aliquam quis laoreet lectus. Proin non mattis nulla, quis posuere mi. Mauris venenatis, magna at pellentesque commodo, lectus risus vehicula elit, nec dignissim nisl sapien id leo. Nulla non pretium metus, vitae finibus lectus. Aliquam in posuere risus. Curabitur ultrices ornare magna porttitor commodo. Curabitur eu tempor orci, sed pretium quam. Vestibulum condimentum, arcu nec pulvinar fringilla, lorem odio varius arcu, in porta tellus eros sed neque. Suspendisse efficitur eget erat sit amet efficitur. Proin maximus nibh eu sapien consequat, non porttitor risus consequat. Donec maximus odio sed nibh convallis luctus.dio sed nibh convallis luctus.
+ue: all
+template: product
+---

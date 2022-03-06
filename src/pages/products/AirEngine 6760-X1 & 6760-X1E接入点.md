@@ -18,7 +18,7 @@ other2:
   features: [{"title":"智能应用加速","dec":["基于独家SmartRadio应用加速技术，智能感知VR/AR/游戏等时延敏感类应用，确保多用户并发场景下，业务时延低至10ms，长时间体验无眩晕、无卡顿。"]},{"title":"智能天线","dec":["内置独家双频共口面智能天线，自动抑制干扰，覆盖半径提升20%，同位置信号强度提升100%，给用户带来稳定无死角的覆盖"]},{"title":"物联网扩展","dec":["默认支持蓝牙5.0，此外通过内置双IoT插槽设计以及USB接口，可在一台AP上灵活支持多种物联网协议，如：RFID，ZigBee等，满足各类物联网终端的接入需求"]}]
 other3: https://e.huawei.com/cn/material/networking/campus-network/wlan/30b80550222c44e8a311b67a0e870b9c
 other4:
-  images: {"airengine6760-51ei":{"org":"AirEngine6760-51EI_pic","img":["front_left.png","front_right.png","front_top.png","left.png","rear_left.png","rear_right.png","rear_top.png","right.png","top.png"]}}
+  images: {"airengine6760-51ei":{"org":"AirEngine6760-51EI_pic","img":["front_left.webp","front_right.webp","front_top.webp","left.webp","rear_left.webp","rear_right.webp","rear_top.webp","right.webp","top.webp"]}}
 seo:
   title: airengine-6760-x1-6760-x1e | AirEngine 6760-X1 & 6760-X1E接入点 | AirEngine 6700 系列 | 室内接入点 | 无线局域网 | 企业网络
   description: 'AirEngine 6760-X1 & AirEngine 6760-X1E是华为发布的支持Wi-Fi 6（802.11ax）标准的室内AP。适用于中大型企业办公、教育、制造等场景。
@@ -48,7 +48,3 @@ AirEngine 6760-X1E可搭配多种外置天线，满足狭长走廊、楼层较�
       value: all
 template: product
 ---
-
-# Nulla suscipit
-
-Aliquam quis laoreet lectus. Proin non mattis nulla, quis posuere mi. Mauris venenatis, magna at pellentesque commodo, lectus risus vehicula elit, nec dignissim nisl sapien id leo. Nulla non pretium metus, vitae finibus lectus. Aliquam in posuere risus. Curabitur ultrices ornare magna porttitor commodo. Curabitur eu tempor orci, sed pretium quam. Vestibulum condimentum, arcu nec pulvinar fringilla, lorem odio varius arcu, in porta tellus eros sed neque. Suspendisse efficitur eget erat sit amet efficitur. Proin maximus nibh eu sapien consequat, non porttitor risus consequat. Donec maximus odio sed nibh convallis luctus.

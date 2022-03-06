@@ -14,7 +14,7 @@ other2:
   features: []
 other3: null
 other4:
-  images: {"other":{"org":"other","img":["eA280 CPE.png"]}}
+  images: {"other":{"org":"other","img":["eA280 CPE.webp"]}}
 seo:
   title: ea280-lte-cpe | eA280 CPE | null | 终端 | eLTE综合接入解决方案 | 企业无线
   description: '华为eA280 LTE CPE（Long Term Evolution）室内无线网关CPE（Customer Premises Equipment）承担LTE无线广域网数据、本地有线无线局域网数据之间的转换任务，具备回传功能，可独立使用。
@@ -36,7 +36,3 @@ eA280支持LTE R11/12标准。支持有线和无线网络接入。'
       value: all
 template: product
 ---
-
-# Nulla suscipit
-
-Aliquam quis laoreet lectus. Proin non mattis nulla, quis posuere mi. Mauris venenatis, magna at pellentesque commodo, lectus risus vehicula elit, nec dignissim nisl sapien id leo. Nulla non pretium metus, vitae finibus lectus. Aliquam in posuere risus. Curabitur ultrices ornare magna porttitor commodo. Curabitur eu tempor orci, sed pretium quam. Vestibulum condimentum, arcu nec pulvinar fringilla, lorem odio varius arcu, in porta tellus eros sed neque. Suspendisse efficitur eget erat sit amet efficitur. Proin maximus nibh eu sapien consequat, non porttitor risus consequat. Donec maximus odio sed nibh convallis luctus.

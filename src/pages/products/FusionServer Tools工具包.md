@@ -12,7 +12,7 @@ other2:
   features: []
 other3: null
 other4:
-  images: {"other":{"org":"other","img":["FusionServer Tools工具包.png"]}}
+  images: {"other":{"org":"other","img":["FusionServer Tools工具包.webp"]}}
 seo:
   title: tools | FusionServer Tools工具包 | null | 智能管理软件 | 服务器 - 计算 | 数据中心
   description: 'FusionServer Tools工具包提供了带内带外服务器快捷运维的小工具，能够帮助客户在单机场景或者没有上层管理软件的场景，也能够快速便携的对服务器进行配置，故障诊断、例行巡检、系统部署。'
@@ -30,7 +30,3 @@ seo:
       value: all
 template: product
 ---
-
-# Nulla suscipit
-
-Aliquam quis laoreet lectus. Proin non mattis nulla, quis posuere mi. Mauris venenatis, magna at pellentesque commodo, lectus risus vehicula elit, nec dignissim nisl sapien id leo. Nulla non pretium metus, vitae finibus lectus. Aliquam in posuere risus. Curabitur ultrices ornare magna porttitor commodo. Curabitur eu tempor orci, sed pretium quam. Vestibulum condimentum, arcu nec pulvinar fringilla, lorem odio varius arcu, in porta tellus eros sed neque. Suspendisse efficitur eget erat sit amet efficitur. Proin maximus nibh eu sapien consequat, non porttitor risus consequat. Donec maximus odio sed nibh convallis luctus.

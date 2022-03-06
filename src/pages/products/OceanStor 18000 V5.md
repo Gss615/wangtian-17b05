@@ -16,7 +16,7 @@ other2:
   features: [{"title":"稳定可靠","dec":["","领先的SmartMatrix系统架构，免网关一体化双活，实现99.9999%高可用，帮助用户实现业务永续。",""]},{"title":"卓越性能","dec":["","深度闪存优化的系统设计，快速响应核心业务需求；极具灵活扩展，最大支持32控，32TB缓存，性能高达600万IOPS。",""]},{"title":"智能云化","dec":["","通过eService实现存储设计、部署、运维全生命周期智能管理，并通过混合云方案等助力企业云化 转型。",""]}]
 other3: https://e.huawei.com/cn/material/datacenter/storage/ab6eee712b424b4f968c7a7870ebaad7
 other4:
-  images: {"other":{"org":"other","img":["OceanStor 18000 V5.png"]}}
+  images: {"other":{"org":"other","img":["OceanStor 18000 V5.webp"]}}
 seo:
   title: 18500-18800-v5 | OceanStor 18500/18800 V5高端混合闪存存储系统 | null | null | 混合闪存存储 | 数据存储
   description: '华为OceanStor 18000 V5系列是全新一代高端混合闪存存储系统，为企业关键业务提供最高水平的数据服务。
@@ -42,7 +42,3 @@ seo:
       value: all
 template: product
 ---
-
-# Nulla suscipit
-
-Aliquam quis laoreet lectus. Proin non mattis nulla, quis posuere mi. Mauris venenatis, magna at pellentesque commodo, lectus risus vehicula elit, nec dignissim nisl sapien id leo. Nulla non pretium metus, vitae finibus lectus. Aliquam in posuere risus. Curabitur ultrices ornare magna porttitor commodo. Curabitur eu tempor orci, sed pretium quam. Vestibulum condimentum, arcu nec pulvinar fringilla, lorem odio varius arcu, in porta tellus eros sed neque. Suspendisse efficitur eget erat sit amet efficitur. Proin maximus nibh eu sapien consequat, non porttitor risus consequat. Donec maximus odio sed nibh convallis luctus.

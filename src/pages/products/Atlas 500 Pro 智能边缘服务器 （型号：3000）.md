@@ -12,7 +12,7 @@ other2:
   features: [{"title":"超强算力","dec":["• 最大支持4张Atlas 300I 推理卡，满足多场景推理需求；整机可提供320路高清视频实时分析（1080P 25 FPS）\n• 搭载64核架构、具有超强算力的鲲鹏920处理器，高效加速应用"]},{"title":"超高能效","dec":["• 发挥鲲鹏架构多核、低功耗优势，为推理场景构建高效能、低功耗的AI计算平台\n• Atlas 300I 单卡功耗仅67W，为AI服务器算力加速同时提供更优的能效比"]}]
 other3: null
 other4:
-  images: {"other":{"org":"other","img":["Atlas 500 Pro 智能边缘服务器 （型号：3000）.png"]}}
+  images: {"other":{"org":"other","img":["Atlas 500 Pro 智能边缘服务器 （型号：3000）.webp"]}}
 seo:
   title: atlas-500-pro-3000 | Atlas 500 Pro 智能边缘服务器 （型号：3000） | null | 昇腾计算 | 服务器 - 计算 | 数据中心
   description: 'Atlas 500 Pro 智能边缘服务器（型号：3000）是面向边缘应用的产品，具有超强计算性能、高环境适应性、易于部署维护和支持云边协同等特点。可以在边缘场景中广泛部署，满足在交通、社区、园区、商场、超市等复杂环境区域的应用需求。'
@@ -30,7 +30,3 @@ seo:
       value: all
 template: product
 ---
-
-# Nulla suscipit
-
-Aliquam quis laoreet lectus. Proin non mattis nulla, quis posuere mi. Mauris venenatis, magna at pellentesque commodo, lectus risus vehicula elit, nec dignissim nisl sapien id leo. Nulla non pretium metus, vitae finibus lectus. Aliquam in posuere risus. Curabitur ultrices ornare magna porttitor commodo. Curabitur eu tempor orci, sed pretium quam. Vestibulum condimentum, arcu nec pulvinar fringilla, lorem odio varius arcu, in porta tellus eros sed neque. Suspendisse efficitur eget erat sit amet efficitur. Proin maximus nibh eu sapien consequat, non porttitor risus consequat. Donec maximus odio sed nibh convallis luctus.

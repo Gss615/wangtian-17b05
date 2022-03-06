@@ -12,7 +12,7 @@ other2:
   features: [{"title":"PON特性","dec":["","Class B+ 接收灵敏度：-27dBm 过载光功率 GPON: -8dBm/EPON: -3dBm 波长：上行1310nm，下行1490nm 支持G.984.5协议的波长阻断滤波器 （WBF） 认证方式： SN/Password/LOID(GPON) 双向FEC( Forward Error orrection) 支持SR、NSR的DBA",""]},{"title":"以太接入能力","dec":["","基于以太口的VLAN Tag/Tag剥离 1:1 VLAN/N:1 VLAN/VLAN透传 Q in Q VLAN MAC地址限制 MAC地址学习 千兆口支持10Mbit/s、100Mbit/s、 1000Mbit/s自适应 百兆口支持10Mbit/s、100Mbit/s 自适应",""]},{"title":"Wi-Fi接入能力","dec":["","IEEE 802.11 b/g/n 2×2 MIMO 天线增益：2dBi WMM(Wi-Fi Multi Media) 多SSID WPS 空口速率：300 Mbit/s",""]}]
 other3: null
 other4:
-  images: {"other":{"org":"other","img":["EchoLife HG8546M5.png"]}}
+  images: {"other":{"org":"other","img":["EchoLife HG8546M5.webp"]}}
 seo:
   title: echolife-hg8546m5 | EchoLife HG8546M5 | null | ONT | 光终端 | 企业光网络
   description: 'EchoLife HG8546M5是华为FTTH解决方案的路由型ONT，通过GPON技术实现用户的超宽带接入。提供1个POTS，1个千兆以太网接口，1个iTV,1个USB2.0和2.4G Wi-Fi接口，通过高性能的转发能力有效保障数据和高清视频的业务体验，为FTTH部署提供理想的终端解决方案和面向未来的业务支撑能力。'
@@ -30,7 +30,3 @@ seo:
       value: all
 template: product
 ---
-
-# Nulla suscipit
-
-Aliquam quis laoreet lectus. Proin non mattis nulla, quis posuere mi. Mauris venenatis, magna at pellentesque commodo, lectus risus vehicula elit, nec dignissim nisl sapien id leo. Nulla non pretium metus, vitae finibus lectus. Aliquam in posuere risus. Curabitur ultrices ornare magna porttitor commodo. Curabitur eu tempor orci, sed pretium quam. Vestibulum condimentum, arcu nec pulvinar fringilla, lorem odio varius arcu, in porta tellus eros sed neque. Suspendisse efficitur eget erat sit amet efficitur. Proin maximus nibh eu sapien consequat, non porttitor risus consequat. Donec maximus odio sed nibh convallis luctus.

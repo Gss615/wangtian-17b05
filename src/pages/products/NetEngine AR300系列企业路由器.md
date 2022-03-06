@@ -12,7 +12,7 @@ other2:
   features: [{"title":"双核处理器，性能领先","dec":["","全系列采用双核处理器，提供双倍应用和双倍性能",""]},{"title":"多业务合一，网络融合","dec":["","融合路由、交换、安全、无线的一体化企业网关，最大程度保护企业投资",""]},{"title":"VRP操作系统，成熟稳定","dec":["","采用华为领先的VRP操作系统，模块化和无风扇设计，成熟稳定",""]}]
 other3: null
 other4:
-  images: {"ar301":{"org":"AR301_pic","img":["front_left.png","front_right.png","front_top.png","rear.png"]}}
+  images: {"ar301":{"org":"AR301_pic","img":["front_left.webp","front_right.webp","front_top.webp","rear.webp"]}}
 seo:
   title: ar300 | NetEngine AR300系列企业路由器 | AR 商业系列企业路由器 (中国区） | AR系列接入路由器 | 路由器 | 企业网络
   description: 'NetEngine AR300系列企业路由器是华为面向SMB和微型企业推出的新一代盒式系列产品，集路由、交换、安全等丰富业务特性于一体，满足企业客户的业务多元化和高性能需求。'
@@ -30,7 +30,3 @@ seo:
       value: all
 template: product
 ---
-
-# Nulla suscipit
-
-Aliquam quis laoreet lectus. Proin non mattis nulla, quis posuere mi. Mauris venenatis, magna at pellentesque commodo, lectus risus vehicula elit, nec dignissim nisl sapien id leo. Nulla non pretium metus, vitae finibus lectus. Aliquam in posuere risus. Curabitur ultrices ornare magna porttitor commodo. Curabitur eu tempor orci, sed pretium quam. Vestibulum condimentum, arcu nec pulvinar fringilla, lorem odio varius arcu, in porta tellus eros sed neque. Suspendisse efficitur eget erat sit amet efficitur. Proin maximus nibh eu sapien consequat, non porttitor risus consequat. Donec maximus odio sed nibh convallis luctus.

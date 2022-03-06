@@ -12,7 +12,7 @@ other2:
   features: [{"title":"灵动的智能天线","dec":["对终端进行精准覆盖，降低干扰，提升信号质量，信号随用户而动"]},{"title":"丰富的接口","dec":["提供1x2.5GE电口+1x10G SFP+，4xGE下行接口，2xRJ45直通口（兼容RJ11）； 提供1xUSB接口，可用于对外供电，也可用于扩展物联网"]},{"title":"云管理","dec":["可通过华为云管理平台对AP设备及业务进行管理和运维，节省网络运维成本；"]}]
 other3: https://e.huawei.com/cn/material/networking/campus-network/wlan/4e7718ab32bd4d5e9c16cddb40aa3f41
 other4:
-  images: {"airengine5760-22w":{"org":"AirEngine5760-22W_pic","img":["bottom.png","front.png","front_left.png","front_right.png","rear_bottom.png","rear_top.png","top.png"]}}
+  images: {"airengine5760-22w":{"org":"AirEngine5760-22W_pic","img":["bottom.webp","front.webp","front_left.webp","front_right.webp","rear_bottom.webp","rear_top.webp","top.webp"]}}
 seo:
   title: airengine-5760-22w | AirEngine 5760-22W接入点 | AirEngine 5700系列 | 室内接入点 | 无线局域网 | 企业网络
   description: 'AirEngine 5760-22W是华为发布的支持Wi-Fi 6（802.11ax）标准的Wi-Fi 6面板AP。支持2.4GHz（2×2）和5GHz （4×4）双频同时提供业务，整机速率可达5.37Gbps。内置智能天线，信号随用户而动，极大地增强用户对无线网络的使用体验，适用于酒店客房、学生宿舍、医院病房、小型办公室等房间面积较小，户型较密集场景。'
@@ -30,7 +30,3 @@ seo:
       value: all
 template: product
 ---
-
-# Nulla suscipit
-
-Aliquam quis laoreet lectus. Proin non mattis nulla, quis posuere mi. Mauris venenatis, magna at pellentesque commodo, lectus risus vehicula elit, nec dignissim nisl sapien id leo. Nulla non pretium metus, vitae finibus lectus. Aliquam in posuere risus. Curabitur ultrices ornare magna porttitor commodo. Curabitur eu tempor orci, sed pretium quam. Vestibulum condimentum, arcu nec pulvinar fringilla, lorem odio varius arcu, in porta tellus eros sed neque. Suspendisse efficitur eget erat sit amet efficitur. Proin maximus nibh eu sapien consequat, non porttitor risus consequat. Donec maximus odio sed nibh convallis luctus.

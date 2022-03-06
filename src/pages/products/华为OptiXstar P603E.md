@@ -12,7 +12,7 @@ other2:
   features: [{"title":"多业务综合接入","dec":["为用户提供 GE 到桌面，语音 、传真，视频监控等多种业务接入"]},{"title":"全场景适配","dec":["支持室内、室外部署，设备即插即用，匹配全场景综合业务应用"]},{"title":"高可靠性","dec":["支持Type B双归属业务保护，光纤中断后50ms内完成倒换，业务“0”中断"]}]
 other3: null
 other4:
-  images: {"other":{"org":"other","img":["华为OptiXstar P603E.png"]}}
+  images: {"other":{"org":"other","img":["华为OptiXstar P603E.webp"]}}
 seo:
   title: optixstar-p603e | 华为OptiXstar P603E | null | ONU | 光终端 | 企业光网络
   description: '华为OptiXstar P603E产品是面向企业园区、视频回传等场景设计的ONU设备，可以提供8个GE业务接口，为用户带来高 质量的语音、数据和高清视频等业务体验。'
@@ -30,7 +30,3 @@ seo:
       value: all
 template: product
 ---
-
-# Nulla suscipit
-
-Aliquam quis laoreet lectus. Proin non mattis nulla, quis posuere mi. Mauris venenatis, magna at pellentesque commodo, lectus risus vehicula elit, nec dignissim nisl sapien id leo. Nulla non pretium metus, vitae finibus lectus. Aliquam in posuere risus. Curabitur ultrices ornare magna porttitor commodo. Curabitur eu tempor orci, sed pretium quam. Vestibulum condimentum, arcu nec pulvinar fringilla, lorem odio varius arcu, in porta tellus eros sed neque. Suspendisse efficitur eget erat sit amet efficitur. Proin maximus nibh eu sapien consequat, non porttitor risus consequat. Donec maximus odio sed nibh convallis luctus.

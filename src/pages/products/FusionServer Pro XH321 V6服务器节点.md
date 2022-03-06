@@ -12,7 +12,7 @@ other2:
   features: [{"title":"卓越计算性能","dec":["• 支持最多2个第三代英特尔® 至强® 可扩展处理器，处理器TDP最高可达 270W\n• 支持8内存通道，内存带宽提升45%\n• 支持全NVMe SSD加速和2+4均衡设计，消除IO瓶颈"]},{"title":"适配灵活部署","dec":["• 支持InfiniBand HDR 200高速网络互联\n• 支持热拔插2*M.2 SSD提供高速可靠OS启动盘"]}]
 other3: null
 other4:
-  images: {"other":{"org":"other","img":["FusionServer Pro XH321 V6服务器节点.png"]}}
+  images: {"other":{"org":"other","img":["FusionServer Pro XH321 V6服务器节点.webp"]}}
 seo:
   title: xh321-v6 | FusionServer Pro XH321 V6服务器节点 | FusionServer Pro高密服务器 | FusionServer Pro智能服务器 | 服务器 - 计算 | 数据中心
   description: 'FusionServer Pro XH321 V6是华为新一代1U半宽双路服务器节点，为突破能源限制、提升系统存储密度进行创新设计，具有强大的计算能力、超高的存储密度、易管理易维护等特点。'
@@ -30,7 +30,3 @@ seo:
       value: all
 template: product
 ---
-
-# Nulla suscipit
-
-Aliquam quis laoreet lectus. Proin non mattis nulla, quis posuere mi. Mauris venenatis, magna at pellentesque commodo, lectus risus vehicula elit, nec dignissim nisl sapien id leo. Nulla non pretium metus, vitae finibus lectus. Aliquam in posuere risus. Curabitur ultrices ornare magna porttitor commodo. Curabitur eu tempor orci, sed pretium quam. Vestibulum condimentum, arcu nec pulvinar fringilla, lorem odio varius arcu, in porta tellus eros sed neque. Suspendisse efficitur eget erat sit amet efficitur. Proin maximus nibh eu sapien consequat, non porttitor risus consequat. Donec maximus odio sed nibh convallis luctus.

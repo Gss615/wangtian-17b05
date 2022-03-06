@@ -12,7 +12,7 @@ other2:
   features: [{"title":"卓越性能","dec":["","防火墙防御能力100%发挥，未知威胁检测性能提升5倍",""]},{"title":"极简运维","dec":["","基于业务部署与变更策略，安全运维OPEX降低80%以上",""]},{"title":"智能防御","dec":["","网络边缘威胁实时处置，未知威胁检测准确率高达99%以上",""]}]
 other3: https://e.huawei.com/cn/material/networking/networksecurity/9f290f63712a4a88aa9d9ebe64ee6df0
 other4:
-  images: {"usg6712e":{"org":"USG6712E_pic","img":["front.png","front_left.png","front_right.png","front_top.png","rear.png","rear_top.png"]}}
+  images: {"usg6712e":{"org":"USG6712E_pic","img":["front.webp","front_left.webp","front_right.webp","front_top.webp","rear.webp","rear_top.webp"]}}
 seo:
   title: usg6700e | USG6700E系列AI防火墙(盒式) | null | 防火墙及应用安全网关 | 网络安全 | 企业网络
   description: '华为USG6700E系列是面向下一代数据中心和和大型企业园区网推出的万兆AI防火墙。在提供NGFW能力的基础上，联动其他安全设备，主动防御网络威胁，增强边界检测能力，有效防御高级威胁，同时解决性能下降问题。NP引擎提供快速转发能力，防火墙性能显著提升。'
@@ -30,7 +30,3 @@ seo:
       value: all
 template: product
 ---
-
-# Nulla suscipit
-
-Aliquam quis laoreet lectus. Proin non mattis nulla, quis posuere mi. Mauris venenatis, magna at pellentesque commodo, lectus risus vehicula elit, nec dignissim nisl sapien id leo. Nulla non pretium metus, vitae finibus lectus. Aliquam in posuere risus. Curabitur ultrices ornare magna porttitor commodo. Curabitur eu tempor orci, sed pretium quam. Vestibulum condimentum, arcu nec pulvinar fringilla, lorem odio varius arcu, in porta tellus eros sed neque. Suspendisse efficitur eget erat sit amet efficitur. Proin maximus nibh eu sapien consequat, non porttitor risus consequat. Donec maximus odio sed nibh convallis luctus.

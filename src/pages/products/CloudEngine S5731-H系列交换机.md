@@ -14,7 +14,7 @@ other2:
   features: [{"title":"超大端口缓存，业务无阻塞转发","dec":["业界6倍规格的端口缓存，千兆带宽转发无阻塞，满足Wi-Fi 6时代语音、视频、VR等低时延业务对网络的需求"]},{"title":"智能运维，故障分钟级定位","dec":["支持Telemetry技术，实时采集设备数据，配合园区网络分析器及时发现影响用户体验的网络问题，精准保障用户体验"]},{"title":"独家诱捕技术，提前锁定威胁","dec":["通过内置的安全探针识别潜在的威胁流量，配合HiSec Insight系统进行安全威胁事件检测，实现全网安全协防"]}]
 other3: https://e.huawei.com/cn/material/networking/15845ecaf066435e824b597ee4857167
 other4:
-  images: {"s5720-36c-ei-ac":{"org":"S5720-36C-EI-AC_pic","img":["01.png","02.png","03.png","04.png","07.png","08.png"]}}
+  images: {"s5720-36c-ei-ac":{"org":"S5720-36C-EI-AC_pic","img":["01.webp","02.webp","03.webp","04.webp","07.webp","08.webp"]}}
 seo:
   title: s5731-h | CloudEngine S5731-H系列交换机 | 接入交换机 | 园区交换机 | 交换机 | 企业网络
   description: 'CloudEngine S5731-H系列交换机是华为公司全新研发的增强型千兆接入交换机，可以提供全千兆电口接入及固定万兆上行端口，并预留1个扩展插卡插槽。
@@ -36,7 +36,3 @@ CloudEngine S5731-H系列交换机具备有线无线深度融合能力，支持�
       value: all
 template: product
 ---
-
-# Nulla suscipit
-
-Aliquam quis laoreet lectus. Proin non mattis nulla, quis posuere mi. Mauris venenatis, magna at pellentesque commodo, lectus risus vehicula elit, nec dignissim nisl sapien id leo. Nulla non pretium metus, vitae finibus lectus. Aliquam in posuere risus. Curabitur ultrices ornare magna porttitor commodo. Curabitur eu tempor orci, sed pretium quam. Vestibulum condimentum, arcu nec pulvinar fringilla, lorem odio varius arcu, in porta tellus eros sed neque. Suspendisse efficitur eget erat sit amet efficitur. Proin maximus nibh eu sapien consequat, non porttitor risus consequat. Donec maximus odio sed nibh convallis luctus.

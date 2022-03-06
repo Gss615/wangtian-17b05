@@ -14,7 +14,7 @@ other2:
   features: [{"title":"广泛的扫描对象","dec":["","覆盖网络设备、安全设备、操作系统、中间件、各类终端、应用程序、Web网站、数据库等",""]},{"title":"领先的漏洞知识库","dec":["","兼容CNNVD等认证的系统漏洞近10万条，Web漏洞库共覆盖OWASP定义的10大类漏洞规则，能够及时更新，确保漏洞识别的全面时效性",""]},{"title":"强有力的扫描效率","dec":["","综合运用预探测、渐进式、多线程等扫描技术，保证快速完成各类扫描任务",""]}]
 other3: null
 other4:
-  images: {"vscan1506":{"org":"VSCAN1506_pic","img":["front.png","front_left.png","front_right.png","front_top.png","rear.png","rear_left.png","rear_right.png","rear_top.png"]}}
+  images: {"vscan1506":{"org":"VSCAN1506_pic","img":["front.webp","front_left.webp","front_right.webp","front_top.webp","rear.webp","rear_left.webp","rear_right.webp","rear_top.webp"]}}
 seo:
   title: vscan1000 | VSCAN1000系列漏洞扫描器 | null | 防火墙及应用安全网关 | 网络安全 | 企业网络
   description: '华为VSCAN1000系列漏洞扫描器主要用于发现和评估网络设备、Web应用、数据库等存在的安全漏洞并提供相应解决建议的产品。
@@ -36,7 +36,3 @@ VSCAN1000支持智能主机服务发现，智能化爬虫和SQL注入状态检�
       value: all
 template: product
 ---
-
-# Nulla suscipit
-
-Aliquam quis laoreet lectus. Proin non mattis nulla, quis posuere mi. Mauris venenatis, magna at pellentesque commodo, lectus risus vehicula elit, nec dignissim nisl sapien id leo. Nulla non pretium metus, vitae finibus lectus. Aliquam in posuere risus. Curabitur ultrices ornare magna porttitor commodo. Curabitur eu tempor orci, sed pretium quam. Vestibulum condimentum, arcu nec pulvinar fringilla, lorem odio varius arcu, in porta tellus eros sed neque. Suspendisse efficitur eget erat sit amet efficitur. Proin maximus nibh eu sapien consequat, non porttitor risus consequat. Donec maximus odio sed nibh convallis luctus.

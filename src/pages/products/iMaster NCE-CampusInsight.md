@@ -12,7 +12,7 @@ other2:
   features: [{"title":"实时体验可视","dec":["",""]},{"title":"分钟级故障定位","dec":["",""]},{"title":"智能网络调优","dec":["",""]}]
 other3: 
 other4:
-  images: {"other":{"org":"other","img":["iMaster NCE-CampusInsight.png"]}}
+  images: {"other":{"org":"other","img":["iMaster NCE-CampusInsight.webp"]}}
 seo:
   title: campusinsight | iMaster NCE-CampusInsight园区网络分析器 | null | 园区自动驾驶网络管理控制系统 | 网络管控&分析软件 | 企业网络
   description: '华为iMaster NCE-CampusInsight园区网络分析器，颠覆传统聚焦资源状态的监控方式，通过Telemetry技术实时采集网络数据，利用大数据分析、机器学习算法学习网络行为并识别故障模式，帮助运维人员主动发现85%的网络问题，打造卓越的网络服务保障体验。'
@@ -30,7 +30,3 @@ seo:
       value: all
 template: product
 ---
-
-# Nulla suscipit
-
-Aliquam quis laoreet lectus. Proin non mattis nulla, quis posuere mi. Mauris venenatis, magna at pellentesque commodo, lectus risus vehicula elit, nec dignissim nisl sapien id leo. Nulla non pretium metus, vitae finibus lectus. Aliquam in posuere risus. Curabitur ultrices ornare magna porttitor commodo. Curabitur eu tempor orci, sed pretium quam. Vestibulum condimentum, arcu nec pulvinar fringilla, lorem odio varius arcu, in porta tellus eros sed neque. Suspendisse efficitur eget erat sit amet efficitur. Proin maximus nibh eu sapien consequat, non porttitor risus consequat. Donec maximus odio sed nibh convallis luctus.

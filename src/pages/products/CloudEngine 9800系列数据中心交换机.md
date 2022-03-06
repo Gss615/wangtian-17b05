@@ -14,7 +14,7 @@ other2:
   features: [{"title":"高密","dec":["4个插槽，每个子卡支持32x100GE，4U高设备最高支持128个100GE QSFP28接口"]},{"title":"无损","dec":["独创iLossless算法，全网流量实时学习训练，实现网络自适应，自优化"]},{"title":"智能","dec":["iMaster NCE-FabricInsight智能运维，gRPC高速数据主动上报 ，全网路径主动探测，实时监测网络健康状态"]}]
 other3: https://e.huawei.com/cn/material/networking/data-center-network/e37e8e2f9151413a8b3ab7b1619bd4b9
 other4:
-  images: {"ce9860-4c-ei":{"org":"CE9860-4C-EI_pic","img":["front.png","front_left.png","front_right.png","front_top.png","rear.png","rear_top.png"]}}
+  images: {"ce9860-4c-ei":{"org":"CE9860-4C-EI_pic","img":["front.webp","front_left.webp","front_right.webp","front_top.webp","rear.webp","rear_top.webp"]}}
 seo:
   title: ce9800 | CloudEngine 9800系列数据中心交换机 | 盒式接入交换机 | 数据中心交换机 | 交换机 | 企业网络
   description: 'CloudEngine 9800系列是华为公司面向数据中心推出的新一代高性能、高密度、低时延以太网灵活插卡交换机，可以与CloudEngine 16800/12800/8800/6800/5800配合构建弹性、虚拟和高品质的云数据中心网络。
@@ -36,7 +36,3 @@ CloudEngine 9860系列采用先进的硬件结构设计，提供高密度的100G
       value: all
 template: product
 ---
-
-# Nulla suscipit
-
-Aliquam quis laoreet lectus. Proin non mattis nulla, quis posuere mi. Mauris venenatis, magna at pellentesque commodo, lectus risus vehicula elit, nec dignissim nisl sapien id leo. Nulla non pretium metus, vitae finibus lectus. Aliquam in posuere risus. Curabitur ultrices ornare magna porttitor commodo. Curabitur eu tempor orci, sed pretium quam. Vestibulum condimentum, arcu nec pulvinar fringilla, lorem odio varius arcu, in porta tellus eros sed neque. Suspendisse efficitur eget erat sit amet efficitur. Proin maximus nibh eu sapien consequat, non porttitor risus consequat. Donec maximus odio sed nibh convallis luctus.

@@ -16,7 +16,7 @@ other2:
   features: [{"title":"高密","dec":["","支持40GE上行接口的GE接入交换机，可以和CloudEngine 16800/CloudEngine 12800配合组建全40GE的高性能数据中心网络",""]},{"title":"可靠","dec":["","支持跨设备链路聚合M-LAG（Multichassis Link Aggregation Group），能够实现多台设备间的链路聚合，实现设备级链路可靠",""]},{"title":"开放","dec":["","开放标准的Netconf接口",""]}]
 other3: https://e.huawei.com/cn/material/networking/data-center-network/aad5ec0cc67a4ee5878361d209eaabf8
 other4:
-  images: {"ce5850-48t4s2q-hi":{"org":"CE5850-48T4S2Q-HI_pic","img":["01.png","02.png","03.png","04.png","07.png","08.png"]}}
+  images: {"ce5850-48t4s2q-hi":{"org":"CE5850-48T4S2Q-HI_pic","img":["01.webp","02.webp","03.webp","04.webp","07.webp","08.webp"]}}
 seo:
   title: ce5800 | CloudEngine 5800系列数据中心交换机 | 盒式接入交换机 | 数据中心交换机 | 交换机 | 企业网络
   description: 'CloudEngine 5800是支持40GE上行接口的千兆接入交换机，最大支持9台堆叠，风道方向可以灵活选择，满足云网络高密千兆接入需求。
@@ -42,7 +42,3 @@ CloudEngine 5800可以与华为新一代核心交换机CloudEngine 16800/CloudEn
       value: all
 template: product
 ---
-
-# Nulla suscipit
-
-Aliquam quis laoreet lectus. Proin non mattis nulla, quis posuere mi. Mauris venenatis, magna at pellentesque commodo, lectus risus vehicula elit, nec dignissim nisl sapien id leo. Nulla non pretium metus, vitae finibus lectus. Aliquam in posuere risus. Curabitur ultrices ornare magna porttitor commodo. Curabitur eu tempor orci, sed pretium quam. Vestibulum condimentum, arcu nec pulvinar fringilla, lorem odio varius arcu, in porta tellus eros sed neque. Suspendisse efficitur eget erat sit amet efficitur. Proin maximus nibh eu sapien consequat, non porttitor risus consequat. Donec maximus odio sed nibh convallis luctus.

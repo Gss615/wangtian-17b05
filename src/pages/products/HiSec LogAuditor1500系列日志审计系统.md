@@ -12,7 +12,7 @@ other2:
   features: [{"title":"全面日志采集","dec":["支持采集200+品牌、3000+型号设备的Syslog、SNMP、SFTP、TCP、HTTP等标准协议日志"]},{"title":"多维度日志解析","dec":["支持200+维度的细粒度日志解析，为各类大数据平台提供标准化数据"]},{"title":"智能关联分析","dec":["预置50+安全分析场景，提供全维度、跨设备、细粒度、开箱即用的关联分析能力"]}]
 other3: null
 other4:
-  images: {"other":{"org":"other","img":["HiSec LogAuditor1500系列日志审计系统.png"]}}
+  images: {"other":{"org":"other","img":["HiSec LogAuditor1500系列日志审计系统.webp"]}}
 seo:
   title: hisec-logauditor1500 | HiSec LogAuditor1500系列日志审计系统 | null | 安全管理 | 网络安全 | 企业网络
   description: '华为HiSec LogAuditor1500系列日志审计系统作为统一的日志采集与审计平台，通过对网络设备、安全设备、主机和应用系统曰志进行全面标准化处理，及时发现各种安全威胁和异常行为事件；基于标准化关联分析引擎，提供全维度、跨设备、细粒度的关联分析，确保事件可追溯；支持资产统一管理和实时监控，全面审计系统安全状况。'
@@ -30,7 +30,3 @@ seo:
       value: all
 template: product
 ---
-
-# Nulla suscipit
-
-Aliquam quis laoreet lectus. Proin non mattis nulla, quis posuere mi. Mauris venenatis, magna at pellentesque commodo, lectus risus vehicula elit, nec dignissim nisl sapien id leo. Nulla non pretium metus, vitae finibus lectus. Aliquam in posuere risus. Curabitur ultrices ornare magna porttitor commodo. Curabitur eu tempor orci, sed pretium quam. Vestibulum condimentum, arcu nec pulvinar fringilla, lorem odio varius arcu, in porta tellus eros sed neque. Suspendisse efficitur eget erat sit amet efficitur. Proin maximus nibh eu sapien consequat, non porttitor risus consequat. Donec maximus odio sed nibh convallis luctus.

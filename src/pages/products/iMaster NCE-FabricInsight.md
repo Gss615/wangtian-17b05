@@ -14,7 +14,7 @@ other2:
   features: [{"title":"全网健康评估","dec":["",""]},{"title":"故障快速定位","dec":["",""]},{"title":"业务全面保障","dec":["",""]}]
 other3: 
 other4:
-  images: {"other":{"org":"other","img":["iMaster NCE-FabricInsight.png"]}}
+  images: {"other":{"org":"other","img":["iMaster NCE-FabricInsight.webp"]}}
 seo:
   title: FabricInsight | iMaster NCE-FabricInsight | null | 数据中心自动驾驶网络管理控制系统 | 网络管控&分析软件 | 企业网络
   description: '华为iMaster NCE-FabricInsight是面向数据中心网络的智能分析平台，基于大数据分析技术，为用户提供无处不在的网络应用分析与可视化呈现，打通应用和网络的边界。
@@ -36,7 +36,3 @@ iMaster NCE-FabricInsight通过Telemetry采集网络全场景数据，实时呈�
       value: all
 template: product
 ---
-
-# Nulla suscipit
-
-Aliquam quis laoreet lectus. Proin non mattis nulla, quis posuere mi. Mauris venenatis, magna at pellentesque commodo, lectus risus vehicula elit, nec dignissim nisl sapien id leo. Nulla non pretium metus, vitae finibus lectus. Aliquam in posuere risus. Curabitur ultrices ornare magna porttitor commodo. Curabitur eu tempor orci, sed pretium quam. Vestibulum condimentum, arcu nec pulvinar fringilla, lorem odio varius arcu, in porta tellus eros sed neque. Suspendisse efficitur eget erat sit amet efficitur. Proin maximus nibh eu sapien consequat, non porttitor risus consequat. Donec maximus odio sed nibh convallis luctus.

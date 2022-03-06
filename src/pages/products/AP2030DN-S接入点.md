@@ -14,7 +14,7 @@ other2:
   features: [{"title":"双频接入","dec":["","2.4GHz和5GHz双频设计，2.4G频段最大速率300Mbps，5G频段最大速率867Mbps，整机速率1.167Gbps",""]},{"title":"安装便捷","dec":["","匹配国标86mm面板设计，滑动面板，便于部署",""]},{"title":"灵活管理","dec":["","完善的用户接入控制能力，可根据用户组策略，基于用户实施访问控制",""]}]
 other3: https://e.huawei.com/cn/material/networking/wlan/169c93f6d32b4d0eaf1c670bde3d0846
 other4:
-  images: {"ap2030dn-s":{"org":"AP2030DN-S_pic","img":["bottom.png","front_left.png","front_right.png","front_top.png","rear_top.png","right.png","stand_left.png","stand_right.png","top.png"]}}
+  images: {"ap2030dn-s":{"org":"AP2030DN-S_pic","img":["bottom.webp","front_left.webp","front_right.webp","front_top.webp","rear_top.webp","right.webp","stand_left.webp","stand_right.webp","top.webp"]}}
 seo:
   title: ap2030dn-s | AP2030DN-S接入点 | AP2000系列 | 室内接入点 | 无线局域网 | 企业网络
   description: '华为AP2030DN-S接入点是中小企业分销级市场推出的经济型面板AP产品，匹配国标86mm面板设计，可简单快速的安装在86盒上，适用于酒店、公寓、办公室等场所。
@@ -36,7 +36,3 @@ AP2030DN-S支持802.11ac标准协议，采用2.4GHz和5GHz双频设计，内置�
       value: all
 template: product
 ---
-
-# Nulla suscipit
-
-Aliquam quis laoreet lectus. Proin non mattis nulla, quis posuere mi. Mauris venenatis, magna at pellentesque commodo, lectus risus vehicula elit, nec dignissim nisl sapien id leo. Nulla non pretium metus, vitae finibus lectus. Aliquam in posuere risus. Curabitur ultrices ornare magna porttitor commodo. Curabitur eu tempor orci, sed pretium quam. Vestibulum condimentum, arcu nec pulvinar fringilla, lorem odio varius arcu, in porta tellus eros sed neque. Suspendisse efficitur eget erat sit amet efficitur. Proin maximus nibh eu sapien consequat, non porttitor risus consequat. Donec maximus odio sed nibh convallis luctus.

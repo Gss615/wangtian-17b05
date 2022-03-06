@@ -16,7 +16,7 @@ other2:
   features: [{"title":"极致融合","dec":["","深度融合NAS，异构，备份等为一体，效率成倍提升；免网关一体化双活，实现99.9999%高可用，保障用户业务7/24小时稳定可靠。",""]},{"title":"卓越性能","dec":["","深度闪存优化的系统设计，快速响应核心业务需求；极具灵活扩展，最大支持16控，8TB缓存，性能高达百万级IOPS。",""]},{"title":"智能云化","dec":["","通过eService实现存储设计、部署、运维全生命周期智能管理，并通过混合云方案等助力企业云化转型。",""]}]
 other3: https://e.huawei.com/cn/material/datacenter/storage/1a4f4b9a3be04fe8a6dc49ccf5b7fd34
 other4:
-  images: {"other":{"org":"other","img":["OceanStor 5000 V5.png"]}}
+  images: {"other":{"org":"other","img":["OceanStor 5000 V5.webp"]}}
 seo:
   title: 5300-5500-5600-5800-v5 | OceanStor 5000 V5系列混合闪存存储系统 | null | null | 混合闪存存储 | 数据存储
   description: '华为OceanStor 5000 V5系列是全新一代中端混合闪存存储系统，为企业提供稳定可靠，融合高效的数据服务。
@@ -42,7 +42,3 @@ seo:
       value: all
 template: product
 ---
-
-# Nulla suscipit
-
-Aliquam quis laoreet lectus. Proin non mattis nulla, quis posuere mi. Mauris venenatis, magna at pellentesque commodo, lectus risus vehicula elit, nec dignissim nisl sapien id leo. Nulla non pretium metus, vitae finibus lectus. Aliquam in posuere risus. Curabitur ultrices ornare magna porttitor commodo. Curabitur eu tempor orci, sed pretium quam. Vestibulum condimentum, arcu nec pulvinar fringilla, lorem odio varius arcu, in porta tellus eros sed neque. Suspendisse efficitur eget erat sit amet efficitur. Proin maximus nibh eu sapien consequat, non porttitor risus consequat. Donec maximus odio sed nibh convallis luctus.

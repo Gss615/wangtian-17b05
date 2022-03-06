@@ -12,7 +12,7 @@ other2:
   features: [{"title":"GPON Class B+/EPON PX20+","dec":["GPON：接收灵敏度：-27dBm\n过载光功率：GPON: -8dBm/EPON: -3dBm\nType B（单归属&双归属）\nCATV：\n工作频率：54-870 MHz\n接收的平均光功率：-8dBm至+ 2dBm"]},{"title":"智能运维","dec":["IPTV视频质量诊断（仅增强型产品支持）主动/被动流氓ONT检测和隔离\nPPPOE/DHCP仿真测试\n变长OMCI"]},{"title":"三层特性","dec":["PPPoE/静态IP/DHCP\nNAT/NAPT\n端口转发\nALG/UPnP\nDDNS/DNS server/DNS Client\nIPv6/IPv4 双栈，DS-Lite\n静态路由/默认路由\nRIPv2\n一个WAN承载多业务"]}]
 other3: null
 other4:
-  images: {"other":{"org":"other","img":["EchoLife HG8042M5.png"]}}
+  images: {"other":{"org":"other","img":["EchoLife HG8042M5.webp"]}}
 seo:
   title: echolife-hg8042m5 | EchoLife HG8042M5  | null | ONT | 光终端 | 企业光网络
   description: '华为HG8042M5定位于国内广电系统，应用于双纤三波接入场景。HG8042M5网络侧接口提供CATV和GPON/EPON方式接入，承载有线电视与互联网业务。HG8042M5用户侧口提供1GE+3FE+RF，满足千兆接入应用和CATV电视业务。有线电视业务和互联网业务分别在不同的纤芯进行传输，可以有效避免两种业务之间的相互影响，提升用户体验。'
@@ -30,7 +30,3 @@ seo:
       value: all
 template: product
 ---
-
-# Nulla suscipit
-
-Aliquam quis laoreet lectus. Proin non mattis nulla, quis posuere mi. Mauris venenatis, magna at pellentesque commodo, lectus risus vehicula elit, nec dignissim nisl sapien id leo. Nulla non pretium metus, vitae finibus lectus. Aliquam in posuere risus. Curabitur ultrices ornare magna porttitor commodo. Curabitur eu tempor orci, sed pretium quam. Vestibulum condimentum, arcu nec pulvinar fringilla, lorem odio varius arcu, in porta tellus eros sed neque. Suspendisse efficitur eget erat sit amet efficitur. Proin maximus nibh eu sapien consequat, non porttitor risus consequat. Donec maximus odio sed nibh convallis luctus.
